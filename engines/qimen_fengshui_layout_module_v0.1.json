@@ -1,0 +1,336 @@
+{
+  "$schema": "ziwei_qimen_fengshui_layout_module_v0.1",
+  "module_id": "qimen_fengshui_layout_v0.1",
+  "version": "0.1",
+  "last_updated": "2026-06-14",
+  "title": "奇門遁甲風水佈局模組（擺物件催旺化煞）— core_engine_v2.1 下游消費層",
+  "positioning": "純下游消費層：只讀 core_engine_v2.1 已定之奇門盤（局數/九宮天盤地盤門神）與 zhi_to_qimen_luoshu_mapping，依五行生剋判定催旺/化煞物件。嚴禁重算起局、嚴禁覆蓋上游 SSOT。",
+  "isolation_and_safety": {
+    "_redline": "嚴禁腦補/自創未列於本模組查表之物件、方位、五行；嚴禁跳步；查表唯一真值；未經斷言驗證禁直出。",
+    "ground_truth_sources": [
+      "core_engine_v2.1.zhi_to_qimen_luoshu_mapping（地支→九宮→方位 唯一真值）",
+      "interpretation_engine_v1.1.luoshu_9palace（九宮 element/direction/star/men 唯一真值）",
+      "本模組 static_lookup_tables（飛星定性、物件五行、礦石對應）"
+    ],
+    "upstream_dependency": "必須先由 core_engine_v2.1 完成奇門定局並輸出 per_palace（door/deity/ground_gan）；缺失即 HALT。",
+    "HALT_conditions": [
+      "奇門盤未定局或 jieqiExactTimestamp 為 NULL → HALT",
+      "目標九宮 element 查表失敗 → HALT",
+      "所求目的(intent) 不在 intent_to_door_map → HALT，要求澄清",
+      "precisionGate != PASS → FAIL_CLOSED：只輸出停止原因，嚴禁出擇方/擇物建議"
+    ],
+    "kun_5_redirect": "目標宮=5(中宮)→強制 redirect 坤二宮(index2)，沿用上游 kun_2_redirect_rule。"
+  },
+  "static_lookup_tables": {
+    "bamen_dingxing": {
+      "_source": "正統奇門八門吉凶與五行（《煙波釣叟歌》通用定性）；三吉門=開休生，三凶門=死驚傷，二中平=景杜",
+      "開門": {
+        "jixiong": "吉",
+        "wuxing": "金",
+        "yong": "事業/官運/開拓/貴人引薦"
+      },
+      "休門": {
+        "jixiong": "吉",
+        "wuxing": "水",
+        "yong": "健康/貴人/談判和合/休養"
+      },
+      "生門": {
+        "jixiong": "吉",
+        "wuxing": "土",
+        "yong": "求財/置業/生意/長期經營"
+      },
+      "景門": {
+        "jixiong": "平",
+        "wuxing": "火",
+        "yong": "文書/考試/宣傳/見光"
+      },
+      "杜門": {
+        "jixiong": "平",
+        "wuxing": "木",
+        "yong": "隱藏/技術/防護/避禍"
+      },
+      "死門": {
+        "jixiong": "凶",
+        "wuxing": "土",
+        "yong": "凶：停滯/喪病/了結；忌動"
+      },
+      "驚門": {
+        "jixiong": "凶",
+        "wuxing": "金",
+        "yong": "凶：口舌/官非/驚恐"
+      },
+      "傷門": {
+        "jixiong": "凶",
+        "wuxing": "木",
+        "yong": "凶：損傷/破財/爭鬥"
+      }
+    },
+    "bashen_dingxing": {
+      "_source": "正統奇門八神；吉神助力、凶神洩力",
+      "值符": {
+        "jixiong": "大吉",
+        "note": "最尊，諸事增力"
+      },
+      "太陰": {
+        "jixiong": "吉",
+        "note": "暗助/陰貴/謀劃"
+      },
+      "六合": {
+        "jixiong": "吉",
+        "note": "和合/婚姻/合作"
+      },
+      "九天": {
+        "jixiong": "吉",
+        "note": "揚名/遠行/高舉"
+      },
+      "九地": {
+        "jixiong": "吉",
+        "note": "穩固/守成/隱藏"
+      },
+      "螣蛇": {
+        "jixiong": "凶",
+        "note": "虛驚/纏繞/反覆"
+      },
+      "白虎": {
+        "jixiong": "凶",
+        "note": "凶傷/爭鬥/疾病"
+      },
+      "玄武": {
+        "jixiong": "凶",
+        "note": "盜失/欺瞞/暗害"
+      }
+    },
+    "wuxing_relations": {
+      "_doc": "sheng=我生(洩)/生我(扶)；ke=我剋/剋我。催旺取『生我』與『同我』；化煞取『剋我之凶』或『洩凶』",
+      "生_順序": [
+        "木",
+        "火",
+        "土",
+        "金",
+        "水"
+      ],
+      "剋_對照": {
+        "木": "土",
+        "土": "水",
+        "水": "火",
+        "火": "金",
+        "金": "木"
+      }
+    },
+    "object_wuxing_catalog": {
+      "_source": "通用風水物件五行 + IMG_1199 2026九宮飛星×奇門礦石對應全圖（用戶提供，圖文僅供參考已落地為查表）",
+      "木": [
+        "綠色植物",
+        "綠色擺設",
+        "木雕",
+        "青金石",
+        "天青石",
+        "螢石"
+      ],
+      "火": [
+        "紅色擺設",
+        "紫水晶",
+        "紅紋石",
+        "紫鋰輝",
+        "燈/光源(火屬)"
+      ],
+      "土": [
+        "陶瓷",
+        "黃水晶",
+        "金髮晶",
+        "黃鐵礦球",
+        "利比亞黃慎石",
+        "金曜石",
+        "粉水晶球"
+      ],
+      "金": [
+        "金屬擺件",
+        "白水晶球",
+        "白水晶柱",
+        "白水晶簇",
+        "黃鐵礦球(金土兼)"
+      ],
+      "水": [
+        "流水/魚缸",
+        "黑曜石",
+        "黑碧璽",
+        "茶晶",
+        "透石膏"
+      ]
+    },
+    "annual_flying_star_2026": {
+      "_source": "IMG_1199《2026九宮飛星×奇門礦石對應全圖》Luna's Astral Code（用戶提供，全量落地）",
+      "_year_lock": "2026丙午；飛星逐年變，換年必更新本表，否則 HALT",
+      "東北": {
+        "star": "四綠文昌",
+        "jixiong": "大吉",
+        "wei": "文昌位",
+        "yong": "讀書考試/策劃/品牌創作",
+        "stones": [
+          "青金石",
+          "天青石",
+          "螢石"
+        ]
+      },
+      "正東": {
+        "star": "八白左輔",
+        "jixiong": "大吉",
+        "wei": "正財位/2026主財位",
+        "yong": "正財置業/生意旺",
+        "stones": [
+          "黃鐵礦球",
+          "利比亞黃慎石",
+          "金曜石"
+        ]
+      },
+      "東南": {
+        "star": "九紫右弼",
+        "jixiong": "大吉",
+        "wei": "喜慶位",
+        "yong": "喜慶名聲/桃花宜婚/財隨喜來",
+        "stones": [
+          "紅紋石",
+          "紫鋰輝",
+          "紫水晶"
+        ]
+      },
+      "正北": {
+        "star": "六白武曲",
+        "jixiong": "小吉",
+        "wei": "偏財位",
+        "yong": "事業升職/權威偏財/領導財旺",
+        "stones": [
+          "黃水晶",
+          "金髮晶",
+          "黃鐵礦球"
+        ]
+      },
+      "中宮": {
+        "star": "一白貪狼",
+        "jixiong": "小吉",
+        "wei": "桃花位",
+        "yong": "智慧桃花/人緣機遇",
+        "stones": [
+          "紫水晶",
+          "粉水晶球"
+        ]
+      },
+      "正西": {
+        "star": "三碧祿存",
+        "jixiong": "小凶",
+        "wei": "是非位",
+        "yong": "口舌是非/合作不順",
+        "stones": [
+          "青金石",
+          "白水晶球",
+          "黑曜石"
+        ]
+      },
+      "西南": {
+        "star": "七赤破軍",
+        "jixiong": "小凶",
+        "wei": "破財位",
+        "yong": "破財口舌/防小人",
+        "stones": [
+          "黑曜石",
+          "茶晶",
+          "白水晶柱"
+        ]
+      },
+      "西北": {
+        "star": "二黑巨門",
+        "jixiong": "大凶",
+        "wei": "病符位",
+        "yong": "疾病阻滯/慢性病",
+        "stones": [
+          "黑碧璽",
+          "白水晶簇",
+          "透石膏"
+        ]
+      },
+      "正南": {
+        "star": "五黃廉貞",
+        "jixiong": "絕對禁區",
+        "wei": "五黃位",
+        "yong": "災禍意外/血光大凶/切勿擺設",
+        "stones": [
+          "黑碧璽陣",
+          "黑曜石雕刻"
+        ],
+        "forbidden": true
+      }
+    }
+  },
+  "intent_to_door_map": {
+    "_source": "維基/正統：求財→生門；事業官運→開門；健康貴人→休門",
+    "求財": "生門",
+    "置業": "生門",
+    "生意": "生門",
+    "經營": "生門",
+    "事業": "開門",
+    "官運": "開門",
+    "開拓": "開門",
+    "貴人引薦": "開門",
+    "健康": "休門",
+    "貴人": "休門",
+    "和合": "休門",
+    "談判": "休門",
+    "休養": "休門",
+    "考試": "景門",
+    "文書": "景門",
+    "宣傳": "景門"
+  },
+  "execution_flow": {
+    "step1_gate": {
+      "do": "檢查 precisionGate；!=PASS → FAIL_CLOSED 終止，只列停止原因。",
+      "verify": "precisionGate==PASS"
+    },
+    "step2_read_chart": {
+      "do": "讀 core_engine_v2.1 已輸出之奇門盤 per_palace（9宮 door/deity/ground_gan）。",
+      "verify": "9宮齊全且 jieqiExactTimestamp 非空，否則 HALT"
+    },
+    "step3_locate_jimen": {
+      "do": "由 intent → intent_to_door_map 取目標吉門 → 於盤中定位該門落宮(palace_num)。中宮5→redirect坤2。",
+      "verify": "目標門存在於盤面；門落宮∈1..9"
+    },
+    "step4_palace_element": {
+      "do": "查 luoshu_9palace[palace_num].element 取該宮五行（唯一真值，禁自判）。",
+      "verify": "element∈{木火土金水}"
+    },
+    "step5_annual_overlay": {
+      "do": "以 palace direction 疊加 annual_flying_star_2026[direction]；若 forbidden==True(正南五黃)→強制禁止任何擺設，輸出紅色警戒。",
+      "verify": "若 forbidden 命中 → 不出催旺物件，只出化煞/迴避建議"
+    },
+    "step6_select_objects": {
+      "do_催旺": "催旺：取『生 palace_element 之物件』(生我)或『同 palace_element 之物件』。例：生門艮宮土→擺火屬(火生土)或土屬物件。查 object_wuxing_catalog + annual_flying_star stones。",
+      "do_化煞": "化煞：若該宮 door∈三凶門 或 飛星∈凶/大凶，取『剋該宮凶五行』或『洩凶』之物件(用 wuxing_relations.剋_對照)，並降溫提示。",
+      "verify": "選出物件之五行關係必經 wuxing_relations 程序判定，禁LLM口算"
+    },
+    "step7_self_check": [
+      "☐ 方位/五行/物件是否全部來自查表，無一腦補？",
+      "☐ 正南五黃是否已強制禁區、未出任何擺設？",
+      "☐ 生剋判定是否經 wuxing_relations 程序、非口算？",
+      "☐ precisionGate!=PASS 是否已 fail-closed？",
+      "☐ 年度飛星是否鎖定 2026、換年提示更新？",
+      "☐ 凶門宮位是否只出化煞、未誤標催旺？"
+    ]
+  },
+  "output_contract": {
+    "per_recommendation": [
+      "intent",
+      "target_door",
+      "palace_num",
+      "palace_name",
+      "direction",
+      "palace_element",
+      "annual_star",
+      "annual_jixiong",
+      "action(催旺|化煞|禁區迴避)",
+      "objects[]",
+      "wuxing_logic",
+      "risk_note"
+    ],
+    "forbidden_zone_rule": "正南五黃位：action=禁區迴避，objects=[]，risk_note=『血光大凶，切勿擺設動土』"
+  },
+  "closing_tag": "奇門風水佈局模組 v0.1｜純下游消費層｜查表唯一真值｜五黃絕對禁區｜五行生剋程序判定｜precisionGate fail-closed｜2026飛星鎖定"
+}

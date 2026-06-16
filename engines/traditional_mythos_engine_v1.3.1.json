@@ -1,0 +1,607 @@
+{
+  "$schema": "ziwei_qimen_interpretation_engine.traditional_mythos_engine.v1.3.1",
+  "engine_name": "traditional_mythos_engine",
+  "version": "1.3.1",
+  "archetype": "Classical Master",
+  "positioning": {
+    "core_principle": "還原古典命理的宏觀視野與宿命張力，專注於定格、定性、定數。",
+    "scope": "只負責純正統、傳統格局、傳統敘事輸出；不輸出現代心理學、產品化行動語言或機率化詞彙。",
+    "double_engine_role": "與另一顆對立風格解盤處理器並行運算；本引擎專司古典格局、氣數、宿命張力與德行勸誡。"
+  },
+  "input_interface": {
+    "required_data": [
+      "birth_chart",
+      "five_layer_transformations",
+      "qimen_palace_status"
+    ],
+    "optional_data": [
+      "decade_fortune",
+      "annual_fortune",
+      "doujun_flow_month",
+      "interpretation_context",
+      "flow_month_palace_axis",
+      "leap_month_rule_mode"
+    ],
+    "binding_contract": {
+      "birth_chart": {
+        "required_fields": [
+          "minggong_zhi_idx",
+          "shengong_zhi_idx",
+          "principal_stars_14",
+          "auxiliary_star_positions",
+          "mingzhu_star",
+          "shenzhu_star",
+          "wuxing_ju_number",
+          "minggong_ganzhi",
+          "star_strength_table_ref",
+          "principal_star_source_ref",
+          "auxiliary_star_source_table_refs",
+          "sihua_version_lock"
+        ]
+      },
+      "five_layer_transformations": {
+        "required_fields": [
+          "natal_sihua",
+          "decade_sihua",
+          "annual_sihua",
+          "energy_density",
+          "blind_spot"
+        ]
+      },
+      "qimen_palace_status": {
+        "required_fields": [
+          "qimen_dun_type",
+          "qimen_ju_number",
+          "zhifu_star",
+          "zhishi_door",
+          "tianpan_star_allocation",
+          "renpan_door_allocation",
+          "shenpan_deity_allocation",
+          "final_qimen_board",
+          "kun_2_redirect_rule",
+          "qimen_ju_source",
+          "current_jieqi_exact_timestamp"
+        ]
+      }
+    }
+  },
+  "execution_position": {
+    "upstream_required_engines": [
+      "ziwei_qimen_traditional_core_engine_v2.0.json",
+      "ziwei_qimen_full_compute_flow_v1.4.json"
+    ],
+    "consume_only_verified_core_outputs": true,
+    "forbid_direct_formula_inference": true,
+    "forbid_freehand_json_fabrication": true,
+    "fail_closed": true,
+    "no_todo_allowed": true
+  },
+  "translation_layer": {
+    "purpose": "把現代橋接層數值欄位轉回古典命理話語，不改動底層真值。",
+    "field_translation_rules": {
+      "energy_density": {
+        "traditional_alias": "氣數/氣象/乘旺得令",
+        "bands": {
+          "0_29": "氣運對沖，群煞交會，四化沖破，宜深居簡出、蓄德避禍。",
+          "30_49": "氣數未穩，進退多阻，吉中藏憂，不宜躁進。",
+          "50_69": "氣機平平，得失參半，可守可為，須擇時而動。",
+          "70_84": "氣勢漸旺，吉曜可用，若得時位，可謀進取。",
+          "85_100": "乘旺得令，氣象萬千，如日中天，宜乘時建功。"
+        }
+      },
+      "blind_spot": {
+        "traditional_alias": "凶格/沖破/明吉暗凶/吉處藏凶",
+        "mapping_logic": {
+          "high_energy_not_best_action_point": "旺處未必可用，恐是虛名之地，宜防明吉暗凶。",
+          "false_harmony": "表面和順，內裡刑沖，屬和中藏煞。",
+          "suppressed_domain": "該宮受制，氣弱逢剋，屬吉處受困。",
+          "asymmetry_accumulation": "偏枯失衡，一宮獨旺，多主他宮受損。"
+        }
+      }
+    },
+    "verified_source_locks": {
+      "minggong_formula_lock": "ZW-MSG-001",
+      "shengong_formula_lock": "ZW-SHG-001",
+      "wuhudun_formula_lock": "ZW-WHD-001",
+      "wuxingju_lookup_lock": "ZW-WXJ-001",
+      "ziwei_lookup_lock": "ZW-ZW-001",
+      "tianfu_mirror_lock": "ZW-TF-001",
+      "principal14_offset_lock": "ZW-14-001",
+      "auxiliary_lookup_lock": "ZW-AUX-001",
+      "brightness_lookup_lock": "ZW-BRT-001",
+      "sihua_lookup_lock": "ZW-SH-001",
+      "dalian_lock": "ZW-DL-001",
+      "xiaoxian_lock": "ZW-XL-001",
+      "taisui_lock": "DJ-TS-001",
+      "doujun_lock": "DJ-DJ-001",
+      "flowmonth_lock": "DJ-FM-001",
+      "leap_month_rule_lock": "DJ-LM-001",
+      "xunshou_lock": "QM-XS-001",
+      "sanyuan_lock": "QM-SY-001",
+      "ju_lookup_lock": "QM-JU-001",
+      "dipan_lock": "QM-DP-001",
+      "zhifu_zhishi_lock": "QM-ZF-001",
+      "kun2_lock": "QM-K2-001",
+      "final_board_lock": "QM-BD-001",
+      "jieqi_timestamp_lock": "QM-JQ-001"
+    }
+  },
+  "pattern_scanning_layer": {
+    "classical_framework_library": {
+      "grade_A_patterns": [
+        "紫府同宮格",
+        "極向離明格",
+        "日出扶桑格",
+        "將星得地格"
+      ],
+      "grade_B_patterns": [
+        "機月同梁格",
+        "日月同梁格",
+        "武曲守財格",
+        "廉府同宮格",
+        "殺破狼格"
+      ],
+      "sha_patterns": [
+        "鈴昌陀武",
+        "巨火羊",
+        "生不逢時",
+        "馬頭帶劍",
+        "日月反背",
+        "空宮借良"
+      ]
+    },
+    "pattern_definition_table": {
+      "紫府同宮格": {
+        "source_pattern_id": "zifutonggong",
+        "trigger": "紫微與天府同宮",
+        "grade": "A",
+        "classical_meaning": "主尊貴權柄、財祿豐厚、得位則名高責重。",
+        "break_conditions": [
+          "煞忌重疊",
+          "空劫夾破",
+          "四化沖破"
+        ]
+      },
+      "極向離明格": {
+        "source_pattern_id": "ji_xiang_liming_custom",
+        "trigger": "太陽得令於巳午未等明位，且核心宮位得輔佐",
+        "grade": "A",
+        "classical_meaning": "光明顯達，名聲外揚，宜仕途、公職、領眾。",
+        "break_conditions": [
+          "太陽陷弱",
+          "忌煞同纏",
+          "命官失守"
+        ]
+      },
+      "日出扶桑格": {
+        "source_pattern_id": "richu_fusang_custom",
+        "trigger": "太陽居卯辰巳等升明位，兼得吉曜扶持",
+        "grade": "A",
+        "classical_meaning": "主少年奮發、開創揚名、外顯之運易起。",
+        "break_conditions": [
+          "日月反背",
+          "羊陀火鈴交會",
+          "命遷失援"
+        ]
+      },
+      "將星得地格": {
+        "source_pattern_id": "jiangxing_dedi_custom",
+        "trigger": "七殺、破軍、武曲或廉貞等將曜得廟旺守要宮",
+        "grade": "A",
+        "classical_meaning": "有權柄、有斷力、有統御之象；成則權重，敗則傾危。",
+        "break_conditions": [
+          "孤克太重",
+          "刑忌交攻",
+          "福德不載"
+        ]
+      },
+      "機月同梁格": {
+        "source_pattern_id": "jiyuetongliang",
+        "trigger": "天機、太陰、天梁分布於官祿/財帛/遷移等要宮",
+        "grade": "B",
+        "classical_meaning": "主名聲、策畫、服務、口碑之福。",
+        "break_conditions": [
+          "太陰失輝",
+          "梁機化忌",
+          "煞沖三方"
+        ]
+      },
+      "日月同梁格": {
+        "source_pattern_id": "riyuetongliang",
+        "trigger": "太陽、太陰、天梁核心宮位互拱且明度足",
+        "grade": "B",
+        "classical_meaning": "主公眾評價、名譽、清望。",
+        "break_conditions": [
+          "日月反背",
+          "陷地無輔",
+          "忌煞夾制"
+        ]
+      },
+      "武曲守財格": {
+        "source_pattern_id": "wuqushoucai",
+        "trigger": "武曲守財帛且廟旺",
+        "grade": "B",
+        "classical_meaning": "善守財、精於理財、重實利。",
+        "break_conditions": [
+          "空劫同臨",
+          "化忌入財",
+          "陀武相纏"
+        ]
+      },
+      "廉府同宮格": {
+        "source_pattern_id": "lianfutonggong",
+        "trigger": "廉貞與天府同宮",
+        "grade": "B",
+        "classical_meaning": "權祿相資，宜仕宜商。",
+        "break_conditions": [
+          "廉貞化忌",
+          "桃花煞過重",
+          "刑耗同來"
+        ]
+      },
+      "殺破狼格": {
+        "source_pattern_id": "shapolang",
+        "trigger": "七殺、破軍、貪狼分佈命財官等關鍵宮位",
+        "grade": "B",
+        "classical_meaning": "主變動、開創、破舊立新。",
+        "break_conditions": [
+          "根基太弱",
+          "煞重無制",
+          "吉曜不扶"
+        ]
+      },
+      "鈴昌陀武": {
+        "source_pattern_id": "lingchangtuowu",
+        "trigger": "鈴星、文昌、陀羅、武曲聚於三方四正或同會",
+        "grade": "SHA",
+        "classical_meaning": "主是非、財務波折、文書失誤、刀筆之憂。",
+        "break_conditions": []
+      },
+      "巨火羊": {
+        "source_pattern_id": "juhuoqingyang",
+        "trigger": "巨門、火星、擎羊同宮或三方會聚",
+        "grade": "SHA",
+        "classical_meaning": "主口舌、官非、衝突、硬碰硬。",
+        "break_conditions": []
+      },
+      "生不逢時": {
+        "source_pattern_id": "shengbufengshi_custom",
+        "trigger": "主星陷弱且大限流年同來沖破",
+        "grade": "SHA",
+        "classical_meaning": "主時位不濟，才有而不得其用。",
+        "break_conditions": []
+      },
+      "馬頭帶劍": {
+        "source_pattern_id": "matoudaijian_custom",
+        "trigger": "擎羊守午或馬地受煞而帶兵刃性星曜",
+        "grade": "SHA",
+        "classical_meaning": "主剛決、奔波、血光、險中求成。",
+        "break_conditions": []
+      },
+      "日月反背": {
+        "source_pattern_id": "riyuefanbei",
+        "trigger": "太陽太陰於核心宮位皆失輝弱陷",
+        "grade": "SHA",
+        "classical_meaning": "主助力不顯，外緣不足，內心多耗。",
+        "break_conditions": []
+      },
+      "空宮借良": {
+        "source_pattern_id": "konggongjieliang",
+        "trigger": "目標宮無主星，須借對宮與三方吉曜解讀",
+        "grade": "SHA",
+        "classical_meaning": "主本宮氣虛，賴外援成局。",
+        "break_conditions": []
+      }
+    },
+    "dynamic_interference_translation": {
+      "energy_density_85_100": "乘旺得令，氣象萬千，如日中天，宜乘時建功。",
+      "energy_density_70_84": "吉曜高照，時位漸成，可謀進取，然仍須守序而行。",
+      "energy_density_50_69": "氣象中和，得失參半，宜審局而動，不可妄進。",
+      "energy_density_30_49": "氣數受抑，阻滯時見，雖有可為，仍多牽制。",
+      "energy_density_0_29": "氣運對沖，群煞交會，四化沖破，宜深居簡出、蓄德避禍。"
+    },
+    "classical_interference_translation": {
+      "bright_surface_hidden_risk": "明吉暗凶，表和內乖。",
+      "auspicious_structure_broken_by_sha": "吉格逢煞，格局沖破。",
+      "sha_can_be_redeemed": "煞中有救，終賴德行與時位轉圜。",
+      "qi_low_but_supported": "本氣雖弱，尚得三方扶持，未至傾覆。"
+    },
+    "consume_only_verified_core_outputs": true,
+    "forbid_recompute": true,
+    "source_trace_required": [
+      "star_strength_table_ref",
+      "principal_star_source_ref",
+      "auxiliary_star_source_table_refs",
+      "sihua_version_lock"
+    ]
+  },
+  "qimen_outer_response_translation": {
+    "purpose": "將奇門九宮、八門、星門五行生剋轉譯為傳統外應文字。",
+    "element_relation_rules": {
+      "same_element": "氣機相應，外境順手，所求易應。",
+      "generate_target": "外應有助，漸得扶持，可徐圖之。",
+      "target_generates_other": "自耗其氣，勞而後成，不宜久戰。",
+      "control_target": "出路遇阻，驚憂相隨，須防強壓與阻隔。",
+      "target_controls_other": "可制其難，但用力過甚亦傷自身。"
+    },
+    "gate_translation": {
+      "休門": "休養、生息、修整、回氣。",
+      "生門": "生發、進財、開源、增益。",
+      "傷門": "碰撞、受損、口舌、衝突。",
+      "杜門": "阻隔、封閉、滯礙、難通。",
+      "景門": "名聲、表象、文書、曝光。",
+      "死門": "停滯、衰敗、閉塞、暗耗。",
+      "驚門": "驚憂、反覆、波動、突發。",
+      "開門": "開展、啟動、見官、契約。"
+    },
+    "classical_response_templates": {
+      "metal_controls_wood": "金剋木，主出路遇阻，驚憂相隨，若有吉曜扶助，終得貴人化解。",
+      "wood_controls_earth": "木剋土，主根基受擾，宜先疏導後推進。",
+      "water_controls_fire": "水剋火，主名勢受抑，宜收斂聲光。",
+      "fire_controls_metal": "火剋金，主爭鋒太露，易招折損。",
+      "earth_controls_water": "土剋水，主路徑壅塞，消息不通。"
+    }
+  },
+  "narrative_output_layer": {
+    "style_guide": {
+      "tone": "古典、宏觀、宿命感、點撥式、帶德行勸誡",
+      "forbidden_words": [
+        "蒙地卡羅",
+        "機率",
+        "分數",
+        "密度",
+        "盲點偵測",
+        "系統反噬",
+        "優化",
+        "反饋",
+        "演算法優勢",
+        "產品策略",
+        "實驗組",
+        "閉環",
+        "增長飛輪",
+        "成功率"
+      ],
+      "mandatory_phrases": [
+        "命書云",
+        "格局高亢",
+        "名高責重",
+        "多舛波折",
+        "恐有傾覆之虞",
+        "得貴人引路"
+      ],
+      "classical_lexicon_whitelist": [
+        "氣數",
+        "廟旺",
+        "陷弱",
+        "乘旺得令",
+        "三方四正",
+        "沖破",
+        "格局",
+        "造化",
+        "時位",
+        "德行",
+        "貴人",
+        "煞曜",
+        "刑沖",
+        "福德",
+        "祿權科忌",
+        "名器",
+        "根基",
+        "外應"
+      ]
+    },
+    "interpretation_template": {
+      "structure": [
+        "【一、格局乾坤】",
+        "【二、氣運推移】",
+        "【三、吉凶藏機】",
+        "【四、趨吉避凶】"
+      ],
+      "logic": "以本命格局為骨，大限流年為肉。著重於德行、宿命、造化與時位。允許使用宏觀、帶有宿命感與點撥式的古典修辭。"
+    },
+    "section_contracts": {
+      "【一、格局乾坤】": {
+        "must_include": [
+          "主格局",
+          "破格因素",
+          "命主/身主",
+          "三方四正支撐"
+        ],
+        "must_avoid": [
+          "數值分數",
+          "現代人格語言"
+        ]
+      },
+      "【二、氣運推移】": {
+        "must_include": [
+          "大限",
+          "流年",
+          "必要時流月",
+          "氣數轉折點"
+        ],
+        "must_avoid": [
+          "未標記層級的混盤解讀"
+        ]
+      },
+      "【三、吉凶藏機】": {
+        "must_include": [
+          "吉處藏凶",
+          "凶中有救",
+          "奇門外應",
+          "潛在傾覆點"
+        ],
+        "must_avoid": [
+          "只講吉不講凶",
+          "只講凶不講救"
+        ]
+      },
+      "【四、趨吉避凶】": {
+        "must_include": [
+          "修德",
+          "守時",
+          "避鋒",
+          "借力",
+          "一個具體下一步"
+        ],
+        "must_avoid": [
+          "空泛鼓勵",
+          "過度確定的世俗承諾"
+        ]
+      }
+    }
+  },
+  "execution_pipeline": {
+    "pipeline_name": "traditional_mythos_pipeline",
+    "serial_order": [
+      "P00_line_by_line_literature_audit",
+      "P00A_json_field_mapping_audit",
+      "P00B_sandbox_enumeration_gate",
+      "P01_validate_verified_inputs",
+      "P02_load_classical_pattern_tables",
+      "P03_scan_ziwei_natal_patterns",
+      "P04_scan_sha_break_patterns",
+      "P05_translate_energy_density_to_qishu",
+      "P06_translate_blindspot_to_classical_risk",
+      "P07_apply_sihua_classical_weighting",
+      "P08_integrate_decade_annual_flow",
+      "P09_translate_qimen_outer_response",
+      "P10_compose_classical_sections",
+      "P11_enforce_style_forbidden_words",
+      "P12_emit_traditional_report"
+    ],
+    "blocks": {
+      "P01_validate_verified_inputs": {
+        "purpose": "只接受已由 v2.0 核心引擎驗證過的命盤資料。",
+        "checks": [
+          "birth_chart.principal_stars_14 must contain 14 stars",
+          "birth_chart.mingzhu_star and shenzhu_star must come from static lookup tables",
+          "five_layer_transformations.energy_density must be integer 0-100",
+          "qimen_palace_status must contain zhifu_star and zhishi_door"
+        ],
+        "fail_closed": true
+      },
+      "P02_load_classical_pattern_tables": {
+        "purpose": "載入本引擎內建古典格局/煞格對照表，禁止從外部臨時生成。"
+      },
+      "P03_scan_ziwei_natal_patterns": {
+        "purpose": "依本命十四主星、廟旺、三方四正掃描成格。",
+        "outputs": [
+          "active_grade_A_patterns",
+          "active_grade_B_patterns"
+        ]
+      },
+      "P04_scan_sha_break_patterns": {
+        "purpose": "掃描煞格、沖破、空借、吉處藏凶。",
+        "outputs": [
+          "active_sha_patterns",
+          "break_conditions"
+        ]
+      },
+      "P05_translate_energy_density_to_qishu": {
+        "purpose": "將 energy_density 轉譯為氣數強弱，不直接暴露數值詞。",
+        "outputs": [
+          "classical_qishu_text",
+          "qishu_band"
+        ]
+      },
+      "P06_translate_blindspot_to_classical_risk": {
+        "purpose": "將 blind_spot 轉譯為明吉暗凶、吉處藏凶、偏枯失衡等古典表述。",
+        "outputs": [
+          "classical_hidden_risk_text"
+        ]
+      },
+      "P07_apply_sihua_classical_weighting": {
+        "purpose": "以本命/大限/流年四化層級評估吉凶加權。",
+        "rules": [
+          "本命層為骨",
+          "大限層為勢",
+          "流年層為應",
+          "若化忌入命財官核心位，凶意上升一級",
+          "若祿權科連動且得廟旺，吉意上升一級"
+        ],
+        "outputs": [
+          "classical_sihua_summary"
+        ]
+      },
+      "P08_integrate_decade_annual_flow": {
+        "purpose": "把大限流年流月編入古典氣運段，不篡改本命格局主軸。",
+        "outputs": [
+          "fortune_axis_summary"
+        ]
+      },
+      "P09_translate_qimen_outer_response": {
+        "purpose": "把九宮八門五行生剋譯為傳統外應。",
+        "outputs": [
+          "classical_qimen_response"
+        ]
+      },
+      "P10_compose_classical_sections": {
+        "purpose": "依四段結構生成古典敘事。",
+        "outputs": [
+          "section_1",
+          "section_2",
+          "section_3",
+          "section_4"
+        ]
+      },
+      "P11_enforce_style_forbidden_words": {
+        "purpose": "檢查是否含禁用詞；若含禁用詞，強制重寫。",
+        "outputs": [
+          "style_gate_status"
+        ]
+      },
+      "P12_emit_traditional_report": {
+        "purpose": "輸出最終古典格局解盤文本與中繼結構化資料。",
+        "outputs": [
+          "structured_findings",
+          "traditional_narrative_text",
+          "next_action"
+        ]
+      },
+      "P00_line_by_line_literature_audit": {
+        "purpose": "逐條對照《全書》原文、古訣與核心檔公式鎖。",
+        "fail_closed": true
+      },
+      "P00A_json_field_mapping_audit": {
+        "purpose": "逐條對照輸入欄位與 SSOT / full compute flow 欄位。",
+        "fail_closed": true
+      },
+      "P00B_sandbox_enumeration_gate": {
+        "purpose": "以全量枚舉測試結果作為生成前置閘門，未通過則 HALT。",
+        "fail_closed": true
+      }
+    }
+  },
+  "output_schema": {
+    "structured_findings": {
+      "pattern_grade": "A|B|SHA|MIXED",
+      "active_patterns": [
+        "string"
+      ],
+      "broken_patterns": [
+        "string"
+      ],
+      "qishu_band": "0_29|30_49|50_69|70_84|85_100",
+      "classical_qishu_text": "string",
+      "classical_hidden_risk_text": "string",
+      "classical_qimen_response": "string"
+    },
+    "traditional_narrative_text": {
+      "section_1": "【一、格局乾坤】...",
+      "section_2": "【二、氣運推移】...",
+      "section_3": "【三、吉凶藏機】...",
+      "section_4": "【四、趨吉避凶】..."
+    },
+    "next_action": "一個具體的下一步行動"
+  },
+  "safety_assertions": {
+    "A1": "不得自行推導命主/身主/四化矩陣/納音局數。",
+    "A2": "不得把 energy_density 原值直接說成分數或密度。",
+    "A3": "不得使用現代產品化、概率化、心理學化語彙覆蓋古典敘事。",
+    "A4": "若格局與煞格並見，必須同時陳述成局與破局，不得單面敘述。",
+    "A5": "若奇門外應與紫微本命相左，必須標記為時位不濟或外境受阻，不得硬湊同向結論。",
+    "A6": "不得重算命宮、身宮、五行局、紫微、天府、十四主星、斗君、奇門局數。",
+    "A7": "若 current_jieqi_exact_timestamp、kun_2_redirect_rule、sihua_version_lock、leap_month_rule_mode 任一缺失，立即 HALT。",
+    "A8": "任何留白、TODO、未定義口訣或無來源副曜定位，不得進入生產輸出。"
+  }
+}

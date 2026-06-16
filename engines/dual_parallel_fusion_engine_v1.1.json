@@ -1,0 +1,344 @@
+{
+  "$schema": "ziwei_qimen_interpretation_engine.dual_parallel_fusion_engine.v1.1",
+  "engine_name": "dual_parallel_fusion_engine",
+  "version": "1.1.0",
+  "archetype": "Parallel Dual-Track Unified Interpreter",
+  "positioning": {
+    "core_principle": "不要求使用者選擇傳統或現代引擎；同一份標準化命盤矩陣進入後，雙軌同時運算，最終自動縫合為單一報告。",
+    "scope": "統一資料接口、平行調度 traditional_mythos_engine 與 modern_quantum_resonance_engine、輸出單一綜合報告。",
+    "design_goal": "達成免切換、免選擇、單入口、雙結果、單報告。"
+  },
+  "engine_dependencies": {
+    "required": [
+      "traditional_mythos_engine_v1.3.1.json",
+      "modern_quantum_resonance_engine_v2.1.json",
+      "ziwei_qimen_interpretation_engine_v1.0.json",
+      "ziwei_qimen_full_compute_flow_v1.4.json"
+    ],
+    "shared_reference_contracts": [
+      "ziweiqimeninterfacecontractv1",
+      "dualtrackcollisionworkflow",
+      "ziweiqimenbridgelayer",
+      "narrativeoutputenginev2"
+    ]
+  },
+  "data_normalization_layer": {
+    "purpose": "把用戶輸入的生辰或既有命盤，統一轉譯為可供雙引擎同時使用的標準化 JSON 矩陣。",
+    "accepted_input_types": [
+      "raw_birth_datetime_and_location",
+      "precomputed_birth_chart",
+      "partial_chart_with_qimen_context"
+    ],
+    "normalized_matrix_name": "dual_engine_standardized_matrix",
+    "normalized_matrix": {
+      "required_blocks": [
+        "identity_snapshot",
+        "birth_chart",
+        "five_layer_transformations",
+        "spacetime_physical_coordinates",
+        "qimen_palace_status",
+        "shared_bridge_fields"
+      ],
+      "identity_snapshot": {
+        "required_fields": [
+          "calendar_system",
+          "solar_datetime",
+          "lunar_datetime",
+          "true_solar_datetime",
+          "city",
+          "timezone",
+          "precision_gate",
+          "calendar_crosscheck_status",
+          "current_jieqi_exact_timestamp"
+        ]
+      },
+      "birth_chart": {
+        "required_fields": [
+          "minggong_zhi_idx",
+          "shengong_zhi_idx",
+          "twelve_palace_star_map",
+          "principal_stars_14",
+          "auxiliary_star_positions",
+          "star_brightness_states",
+          "empty_palace_flags",
+          "opposite_palace_support_map",
+          "mingzhu_star",
+          "shenzhu_star",
+          "wuxing_ju_number",
+          "principal_star_source_ref",
+          "auxiliary_star_source_table_refs",
+          "sihua_version_lock"
+        ]
+      },
+      "five_layer_transformations": {
+        "required_fields": [
+          "natal_sihua",
+          "decade_sihua",
+          "annual_sihua",
+          "monthly_sihua",
+          "daily_sihua",
+          "energy_density",
+          "collision_score",
+          "decision_band",
+          "blind_spot_flags"
+        ]
+      },
+      "spacetime_physical_coordinates": {
+        "required_fields": [
+          "current_solar_term",
+          "next_solar_term",
+          "yuan",
+          "ju_number",
+          "dun_type",
+          "hour_zhi",
+          "day_ganzhi",
+          "month_ganzhi",
+          "target_direction",
+          "target_domain",
+          "current_jieqi_exact_timestamp",
+          "leap_month_rule_mode"
+        ]
+      },
+      "qimen_palace_status": {
+        "required_fields": [
+          "nine_palace_layout",
+          "zhifu_star",
+          "zhishi_door",
+          "door_element_map",
+          "palace_element_map",
+          "shenpan_deity_allocation",
+          "tianpan_star_allocation",
+          "renpan_door_allocation"
+        ]
+      },
+      "shared_bridge_fields": {
+        "required_fields": [
+          "mapped_qimen_palace",
+          "mapped_direction",
+          "five_element_relation",
+          "gate_multiplier",
+          "timing_modifier",
+          "zhi_to_qimen_palace_map",
+          "kun_2_redirect_rule",
+          "bridge_source_lock"
+        ]
+      }
+    },
+    "normalization_rules": {
+      "R1": "若輸入為生辰，必先完成曆法換算與真太陽時校準，再生成命盤矩陣。",
+      "R2": "若輸入已是命盤，不得重算既有靜態 lookup 結果，只補齊缺失欄位。",
+      "R3": "所有時間層資料必須綁定同一 canonical snapshot。",
+      "R4": "地支、宮位、時空映射一律沿用已驗證核心引擎索引，不得另起一套。",
+      "R5": "紫微12地支宮與奇門9宮映射必須由 zhi_to_qimen_palace_map 靜態提供，不得臨時推導。"
+    }
+  },
+  "parallel_processing_pipeline": {
+    "architecture_type": "parallel_async_dual_track",
+    "execution_contract": {
+      "single_input": "dual_engine_standardized_matrix",
+      "parallel_targets": [
+        "traditional_mythos_engine",
+        "modern_quantum_resonance_engine"
+      ],
+      "synchronization_point": "fusion_layer_after_both_tracks_complete",
+      "fail_policy": "fail_closed_if_any_track_missing_or_unverified"
+    },
+    "pipeline_steps": [
+      {
+        "step": "P1",
+        "op": "normalize",
+        "desc": "將原始輸入轉為 dual_engine_standardized_matrix。"
+      },
+      {
+        "step": "P2A",
+        "op": "dispatch",
+        "desc": "載入 traditional_mythos_engine.json 並輸出正統命理演繹。"
+      },
+      {
+        "step": "P2B",
+        "op": "dispatch",
+        "desc": "載入 modern_quantum_resonance_engine.json 並輸出現代決策與反噬壓測。"
+      },
+      {
+        "step": "P3",
+        "op": "wait_all",
+        "desc": "等待雙軌結果完成。"
+      },
+      {
+        "step": "P4",
+        "op": "fuse",
+        "desc": "依統一模板縫合為單一報告。"
+      },
+      {
+        "step": "P5",
+        "op": "emit",
+        "desc": "輸出雙重維度綜合報告與 next action。"
+      },
+      {
+        "step": "P3A",
+        "op": "verify_bridge",
+        "desc": "校驗 zhi_to_qimen_palace_map、kun_2_redirect_rule、current_jieqi_exact_timestamp 與 leap_month_rule_mode。"
+      }
+    ],
+    "parallel_output_contract": {
+      "track_A": {
+        "engine": "traditional_mythos_engine",
+        "required_outputs": [
+          "structured_findings",
+          "traditional_narrative_text",
+          "next_action"
+        ]
+      },
+      "track_B": {
+        "engine": "modern_quantum_resonance_engine",
+        "required_outputs": [
+          "structured_findings",
+          "narrative_text",
+          "mitigation_protocol",
+          "next_action"
+        ]
+      }
+    }
+  },
+  "fusion_layer": {
+    "purpose": "把傳統敘事軌與現代風險軌縫合為單一最終報告，不要求使用者做模式切換。",
+    "fusion_rules": {
+      "F1": "先驗證雙軌均來自 verified core outputs；任何一軌未驗證即 HALT。",
+      "F2": "先輸出傳統卷，再輸出現代卷。",
+      "F3": "傳統卷不得被現代分數語言污染。",
+      "F4": "現代卷不得被古典吉凶修辭污染。",
+      "F5": "若雙軌對同一宮域結論方向相反，保留兩者並加註視角差異與底層依據。",
+      "F6": "若 Track B 偵測 space_lock=True，必須在最終報告保留獨立段落。",
+      "F7": "若 Track A 掃描到成格且破格並見，必須在卷一同時呈現。",
+      "F8": "若 Track 缺失、依賴缺失、映射缺失或時間戳缺失，立即 HALT，不得 soft degrade。"
+    },
+    "cross_track_conflict_policy": {
+      "pattern": "tradition_positive_modern_negative",
+      "resolution": "標記為表層成局、執行受阻",
+      "evidence_gate": "must cite both verified track findings and shared bridge fields"
+    },
+    "cross_track_alignment_policy": {
+      "pattern": "tradition_warning_modern_warning",
+      "resolution": "升級為高一致性風險提示"
+    }
+  },
+  "unified_combined_response_template": {
+    "report_title": "☯️ 雙重維度·命理與系統決策報告",
+    "sections": [
+      {
+        "block": "卷一",
+        "title": "🏛️ 卷一：純正統·格局大局（由傳統敘事引擎驅動）",
+        "subsections": [
+          {
+            "label": "【格局乾坤】",
+            "source": "track_A.traditional_narrative_text.section_1"
+          },
+          {
+            "label": "【氣運推移】",
+            "source": "track_A.traditional_narrative_text.section_2"
+          },
+          {
+            "label": "【吉凶藏機】",
+            "source": "track_A.traditional_narrative_text.section_3"
+          },
+          {
+            "label": "【趨吉避凶】",
+            "source": "track_A.traditional_narrative_text.section_4"
+          }
+        ]
+      },
+      {
+        "block": "卷二",
+        "title": "📊 卷二：現代系統·零情感數據共振（由高維壓測引擎驅動）",
+        "subsections": [
+          {
+            "label": "【能量密度共振】",
+            "source": "track_B.structured_findings.energy_density + track_B.narrative_text.WHAT_現象核心"
+          },
+          {
+            "label": "【蒙地卡羅壓力測試】",
+            "source": "track_B.structured_findings.top3_failure_nodes"
+          },
+          {
+            "label": "【逆向 Hook 強制拷問】",
+            "source": "track_B.inversion_hook_questions"
+          },
+          {
+            "label": "【時空橋樑優化】",
+            "source": "track_B.mitigation_protocol + track_B.structured_findings.space_lock + track_B.structured_findings.compression_ratio"
+          }
+        ]
+      }
+    ],
+    "required_footer": {
+      "fields": [
+        "cross_track_summary",
+        "shared_next_action"
+      ]
+    }
+  },
+  "output_schema": {
+    "normalized_matrix": "dual_engine_standardized_matrix",
+    "track_A_output": "traditional_mythos_engine result",
+    "track_B_output": "modern_quantum_resonance_engine result",
+    "fused_report": {
+      "title": "☯️ 雙重維度·命理與系統決策報告",
+      "volume_1": {
+        "格局乾坤": "string",
+        "氣運推移": "string",
+        "吉凶藏機": "string",
+        "趨吉避凶": "string"
+      },
+      "volume_2": {
+        "能量密度共振": "string",
+        "蒙地卡羅壓力測試": "array|string",
+        "逆向 Hook 強制拷問": "array",
+        "時空橋樑優化": "string"
+      },
+      "cross_track_summary": "string",
+      "shared_next_action": "string"
+    }
+  },
+  "safety_assertions": {
+    "C1": "雙軌共用同一 normalized matrix，不得各自重建不同版本輸入。",
+    "C2": "若 Track A 或 Track B 任一軌缺關鍵欄位，必須顯示降級狀態。",
+    "C3": "融合層只能拼接與標記，不得篡改各軌原始結論。",
+    "C4": "統一模板中所有數值、節點、方位、時間窗口，必須引用來源軌的已驗證輸出。",
+    "C5": "最終報告必須保留 one concrete next action。"
+  },
+  "bridge_mapping_layer": {
+    "purpose": "鎖定紫微十二地支宮到奇門九宮之映射，供雙軌共用。",
+    "zhi_to_qimen_palace_map": {
+      "子": 1,
+      "丑": 8,
+      "寅": 8,
+      "卯": 3,
+      "辰": 4,
+      "巳": 4,
+      "午": 9,
+      "未": 2,
+      "申": 2,
+      "酉": 7,
+      "戌": 6,
+      "亥": 6
+    },
+    "kun_2_redirect_rule": "if mapped or target palace == 5 then redirect to 2",
+    "source_lock": "BR-MAP-001"
+  },
+  "safety_layer": {
+    "fail_closed": true,
+    "consume_only_verified_core_outputs": true,
+    "forbid_direct_formula_inference": true,
+    "forbid_freehand_json_fabrication": true,
+    "no_todo_allowed": true,
+    "halt_conditions": [
+      "missing_dependency",
+      "unverified_track_output",
+      "missing_current_jieqi_exact_timestamp",
+      "missing_zhi_to_qimen_palace_map",
+      "missing_kun_2_redirect_rule",
+      "calendar_conversion_failed",
+      "assertion_failed"
+    ]
+  }
+}

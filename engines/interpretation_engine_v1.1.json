@@ -1,0 +1,2042 @@
+{
+  "metadata": {
+    "name": "(完整計算步驟)ziwei_qimen_interpretation_engine",
+    "version": "1.1",
+    "title": "完整計算步驟｜紫微斗數 × 奇門遁甲",
+    "scope": "南派三合星曜派 + 奇門遁甲拆補法",
+    "ssot_dependency": "ziwei_qimen_traditional_core_engine_v2.0.json",
+    "anti_hallucination_protocol": [
+      "定數全部硬編碼為靜態 Lookup Table，禁止 AI 公式推導",
+      "變數採 0–11 純整數陣列，模運算 (mod 12) 表達順逆規律",
+      "天府公式：紫微天府以寅申軸對稱，天府=(4 - ZiweiZhiIdx + 12) % 12（非子午軸 12-紫微）",
+      "五行局由 v2.0 核心 03wuxingju 鏈式推導（命宮干支 → nayin60），禁用月干直接映射捷徑",
+      "所有索引計算必須使用非負模運算：(x % 12 + 12) % 12",
+      "禁止在 JSON 內使用 ...、TODO、如此類推等省略符號"
+    ],
+    "last_updated": "2026-06-06",
+    "calculation_steps_order": [
+      "S1_ming_shen_gong",
+      "S2_wuxing_ju",
+      "S3_ziwei_system",
+      "S4_tianfu_system",
+      "S5_auxiliary_stars",
+      "S6_brightness",
+      "S7_sihua",
+      "S8_dalian_xiaoxian",
+      "S9_doujun_liuyue",
+      "S10_qimen_xunshou",
+      "S11_qimen_sanyuan",
+      "S12_qimen_panbuild"
+    ],
+    "doctrine_locks": [
+      "S9 斗君公式（《全書·安斗君訣》逆生月、順生時）：含 +BirthHourIndex，保留閏月邊界斷言",
+      "S11 三元映射：子午卯酉=上元 / 寅申巳亥=中元 / 辰戌丑未=下元",
+      "S11 三元輸入源為符頭地支 XunshouZhiIdx（非 DayZhiIdx）",
+      "S12 天盤旋轉步驟採明確算法",
+      "S8 小限起點表（三合組一致性）；S4 破軍 offset = +10（與核心引擎 07 一致）",
+      "S7 四化層級權重標記 MODERN_ENHANCEMENT_LAYER",
+      "庚干四化以文墨天機標準為唯一真值：太陰科、天同忌",
+      "S5b 雜曜十二神（博士/長生/歲前/將前）＋天傷天使＋截路旬空＋天馬",
+      "S7b 自化邏輯（宮干四化回照本宮）"
+    ]
+  },
+  "S1_ming_shen_gong": {
+    "step": "S1",
+    "name": "安命宮身宮",
+    "purpose": "依農曆生月（寅月=0起算）與生時（子=0起算）推算命宮、身宮所在地支索引",
+    "coordinate_note": "MonthIndex: 寅=0,卯=1,辰=2,巳=3,午=4,未=5,申=6,酉=7,戌=8,亥=9,子=10,丑=11 | HourIndex: 子=0,丑=1,...,亥=11",
+    "dynamic_formulas": {
+      "MingGongFromYin": "(MonthIndex - HourIndex + 12) % 12",
+      "MingGongZhiIdx": "(MingGongFromYin + 2) % 12",
+      "ShenGongFromYin": "(MonthIndex + HourIndex) % 12",
+      "ShenGongZhiIdx": "(ShenGongFromYin + 2) % 12"
+    },
+    "assertion": "0 <= MingGongFromYin <= 11; 0 <= ShenGongFromYin <= 11",
+    "verification_cases": [
+      {
+        "case": "月=0,時=0",
+        "MingGong": "(0-0+12)%12=0 → ZhiIdx=(0+2)%12=2(寅)",
+        "ShenGong": "(0+0)%12=0 → ZhiIdx=2(寅)"
+      },
+      {
+        "case": "月=1,時=6",
+        "MingGong": "(1-6+12)%12=7 → ZhiIdx=9(酉)",
+        "ShenGong": "(1+6)%12=7 → ZhiIdx=9(酉)"
+      }
+    ],
+    "late_zi_day_rollover": {
+      "_doc": "晚子時換日鎖定規則(與core implementation_invariants.late_zi_day_rollover一致)",
+      "rule": "IF 出生時=子 AND 真太陽時23:00-23:59(晚子) THEN lunar_day+=1(次日);00:00-00:59(早子)lunar_day不變;HourBranch恆=子(index0)",
+      "month_year_rollover": "換日後 IF lunar_day>當月最大日 THEN lunar_day=1,lunar_month+=1; IF lunar_month>12 THEN lunar_month=1,lunar_year+=1(年干支重取)",
+      "why": "紫微定盤以lunar_day為輸入,命身宮以lunar_month;晚子不換日將令全盤偏移整宮"
+    }
+  },
+  "S2_wuxing_ju": {
+    "step": "S2",
+    "name": "五行局數定局",
+    "purpose": "依生年天干五虎遁年起寅月干，推算命宮干支，查 nayin60 得五行局數",
+    "ssot_steps": {
+      "step1_wuhuyingan": {
+        "name": "五虎遁年起寅月干",
+        "formula": "WuHuYinStemIdx = (YearGanIdx * 2 + 2) % 10",
+        "verification": {
+          "YearGanIdx=0(甲)": "(0*2+2)%10=2 → 丙",
+          "YearGanIdx=1(乙)": "(1*2+2)%10=4 → 戊",
+          "YearGanIdx=2(丙)": "(2*2+2)%10=6 → 庚",
+          "YearGanIdx=3(丁)": "(3*2+2)%10=8 → 壬",
+          "YearGanIdx=4(戊)": "(4*2+2)%10=0 → 甲",
+          "YearGanIdx=5(己)": "(5*2+2)%10=2 → 丙",
+          "YearGanIdx=6(庚)": "(6*2+2)%10=4 → 戊",
+          "YearGanIdx=7(辛)": "(7*2+2)%10=6 → 庚",
+          "YearGanIdx=8(壬)": "(8*2+2)%10=8 → 壬",
+          "YearGanIdx=9(癸)": "(9*2+2)%10=0 → 甲"
+        }
+      },
+      "step2_mingong_gan": {
+        "name": "命宮天干",
+        "formula": "MingGongStemIdx = (WuHuYinStemIdx + MingGongFromYin) % 10"
+      },
+      "step3_nayin_lookup": {
+        "name": "查命宮干支納音得局數",
+        "formula": "key = stems[MingGongStemIdx] + branches[MingGongZhiIdx]; N = nayin60[key].ju",
+        "nayin60_ju_map": {
+          "甲子": 4,
+          "乙丑": 4,
+          "丙寅": 6,
+          "丁卯": 6,
+          "戊辰": 3,
+          "己巳": 3,
+          "庚午": 5,
+          "辛未": 5,
+          "壬申": 4,
+          "癸酉": 4,
+          "甲戌": 6,
+          "乙亥": 6,
+          "丙子": 2,
+          "丁丑": 2,
+          "戊寅": 5,
+          "己卯": 5,
+          "庚辰": 4,
+          "辛巳": 4,
+          "壬午": 3,
+          "癸未": 3,
+          "甲申": 2,
+          "乙酉": 2,
+          "丙戌": 5,
+          "丁亥": 5,
+          "戊子": 6,
+          "己丑": 6,
+          "庚寅": 3,
+          "辛卯": 3,
+          "壬辰": 2,
+          "癸巳": 2,
+          "甲午": 4,
+          "乙未": 4,
+          "丙申": 6,
+          "丁酉": 6,
+          "戊戌": 3,
+          "己亥": 3,
+          "庚子": 5,
+          "辛丑": 5,
+          "壬寅": 4,
+          "癸卯": 4,
+          "甲辰": 6,
+          "乙巳": 6,
+          "丙午": 2,
+          "丁未": 2,
+          "戊申": 5,
+          "己酉": 5,
+          "庚戌": 4,
+          "辛亥": 4,
+          "壬子": 3,
+          "癸丑": 3,
+          "甲寅": 2,
+          "乙卯": 2,
+          "丙辰": 5,
+          "丁巳": 5,
+          "戊午": 6,
+          "己未": 6,
+          "庚申": 3,
+          "辛酉": 3,
+          "壬戌": 2,
+          "癸亥": 2
+        }
+      }
+    },
+    "ju_name_map": {
+      "2": "水二局",
+      "3": "木三局",
+      "4": "金四局",
+      "5": "土五局",
+      "6": "火六局"
+    },
+    "assertion": "N in [2,3,4,5,6]",
+    "verification_cases": [
+      {
+        "case": "1993-10-02 癸酉年農曆八月(MonthIndex=7) 子時(HourIndex=0)",
+        "W": "(9*2+2)%10=0(甲)",
+        "M": "(7-0+12)%12=7",
+        "MingGongStem": "(0+7)%10=7(辛)",
+        "MingGongZhi": "(7+2)%12=9(酉)",
+        "nayin_key": "辛酉",
+        "ju": 3,
+        "ju_name": "木三局"
+      },
+      {
+        "case": "2023-03-22 癸卯年農曆二月(MonthIndex=1) 子時(HourIndex=0)",
+        "W": "(9*2+2)%10=0(甲)",
+        "M": "(1-0+12)%12=1",
+        "MingGongStem": "(0+1)%10=1(乙)",
+        "MingGongZhi": "(1+2)%12=3(卯)",
+        "nayin_key": "乙卯",
+        "ju": 2,
+        "ju_name": "水二局"
+      }
+    ]
+  },
+  "S3_ziwei_system": {
+    "step": "S3",
+    "name": "安紫微星系（6顆）",
+    "purpose": "依五行局數＋農曆生日（差數法）得紫微地支索引，再按固定偏移逆布天機、太陽、武曲、天同、廉貞（全逆行）",
+    "lookup_tables": {
+      "ziwei_position_table": {
+        "doc": "key=局數(整數2-6)，value=30個農曆日對應紫微地支索引(0-11)，全量硬編碼。依【差數法】古訣計算：q=ceil(生日/N); c=q*N-生日; steps=(q-c if c奇 else q+c); idx=(2+steps-1)%12。v1.1 原表為錯誤值，已用差數法重算並對 App 雙盤(金四26→戌、木三17→午)校驗訂正。",
+        "局2": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          0,
+          0,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4
+        ],
+        "局3": [
+          4,
+          1,
+          2,
+          5,
+          2,
+          3,
+          6,
+          3,
+          4,
+          7,
+          4,
+          5,
+          8,
+          5,
+          6,
+          9,
+          6,
+          7,
+          10,
+          7,
+          8,
+          11,
+          8,
+          9,
+          0,
+          9,
+          10,
+          1,
+          10,
+          11
+        ],
+        "局4": [
+          11,
+          4,
+          1,
+          2,
+          0,
+          5,
+          2,
+          3,
+          1,
+          6,
+          3,
+          4,
+          2,
+          7,
+          4,
+          5,
+          3,
+          8,
+          5,
+          6,
+          4,
+          9,
+          6,
+          7,
+          5,
+          10,
+          7,
+          8,
+          6,
+          11
+        ],
+        "局5": [
+          6,
+          11,
+          4,
+          1,
+          2,
+          7,
+          0,
+          5,
+          2,
+          3,
+          8,
+          1,
+          6,
+          3,
+          4,
+          9,
+          2,
+          7,
+          4,
+          5,
+          10,
+          3,
+          8,
+          5,
+          6,
+          11,
+          4,
+          9,
+          6,
+          7
+        ],
+        "局6": [
+          9,
+          6,
+          11,
+          4,
+          1,
+          2,
+          10,
+          7,
+          0,
+          5,
+          2,
+          3,
+          11,
+          8,
+          1,
+          6,
+          3,
+          4,
+          0,
+          9,
+          2,
+          7,
+          4,
+          5,
+          1,
+          10,
+          3,
+          8,
+          5,
+          6
+        ]
+      }
+    },
+    "star_offsets": [
+      {
+        "star": "紫微",
+        "offset": 0,
+        "direction": "origin"
+      },
+      {
+        "star": "天機",
+        "offset": -1,
+        "direction": "逆1位，公式(ZiweiZhiIdx-1+12)%12"
+      },
+      {
+        "star": "太陽",
+        "offset": -3,
+        "direction": "逆3位，公式(ZiweiZhiIdx-3+12)%12"
+      },
+      {
+        "star": "武曲",
+        "offset": -4,
+        "direction": "逆4位，公式(ZiweiZhiIdx-4+12)%12"
+      },
+      {
+        "star": "天同",
+        "offset": -5,
+        "direction": "逆5位，公式(ZiweiZhiIdx-5+12)%12"
+      },
+      {
+        "star": "廉貞",
+        "offset": -8,
+        "direction": "逆8位，公式(ZiweiZhiIdx-8+12)%12"
+      }
+    ],
+    "dynamic_formulas": {
+      "ZiweiZhiIdx": "ziwei_position_table[ju][lunarDay-1]（0-based陣列）",
+      "each_star_idx": "(ZiweiZhiIdx + offset + 12) % 12"
+    },
+    "assertion": "0 <= ZiweiZhiIdx <= 11"
+  },
+  "S4_tianfu_system": {
+    "step": "S4",
+    "name": "安天府星系（8顆）",
+    "purpose": "紫微與天府宮位以寅申軸對稱（天府=(4-紫微+12)%12），由靜態映射表取天府索引，再順布7顆",
+    "lookup_tables": {
+      "ziwei_to_tianfu_idx": {
+        "doc": "key=ZiweiZhiIdx(0-11)，value=TianfuZhiIdx(0-11)，全量硬編碼。寅申軸對稱：天府=(4-紫微+12)%12。v1.1 原為子午軸(12-紫微)錯誤，已訂正。",
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 11,
+        "6": 10,
+        "7": 9,
+        "8": 8,
+        "9": 7,
+        "10": 6,
+        "11": 5
+      }
+    },
+    "star_offsets": [
+      {
+        "star": "天府",
+        "offset": 0,
+        "direction": "origin"
+      },
+      {
+        "star": "太陰",
+        "offset": 1,
+        "direction": "順1"
+      },
+      {
+        "star": "貪狼",
+        "offset": 2,
+        "direction": "順2"
+      },
+      {
+        "star": "巨門",
+        "offset": 3,
+        "direction": "順3"
+      },
+      {
+        "star": "天相",
+        "offset": 4,
+        "direction": "順4"
+      },
+      {
+        "star": "天梁",
+        "offset": 5,
+        "direction": "順5"
+      },
+      {
+        "star": "七殺",
+        "offset": 6,
+        "direction": "順6"
+      },
+      {
+        "star": "破軍",
+        "offset": 10,
+        "direction": "順10（七殺+4；破軍 offset=+10，與核心引擎 07 跨檔一致）"
+      }
+    ],
+    "dynamic_formulas": {
+      "TianfuZhiIdx": "ziwei_to_tianfu_idx[ZiweiZhiIdx]",
+      "each_star_idx": "(TianfuZhiIdx + offset) % 12"
+    },
+    "critical_note": "禁用 10-ZiweiZhiIdx；正確公式為靜態 lookup 表，不可用加減推導"
+  },
+  "S5_auxiliary_stars": {
+    "step": "S5",
+    "name": "安輔星與煞星",
+    "purpose": "依生年天干、生年地支、農曆生月、生時地支查靜態表定位各輔星煞星",
+    "lookup_tables": {
+      "wenchang_by_hour_zhi": {
+        "doc": "文昌：依生時地支查，逆佈",
+        "子": "酉",
+        "丑": "申",
+        "寅": "未",
+        "卯": "午",
+        "辰": "巳",
+        "巳": "辰",
+        "午": "卯",
+        "未": "寅",
+        "申": "丑",
+        "酉": "子",
+        "戌": "亥",
+        "亥": "戌"
+      },
+      "wenqu_by_hour_zhi": {
+        "doc": "文曲：依生時地支查，順佈",
+        "子": "辰",
+        "丑": "巳",
+        "寅": "午",
+        "卯": "未",
+        "辰": "申",
+        "巳": "酉",
+        "午": "戌",
+        "未": "亥",
+        "申": "子",
+        "酉": "丑",
+        "戌": "寅",
+        "亥": "卯"
+      },
+      "zuofu_by_birth_month": {
+        "doc": "左輔：農曆生月，寅月=1起算",
+        "1": "辰",
+        "2": "巳",
+        "3": "午",
+        "4": "未",
+        "5": "申",
+        "6": "酉",
+        "7": "戌",
+        "8": "亥",
+        "9": "子",
+        "10": "丑",
+        "11": "寅",
+        "12": "卯"
+      },
+      "youbi_by_birth_month": {
+        "doc": "右弼：農曆生月，寅月=1起算，逆佈",
+        "1": "戌",
+        "2": "酉",
+        "3": "申",
+        "4": "未",
+        "5": "午",
+        "6": "巳",
+        "7": "辰",
+        "8": "卯",
+        "9": "寅",
+        "10": "丑",
+        "11": "子",
+        "12": "亥"
+      },
+      "tiankui_by_year_gan": {
+        "doc": "天魁：依生年天干",
+        "甲": "丑",
+        "戊": "丑",
+        "庚": "丑",
+        "乙": "子",
+        "己": "子",
+        "丙": "亥",
+        "丁": "亥",
+        "辛": "午",
+        "壬": "卯",
+        "癸": "卯"
+      },
+      "tianyue_by_year_gan": {
+        "doc": "天鉞：依生年天干",
+        "甲": "未",
+        "戊": "未",
+        "庚": "未",
+        "乙": "申",
+        "己": "申",
+        "丙": "酉",
+        "丁": "酉",
+        "辛": "寅",
+        "壬": "巳",
+        "癸": "巳"
+      },
+      "lucun_by_year_gan": {
+        "doc": "祿存：依生年天干",
+        "甲": "寅",
+        "乙": "卯",
+        "丙": "巳",
+        "丁": "午",
+        "戊": "巳",
+        "己": "午",
+        "庚": "申",
+        "辛": "酉",
+        "壬": "亥",
+        "癸": "子"
+      },
+      "qingyang_by_year_gan": {
+        "doc": "擎羊：祿存順一位",
+        "甲": "卯",
+        "乙": "辰",
+        "丙": "午",
+        "丁": "未",
+        "戊": "午",
+        "己": "未",
+        "庚": "酉",
+        "辛": "戌",
+        "壬": "子",
+        "癸": "丑"
+      },
+      "tuoluo_by_year_gan": {
+        "doc": "陀羅：祿存逆一位",
+        "甲": "丑",
+        "乙": "寅",
+        "丙": "辰",
+        "丁": "巳",
+        "戊": "辰",
+        "己": "巳",
+        "庚": "未",
+        "辛": "申",
+        "壬": "戌",
+        "癸": "亥"
+      },
+      "tianma_by_year_or_flow_zhi": {
+        "doc": "天馬：依生年地支（或流年地支）三合首字查",
+        "寅": "申",
+        "午": "申",
+        "戌": "申",
+        "申": "寅",
+        "子": "寅",
+        "辰": "寅",
+        "巳": "亥",
+        "酉": "亥",
+        "丑": "亥",
+        "亥": "巳",
+        "卯": "巳",
+        "未": "巳"
+      },
+      "huoxing_by_year_zhi_group": {
+        "doc": "火星：先查生年地支三合組，再依生時地支查宮位。起點古訣：寅午戌→丑、申子辰→寅、巳酉丑→卯、亥卯未→酉，子時起順數至生時。v1.1 原寅午戌/巳酉丑兩組起點錯誤，已訂正。",
+        "年支三合組對照": {
+          "寅午戌": "寅午戌組",
+          "申子辰": "申子辰組",
+          "巳酉丑": "巳酉丑組",
+          "亥卯未": "亥卯未組"
+        },
+        "寅午戌組": {
+          "子": "丑",
+          "丑": "寅",
+          "寅": "卯",
+          "卯": "辰",
+          "辰": "巳",
+          "巳": "午",
+          "午": "未",
+          "未": "申",
+          "申": "酉",
+          "酉": "戌",
+          "戌": "亥",
+          "亥": "子"
+        },
+        "申子辰組": {
+          "子": "寅",
+          "丑": "卯",
+          "寅": "辰",
+          "卯": "巳",
+          "辰": "午",
+          "巳": "未",
+          "午": "申",
+          "未": "酉",
+          "申": "戌",
+          "酉": "亥",
+          "戌": "子",
+          "亥": "丑"
+        },
+        "巳酉丑組": {
+          "子": "卯",
+          "丑": "辰",
+          "寅": "巳",
+          "卯": "午",
+          "辰": "未",
+          "巳": "申",
+          "午": "酉",
+          "未": "戌",
+          "申": "亥",
+          "酉": "子",
+          "戌": "丑",
+          "亥": "寅"
+        },
+        "亥卯未組": {
+          "子": "酉",
+          "丑": "戌",
+          "寅": "亥",
+          "卯": "子",
+          "辰": "丑",
+          "巳": "寅",
+          "午": "卯",
+          "未": "辰",
+          "申": "巳",
+          "酉": "午",
+          "戌": "未",
+          "亥": "申"
+        }
+      },
+      "lingxing_by_year_zhi_group": {
+        "doc": "鈴星：先查生年地支三合組，再依生時地支查宮位。起點古訣：寅午戌→卯、申子辰→戌、巳酉丑→戌、亥卯未→戌，子時起順數至生時。v1.1 原寅午戌/巳酉丑/亥卯未三組起點錯誤，已訂正。",
+        "年支三合組對照": {
+          "寅午戌": "寅午戌組",
+          "申子辰": "申子辰組",
+          "巳酉丑": "巳酉丑組",
+          "亥卯未": "亥卯未組"
+        },
+        "寅午戌組": {
+          "子": "卯",
+          "丑": "辰",
+          "寅": "巳",
+          "卯": "午",
+          "辰": "未",
+          "巳": "申",
+          "午": "酉",
+          "未": "戌",
+          "申": "亥",
+          "酉": "子",
+          "戌": "丑",
+          "亥": "寅"
+        },
+        "申子辰組": {
+          "子": "戌",
+          "丑": "亥",
+          "寅": "子",
+          "卯": "丑",
+          "辰": "寅",
+          "巳": "卯",
+          "午": "辰",
+          "未": "巳",
+          "申": "午",
+          "酉": "未",
+          "戌": "申",
+          "亥": "酉"
+        },
+        "巳酉丑組": {
+          "子": "戌",
+          "丑": "亥",
+          "寅": "子",
+          "卯": "丑",
+          "辰": "寅",
+          "巳": "卯",
+          "午": "辰",
+          "未": "巳",
+          "申": "午",
+          "酉": "未",
+          "戌": "申",
+          "亥": "酉"
+        },
+        "亥卯未組": {
+          "子": "戌",
+          "丑": "亥",
+          "寅": "子",
+          "卯": "丑",
+          "辰": "寅",
+          "巳": "卯",
+          "午": "辰",
+          "未": "巳",
+          "申": "午",
+          "酉": "未",
+          "戌": "申",
+          "亥": "酉"
+        }
+      }
+    },
+    "calculation_logic": {
+      "文昌": "lookup wenchang_by_hour_zhi[生時地支]",
+      "文曲": "lookup wenqu_by_hour_zhi[生時地支]",
+      "左輔": "lookup zuofu_by_birth_month[農曆月序，寅=1]",
+      "右弼": "lookup youbi_by_birth_month[農曆月序，寅=1]",
+      "天魁": "lookup tiankui_by_year_gan[生年天干]",
+      "天鉞": "lookup tianyue_by_year_gan[生年天干]",
+      "祿存": "lookup lucun_by_year_gan[生年天干]",
+      "擎羊": "lookup qingyang_by_year_gan[生年天干]",
+      "陀羅": "lookup tuoluo_by_year_gan[生年天干]",
+      "天馬": "lookup tianma_by_year_or_flow_zhi[生年地支]（流年時用流年地支）",
+      "火星": "確定年支三合組 → lookup huoxing_by_year_zhi_group[組][生時地支]",
+      "鈴星": "確定年支三合組 → lookup lingxing_by_year_zhi_group[組][生時地支]"
+    }
+  },
+  "S5b_minor_stars_12shen": {
+    "step": "S5b",
+    "name": "雜曜十二神、天傷天使、截路旬空、天馬",
+    "purpose": "補齊博士十二神、長生十二神、歲前十二神、將前十二神，以及天傷天使、截路空亡/旬空、三合天馬；所有查表以核心引擎 SSOT 為唯一真值源",
+    "source_of_truth": "core_engine.static_lookup_tables + core_engine.dynamic_mathematical_formulas（15~20 + tianma_table）",
+    "boshi_12shen": {
+      "sequence": [
+        "博士",
+        "力士",
+        "青龍",
+        "小耗",
+        "將軍",
+        "奏書",
+        "飛廉",
+        "喜神",
+        "病符",
+        "大耗",
+        "伏兵",
+        "官府"
+      ],
+      "start": "祿存落宮（luzun_qingyang_tuoluo_table 之祿存宮）",
+      "direction": "陽男陰女順行、陰男陽女逆行",
+      "formula": "BoshiPalaceIdx(n) = (LuCunIdx + dir*n + 24) % 12"
+    },
+    "changsheng_12shen": {
+      "sequence": [
+        "長生",
+        "沐浴",
+        "冠帶",
+        "臨官",
+        "帝旺",
+        "衰",
+        "病",
+        "死",
+        "墓",
+        "絕",
+        "胎",
+        "養"
+      ],
+      "start_by_ju": {
+        "水二局": 8,
+        "木三局": 11,
+        "金四局": 5,
+        "土五局": 8,
+        "火六局": 2
+      },
+      "direction": "陽男陰女順行、陰男陽女逆行",
+      "formula": "ChangshengPalaceIdx(n) = (StartIdx + dir*n + 24) % 12"
+    },
+    "suiqian_12shen": {
+      "sequence": [
+        "太歲",
+        "晦氣",
+        "喪門",
+        "貫索",
+        "官符",
+        "小耗",
+        "大耗",
+        "龍德",
+        "白虎",
+        "天德",
+        "弔客",
+        "病符"
+      ],
+      "start": "當年太歲地支（本命=生年支；流年=流年支）",
+      "direction": "固定順行",
+      "formula": "SuiqianPalaceIdx(n) = (TaiSuiZhiIdx + n) % 12"
+    },
+    "jiangqian_12shen": {
+      "sequence": [
+        "將星",
+        "攀鞍",
+        "歲驛",
+        "息神",
+        "華蓋",
+        "劫煞",
+        "災煞",
+        "天煞",
+        "指背",
+        "咸池",
+        "月煞",
+        "亡神"
+      ],
+      "jiangxing_start": {
+        "寅午戌": 6,
+        "申子辰": 0,
+        "巳酉丑": 9,
+        "亥卯未": 3
+      },
+      "direction": "固定順行",
+      "formula": "JiangqianPalaceIdx(n) = (JiangXingIdx + n) % 12"
+    },
+    "tianshang_tianshi": {
+      "rule": "固定宮法：天傷永居僕役(交友)宮、天使永居疾厄宮",
+      "tianshang_palace": "僕役(交友)宮",
+      "tianshi_palace": "疾厄宮",
+      "note": "本 SSOT 鎖定固定宮法，不採動態法"
+    },
+    "jielu_xunkong": {
+      "jielu_kongwang": {
+        "lookup": "依年干(或日干)查截空二支",
+        "table_idx": {
+          "甲己": [
+            8,
+            9
+          ],
+          "乙庚": [
+            6,
+            7
+          ],
+          "丙辛": [
+            4,
+            5
+          ],
+          "丁壬": [
+            2,
+            3
+          ],
+          "戊癸": [
+            0,
+            1
+          ]
+        }
+      },
+      "xunkong": {
+        "formula": "XunStartIdx=(DayZhiIdx-DayGanIdx+12)%12；旬空=[(XunStartIdx+10)%12,(XunStartIdx+11)%12]",
+        "example": "甲子日→旬空[戌(10),亥(11)]"
+      }
+    },
+    "tianma": {
+      "rule": "三合驛馬：寅午戌馬居申、申子辰馬居寅、巳酉丑馬居亥、亥卯未馬居巳",
+      "table_idx": {
+        "0": 2,
+        "1": 11,
+        "2": 8,
+        "3": 5,
+        "4": 2,
+        "5": 11,
+        "6": 8,
+        "7": 5,
+        "8": 2,
+        "9": 11,
+        "10": 8,
+        "11": 5
+      },
+      "source": "本命取生年支、流年盤取流年支"
+    },
+    "assertion": "四組十二神皆不可重宮或遺漏；天傷天使固定宮；截空/旬空各二支；天馬單宮"
+  },
+  "S6_brightness": {
+    "step": "S6",
+    "name": "定廟旺利平陷",
+    "purpose": "14主星在12地支宮位的亮度等級，全量靜態表",
+    "brightness_encoding": {
+      "廟": 4,
+      "旺": 3,
+      "利": 2,
+      "平": 1,
+      "陷": 0
+    },
+    "brightness_table": {
+      "紫微": {
+        "子": "旺",
+        "丑": "平",
+        "寅": "平",
+        "卯": "廟",
+        "辰": "廟",
+        "巳": "平",
+        "午": "旺",
+        "未": "平",
+        "申": "平",
+        "酉": "利",
+        "戌": "廟",
+        "亥": "平"
+      },
+      "天機": {
+        "子": "利",
+        "丑": "陷",
+        "寅": "利",
+        "卯": "廟",
+        "辰": "利",
+        "巳": "廟",
+        "午": "利",
+        "未": "陷",
+        "申": "利",
+        "酉": "廟",
+        "戌": "利",
+        "亥": "廟"
+      },
+      "太陽": {
+        "子": "陷",
+        "丑": "陷",
+        "寅": "旺",
+        "卯": "廟",
+        "辰": "廟",
+        "巳": "旺",
+        "午": "廟",
+        "未": "旺",
+        "申": "利",
+        "酉": "平",
+        "戌": "陷",
+        "亥": "陷"
+      },
+      "武曲": {
+        "子": "平",
+        "丑": "廟",
+        "寅": "平",
+        "卯": "平",
+        "辰": "廟",
+        "巳": "平",
+        "午": "平",
+        "未": "廟",
+        "申": "平",
+        "酉": "平",
+        "戌": "廟",
+        "亥": "平"
+      },
+      "天同": {
+        "子": "利",
+        "丑": "陷",
+        "寅": "廟",
+        "卯": "利",
+        "辰": "陷",
+        "巳": "利",
+        "午": "廟",
+        "未": "利",
+        "申": "陷",
+        "酉": "利",
+        "戌": "廟",
+        "亥": "廟"
+      },
+      "廉貞": {
+        "子": "平",
+        "丑": "利",
+        "寅": "廟",
+        "卯": "平",
+        "辰": "利",
+        "巳": "廟",
+        "午": "平",
+        "未": "利",
+        "申": "廟",
+        "酉": "平",
+        "戌": "利",
+        "亥": "廟"
+      },
+      "天府": {
+        "子": "廟",
+        "丑": "廟",
+        "寅": "平",
+        "卯": "廟",
+        "辰": "廟",
+        "巳": "平",
+        "午": "廟",
+        "未": "廟",
+        "申": "平",
+        "酉": "廟",
+        "戌": "廟",
+        "亥": "平"
+      },
+      "太陰": {
+        "子": "廟",
+        "丑": "廟",
+        "寅": "陷",
+        "卯": "陷",
+        "辰": "陷",
+        "巳": "陷",
+        "午": "陷",
+        "未": "陷",
+        "申": "旺",
+        "酉": "廟",
+        "戌": "廟",
+        "亥": "旺"
+      },
+      "貪狼": {
+        "子": "旺",
+        "丑": "平",
+        "寅": "廟",
+        "卯": "平",
+        "辰": "平",
+        "巳": "廟",
+        "午": "旺",
+        "未": "平",
+        "申": "廟",
+        "酉": "平",
+        "戌": "平",
+        "亥": "廟"
+      },
+      "巨門": {
+        "子": "平",
+        "丑": "廟",
+        "寅": "平",
+        "卯": "平",
+        "辰": "廟",
+        "巳": "平",
+        "午": "平",
+        "未": "廟",
+        "申": "平",
+        "酉": "平",
+        "戌": "廟",
+        "亥": "平"
+      },
+      "天相": {
+        "子": "平",
+        "丑": "廟",
+        "寅": "旺",
+        "卯": "平",
+        "辰": "廟",
+        "巳": "旺",
+        "午": "平",
+        "未": "廟",
+        "申": "旺",
+        "酉": "平",
+        "戌": "廟",
+        "亥": "旺"
+      },
+      "天梁": {
+        "子": "平",
+        "丑": "平",
+        "寅": "旺",
+        "卯": "平",
+        "辰": "平",
+        "巳": "旺",
+        "午": "利",
+        "未": "平",
+        "申": "旺",
+        "酉": "平",
+        "戌": "平",
+        "亥": "旺"
+      },
+      "七殺": {
+        "子": "廟",
+        "丑": "平",
+        "寅": "平",
+        "卯": "廟",
+        "辰": "平",
+        "巳": "平",
+        "午": "廟",
+        "未": "平",
+        "申": "平",
+        "酉": "廟",
+        "戌": "平",
+        "亥": "平"
+      },
+      "破軍": {
+        "子": "廟",
+        "丑": "平",
+        "寅": "平",
+        "卯": "廟",
+        "辰": "平",
+        "巳": "平",
+        "午": "廟",
+        "未": "平",
+        "申": "平",
+        "酉": "廟",
+        "戌": "平",
+        "亥": "平"
+      }
+    },
+    "calculation_logic": {
+      "step_a": "brightness_label = brightness_table[star_name][palace_zhi]",
+      "step_b": "brightness_score = brightness_encoding[brightness_label]",
+      "output": "brightness_label: 廟/旺/利/平/陷, brightness_score: 0-4"
+    }
+  },
+  "S7_sihua": {
+    "step": "S7",
+    "name": "排四化",
+    "purpose": "年干決定化祿/化權/化科/化忌，本命/大限/流年各取對應年干查表，10干×4化=40條全量硬編碼",
+    "anti_hallucination": "禁止憑記憶推導，必須全量查表",
+    "lookup_tables": {
+      "sihua_complete_table": {
+        "甲": {
+          "化祿": "廉貞",
+          "化權": "破軍",
+          "化科": "武曲",
+          "化忌": "太陽"
+        },
+        "乙": {
+          "化祿": "天機",
+          "化權": "天梁",
+          "化科": "紫微",
+          "化忌": "太陰"
+        },
+        "丙": {
+          "化祿": "天同",
+          "化權": "天機",
+          "化科": "文昌",
+          "化忌": "廉貞"
+        },
+        "丁": {
+          "化祿": "太陰",
+          "化權": "天同",
+          "化科": "天機",
+          "化忌": "巨門"
+        },
+        "戊": {
+          "化祿": "貪狼",
+          "化權": "太陰",
+          "化科": "右弼",
+          "化忌": "天機"
+        },
+        "己": {
+          "化祿": "武曲",
+          "化權": "貪狼",
+          "化科": "天梁",
+          "化忌": "文曲"
+        },
+        "庚": {
+          "化祿": "太陽",
+          "化權": "武曲",
+          "化科": "太陰",
+          "化忌": "天同",
+          "_note": "庚干鎖定文墨天機標準：化科=太陰、化忌=天同（《全書》三合主流另作化科=天同／化忌=太陰，本表依用戶指定採文墨天機基準）"
+        },
+        "辛": {
+          "化祿": "巨門",
+          "化權": "太陽",
+          "化科": "文曲",
+          "化忌": "文昌"
+        },
+        "壬": {
+          "化祿": "天梁",
+          "化權": "紫微",
+          "化科": "左輔",
+          "化忌": "武曲"
+        },
+        "癸": {
+          "化祿": "破軍",
+          "化權": "巨門",
+          "化科": "太陰",
+          "化忌": "貪狼"
+        }
+      }
+    },
+    "calculation_logic": {
+      "step_a": "本命四化：sihua_complete_table[出生年天干]",
+      "step_b": "大限四化：sihua_complete_table[大限干天干]",
+      "step_c": "流年四化：sihua_complete_table[流年干天干]",
+      "layer_weights": {
+        "_layer_type": "MODERN_ENHANCEMENT_LAYER（非古典定數，嚴禁LLM混入古典解讀）",
+        "_source": "現代量化加權設計，非《紫微斗數全書》原文",
+        "本命": 1,
+        "大限": 2,
+        "流年": 3
+      },
+      "impact_multipliers": {
+        "_layer_type": "MODERN_ENHANCEMENT_LAYER（非古典定數）",
+        "_source": "現代風險評估係數，僅供現代解盤引擎使用",
+        "同一星三層均化忌": "× 3.0",
+        "任一化忌入命宮": "× 2.0",
+        "財帛+官祿同年雙忌": "× 1.5"
+      },
+      "classical_rule": {
+        "_layer_type": "CLASSICAL_RULE（《全書》原文定數）",
+        "priority": "古典層優先；MODERN_ENHANCEMENT_LAYER僅作輔助參考，不可覆蓋古典斷語"
+      }
+    },
+    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干因歷代分歧，本表依用戶指定鎖定文墨天機標準（化科=太陰／化忌=天同），與《全書》三合主流之天同化科／太陰化忌不同"
+  },
+  "S7b_zihua": {
+    "step": "S7b",
+    "name": "宮干引動（宮干四化回照本宮，俗稱自化）",
+    "purpose": "以各宮宮干（五虎遁）對本宮坐星查南派三合四化，若化曜即為本宮坐星則成宮干引動；屬三合盤可選用之輔助引動判讀",
+    "source_of_truth": "core_engine.dynamic_mathematical_formulas.21_zihua_self_transformation + sihua_matrix",
+    "calculation_logic": {
+      "step_a": "取本宮宮干 PalaceGan（由五虎遁月干法推得各宮天干）",
+      "step_b": "查 sihua_matrix[PalaceGan] 得祿/權/科/忌四星",
+      "step_c": "若化曜星落於本宮坐星，標記 自化祿/權/科/忌"
+    },
+    "types": {
+      "自化祿": "主動付出、向外流失",
+      "自化權": "自我擴張",
+      "自化科": "自我修飾",
+      "自化忌": "漏氣自損，凶象"
+    },
+    "assertion": "只比對本宮宮干四化星與本宮坐星，不得跨宮誤判",
+    "layer_note": "宮干引動建基於南派三合《全書》之宮干（五虎遁）與四化；屬三合盤可選輔助層，「自化」一名為後世引申、非《全書》原文名詞，不取飛星派互飛技法，亦不可覆蓋古典斷語"
+  },
+  "S8_dalian_xiaoxian": {
+    "step": "S8",
+    "name": "大限小限",
+    "purpose": "依五行局數N確定大限起始年齡，依性別順逆排布大限宮位；小限依出生年地支三合組確定起始地支，年長順/逆一宮",
+    "dynamic_formulas": {
+      "dalian": {
+        "AgeStart_k0": "N（五行局數，2-6）",
+        "male_shun": "DalianPalaceIdx(k) = k % 12",
+        "female_ni": "DalianPalaceIdx(k) = (12 - k) % 12",
+        "AgeStart_k": "N + k * 10",
+        "AgeEnd_k": "AgeStart_k + 9",
+        "assertion": "k from 0 to 9, 共10大限"
+      },
+      "xiaoxian": {
+        "start_source": "xiaoxian_start_table[BirthYearZhiIdx]",
+        "male_shun": "XiaoxianZhiIdx(Age) = (StartZhiIdx + (Age-1) + 12) % 12",
+        "female_ni": "XiaoxianZhiIdx(Age) = (StartZhiIdx - (Age-1) + 12 * 100) % 12",
+        "to_palace": "PalaceIdx = (XiaoxianZhiIdx - MingGongZhiIdx + 12) % 12",
+        "critical_note": "必須用 (x + 12*N) % 12 確保非負，禁用 S-Age 直接模運算"
+      }
+    },
+    "lookup_tables": {
+      "xiaoxian_start_table": {
+        "doc": "小限起始地支（男命）；依生年地支三合組硬編碼；全組一致",
+        "_source": "《紫微斗數全書》南派：申子辰起辰，寅午戌起戌，巳酉丑起丑，亥卯未起未",
+        "子(0)": {
+          "startZhiIdx": 4,
+          "startBranch": "辰",
+          "group": "申子辰"
+        },
+        "丑(1)": {
+          "startZhiIdx": 1,
+          "startBranch": "丑",
+          "group": "巳酉丑"
+        },
+        "寅(2)": {
+          "startZhiIdx": 10,
+          "startBranch": "戌",
+          "group": "寅午戌"
+        },
+        "卯(3)": {
+          "startZhiIdx": 7,
+          "startBranch": "未",
+          "group": "亥卯未"
+        },
+        "辰(4)": {
+          "startZhiIdx": 4,
+          "startBranch": "辰",
+          "group": "申子辰"
+        },
+        "巳(5)": {
+          "startZhiIdx": 1,
+          "startBranch": "丑",
+          "group": "巳酉丑"
+        },
+        "午(6)": {
+          "startZhiIdx": 10,
+          "startBranch": "戌",
+          "group": "寅午戌"
+        },
+        "未(7)": {
+          "startZhiIdx": 7,
+          "startBranch": "未",
+          "group": "亥卯未"
+        },
+        "申(8)": {
+          "startZhiIdx": 4,
+          "startBranch": "辰",
+          "group": "申子辰"
+        },
+        "酉(9)": {
+          "startZhiIdx": 1,
+          "startBranch": "丑",
+          "group": "巳酉丑"
+        },
+        "戌(10)": {
+          "startZhiIdx": 10,
+          "startBranch": "戌",
+          "group": "寅午戌"
+        },
+        "亥(11)": {
+          "startZhiIdx": 7,
+          "startBranch": "未",
+          "group": "亥卯未"
+        }
+      }
+    }
+  },
+  "S9_doujun_liuyue": {
+    "step": "S9",
+    "name": "斗君流月法",
+    "purpose": "流年太歲宮位確定後，以生月逆數、生時順數定斗君起點，逐月順數推算流月宮位",
+    "dynamic_formulas": {
+      "step1_taisui": {
+        "name": "流年太歲入命宮偏移",
+        "formula": "TaiSuiPalaceIdx = (FlowYearZhiIdx - MingGongZhiIdx + 12) % 12"
+      },
+      "step2_doujun": {
+        "name": "斗君宮位（太歲逆數生月、順數生時）",
+        "formula": "DouJunPalaceIdx = (TaiSuiPalaceIdx - BirthMonthIndex + BirthHourIndex + 24) % 12",
+        "note": "BirthMonthIndex: 寅月=0,卯=1,...,丑=11（0-based）；BirthHourIndex: 子時=0,丑=1,...,亥=11；《全書·安斗君訣》逆生月（減）、順生時（加）",
+        "_formula_lock": "斗君公式含 +BirthHourIndex（逆生月、順生時）"
+      },
+      "step3_flow_month": {
+        "name": "流月宮位（斗君順數）",
+        "formula": "FlowMonthPalaceIdx = (DouJunPalaceIdx + FlowMonthIndex) % 12",
+        "note": "FlowMonthIndex: 寅月=0"
+      }
+    },
+    "assertion": "0 <= BirthMonthIndex <= 11; 0 <= BirthHourIndex <= 11; 0 <= TaiSuiPalaceIdx <= 11; 0 <= DouJunPalaceIdx <= 11; 0 <= FlowMonthPalaceIdx <= 11",
+    "verification_case": {
+      "MingGongZhiIdx": 0,
+      "BirthMonthIndex": 2,
+      "BirthHourIndex": 0,
+      "FlowYearZhiIdx": 6,
+      "TaiSuiPalaceIdx": "(6-0+12)%12=6",
+      "DouJunPalaceIdx": "(6-2+0+24)%12=4",
+      "FlowMonth_寅": "(4+0)%12=4",
+      "FlowMonth_卯": "(4+1)%12=5"
+    },
+    "派別鎖定": "《全書·安斗君訣》：於太歲宮起正月逆至生月，再從生月起子順數至生時（逆生月減、順生時加）",
+    "leap_month_assertion": {
+      "rule": "三合星曜派閏月歸前月（mode_0）",
+      "formula": "IF isLeapMonth THEN BirthMonthIndex = regularMonthIndex（閏月前正月index，最大=11）",
+      "boundary": "BirthMonthIndex 取值範圍必須為 0-11；閏月時等同前月index，不得為12或13",
+      "HALT_condition": "IF BirthMonthIndex > 11 OR BirthMonthIndex < 0 THEN HALT('閏月index越界')"
+    },
+    "verification_cases": [
+      {
+        "case": "MingGong=子(0),生辰月(idx=2),生子時(idx=0),流年午(6)",
+        "TaiSui": "(6-0+12)%12=6",
+        "DouJun": "(6-2+0+24)%12=4",
+        "正月流月": "(4+0)%12=4",
+        "二月流月": "(4+1)%12=5"
+      },
+      {
+        "case": "可區分加減驗證：MingGong=子(0),生辰月(idx=2),生卯時(idx=3),流年午(6)",
+        "TaiSui": "(6-0+12)%12=6",
+        "DouJun": "(6-2+3+24)%12=7（順生時加；若誤用減則(6-2-3+24)%12=1，與《全書》不符）",
+        "正月流月": "(7+0)%12=7"
+      },
+      {
+        "case": "閏六月（=六月,idx=5）",
+        "BirthMonthIndex": "5（歸前月，不得為13）",
+        "assertion_check": "5<=11 PASS"
+      },
+      {
+        "case": "MingGong=卯(3),生寅月(idx=0),生午時(idx=6),流年子(0)",
+        "TaiSui": "(0-3+12+12)%12=9",
+        "DouJun": "(9-0+6+24)%12=3",
+        "正月流月": "(3+0)%12=3"
+      }
+    ]
+  },
+  "S10_qimen_xunshou": {
+    "step": "S10",
+    "name": "奇門尋首（定旬首）",
+    "purpose": "依時支與時干計算旬首地支，查表得六儀或三奇",
+    "dynamic_formulas": {
+      "XunshouZhiIdx": "XunshouZhiIdx = (ShiZhiIdx - ShiGanIdx + 12) % 12",
+      "assertion": "XunshouZhiIdx in [0,2,4,6,8,10]（偶數）"
+    },
+    "lookup_tables": {
+      "xunshou_liuyi_table": {
+        "doc": "key=旬首地支索引（偶數），value=六儀/三奇名稱及六儀索引",
+        "0": {
+          "name": "甲子旬",
+          "liuyi": "戊",
+          "liuyi_idx": 4
+        },
+        "10": {
+          "name": "甲戌旬",
+          "liuyi": "己",
+          "liuyi_idx": 5
+        },
+        "8": {
+          "name": "甲申旬",
+          "liuyi": "庚",
+          "liuyi_idx": 6
+        },
+        "6": {
+          "name": "甲午旬",
+          "liuyi": "辛",
+          "liuyi_idx": 7
+        },
+        "4": {
+          "name": "甲辰旬",
+          "liuyi": "壬",
+          "liuyi_idx": 8
+        },
+        "2": {
+          "name": "甲寅旬",
+          "liuyi": "癸",
+          "liuyi_idx": 9
+        }
+      }
+    },
+    "full_60_verification": {
+      "note": "60甲子中所有組合已在 v2.0 核心引擎驗證，計算結果一致",
+      "examples": [
+        {
+          "input": "ShiZhi=子(0),ShiGan=甲(0)",
+          "calc": "(0-0+12)%12=0",
+          "旬首": "甲子",
+          "六儀": "戊"
+        },
+        {
+          "input": "ShiZhi=寅(2),ShiGan=壬(8)",
+          "calc": "(2-8+12+12)%12=6",
+          "旬首": "甲午",
+          "六儀": "辛"
+        },
+        {
+          "input": "ShiZhi=亥(11),ShiGan=癸(9)",
+          "calc": "(11-9+12)%12=2",
+          "旬首": "甲寅",
+          "六儀": "癸"
+        }
+      ]
+    }
+  },
+  "S11_qimen_sanyuan": {
+    "step": "S11",
+    "name": "奇門三元定局",
+    "purpose": "依當日旬首地支（非日支）確定上/中/下元，結合當前節氣查表得局數(1-9)",
+    "lookup_tables": {
+      "sanyuan_lookup": {
+        "_doc": "依符頭（旬首）地支索引(偶數 0/2/4/6/8/10)→三元歸屬；以符頭地支 XunshouZhiIdx 為輸入源（非日柱地支 DayZhiIdx）",
+        "_mapping_rule": "子午卯酉=上元；寅申巳亥=中元；辰戌丑未=下元",
+        "0": "上元",
+        "1": "下元",
+        "2": "中元",
+        "3": "上元",
+        "4": "下元",
+        "5": "中元",
+        "6": "上元",
+        "7": "下元",
+        "8": "中元",
+        "9": "上元",
+        "10": "下元",
+        "11": "中元"
+      },
+      "ShangYuan_indices": [
+        0,
+        3,
+        6,
+        9
+      ],
+      "ZhongYuan_indices": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "XiaYuan_indices": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "jieqi_24_list": [
+        "小寒",
+        "大寒",
+        "立春",
+        "雨水",
+        "驚蟄",
+        "春分",
+        "清明",
+        "穀雨",
+        "立夏",
+        "小滿",
+        "芒種",
+        "夏至",
+        "小暑",
+        "大暑",
+        "立秋",
+        "處暑",
+        "白露",
+        "秋分",
+        "寒露",
+        "霜降",
+        "立冬",
+        "小雪",
+        "大雪",
+        "冬至"
+      ],
+      "jieqi_3yuan_ju_table": {
+        "doc": "key=節氣序號(0-23,小寒=0)，value=[上元局,中元局,下元局]",
+        "0": [
+          1,
+          7,
+          4
+        ],
+        "1": [
+          7,
+          4,
+          1
+        ],
+        "2": [
+          4,
+          1,
+          7
+        ],
+        "3": [
+          8,
+          5,
+          2
+        ],
+        "4": [
+          5,
+          2,
+          8
+        ],
+        "5": [
+          2,
+          8,
+          5
+        ],
+        "6": [
+          3,
+          9,
+          6
+        ],
+        "7": [
+          9,
+          6,
+          3
+        ],
+        "8": [
+          6,
+          3,
+          9
+        ],
+        "9": [
+          4,
+          1,
+          7
+        ],
+        "10": [
+          1,
+          7,
+          4
+        ],
+        "11": [
+          7,
+          4,
+          1
+        ],
+        "12": [
+          9,
+          3,
+          6
+        ],
+        "13": [
+          3,
+          6,
+          9
+        ],
+        "14": [
+          6,
+          9,
+          3
+        ],
+        "15": [
+          8,
+          5,
+          2
+        ],
+        "16": [
+          5,
+          2,
+          8
+        ],
+        "17": [
+          2,
+          8,
+          5
+        ],
+        "18": [
+          7,
+          1,
+          4
+        ],
+        "19": [
+          1,
+          4,
+          7
+        ],
+        "20": [
+          4,
+          7,
+          1
+        ],
+        "21": [
+          6,
+          9,
+          3
+        ],
+        "22": [
+          9,
+          3,
+          6
+        ],
+        "23": [
+          3,
+          6,
+          9
+        ]
+      },
+      "dun_type_rules": {
+        "陽遁": "冬至節氣後至夏至節氣前（含冬至當節氣），局數由小至大",
+        "陰遁": "夏至節氣後至冬至節氣前（含夏至當節氣），局數由大至小"
+      }
+    },
+    "calculation_logic": {
+      "step_a": "查 sanyuan_lookup[XunshouZhiIdx] → 三元歸屬(上/中/下)（以符頭地支為輸入源）",
+      "step_b": "三元歸屬→索引: 上元=0, 中元=1, 下元=2",
+      "step_c": "查 jieqi_3yuan_ju_table[當前節氣序號][三元索引(0/1/2)] → 局數(1-9)",
+      "step_d": "判斷陰遁/陽遁 → 結合局數確定地盤排布方向",
+      "jieqi_intra_hour": "IF currentTimestamp >= jieqiExactTimestamp THEN 使用新節氣局數"
+    },
+    "example": {
+      "XunshouZhiIdx": 8,
+      "符頭地支": "申（偶數旬首示例）",
+      "三元歸屬": "sanyuan_lookup[8]=中元（idx=1）",
+      "節氣序號假設": 19,
+      "節氣名": "霜降",
+      "ju": "jieqi_3yuan_ju_table[19][1]=4",
+      "result": "陽遁四局"
+    },
+    "sanyuan_input_rule": {
+      "doc": "拆補法三元判斷必須用旬首地支（XunshouZhiIdx），而非日柱地支（DayZhiIdx）",
+      "reason": "同一旬內日支每天不同，但旬首固定；若用日支則10日內結果混亂",
+      "XunshouZhiIdx_source": "從 S10_qimen_xunshou 計算結果取 XunshouZhiIdx",
+      "final_rule": "三元判斷使用旬首（符頭）地支 XunshouZhiIdx 為唯一輸入源"
+    }
+  },
+  "S12_qimen_panbuild": {
+    "step": "S12",
+    "name": "奇門排盤（三盤九宮完整布局）",
+    "purpose": "依陰/陽遁局數布地盤天干，旋轉天盤星，飛布人盤門，順/逆布八神",
+    "lookup_tables": {
+      "luoshu_9palace": {
+        "1": {
+          "name": "坎",
+          "element": "水",
+          "direction": "北",
+          "star": "天蓬",
+          "men": "休門"
+        },
+        "2": {
+          "name": "坤",
+          "element": "土",
+          "direction": "西南",
+          "star": "天芮",
+          "men": "死門"
+        },
+        "3": {
+          "name": "震",
+          "element": "木",
+          "direction": "東",
+          "star": "天衝",
+          "men": "傷門"
+        },
+        "4": {
+          "name": "巽",
+          "element": "木",
+          "direction": "東南",
+          "star": "天輔",
+          "men": "杜門"
+        },
+        "5": {
+          "name": "中宮",
+          "element": "土",
+          "direction": "中",
+          "star": "天禽(寄坤2)",
+          "men": "(無門)"
+        },
+        "6": {
+          "name": "乾",
+          "element": "金",
+          "direction": "西北",
+          "star": "天心",
+          "men": "開門"
+        },
+        "7": {
+          "name": "兌",
+          "element": "金",
+          "direction": "西",
+          "star": "天柱",
+          "men": "驚門"
+        },
+        "8": {
+          "name": "艮",
+          "element": "土",
+          "direction": "東北",
+          "star": "天任",
+          "men": "生門"
+        },
+        "9": {
+          "name": "離",
+          "element": "火",
+          "direction": "南",
+          "star": "天英",
+          "men": "景門"
+        }
+      },
+      "sanqi_table": {
+        "乙(idx=1)": {
+          "role": "日奇"
+        },
+        "丙(idx=2)": {
+          "role": "月奇"
+        },
+        "丁(idx=3)": {
+          "role": "星奇"
+        }
+      },
+      "yang_dun_ground_plate": {
+        "doc": "陽遁各局地盤：key=局數(1-9)，value={宮位:天干}，戊起值符宮順飛",
+        "1局": {
+          "1": "戊",
+          "2": "己",
+          "3": "庚",
+          "4": "辛",
+          "5": "壬",
+          "6": "癸",
+          "7": "丁",
+          "8": "丙",
+          "9": "乙"
+        },
+        "2局": {
+          "2": "戊",
+          "3": "己",
+          "4": "庚",
+          "5": "辛",
+          "6": "壬",
+          "7": "癸",
+          "8": "丁",
+          "9": "丙",
+          "1": "乙"
+        },
+        "3局": {
+          "3": "戊",
+          "4": "己",
+          "5": "庚",
+          "6": "辛",
+          "7": "壬",
+          "8": "癸",
+          "9": "丁",
+          "1": "丙",
+          "2": "乙"
+        },
+        "4局": {
+          "4": "戊",
+          "5": "己",
+          "6": "庚",
+          "7": "辛",
+          "8": "壬",
+          "9": "癸",
+          "1": "丁",
+          "2": "丙",
+          "3": "乙"
+        },
+        "5局": {
+          "5": "戊",
+          "6": "己",
+          "7": "庚",
+          "8": "辛",
+          "9": "壬",
+          "1": "癸",
+          "2": "丁",
+          "3": "丙",
+          "4": "乙"
+        },
+        "6局": {
+          "6": "戊",
+          "7": "己",
+          "8": "庚",
+          "9": "辛",
+          "1": "壬",
+          "2": "癸",
+          "3": "丁",
+          "4": "丙",
+          "5": "乙"
+        },
+        "7局": {
+          "7": "戊",
+          "8": "己",
+          "9": "庚",
+          "1": "辛",
+          "2": "壬",
+          "3": "癸",
+          "4": "丁",
+          "5": "丙",
+          "6": "乙"
+        },
+        "8局": {
+          "8": "戊",
+          "9": "己",
+          "1": "庚",
+          "2": "辛",
+          "3": "壬",
+          "4": "癸",
+          "5": "丁",
+          "6": "丙",
+          "7": "乙"
+        },
+        "9局": {
+          "9": "戊",
+          "1": "己",
+          "2": "庚",
+          "3": "辛",
+          "4": "壬",
+          "5": "癸",
+          "6": "丁",
+          "7": "丙",
+          "8": "乙"
+        }
+      },
+      "yin_dun_ground_plate": {
+        "doc": "陰遁各局地盤：戊起值符宮逆飛",
+        "1局": {
+          "9": "戊",
+          "8": "己",
+          "7": "庚",
+          "6": "辛",
+          "5": "壬",
+          "4": "癸",
+          "3": "丁",
+          "2": "丙",
+          "1": "乙"
+        },
+        "2局": {
+          "8": "戊",
+          "7": "己",
+          "6": "庚",
+          "5": "辛",
+          "4": "壬",
+          "3": "癸",
+          "2": "丁",
+          "1": "丙",
+          "9": "乙"
+        },
+        "3局": {
+          "7": "戊",
+          "6": "己",
+          "5": "庚",
+          "4": "辛",
+          "3": "壬",
+          "2": "癸",
+          "1": "丁",
+          "9": "丙",
+          "8": "乙"
+        },
+        "4局": {
+          "6": "戊",
+          "5": "己",
+          "4": "庚",
+          "3": "辛",
+          "2": "壬",
+          "1": "癸",
+          "9": "丁",
+          "8": "丙",
+          "7": "乙"
+        },
+        "5局": {
+          "5": "戊",
+          "4": "己",
+          "3": "庚",
+          "2": "辛",
+          "1": "壬",
+          "9": "癸",
+          "8": "丁",
+          "7": "丙",
+          "6": "乙"
+        },
+        "6局": {
+          "4": "戊",
+          "3": "己",
+          "2": "庚",
+          "1": "辛",
+          "9": "壬",
+          "8": "癸",
+          "7": "丁",
+          "6": "丙",
+          "5": "乙"
+        },
+        "7局": {
+          "3": "戊",
+          "2": "己",
+          "1": "庚",
+          "9": "辛",
+          "8": "壬",
+          "7": "癸",
+          "6": "丁",
+          "5": "丙",
+          "4": "乙"
+        },
+        "8局": {
+          "2": "戊",
+          "1": "己",
+          "9": "庚",
+          "8": "辛",
+          "7": "壬",
+          "6": "癸",
+          "5": "丁",
+          "4": "丙",
+          "3": "乙"
+        },
+        "9局": {
+          "1": "戊",
+          "9": "己",
+          "8": "庚",
+          "7": "辛",
+          "6": "壬",
+          "5": "癸",
+          "4": "丁",
+          "3": "丙",
+          "2": "乙"
+        }
+      },
+      "ba_shen_sequence": [
+        "值符",
+        "螣蛇",
+        "太陰",
+        "六合",
+        "白虎",
+        "玄武",
+        "九地",
+        "九天"
+      ],
+      "kun_2_redirect_rule": {
+        "doc": "若干支落中宮5，強制映射至坤宮2（天禽寄坤法）",
+        "rule": "IF target_palace == 5 THEN force_map to palace 2"
+      }
+    },
+    "calculation_logic": {
+      "step_a": "真太陽時 → 時支時干 → 節氣判斷陰/陽遁 → 三元 → 局數(1-9)",
+      "step_b": "地盤：查[陰/陽遁_ground_plate][局數] → 九宮各宮天干",
+      "step_c": "天盤：找時干在地盤所在宮(=值符宮)；值符宮原星飛至時干所在宮，其餘9星同步旋轉",
+      "step_d": "人盤八門：找時支在地盤對應宮(=值使宮)；值使門飛至該宮，其餘7門同步飛布",
+      "step_e": "八神：值符神起首，陽遁順飛/陰遁逆飛，布8神至8宮（中宮跳過）",
+      "output_contract": {
+        "per_palace": [
+          "palace_num",
+          "direction_label",
+          "ground_gan",
+          "heaven_xing",
+          "door",
+          "deity",
+          "special_flags"
+        ],
+        "special_flags_enum": [
+          "fuyin",
+          "fanyin",
+          "san_qi",
+          "liu_yi",
+          "zhifu",
+          "zhishi",
+          "wu_bu_yu_shi"
+        ]
+      },
+      "step_c_detail": {
+        "doc": "天盤旋轉詳細算法（防LLM誤讀）",
+        "step_c1": "在地盤中找時干（ShiGan）所在宮位 → ZhiFuPalaceNum（值符宮）",
+        "step_c2": "ZhiFuPalaceNum 對應的原始天星（九星之一）即為值符星",
+        "step_c3": "在地盤中找旬首天干（XunshouGan）所在宮位 → XunshouPalaceNum（旬首宮）",
+        "step_c4_rotate": {
+          "rule": "以值符星為基準，計算從 ZhiFuPalaceNum 旋轉至 XunshouPalaceNum 的偏移量",
+          "formula_yang": "旋轉偏移 offset = (XunshouPalaceNum - ZhiFuPalaceNum + 9) % 9（陽遁洛書順序）",
+          "formula_yin": "旋轉偏移 offset = (ZhiFuPalaceNum - XunshouPalaceNum + 9) % 9（陰遁逆序）",
+          "apply": "所有9星按同一偏移量同步旋轉至天盤各宮"
+        },
+        "luoshu_sequence_yang": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "luoshu_sequence_yin": [
+          9,
+          8,
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ],
+        "kun2_redirect": "中宮(5)無門無星，所有落中宮的天干/星強制映射至坤二宮(2)"
+      }
+    }
+  }
+}
