@@ -38,7 +38,8 @@
       "S5b 雜曜十二神（博士/長生/歲前/將前）＋天傷天使＋截路旬空＋天馬",
       "S7b 自化邏輯（宮干四化回照本宮）",
       "閏月採文墨天機「月中分界」預設；晚子時 lunar_day+=1（見 S1 late_zi_day_rollover）",
-      "辛干天魁鉞鎖定文墨天機「六辛逢虎馬(預設)」：魁寅鉞午"
+      "辛干天魁鉞鎖定文墨天機「六辛逢虎馬(預設)」：魁寅鉞午",
+      "S7 四化鎖定為「用層」入口：本命/大限/流年/流月/流日 + S7b 自化；體用並列 0.5:0.5；禁 12 宮互飛"
     ],
     "_purpose": "與 core_engine_v2.1 完全同步的計算步驟中介層：把 SSOT 公式／靜態表以 12 步S1~S12 完整展開，作解讀引擎（卷一／卷二）之前的標準化中介。"
   },
@@ -1202,11 +1203,13 @@
       "step_b": "大限四化：sihua_complete_table[大限干天干]",
       "step_c": "流年四化：sihua_complete_table[流年干天干]",
       "layer_weights": {
-        "_layer_type": "MODERN_ENHANCEMENT_LAYER（非古典定數，嚴禁LLM混入古典解讀）",
-        "_source": "現代量化加權設計，非《紫微斗數全書》原文",
-        "本命": 1,
-        "大限": 2,
-        "流年": 3
+        "_layer_type": "MODERN_ENHANCEMENT_LAYER（現代量化加權；不覆蓋古典斷語）",
+        "本命": 1.0,
+        "大限": 0.7,
+        "流年": 0.5,
+        "流月": 0.3,
+        "流日": 0.1,
+        "_note": "此為卷二現代壓測用之加權；卷一古典解讀不採此數值"
       },
       "impact_multipliers": {
         "_layer_type": "MODERN_ENHANCEMENT_LAYER（非古典定數）",
@@ -1218,9 +1221,40 @@
       "classical_rule": {
         "_layer_type": "CLASSICAL_RULE（《全書》原文定數）",
         "priority": "古典層優先；MODERN_ENHANCEMENT_LAYER僅作輔助參考，不可覆蓋古典斷語"
-      }
+      },
+      "step_d_flow_month": "流月四化：sihua_complete_table[流月干天干]",
+      "step_e_flow_day": "流日四化：sihua_complete_table[流日干天干]"
     },
-    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干因歷代分歧，本表依用戶指定鎖定文墨天機標準（化科=太陰／化忌=天同），與《全書》三合主流之天同化科／太陰化忌不同"
+    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干因歷代分歧，本表依用戶指定鎖定文墨天機標準（化科=太陰／化忌=天同），與《全書》三合主流之天同化科／太陰化忌不同",
+    "ti_yong_layered_lock": {
+      "_doc": "南體北用分層鎖（與 core.layered_interpretation_protocol 同步）：本 S7 為「用層」入口",
+      "body_school": "南派三合星曜派（見 S3~S6：主星/天府系/輔星/廟旺）",
+      "use_school": "北派四化飛星（本 S7 + S7b 自化）",
+      "use_scope_lock": [
+        "本命四化（YearGan）",
+        "大限四化（DalianGan）",
+        "流年四化（FlowYearGan）",
+        "流月四化（FlowMonthGan）",
+        "流日四化（FlowDayGan）",
+        "宮干自化（見 S7b_zihua）"
+      ],
+      "expansion_forbidden": "不擴充 12 宮宮干互飛；僅保留五層天干四化 + 本命宮干自化",
+      "weights": {
+        "body": 0.5,
+        "use": 0.5,
+        "sum": 1.0
+      },
+      "conflict_policy": {
+        "mode": "parallel_annotation",
+        "rule": "體用衝突並列標註（南派格局 vs 北派四化），不做單邊裁決；對應 dual_parallel F5",
+        "forbidden": "以用蓋體、以體蓋用、單邊裁決"
+      },
+      "interpretation_order": [
+        "step1_body_first: 先由 S3~S6 完成體層掃描（格局、廟旺、三方四正）",
+        "step2_use_overlay: 於本 S7 疊加五層四化與 S7b 自化",
+        "step3_parallel_mark: 體用衝突時並列輸出兩軌結論與底層依據"
+      ]
+    }
   },
   "S7b_zihua": {
     "step": "S7b",
