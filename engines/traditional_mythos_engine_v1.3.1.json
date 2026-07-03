@@ -67,8 +67,9 @@
   },
   "execution_position": {
     "upstream_required_engines": [
-      "ziwei_qimen_traditional_core_engine_v2.0.json",
-      "ziwei_qimen_full_compute_flow_v1.4.json"
+      "traditional_core_engine_v2.1.json",
+      "full_compute_flow_v1.4.json",
+      "interpretation_engine_v1.1.json"
     ],
     "consume_only_verified_core_outputs": true,
     "forbid_direct_formula_inference": true,
@@ -124,7 +125,9 @@
       "kun2_lock": "QM-K2-001",
       "final_board_lock": "QM-BD-001",
       "jieqi_timestamp_lock": "QM-JQ-001"
-    }
+    },
+    "_ssot_reference": "traditional_core_engine_v2.1.json",
+    "_leap_month_rule_ref": "mode_middle_split (文墨天機月中分界)"
   },
   "pattern_scanning_layer": {
     "classical_framework_library": {
@@ -587,10 +590,10 @@
       "classical_qimen_response": "string"
     },
     "traditional_narrative_text": {
-      "section_1": "【一、格局乾坤】...",
-      "section_2": "【二、氣運推移】...",
-      "section_3": "【三、吉凶藏機】...",
-      "section_4": "【四、趨吉避凶】..."
+      "section_1": "【一、格局乾坤】：主星格局、破格因素、命身主、三方四正支撐之古典敘事段落",
+      "section_2": "【二、氣運推移】：大限、流年、必要時流月之氣數轉折敘事段落",
+      "section_3": "【三、吉凶藏機】：吉處藏凶、凶中有救、奇門外應、潛在傾覆點之敘事段落",
+      "section_4": "【四、趨吉避凶】：修德、守時、避鋒、借力、一個具體下一步之敘事段落"
     },
     "next_action": "一個具體的下一步行動"
   },
@@ -603,5 +606,6 @@
     "A6": "不得重算命宮、身宮、五行局、紫微、天府、十四主星、斗君、奇門局數。",
     "A7": "若 current_jieqi_exact_timestamp、kun_2_redirect_rule、sihua_version_lock、leap_month_rule_mode 任一缺失，立即 HALT。",
     "A8": "任何留白、TODO、未定義口訣或無來源副曜定位，不得進入生產輸出。"
-  }
+  },
+  "_purpose": "卷一·正統古典解讀引擎：以南派三合星曜派《全書》格局為骨、四化派為輔，將 core_engine_v2.1 已定盤的宮位／主星／輔星／四化／奇門盤譯為古典命理敘事（格局乾坤／氣運推移／吉凶藏機／趨吉避凶）。只讀不算，禁重算 SSOT。"
 }

@@ -12,8 +12,9 @@
     "required": [
       "traditional_mythos_engine_v1.3.1.json",
       "modern_quantum_resonance_engine_v2.1.json",
-      "ziwei_qimen_interpretation_engine_v1.0.json",
-      "ziwei_qimen_full_compute_flow_v1.4.json"
+      "interpretation_engine_v1.1.json",
+      "full_compute_flow_v1.4.json",
+      "traditional_core_engine_v2.1.json"
     ],
     "shared_reference_contracts": [
       "ziweiqimeninterfacecontractv1",
@@ -340,5 +341,6 @@
       "calendar_conversion_failed",
       "assertion_failed"
     ]
-  }
+  },
+  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。"
 }

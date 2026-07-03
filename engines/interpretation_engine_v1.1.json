@@ -4,16 +4,16 @@
     "version": "1.1",
     "title": "完整計算步驟｜紫微斗數 × 奇門遁甲",
     "scope": "南派三合星曜派 + 奇門遁甲拆補法",
-    "ssot_dependency": "ziwei_qimen_traditional_core_engine_v2.0.json",
+    "ssot_dependency": "traditional_core_engine_v2.1.json",
     "anti_hallucination_protocol": [
       "定數全部硬編碼為靜態 Lookup Table，禁止 AI 公式推導",
       "變數採 0–11 純整數陣列，模運算 (mod 12) 表達順逆規律",
       "天府公式：紫微天府以寅申軸對稱，天府=(4 - ZiweiZhiIdx + 12) % 12（非子午軸 12-紫微）",
       "五行局由 v2.0 核心 03wuxingju 鏈式推導（命宮干支 → nayin60），禁用月干直接映射捷徑",
       "所有索引計算必須使用非負模運算：(x % 12 + 12) % 12",
-      "禁止在 JSON 內使用 ...、TODO、如此類推等省略符號"
+      "禁止在 JSON 內使用 ASCII 三點作省略符號、禁 TODO 佔位符、禁「等」字省略枚舉"
     ],
-    "last_updated": "2026-06-06",
+    "last_updated": "2026-07-04",
     "calculation_steps_order": [
       "S1_ming_shen_gong",
       "S2_wuxing_ju",
@@ -33,18 +33,20 @@
       "S11 三元映射：子午卯酉=上元 / 寅申巳亥=中元 / 辰戌丑未=下元",
       "S11 三元輸入源為符頭地支 XunshouZhiIdx（非 DayZhiIdx）",
       "S12 天盤旋轉步驟採明確算法",
-      "S8 小限起點表（三合組一致性）；S4 破軍 offset = +10（與核心引擎 07 一致）",
       "S7 四化層級權重標記 MODERN_ENHANCEMENT_LAYER",
       "庚干四化以文墨天機標準為唯一真值：太陰科、天同忌",
       "S5b 雜曜十二神（博士/長生/歲前/將前）＋天傷天使＋截路旬空＋天馬",
-      "S7b 自化邏輯（宮干四化回照本宮）"
-    ]
+      "S7b 自化邏輯（宮干四化回照本宮）",
+      "閏月採文墨天機「月中分界」預設；晚子時 lunar_day+=1（見 S1 late_zi_day_rollover）",
+      "辛干天魁鉞鎖定文墨天機「六辛逢虎馬(預設)」：魁寅鉞午"
+    ],
+    "_purpose": "與 core_engine_v2.1 完全同步的計算步驟中介層：把 SSOT 公式／靜態表以 12 步S1~S12 完整展開，作解讀引擎（卷一／卷二）之前的標準化中介。"
   },
   "S1_ming_shen_gong": {
     "step": "S1",
     "name": "安命宮身宮",
     "purpose": "依農曆生月（寅月=0起算）與生時（子=0起算）推算命宮、身宮所在地支索引",
-    "coordinate_note": "MonthIndex: 寅=0,卯=1,辰=2,巳=3,午=4,未=5,申=6,酉=7,戌=8,亥=9,子=10,丑=11 | HourIndex: 子=0,丑=1,...,亥=11",
+    "coordinate_note": "MonthIndex：寅=0、卯=1、辰=2、巳=3、午=4、未=5、申=6、酉=7、戌=8、亥=9、子=10、丑=11。HourIndex：子=0、丑=1、寅=2、卯=3、辰=4、巳=5、午=6、未=7、申=8、酉=9、戌=10、亥=11。",
     "dynamic_formulas": {
       "MingGongFromYin": "(MonthIndex - HourIndex + 12) % 12",
       "MingGongZhiIdx": "(MingGongFromYin + 2) % 12",
@@ -200,7 +202,6 @@
     "purpose": "依五行局數＋農曆生日（差數法）得紫微地支索引，再按固定偏移逆布天機、太陽、武曲、天同、廉貞（全逆行）",
     "lookup_tables": {
       "ziwei_position_table": {
-        "doc": "key=局數(整數2-6)，value=30個農曆日對應紫微地支索引(0-11)，全量硬編碼。依【差數法】古訣計算：q=ceil(生日/N); c=q*N-生日; steps=(q-c if c奇 else q+c); idx=(2+steps-1)%12。v1.1 原表為錯誤值，已用差數法重算並對 App 雙盤(金四26→戌、木三17→午)校驗訂正。",
         "局2": [
           1,
           2,
@@ -360,7 +361,8 @@
           8,
           5,
           6
-        ]
+        ],
+        "_doc": "key=局數(整數2-6)，value=30個農曆日對應紫微地支索引(0-11)，全量硬編碼。依【差數法】古訣計算：q=ceil(生日/N); c=q*N-生日; steps=(q-c if c奇 else q+c); idx=(2+steps-1)%12。v1.1 原表為錯誤值"
       }
     },
     "star_offsets": [
@@ -407,7 +409,6 @@
     "purpose": "紫微與天府宮位以寅申軸對稱（天府=(4-紫微+12)%12），由靜態映射表取天府索引，再順布7顆",
     "lookup_tables": {
       "ziwei_to_tianfu_idx": {
-        "doc": "key=ZiweiZhiIdx(0-11)，value=TianfuZhiIdx(0-11)，全量硬編碼。寅申軸對稱：天府=(4-紫微+12)%12。v1.1 原為子午軸(12-紫微)錯誤，已訂正。",
         "0": 4,
         "1": 3,
         "2": 2,
@@ -419,7 +420,8 @@
         "8": 8,
         "9": 7,
         "10": 6,
-        "11": 5
+        "11": 5,
+        "_doc": "紫微地支 index → 天府地支 index 靜態表；寅申軸對稱公式 (4-紫微+12)%12 之預計算結果。禁用 (12-紫微) 或 (10-紫微) 兩式。"
       }
     },
     "star_offsets": [
@@ -536,7 +538,7 @@
         "12": "亥"
       },
       "tiankui_by_year_gan": {
-        "doc": "天魁：依生年天干",
+        "doc": "天魁依生年天干；辛干依文墨天機 App 預設「六辛逢虎馬」鎖定為魁寅。",
         "甲": "丑",
         "戊": "丑",
         "庚": "丑",
@@ -544,12 +546,12 @@
         "己": "子",
         "丙": "亥",
         "丁": "亥",
-        "辛": "午",
+        "辛": "寅",
         "壬": "卯",
         "癸": "卯"
       },
       "tianyue_by_year_gan": {
-        "doc": "天鉞：依生年天干",
+        "doc": "天鉞依生年天干；辛干依文墨天機 App 預設「六辛逢虎馬」鎖定為鉞午。",
         "甲": "未",
         "戊": "未",
         "庚": "未",
@@ -557,7 +559,7 @@
         "己": "申",
         "丙": "酉",
         "丁": "酉",
-        "辛": "寅",
+        "辛": "午",
         "壬": "巳",
         "癸": "巳"
       },
@@ -616,7 +618,7 @@
         "未": "巳"
       },
       "huoxing_by_year_zhi_group": {
-        "doc": "火星：先查生年地支三合組，再依生時地支查宮位。起點古訣：寅午戌→丑、申子辰→寅、巳酉丑→卯、亥卯未→酉，子時起順數至生時。v1.1 原寅午戌/巳酉丑兩組起點錯誤，已訂正。",
+        "doc": "火星依年支三合組取起點（寅午戌→丑、申子辰→寅、巳酉丑→卯、亥卯未→酉），子時起順數至生時。以下為預計算表。",
         "年支三合組對照": {
           "寅午戌": "寅午戌組",
           "申子辰": "申子辰組",
@@ -681,7 +683,7 @@
         }
       },
       "lingxing_by_year_zhi_group": {
-        "doc": "鈴星：先查生年地支三合組，再依生時地支查宮位。起點古訣：寅午戌→卯、申子辰→戌、巳酉丑→戌、亥卯未→戌，子時起順數至生時。v1.1 原寅午戌/巳酉丑/亥卯未三組起點錯誤，已訂正。",
+        "doc": "鈴星依年支三合組取起點（寅午戌→卯、申子辰→戌、巳酉丑→戌、亥卯未→戌），子時起順數至生時。以下為預計算表。",
         "年支三合組對照": {
           "寅午戌": "寅午戌組",
           "申子辰": "申子辰組",
@@ -1339,7 +1341,7 @@
       "step2_doujun": {
         "name": "斗君宮位（太歲逆數生月、順數生時）",
         "formula": "DouJunPalaceIdx = (TaiSuiPalaceIdx - BirthMonthIndex + BirthHourIndex + 24) % 12",
-        "note": "BirthMonthIndex: 寅月=0,卯=1,...,丑=11（0-based）；BirthHourIndex: 子時=0,丑=1,...,亥=11；《全書·安斗君訣》逆生月（減）、順生時（加）",
+        "note": "BirthMonthIndex：寅月=0、卯月=1、辰月=2、巳月=3、午月=4、未月=5、申月=6、酉月=7、戌月=8、亥月=9、子月=10、丑月=11（0-based）；BirthHourIndex：子時=0、丑=1、寅=2、卯=3、辰=4、巳=5、午=6、未=7、申=8、酉=9、戌=10、亥=11。《全書·安斗君訣》：逆生月（減）、順生時（加）。",
         "_formula_lock": "斗君公式含 +BirthHourIndex（逆生月、順生時）"
       },
       "step3_flow_month": {
@@ -1359,11 +1361,11 @@
       "FlowMonth_寅": "(4+0)%12=4",
       "FlowMonth_卯": "(4+1)%12=5"
     },
-    "派別鎖定": "《全書·安斗君訣》：於太歲宮起正月逆至生月，再從生月起子順數至生時（逆生月減、順生時加）",
+    "派別鎖定": "《全書·安斗君訣》：於太歲宮起正月逆至生月，再從生月起子順數至生時（逆生月減、順生時加）；閏月規則依用戶指定文墨天機 App 預設「月中分界」。",
     "leap_month_assertion": {
-      "rule": "三合星曜派閏月歸前月（mode_0）",
-      "formula": "IF isLeapMonth THEN BirthMonthIndex = regularMonthIndex（閏月前正月index，最大=11）",
-      "boundary": "BirthMonthIndex 取值範圍必須為 0-11；閏月時等同前月index，不得為12或13",
+      "rule": "三合星曜派閏月採「月中分界」(mode_middle_split)：閏N月上半歸N月、下半歸N+1月",
+      "formula": "IF isLeapMonth THEN IF lunar_day <= 15 THEN BirthMonthIndex = regularMonthIndex ELSE BirthMonthIndex = (regularMonthIndex + 1) % 12",
+      "boundary": "BirthMonthIndex 取值範圍必須為 0-11；跨界必經模 12 收斂",
       "HALT_condition": "IF BirthMonthIndex > 11 OR BirthMonthIndex < 0 THEN HALT('閏月index越界')"
     },
     "verification_cases": [
@@ -1381,9 +1383,10 @@
         "正月流月": "(7+0)%12=7"
       },
       {
-        "case": "閏六月（=六月,idx=5）",
-        "BirthMonthIndex": "5（歸前月，不得為13）",
-        "assertion_check": "5<=11 PASS"
+        "case": "閏六月上半（初一~十五）→歸六月(idx=5)；閏六月下半（十六~月末）→歸七月(idx=6)",
+        "assertion_check": "5<=11 且 6<=11 PASS",
+        "BirthMonthIndex_望前": 5,
+        "BirthMonthIndex_望後": 6
       },
       {
         "case": "MingGong=卯(3),生寅月(idx=0),生午時(idx=6),流年子(0)",
@@ -1466,20 +1469,14 @@
     "purpose": "依當日旬首地支（非日支）確定上/中/下元，結合當前節氣查表得局數(1-9)",
     "lookup_tables": {
       "sanyuan_lookup": {
-        "_doc": "依符頭（旬首）地支索引(偶數 0/2/4/6/8/10)→三元歸屬；以符頭地支 XunshouZhiIdx 為輸入源（非日柱地支 DayZhiIdx）",
+        "_doc": "拆補法三元查表：以符頭（旬首）地支 XunshouZhiIdx 為輸入源（必為偶數 0/2/4/6/8/10）。子午卯酉→上元、寅申巳亥→中元、辰戌丑未→下元。奇數 index 於拆補法無定義。",
         "_mapping_rule": "子午卯酉=上元；寅申巳亥=中元；辰戌丑未=下元",
         "0": "上元",
-        "1": "下元",
         "2": "中元",
-        "3": "上元",
         "4": "下元",
-        "5": "中元",
         "6": "上元",
-        "7": "下元",
         "8": "中元",
-        "9": "上元",
-        "10": "下元",
-        "11": "中元"
+        "10": "下元"
       },
       "ShangYuan_indices": [
         0,

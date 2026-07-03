@@ -2,7 +2,7 @@
   "$schema": "ziwei_qimen_fengshui_layout_module_v0.1",
   "module_id": "qimen_fengshui_layout_v0.1",
   "version": "0.1",
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-07-04",
   "title": "奇門遁甲風水佈局模組（擺物件催旺化煞）— core_engine_v2.1 下游消費層",
   "positioning": "純下游消費層：只讀 core_engine_v2.1 已定之奇門盤（局數/九宮天盤地盤門神）與 zhi_to_qimen_luoshu_mapping，依五行生剋判定催旺/化煞物件。嚴禁重算起局、嚴禁覆蓋上游 SSOT。",
   "isolation_and_safety": {
@@ -332,5 +332,7 @@
     ],
     "forbidden_zone_rule": "正南五黃位：action=禁區迴避，objects=[]，risk_note=『血光大凶，切勿擺設動土』"
   },
-  "closing_tag": "奇門風水佈局模組 v0.1｜純下游消費層｜查表唯一真值｜五黃絕對禁區｜五行生剋程序判定｜precisionGate fail-closed｜2026飛星鎖定"
+  "closing_tag": "奇門風水佈局模組 v0.1｜純下游消費層｜查表唯一真值｜五黃絕對禁區｜五行生剋程序判定｜precisionGate fail-closed｜2026飛星鎖定",
+  "_purpose": "純下游消費層：僅讀 core_engine_v2.1 已定之奇門盤（局數／九宮天盤地盤門神）與 zhi_to_qimen_luoshu_mapping，依五行生剋與 2026 丙午年九宮飛星，程序化選擇「催旺／化煞／禁區迴避」物件；嚴禁重算起局，正南五黃絕對禁區。",
+  "upstream_ssot": "traditional_core_engine_v2.1.json"
 }

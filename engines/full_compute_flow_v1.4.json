@@ -4,9 +4,9 @@
   "title": "紫微奇門雙引擎完整運算流水線（Opcode版流程規格書）",
   "purpose": "將使用者輸入轉為可執行的拓撲排序運算規格；每一步驟皆明確聲明依賴、輸入、公式引用、輸出與斷言",
   "binding_core_engine": {
-    "engine_file": "ziwei_qimen_traditional_core_engine_v2.0.json",
-    "engine_version": "2.0.0",
-    "rule": "本流程規格不得繞過 v2.0 SSOT；所有靜態表與公式僅可由 v2.0_json_formula_ref 指向"
+    "engine_file": "traditional_core_engine_v2.1.json",
+    "engine_version": "2.1.0",
+    "rule": "本流程不得繞過 v2.1 SSOT；所有靜態表與公式僅可由 v2.1_json_formula_ref 指向。"
   },
   "global_execution_contract": {
     "topology_rule": "必須嚴格按 op_sequence 由小到大執行；任何 op_block 不可跳步執行",
@@ -45,7 +45,7 @@
       "calendar_mode": "astronomical_solar_terms_strict",
       "qimen_method": "shijia_qimen_chaibu",
       "ziwei_method": "sanhe_nanfang_xingyao + doujun_liuyue",
-      "leap_month_rule_mode": "sanhe_star_school"
+      "leap_month_rule_mode": "sanhe_star_school_middle_split"
     },
     "birth_longitude": "number, east positive, required for true solar time correction",
     "current_flow_longitude": "number, east positive, required for exact jieqi boundary validation"
@@ -93,7 +93,6 @@
         "user_inputs.birth_longitude",
         "user_inputs.current_flow_longitude"
       ],
-      "v2.0_json_formula_ref": [],
       "external_engine_required": [
         "astronomical solar longitude solver",
         "24 jieqi boundary finder",
@@ -156,7 +155,8 @@
         "current_jieqi_exact_timestamp": "ISO-8601 datetime string with timezone",
         "next_jieqi": "24節氣之一",
         "next_jieqi_exact_timestamp": "ISO-8601 datetime string with timezone"
-      }
+      },
+      "v2.1_json_formula_ref": []
     },
     {
       "op_id": "OP02",
@@ -171,13 +171,10 @@
         "OP01.birth_lunar_month",
         "OP01.birth_hour_zhi_idx"
       ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.01_mingshengong"
-      ],
       "algorithm": {
         "normalization": [
-          "MonthIndex = birth_lunar_month - 1  （寅月=0, 卯月=1, ..., 丑月=11）",
-          "HourIndex = birth_hour_zhi_idx  （子=0, ..., 亥=11）"
+          "MonthIndex = birth_lunar_month - 1  （寅月=0、卯月=1、辰月=2、巳月=3、午月=4、未月=5、申月=6、酉月=7、戌月=8、亥月=9、子月=10、丑月=11）",
+          "HourIndex = birth_hour_zhi_idx  （子=0、丑=1、寅=2、卯=3、辰=4、巳=5、午=6、未=7、申=8、酉=9、戌=10、亥=11）"
         ],
         "formulas": [
           "MingGongFromYin = (MonthIndex - HourIndex + 12) % 12",
@@ -197,7 +194,10 @@
         "shengong_from_yin": "0-11",
         "minggong_zhi_idx": "0-11",
         "shengong_zhi_idx": "0-11"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.01_mingshengong"
+      ]
     },
     {
       "op_id": "OP03",
@@ -211,11 +211,6 @@
       "reads_from": [
         "OP01.birth_year_gan_idx",
         "OP02.minggong_from_yin"
-      ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.02_wuhu_dun",
-        "global_coordinate_system.stems_by_index",
-        "global_coordinate_system.branches_by_index"
       ],
       "algorithm": {
         "formulas": [
@@ -306,7 +301,12 @@
           }
         ],
         "minggong_ganzhi": "由 minggong_zhi_idx 在上表中定位得到"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.02_wuhu_dun",
+        "global_coordinate_system.stems_by_index",
+        "global_coordinate_system.branches_by_index"
+      ]
     },
     {
       "op_id": "OP04",
@@ -320,10 +320,6 @@
       "topology_position": 4,
       "reads_from": [
         "OP03.minggong_ganzhi"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.nayin_60",
-        "dynamic_mathematical_formulas.03_wuxing_ju"
       ],
       "algorithm": {
         "lookup_rule": "以命宮完整干支字串作為 key，直接查 static_lookup_tables.nayin_60[key]。",
@@ -341,7 +337,11 @@
         "minggong_nayin_name": "納音名",
         "wuxing_ju_number": "2|3|4|5|6",
         "wuxing_ju_label": "水二局|木三局|金四局|土五局|火六局"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.nayin_60",
+        "dynamic_mathematical_formulas.03_wuxing_ju"
+      ]
     },
     {
       "op_id": "OP05",
@@ -356,13 +356,6 @@
       "reads_from": [
         "OP01.birth_lunar_day",
         "OP04.wuxing_ju_number"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.ziwei_position_table",
-        "dynamic_mathematical_formulas.04_ziwei_position",
-        "dynamic_mathematical_formulas.05_tianfu_mirror",
-        "dynamic_mathematical_formulas.06_star_placement_ziwei_system",
-        "dynamic_mathematical_formulas.07_star_placement_tianfu_system"
       ],
       "algorithm": {
         "note": "安紫微採【差數法／日數法】（依五行局數與農曆生日，非生月）：q=ceil(生日/N); c=q*N-生日; steps=(q-c if c奇 else q+c); ZiweiZhiIdx=(2+steps-1)%12。v1.4 原『局×月查表法』為錯誤，已改為差數法並對 App 雙盤校驗。",
@@ -397,7 +390,13 @@
           "七殺": "0-11",
           "破軍": "0-11"
         }
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.04_ziwei_position",
+        "dynamic_mathematical_formulas.05_tianfu_mirror",
+        "dynamic_mathematical_formulas.06_star_placement_ziwei_system",
+        "dynamic_mathematical_formulas.07_star_placement_tianfu_system"
+      ]
     },
     {
       "op_id": "OP06",
@@ -423,29 +422,6 @@
         "OP04.wuxing_ju",
         "OP01.birth_gender_yinyang",
         "OP08.liunian_taisui_zhi_idx"
-      ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.08_auxiliary_stars",
-        "static_lookup_tables.tiankui_tianyue_table",
-        "static_lookup_tables.luzun_qingyang_tuoluo_table",
-        "static_lookup_tables.huoxing_start_table",
-        "static_lookup_tables.lingxing_start_table",
-        "static_lookup_tables.sihua_matrix",
-        "static_lookup_tables.shenzhu_table",
-        "static_lookup_tables.mingzhu_table",
-        "dynamic_mathematical_formulas.15_boshi_12shen",
-        "dynamic_mathematical_formulas.16_changsheng_12shen",
-        "dynamic_mathematical_formulas.17_suiqian_12shen",
-        "dynamic_mathematical_formulas.18_jiangqian_12shen",
-        "dynamic_mathematical_formulas.19_tianshang_tianshi",
-        "dynamic_mathematical_formulas.20_jielu_kongwang_xunkong",
-        "dynamic_mathematical_formulas.21_zihua_self_transformation",
-        "static_lookup_tables.tianma_table",
-        "static_lookup_tables.boshi_12_sequence",
-        "static_lookup_tables.changsheng_12_sequence",
-        "static_lookup_tables.changsheng_start_by_ju",
-        "static_lookup_tables.suiqian_12_sequence",
-        "static_lookup_tables.jiangqian_12_sequence"
       ],
       "algorithm": {
         "substeps": [
@@ -513,7 +489,30 @@
         "jielu_kongwang": "[zhi_idx, zhi_idx]",
         "xunkong": "[zhi_idx, zhi_idx]",
         "zihua_per_palace": "各宮自化祿/權/科/忌標記"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.08_auxiliary_stars",
+        "static_lookup_tables.tiankui_tianyue_table",
+        "static_lookup_tables.luzun_qingyang_tuoluo_table",
+        "static_lookup_tables.huoxing_start_table",
+        "static_lookup_tables.lingxing_start_table",
+        "static_lookup_tables.sihua_matrix",
+        "static_lookup_tables.shenzhu_table",
+        "static_lookup_tables.mingzhu_table",
+        "dynamic_mathematical_formulas.15_boshi_12shen",
+        "dynamic_mathematical_formulas.16_changsheng_12shen",
+        "dynamic_mathematical_formulas.17_suiqian_12shen",
+        "dynamic_mathematical_formulas.18_jiangqian_12shen",
+        "dynamic_mathematical_formulas.19_tianshang_tianshi",
+        "dynamic_mathematical_formulas.20_jielu_kongwang_xunkong",
+        "dynamic_mathematical_formulas.21_zihua_self_transformation",
+        "static_lookup_tables.tianma_table",
+        "static_lookup_tables.boshi_12_sequence",
+        "static_lookup_tables.changsheng_12_sequence",
+        "static_lookup_tables.changsheng_start_by_ju",
+        "static_lookup_tables.suiqian_12_sequence",
+        "static_lookup_tables.jiangqian_12_sequence"
+      ]
     },
     {
       "op_id": "OP07",
@@ -530,9 +529,6 @@
         "OP04.wuxing_ju_number",
         "user_inputs.gender",
         "OP01.birth_year_gan"
-      ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.09_dalian"
       ],
       "algorithm": {
         "direction_rule": [
@@ -614,7 +610,10 @@
             "age_end": "N+119"
           }
         ]
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.09_dalian"
+      ]
     },
     {
       "op_id": "OP08",
@@ -634,10 +633,6 @@
         "OP02.minggong_zhi_idx",
         "user_inputs.gender",
         "OP01.current_day_zhi_idx"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.xiaoxian_start_table",
-        "dynamic_mathematical_formulas.10_xiaoxian"
       ],
       "algorithm": {
         "substeps": [
@@ -659,7 +654,11 @@
         "xiaoxian_palace_index": "0-11",
         "liunian_taisui_zhi_idx": "0-11",
         "xiaoxian_start_table_version_lock": "static_lookup_tables.xiaoxian_start_table"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.xiaoxian_start_table",
+        "dynamic_mathematical_formulas.10_xiaoxian"
+      ]
     },
     {
       "op_id": "OP09",
@@ -676,17 +675,14 @@
         "OP01.birth_lunar_month",
         "OP01.birth_hour_zhi_idx"
       ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.11_doujun_liuyue"
-      ],
       "algorithm": {
-        "note": "斗君流月採《全書·安斗君訣》：先取流年太歲宮，於太歲宮起正月逆至生月，再從生月起子順數至生時定斗君（逆生月減、順生時加）；閏月規則由 sanhe_star_school 鎖定。",
+        "note": "斗君流月採《全書·安斗君訣》：先取流年太歲宮，於太歲宮起正月逆至生月，再從生月起子順數至生時（逆生月減、順生時加）；閏月規則採文墨天機「月中分界」預設。",
         "substeps": [
           "1. BirthMonthIndex = birth_lunar_month - 1；BirthHourIndex = birth_hour_zhi_idx（子時=0）。",
           "2. TaiSuiPalaceIdx = (current_flow_year_zhi_idx - minggong_zhi_idx + 12) % 12。",
           "3. DouJunPalaceIdx = (TaiSuiPalaceIdx - BirthMonthIndex + BirthHourIndex + 24) % 12。",
           "4. 以 DouJunPalaceIdx 為正月起點順數 12 個流月落宮。",
-          "5. 若 birth_is_leap_month = true，依 leap_month_rule_mode = sanhe_star_school 輸出 leap_month_handling 與 intercalary branch。"
+          "5. 若 birth_is_leap_month = true，依 leap_month_rule_mode = sanhe_star_school_middle_split（月中分界）輸出 leap_month_handling：望前歸本月、望後歸次月，並附 intercalary branch。"
         ],
         "assertions": [
           "DoujunIndex 必在 0-11。",
@@ -696,7 +692,7 @@
       "declared_outputs": {
         "taisui_palace_idx": "0-11",
         "doujun_palace_idx": "0-11",
-        "leap_month_rule_mode": "sanhe_star_school",
+        "leap_month_rule_mode": "sanhe_star_school_middle_split",
         "leap_month_handling": "defined branch result",
         "flow_month_palace_axis": {
           "1": "0-11",
@@ -712,7 +708,10 @@
           "11": "0-11",
           "12": "0-11"
         }
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.11_doujun_liuyue"
+      ]
     },
     {
       "op_id": "OP10",
@@ -726,11 +725,6 @@
       "reads_from": [
         "OP01.current_hour_gan_idx",
         "OP01.current_hour_zhi_idx"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.san_yuan_lookup",
-        "dynamic_mathematical_formulas.12_qimen_xunshou",
-        "dynamic_mathematical_formulas.13_qimen_sanyuan"
       ],
       "algorithm": {
         "note": "拆補法三元以符頭（旬首）地支 XunshouZhiIdx 為輸入源（非日柱地支）；XunshouZhiIdx 可由 OP01 時干支獨立算出，不需待 OP13 值符值使演布。",
@@ -748,7 +742,12 @@
       "declared_outputs": {
         "xunshou_zhi_idx": "0|2|4|6|8|10",
         "qimen_sanyuan": "上元|中元|下元"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.san_yuan_lookup",
+        "dynamic_mathematical_formulas.12_qimen_xunshou",
+        "dynamic_mathematical_formulas.13_qimen_sanyuan"
+      ]
     },
     {
       "op_id": "OP11",
@@ -765,10 +764,6 @@
         "OP01.current_dun_type",
         "OP10.qimen_sanyuan"
       ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.jieqi_3yuan_ju_table",
-        "dynamic_mathematical_formulas.13_qimen_sanyuan"
-      ],
       "algorithm": {
         "lookup_rule": "以 [current_dun_type][current_jieqi][qimen_sanyuan] 三層 key 查唯一局數。",
         "assertions": [
@@ -782,7 +777,11 @@
         "qimen_ju_number": "1-9",
         "qimen_layout_command": "例如：陽遁七局",
         "qimen_ju_source": "current_jieqi + qimen_sanyuan"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.jieqi_3yuan_ju_table",
+        "dynamic_mathematical_formulas.13_qimen_sanyuan"
+      ]
     },
     {
       "op_id": "OP12",
@@ -796,10 +795,6 @@
       "reads_from": [
         "OP11.qimen_dun_type",
         "OP11.qimen_ju_number"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.san_qi_table",
-        "static_lookup_tables.xunshou_liu_yi_table"
       ],
       "algorithm": {
         "ground_stems_order": [
@@ -836,7 +831,11 @@
           "8": "戊|己|庚|辛|壬|癸|丁|丙|乙",
           "9": "戊|己|庚|辛|壬|癸|丁|丙|乙"
         }
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.san_qi_table",
+        "static_lookup_tables.xunshou_liu_yi_table"
+      ]
     },
     {
       "op_id": "OP12_5",
@@ -845,9 +844,6 @@
       "dependencies": [],
       "topology_position": 12.5,
       "reads_from": [],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.luoshu_9palace"
-      ],
       "algorithm": {
         "lookup_rule": "直接載入九宮本位映射，作為值符/值使檢索基準，不受轉盤結果污染。",
         "assertions": [
@@ -903,7 +899,10 @@
             "door": "景門"
           }
         }
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.luoshu_9palace"
+      ]
     },
     {
       "op_id": "OP13",
@@ -921,10 +920,6 @@
         "OP01.current_hour_zhi_idx",
         "OP12.dipan_stem_allocation",
         "OP12_5.jiugong_original_lodging_table"
-      ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.12_qimen_xunshou",
-        "static_lookup_tables.xunshou_liu_yi_table"
       ],
       "algorithm": {
         "substeps": [
@@ -945,7 +940,11 @@
         "xunshou_liu_yi_palace": "1-9",
         "zhifu_star": "天蓬|天芮|天沖|天輔|天禽|天心|天柱|天任|天英",
         "zhishi_door": "休門|死門|傷門|杜門|開門|驚門|生門|景門"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.12_qimen_xunshou",
+        "static_lookup_tables.xunshou_liu_yi_table"
+      ]
     },
     {
       "op_id": "OP14",
@@ -965,9 +964,6 @@
         "OP13.xunshou_liu_yi",
         "OP13.xunshou_liu_yi_palace",
         "OP13.zhifu_star"
-      ],
-      "v2.0_json_formula_ref": [
-        "dynamic_mathematical_formulas.14_qimen_kundi_assertion"
       ],
       "algorithm": {
         "substeps": [
@@ -998,7 +994,10 @@
         },
         "tianpan_target_palace": "1-9",
         "kun_2_redirect_rule": "boolean"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "dynamic_mathematical_formulas.14_qimen_kundi_assertion"
+      ]
     },
     {
       "op_id": "OP15",
@@ -1018,10 +1017,6 @@
         "OP13.zhishi_door",
         "OP13.xunshou_liu_yi_palace",
         "OP14.tianpan_star_allocation"
-      ],
-      "v2.0_json_formula_ref": [
-        "static_lookup_tables.luoshu_9palace",
-        "dynamic_mathematical_formulas.14_qimen_kundi_assertion"
       ],
       "algorithm": {
         "substeps": [
@@ -1058,7 +1053,12 @@
           "九天": "1-9"
         },
         "final_qimen_board": "per-palace groundgan/heavenxing/door/deity/flags"
-      }
+      },
+      "v2.1_json_formula_ref": [
+        "static_lookup_tables.luoshu_9palace",
+        "dynamic_mathematical_formulas.14_qimen_kundi_assertion"
+      ]
     }
-  ]
+  ],
+  "_purpose": "端到端計算流水線（Opcode 拓撲）：串接 core_engine_v2.1 之 SSOT，輸出可執行的紫微＋奇門雙引擎完整計算契約；含真太陽時、交節精確時刻、precisionGate、時空橋樑。"
 }

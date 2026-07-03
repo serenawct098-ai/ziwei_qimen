@@ -72,9 +72,9 @@
   },
   "execution_position": {
     "upstream_required_engines": [
-      "ziwei_qimen_traditional_core_engine_v2.0.json",
-      "ziwei_qimen_full_compute_flow_v1.4.json",
-      "ziwei_qimen_interpretation_engine_v1.0.json"
+      "traditional_core_engine_v2.1.json",
+      "full_compute_flow_v1.4.json",
+      "interpretation_engine_v1.1.json"
     ],
     "consume_only_verified_core_outputs": true,
     "forbid_direct_formula_inference": true,
@@ -495,5 +495,6 @@
     "酉": 7,
     "戌": 6,
     "亥": 6
-  }
+  },
+  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。"
 }
