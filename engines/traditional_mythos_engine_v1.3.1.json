@@ -466,6 +466,7 @@
       "P05_translate_energy_density_to_qishu",
       "P06_translate_blindspot_to_classical_risk",
       "P07_apply_sihua_classical_weighting",
+      "P07b_ti_yong_layered_scan",
       "P08_integrate_decade_annual_flow",
       "P09_translate_qimen_outer_response",
       "P10_compose_classical_sections",
@@ -572,6 +573,20 @@
       "P00B_sandbox_enumeration_gate": {
         "purpose": "以全量枚舉測試結果作為生成前置閘門，未通過則 HALT。",
         "fail_closed": true
+      },
+      "P07b_ti_yong_layered_scan": {
+        "purpose": "南體北用分層掃描：先體（格局/星性/三方四正）後用（四化五層+自化），體用並列標註",
+        "rules": [
+          "step1_body_scan: 依南派三合掃描格局、廟旺、三方四正、六吉六煞",
+          "step2_use_scan: 依北派四化掃描本命/大限/流年/流月/流日四化落宮與自化",
+          "step3_parallel_mark: 體用衝突時並列標註兩軌結論，不做單邊裁決",
+          "weight_lock: body=0.5, use=0.5"
+        ],
+        "outputs": [
+          "body_findings",
+          "use_findings",
+          "ti_yong_parallel_annotations"
+        ]
       }
     }
   },

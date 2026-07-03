@@ -208,7 +208,7 @@
       "F2": "先輸出傳統卷，再輸出現代卷。",
       "F3": "傳統卷不得被現代分數語言污染。",
       "F4": "現代卷不得被古典吉凶修辭污染。",
-      "F5": "若雙軌對同一宮域結論方向相反，保留兩者並加註視角差異與底層依據。",
+      "F5": "若雙軌對同一宮域結論方向相反，保留兩者並加註視角差異與底層依據；體用衝突（南派格局 vs 北派四化）亦依此並列標註，權重 0.5:0.5，不做單邊裁決",
       "F6": "若 Track B 偵測 space_lock=True，必須在最終報告保留獨立段落。",
       "F7": "若 Track A 掃描到成格且破格並見，必須在卷一同時呈現。",
       "F8": "若 Track 缺失、依賴缺失、映射缺失或時間戳缺失，立即 HALT，不得 soft degrade。"
@@ -221,6 +221,15 @@
     "cross_track_alignment_policy": {
       "pattern": "tradition_warning_modern_warning",
       "resolution": "升級為高一致性風險提示"
+    },
+    "ti_yong_lock": {
+      "body_school": "南派三合星曜派",
+      "use_school": "北派四化飛星",
+      "weights": {
+        "body": 0.5,
+        "use": 0.5
+      },
+      "expansion_forbidden": "不擴 12 宮宮干互飛"
     }
   },
   "unified_combined_response_template": {

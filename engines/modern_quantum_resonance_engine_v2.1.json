@@ -136,6 +136,12 @@
         ],
         "execution_gate": "external deterministic sandbox only",
         "llm_execution_forbidden": true
+      },
+      "ti_yong_balance": {
+        "_doc": "南體北用分層權重鎖（與 core.layered_interpretation_protocol 同步）",
+        "body": 0.5,
+        "use": 0.5,
+        "conflict_policy": "parallel_annotation（體用並列，不單邊裁決）"
       }
     },
     "blind_spot_modules": [
