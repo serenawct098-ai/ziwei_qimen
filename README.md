@@ -103,15 +103,15 @@ ziwei_qimen/
 ① traditional_core_engine_v2.1   (SSOT 公式／靜態表)
       │
       ├──► ③ interpretation_engine_v1.1   (S1~S12 同步計算步驟)
-      │
-      ├──► ② full_compute_flow_v1.4       (OP01~OP15 高維流程／precisionGate／時空橋樑)
       │           │
-      │           └──► ⑦ qimen_fengshui_layout_v0.1   (風水佈局，純下游消費)
+      │           └──► ⑥ dual_parallel_fusion_v1.1    (雙軌橋樑)
+      │                         │
+      │                         ├──► ④ traditional_mythos_v1.3.1    (卷一解讀，只讀)
+      │                         └──► ⑤ modern_quantum_resonance_v2.1 (卷二壓測，只讀)
       │
-      └──► ⑥ dual_parallel_fusion_v1.1    (雙軌橋樑)
+      └──► ② full_compute_flow_v1.4       (OP01~OP15 高維流程／precisionGate／時空橋樑)
                   │
-                  ├──► ④ traditional_mythos_v1.3.1    (卷一解讀，只讀)
-                  └──► ⑤ modern_quantum_resonance_v2.1 (卷二壓測，只讀)
+                  └──► ⑦ qimen_fengshui_layout_v0.1   (風水佈局，純下游消費)
 ```
 
 ---
@@ -170,4 +170,4 @@ ziwei_qimen/
 
 ---
 
-_last_updated: 2026-07-04 ｜ 維護：serena098-ai_
+_last_updated: 2026-07-24 ｜ 維護：serena098-ai_
