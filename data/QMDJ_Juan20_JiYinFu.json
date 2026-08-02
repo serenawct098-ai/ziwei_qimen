@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "忌陰府",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L000",
+      "original_quote": "忌陰府",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L001",
+      "original_quote": "幹甲兌丁丑忌乙庚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L002",
+      "original_quote": "坤乙坎癸申辰忌丙辛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L003",
+      "original_quote": "離寅壬午戌忌丁壬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L004",
+      "original_quote": "震庚亥未忌戊癸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_JiYinFu_L005",
+      "original_quote": "巽辛艮丙忌甲己",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "忌陰府",
+    "line_id_start": "QMDJ_Juan20_JiYinFu_L000",
+    "line_id_end": "QMDJ_Juan20_JiYinFu_L005"
+  },
+  "_extraction_status": "忌陰府完成"
+}

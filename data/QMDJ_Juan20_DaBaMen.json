@@ -1,0 +1,490 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "大八門逐日出行訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L000",
+      "original_quote": "大八門逐日出行訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L001",
+      "original_quote": "冬至",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L002",
+      "original_quote": "小寒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L003",
+      "original_quote": "大寒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L004",
+      "original_quote": "立春",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L005",
+      "original_quote": "甲戊壬子居坎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L006",
+      "original_quote": "丁辛乙卯坤設",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L007",
+      "original_quote": "戊庚甲馬震宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L008",
+      "original_quote": "癸酉丁辛巽在",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L009",
+      "original_quote": "庚丙鼠逢干位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L010",
+      "original_quote": "己癸兔走西街",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L011",
+      "original_quote": "丙壬午馬艮游台",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L012",
+      "original_quote": "乙己雞飛離界",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L013",
+      "original_quote": "雨水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L014",
+      "original_quote": "驚蟄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L015",
+      "original_quote": "春分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L016",
+      "original_quote": "清明",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L017",
+      "original_quote": "甲戊壬子居兌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L018",
+      "original_quote": "丁辛乙卯八宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L019",
+      "original_quote": "戊庚甲馬在離中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L020",
+      "original_quote": "癸酉丁辛坎用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L021",
+      "original_quote": "庚丙鼠逢行坤位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L022",
+      "original_quote": "己癸兔走東宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L023",
+      "original_quote": "丙壬午馬巽為風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L024",
+      "original_quote": "乙己雞飛幹應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L025",
+      "original_quote": "榖雨",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L026",
+      "original_quote": "立夏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L027",
+      "original_quote": "小滿",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L028",
+      "original_quote": "芒種",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L029",
+      "original_quote": "甲戊壬子居巽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L030",
+      "original_quote": "丁辛乙卯乾方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L031",
+      "original_quote": "戊庚甲馬兌宮藏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L032",
+      "original_quote": "癸酉丁辛艮向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L033",
+      "original_quote": "庚丙子行離位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L034",
+      "original_quote": "己癸兔走北方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L035",
+      "original_quote": "丙壬午馬在坤岡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L036",
+      "original_quote": "乙己酉歸震上",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L037",
+      "original_quote": "夏至",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L038",
+      "original_quote": "小暑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L039",
+      "original_quote": "大暑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L040",
+      "original_quote": "立秋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L041",
+      "original_quote": "甲戊壬子離位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L042",
+      "original_quote": "丁辛乙卯北居",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L043",
+      "original_quote": "戊庚甲馬在坤期",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L044",
+      "original_quote": "癸酉丁辛震在",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L045",
+      "original_quote": "庚丙鼠歸巽上",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L046",
+      "original_quote": "己癸兔走乾室",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L047",
+      "original_quote": "丙壬午馬兌宮吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L048",
+      "original_quote": "乙己雞飛艮地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L049",
+      "original_quote": "處暑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L050",
+      "original_quote": "白露",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L051",
+      "original_quote": "秋分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L052",
+      "original_quote": "寒露",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L053",
+      "original_quote": "甲戊壬子居震",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L054",
+      "original_quote": "丁辛乙卯東南",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L055",
+      "original_quote": "戊庚甲馬卻行干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L056",
+      "original_quote": "癸酉丁辛兌換",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L057",
+      "original_quote": "庚丙鼠逢艮位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L058",
+      "original_quote": "己癸兔走離軒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L059",
+      "original_quote": "丙壬午馬坎宮眠",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L060",
+      "original_quote": "乙己離飛坤轉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L061",
+      "original_quote": "霜降",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L062",
+      "original_quote": "立冬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L063",
+      "original_quote": "小雪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L064",
+      "original_quote": "大雪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L065",
+      "original_quote": "甲戊壬子乾位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L066",
+      "original_quote": "丁辛乙卯酉宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L067",
+      "original_quote": "戊庚甲馬艮相逢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L068",
+      "original_quote": "癸酉丁辛離應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L069",
+      "original_quote": "庚丙鼠行坎位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L070",
+      "original_quote": "己癸兔坤宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L071",
+      "original_quote": "丙壬午馬震宮興",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L072",
+      "original_quote": "乙己雞逢巽用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L073",
+      "original_quote": "冬至四氣首云",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L074",
+      "original_quote": "甲戊壬子居坎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L075",
+      "original_quote": "乃休門在坎也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L076",
+      "original_quote": "丁辛乙卯坤設",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L077",
+      "original_quote": "乃休門在坤也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L078",
+      "original_quote": "三日換一門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L079",
+      "original_quote": "五日換一奇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L080",
+      "original_quote": "夏至四氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L081",
+      "original_quote": "甲子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L082",
+      "original_quote": "乙丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L083",
+      "original_quote": "丙寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L084",
+      "original_quote": "戊子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L085",
+      "original_quote": "己丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L086",
+      "original_quote": "庚寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L087",
+      "original_quote": "壬子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L088",
+      "original_quote": "癸丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L089",
+      "original_quote": "甲寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L090",
+      "original_quote": "乃是休門在離",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L091",
+      "original_quote": "所謂甲戊壬子離位也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L092",
+      "original_quote": "三日換一門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L093",
+      "original_quote": "五日換一奇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DaBaMen_L094",
+      "original_quote": "餘仿此",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "大八門逐日出行訣",
+    "line_id_start": "QMDJ_Juan20_DaBaMen_L000",
+    "line_id_end": "QMDJ_Juan20_DaBaMen_L094"
+  },
+  "_extraction_status": "大八門逐日出行訣完成"
+}

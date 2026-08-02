@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "定黃黑道二日",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L000",
+      "original_quote": "定黃黑道二日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L001",
+      "original_quote": "正七起子二八寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L002",
+      "original_quote": "三九原來卻在辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L003",
+      "original_quote": "四十須知午上起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L004",
+      "original_quote": "五月十一並居申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L005",
+      "original_quote": "六十二月起於戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_DingHuangHei_L006",
+      "original_quote": "黃道為祥黑道凶",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "定黃黑道二日",
+    "line_id_start": "QMDJ_Juan20_DingHuangHei_L000",
+    "line_id_end": "QMDJ_Juan20_DingHuangHei_L006"
+  },
+  "_extraction_status": "定黃黑道二日完成"
+}

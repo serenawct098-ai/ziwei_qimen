@@ -1,0 +1,75 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "每日出行八門捷訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L000",
+      "original_quote": "每日出行八門捷訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L001",
+      "original_quote": "每日出行八門捷訣向三吉門行大吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L002",
+      "original_quote": "甲幹丙艮戊子風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L003",
+      "original_quote": "震庚壬坎起休門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L004",
+      "original_quote": "乙卯東南丁卯火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L005",
+      "original_quote": "兌辛乾癸卯東中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L006",
+      "original_quote": "離丙兌戊西北",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L007",
+      "original_quote": "庚午東南壬午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L008",
+      "original_quote": "坤乙酉丁山坤母",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L009",
+      "original_quote": "辛酉南行癸酉東",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L010",
+      "original_quote": "此是休門真居處",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_MeiRiChuXing_L011",
+      "original_quote": "每宮三日順排輪",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "每日出行八門捷訣",
+    "line_id_start": "QMDJ_Juan20_MeiRiChuXing_L000",
+    "line_id_end": "QMDJ_Juan20_MeiRiChuXing_L011"
+  },
+  "_extraction_status": "每日出行八門捷訣完成"
+}

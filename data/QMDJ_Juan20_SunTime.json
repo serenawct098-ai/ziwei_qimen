@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "定太陽出沒時刻長短歌訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L000",
+      "original_quote": "定太陽出沒時刻長短歌訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L001",
+      "original_quote": "正九出乙入庚方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L002",
+      "original_quote": "二八出兔入雞場",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L003",
+      "original_quote": "三七發甲入辛地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L004",
+      "original_quote": "四六出寅入戌方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L005",
+      "original_quote": "五月生艮歸幹上",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L006",
+      "original_quote": "仲冬出巽入坤方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L007",
+      "original_quote": "惟有十月與十二",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_SunTime_L008",
+      "original_quote": "出辰入申仔細詳",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "定太陽出沒時刻長短歌訣",
+    "line_id_start": "QMDJ_Juan20_SunTime_L000",
+    "line_id_end": "QMDJ_Juan20_SunTime_L008"
+  },
+  "_extraction_status": "定太陽出沒時刻長短歌訣完成"
+}

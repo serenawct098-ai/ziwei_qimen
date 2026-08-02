@@ -1,0 +1,40 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "八節三奇圖例",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_8Jie3Qi_L000",
+      "original_quote": "八節三奇圖例",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_8Jie3Qi_L001",
+      "original_quote": "坤二兌七乾六",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_8Jie3Qi_L002",
+      "original_quote": "立秋秋分立冬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_8Jie3Qi_L003",
+      "original_quote": "離九中五坎一",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_8Jie3Qi_L004",
+      "original_quote": "夏至冬至",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "八節三奇圖例",
+    "line_id_start": "QMDJ_Juan20_8Jie3Qi_L000",
+    "line_id_end": "QMDJ_Juan20_8Jie3Qi_L004"
+  },
+  "_extraction_status": "八節三奇圖例完成"
+}

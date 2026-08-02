@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "九星斷訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L000",
+      "original_quote": "九星斷訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L001",
+      "original_quote": "太乙求財萬事通",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L002",
+      "original_quote": "攝提開打鬧重重",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L003",
+      "original_quote": "軒轅出入多驚恐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L004",
+      "original_quote": "招搖動處血光紅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L005",
+      "original_quote": "天符正宜打獵吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L006",
+      "original_quote": "青龍動處乾財豐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L007",
+      "original_quote": "咸池多怕官事起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L008",
+      "original_quote": "太陰婦女結婚穠",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L009",
+      "original_quote": "天乙門中必遇貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_9XingDuanJue_L010",
+      "original_quote": "此法千金莫與窮",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "九星斷訣",
+    "line_id_start": "QMDJ_Juan20_9XingDuanJue_L000",
+    "line_id_end": "QMDJ_Juan20_9XingDuanJue_L010"
+  },
+  "_extraction_status": "九星斷訣完成"
+}

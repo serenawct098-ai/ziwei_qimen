@@ -1,0 +1,90 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan20",
+  "section": "三德吉方",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L000",
+      "original_quote": "三德吉方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L001",
+      "original_quote": "日支子丑寅卯辰巳午未申酉戌亥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L002",
+      "original_quote": "陽德方丙丙丙庚庚庚壬壬壬甲甲甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L003",
+      "original_quote": "陰德方乙乙庚丁丁壬辛辛甲癸癸丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L004",
+      "original_quote": "人德方庚辛干壬癸艮甲乙巽丙丁坤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L005",
+      "original_quote": "凡為百事",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L006",
+      "original_quote": "遠行",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L007",
+      "original_quote": "見長吏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L008",
+      "original_quote": "貴人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L009",
+      "original_quote": "諸方事出陰德方入陽德方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L010",
+      "original_quote": "從人德方去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L011",
+      "original_quote": "若避難免禍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L012",
+      "original_quote": "出陽德方從人德方去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L013",
+      "original_quote": "縱遇凶險",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan20_3DeJiFang_L014",
+      "original_quote": "皆變為吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan20",
+    "section": "三德吉方",
+    "line_id_start": "QMDJ_Juan20_3DeJiFang_L000",
+    "line_id_end": "QMDJ_Juan20_3DeJiFang_L014"
+  },
+  "_extraction_status": "三德吉方完成"
+}
