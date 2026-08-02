@@ -1,0 +1,40 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "卷一",
+  "section": "喜神方位",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan1_XiShenFangwei_L000",
+      "original_quote": "喜神方位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_XiShenFangwei_L001",
+      "original_quote": "甲己在艮乙庚干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_XiShenFangwei_L002",
+      "original_quote": "丙辛坤位喜神安",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_XiShenFangwei_L003",
+      "original_quote": "丁壬離宮笑嘻嘻",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_XiShenFangwei_L004",
+      "original_quote": "戊癸巽上醉沉沉.",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "卷一",
+    "section": "喜神方位",
+    "line_id_start": "QMDJ_Juan1_XiShenFangwei_L000",
+    "line_id_end": "QMDJ_Juan1_XiShenFangwei_L004"
+  },
+  "_extraction_status": "喜神方位完成"
+}

@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "卷一",
+  "section": "貴人方",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L000",
+      "original_quote": "貴人方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L001",
+      "original_quote": "甲日未陽貴丑陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L002",
+      "original_quote": "戊庚日丑陽貴未陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L003",
+      "original_quote": "乙日申陽貴子陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L004",
+      "original_quote": "己日子陽貴申陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L005",
+      "original_quote": "丙日酉陽貴亥陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L006",
+      "original_quote": "丁日亥陽貴酉陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L007",
+      "original_quote": "壬日卯陽貴巳陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L008",
+      "original_quote": "癸日巳陽貴卯陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_GuiRenFang_L009",
+      "original_quote": "辛日寅陽貴午陰貴.",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "卷一",
+    "section": "貴人方",
+    "line_id_start": "QMDJ_Juan1_GuiRenFang_L000",
+    "line_id_end": "QMDJ_Juan1_GuiRenFang_L009"
+  },
+  "_extraction_status": "貴人方完成"
+}

@@ -1,0 +1,100 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "卷一",
+  "section": "十二支神將地盤",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L000",
+      "original_quote": "十二支神將地盤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L001",
+      "original_quote": "申白虎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L002",
+      "original_quote": "傳送酉太陰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L003",
+      "original_quote": "從魁戌天空",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L004",
+      "original_quote": "河魁亥神玄武",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L005",
+      "original_quote": "將登明",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L006",
+      "original_quote": "未太常",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L007",
+      "original_quote": "小吉子神天后",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L008",
+      "original_quote": "將神后",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L009",
+      "original_quote": "午朱雀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L010",
+      "original_quote": "勝光丑神天乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L011",
+      "original_quote": "將大吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L012",
+      "original_quote": "巳螣蛇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L013",
+      "original_quote": "太乙辰勾陳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L014",
+      "original_quote": "天罡卯六合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L015",
+      "original_quote": "太衝寅神青龍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_TwelveZhiShenJiang_L016",
+      "original_quote": "將功曹",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "卷一",
+    "section": "十二支神將地盤",
+    "line_id_start": "QMDJ_Juan1_TwelveZhiShenJiang_L000",
+    "line_id_end": "QMDJ_Juan1_TwelveZhiShenJiang_L016"
+  },
+  "_extraction_status": "十二支神將地盤完成"
+}

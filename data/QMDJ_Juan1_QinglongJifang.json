@@ -1,0 +1,95 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "卷一",
+  "section": "青龍吉方等表",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L000",
+      "original_quote": "青龍吉方等表",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L001",
+      "original_quote": "青龍吉方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L002",
+      "original_quote": "天目",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L003",
+      "original_quote": "地耳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L004",
+      "original_quote": "宜坐吉方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L005",
+      "original_quote": "求財",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L006",
+      "original_quote": "賭博",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L007",
+      "original_quote": "謀為",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L008",
+      "original_quote": "百事皆吉.",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L009",
+      "original_quote": "華蓋地戶天門地耳天目青龍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L010",
+      "original_quote": "酉方：巳辰癸酉丁卯子甲子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L011",
+      "original_quote": "未方：卯寅癸未丁丑戌甲戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L012",
+      "original_quote": "巳方：丑子癸巳丁亥申甲申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L013",
+      "original_quote": "卯方：亥戌癸卯丁酉午甲午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L014",
+      "original_quote": "丑方：酉申癸丑丁未辰甲辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan1_QinglongJifang_L015",
+      "original_quote": "亥方：未午癸亥丁巳寅甲寅",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "卷一",
+    "section": "青龍吉方等表",
+    "line_id_start": "QMDJ_Juan1_QinglongJifang_L000",
+    "line_id_end": "QMDJ_Juan1_QinglongJifang_L015"
+  },
+  "_extraction_status": "青龍吉方等表完成"
+}
