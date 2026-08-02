@@ -1,0 +1,110 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan4",
+  "section": "生門剋應",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L000",
+      "original_quote": "生門剋應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L001",
+      "original_quote": "加傷：主變動",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L002",
+      "original_quote": "更改",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L003",
+      "original_quote": "移徙事皆不吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L004",
+      "original_quote": "加杜：失脫刊印書契小凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L005",
+      "original_quote": "加景：主見貴人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L006",
+      "original_quote": "因文書事不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L007",
+      "original_quote": "加死：主官司驚憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L008",
+      "original_quote": "先憂後喜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L009",
+      "original_quote": "加驚：主百事不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L010",
+      "original_quote": "加甲戊：財名俱得",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L011",
+      "original_quote": "加乙：小財可求",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L012",
+      "original_quote": "加丙：貴人印綬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L013",
+      "original_quote": "加丁：遠信必至",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L014",
+      "original_quote": "加己：事緒不定",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L015",
+      "original_quote": "加庚：道路詞訟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L016",
+      "original_quote": "謀為兩歧",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L017",
+      "original_quote": "加辛：陰人道路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan4_ShengMenKeYing_L018",
+      "original_quote": "加壬：遠行有失",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan4",
+    "section": "生門剋應",
+    "line_id_start": "QMDJ_Juan4_ShengMenKeYing_L000",
+    "line_id_end": "QMDJ_Juan4_ShengMenKeYing_L018"
+  },
+  "_extraction_status": "生門剋應完成"
+}
