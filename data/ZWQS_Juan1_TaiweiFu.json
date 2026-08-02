@@ -5,7 +5,7 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L001",
-      "original_quote": "⽃ 數 ⾄ ⽞ ⾄ 微 , 理 旨 難 明 , 雖 設 問 於 各 篇 之 中 , 猶 有 ⾔ ⽽ 未 盡 , ⾄",
+      "original_quote": "斗數至玄至微，理旨難明，雖設問於各篇之中，猶有言而未盡，至如星之分野，各有所屬，壽夭賢愚，富貴貧賤，不可一概論議。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -18,7 +18,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L002",
-      "original_quote": "如 星 之 分 野 , 各 有 所 屬 , 壽 天 賢 愚 , 富 貴 貧 賤 , 不 可 ⼀ 概 論 議 ｡",
+      "original_quote": "其星分佈一十二垣，數定乎三十六位，入廟為奇，失度為虛，大抵以身命為福德之本，加以根源為窮通之資。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -31,7 +31,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L003",
-      "original_quote": "其 星 分 佈 ⼀ ⼗ ⼆ 垣 , 數 定 乎 三 ⼗ 六 位 , 入 廟 為 奇 , 失 度 為 虛 , ⼤ 抵",
+      "original_quote": "星有同躔，數有分定，須明其生剋之要，必詳乎得垣失度之分。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -44,7 +44,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L004",
-      "original_quote": "以 ⾝ 命 為 福 德 之 本 , 加 以 根 源 為 窮 通 之 資 ｡",
+      "original_quote": "觀乎紫微舍躔，司一天儀之象，率列宿而成垣，土星苟居其垣，若可移動，金星專司財庫，最怕空亡。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -57,7 +57,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L005",
-      "original_quote": "星 有 同 躔 , 數 有 分 定 , 須 明 其 ⽣ 剋 之 要 , 必 詳 乎 得 垣 失 度 之 分 ｡",
+      "original_quote": "帝星動則列宿奔馳，貪守空而財源不聚。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -70,7 +70,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L006",
-      "original_quote": "觀 乎 紫 微 舍 躔 , 司 ⼀ 天 儀 之 象 , 率 列 宿 ⽽ 成 垣 , ⼟ 星 苟 居 其 垣 , 若",
+      "original_quote": "各司其職，不可參差。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -83,7 +83,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L007",
-      "original_quote": "可 移 動 , ⾦ 星 專 司 財 庫 , 最 怕 空 亡 ｡",
+      "original_quote": "苟或不察其機，更忘其變，則數之造化遠矣。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -96,7 +96,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L008",
-      "original_quote": "帝 星 動 則 列 宿 奔 馳 , 貪 守 空 ⽽ 財 源 不 聚 ｡",
+      "original_quote": "祿逢沖破，吉處藏凶。馬遇空亡，終身奔走。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -109,7 +109,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L009",
-      "original_quote": "各 司 其 職 , 不 可 參 差 ｡",
+      "original_quote": "生逢敗地，發也虛花。絕處逢生，生花不敗。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -122,7 +122,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L010",
-      "original_quote": "苟 或 不 察 其 機 , 更 忘 其 變 , 則 數 之 造 化 遠 矣 ｡",
+      "original_quote": "星臨廟旺，再觀生剋之機。命坐強宮，細察制化之理。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -135,7 +135,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L011",
-      "original_quote": "例 ⽇",
+      "original_quote": "日月最嫌反背，祿馬最喜交馳。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -148,7 +148,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L012",
-      "original_quote": "祿 逢 沖 破 , 吉 處 藏 凶 ｡ ⾺ 遇 空 亡 , 終 ⾝ 奔 走 ｡",
+      "original_quote": "倘居空亡，得失最為要緊。若逢敗地，扶持大有奇功。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -161,7 +161,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L013",
-      "original_quote": "⽣ 逢 敗 地 , 發 也 虛 花 ｡ 絕 處 逢 ⽣ , ⽣ 花 不 敗 ｡",
+      "original_quote": "紫微天府全依輔弼之功，七殺破軍專依羊鈴之虐。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -174,7 +174,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L014",
-      "original_quote": "星 臨 廟 旺 , 再 觀 ⽣ 剋 之 機 ｡ 命 坐 強 宮 , 細 察 制 化 之 理 ｡",
+      "original_quote": "諸星吉，逢凶也吉。諸星凶，逢凶也凶。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -187,7 +187,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L015",
-      "original_quote": "⽇ ⽉ 最 嫌 反 背 , 祿 ⾺ 最 喜 交 馳 ｡",
+      "original_quote": "輔弼夾帝為上品，桃花犯主為至淫。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -200,7 +200,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L016",
-      "original_quote": "倘 居 空 亡 , 得 失 最 為 要 緊 ｡ 若 逢 敗 地 , 扶 持 ⼤ 有 奇 功 ｡",
+      "original_quote": "君臣慶會，材善經邦。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -213,7 +213,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L017",
-      "original_quote": "紫 微 天 府 全 依 輔 弼 之 功 , 七 殺 破 軍 專 依 ⽺ 鈴 之 虐 ｡",
+      "original_quote": "魁鉞同行，位居台輔。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -226,7 +226,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L018",
-      "original_quote": "諸 星 吉 , 逢 凶 也 吉 ｡ 諸 星 凶 , 逢 凶 也 凶 ｡",
+      "original_quote": "祿文拱命，貴而且賢。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -239,7 +239,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L019",
-      "original_quote": "輔 弼 夾 帝 為 上 品 , 桃 花 犯 主 為 ⾄ 淫 ｡",
+      "original_quote": "日月夾財，不權則富。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -252,9 +252,12 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L020",
-      "original_quote": "君 ⾂ 慶 會 , 材 善 經 邦 ｡",
-      "tag": [],
-      "tag_reason": "",
+      "original_quote": "馬頭帶劍，鎮衛邊疆。",
+      "tag": [
+        "_custom",
+        "non_classical"
+      ],
+      "tag_reason": "後世格局命名，非本句原文自稱格局，需於解讀引擎輸出時與原文引述區隔",
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
@@ -265,9 +268,12 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L021",
-      "original_quote": "魁 鉞 同 ⾏ , 位 居 台 輔 ｡",
-      "tag": [],
-      "tag_reason": "",
+      "original_quote": "刑求夾印，刑杖惟司。",
+      "tag": [
+        "_custom",
+        "non_classical"
+      ],
+      "tag_reason": "後世格局命名（刑囚夾印變體），需標記",
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
@@ -278,7 +284,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L022",
-      "original_quote": "祿 ⽂ 拱 命 , 貴 ⽽ 且 賢 ｡",
+      "original_quote": "善蔭朝綱，仁慈之長。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -291,7 +297,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L023",
-      "original_quote": "⽇ ⽉ 夾 財 , 不 權 則 富 ｡",
+      "original_quote": "貴入貴鄉，逢之富貴。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -304,7 +310,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L024",
-      "original_quote": "⾺ 頭 帶 劍 , 鎮 衛 邊 疆 ｡",
+      "original_quote": "財居財位，遇者富奢。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -317,7 +323,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L025",
-      "original_quote": "刑 求 夾 印 , 刑 杖 惟 司 ｡",
+      "original_quote": "太陽居午，謂之日麗中天，有專權之貴，敵國之富。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -330,7 +336,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L026",
-      "original_quote": "善 蔭 朝 綱 , 仁 慈 之 長 ｡",
+      "original_quote": "太陰居子，號曰水澄桂萼，得清要之職，忠諫之材。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -343,7 +349,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L027",
-      "original_quote": "貴 入 貴 鄉 , 逢 之 富 貴 ｡",
+      "original_quote": "紫微輔弼同宮，一呼百諾居上品。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -356,7 +362,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L028",
-      "original_quote": "財 居 財 位 , 遇 者 富 奢 ｡",
+      "original_quote": "文耗居寅卯，謂之眾水朝東。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -369,7 +375,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L029",
-      "original_quote": "太 陽 居 午 , 謂 之 ⽇ 麗 中 天 , 有 專 權 之 貴 , 敵 國 之 富 ｡",
+      "original_quote": "日月守不如照合，蔭福聚不怕凶危。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -382,7 +388,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L030",
-      "original_quote": "太 陰 居 ⼦ , 號 ⽈ ⽔ 澄 桂 萼 , 得 清 要 之 職 , 忠 諫 之 材 ｡",
+      "original_quote": "貪居亥子，名為犯水桃花。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -395,7 +401,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L031",
-      "original_quote": "紫 微 輔 弼 同 宮 , ⼀ 呼 百 諾 居 上 品 ｡ ⽂ 耗 居 寅 卯 , 謂 之 眾 ⽔ 朝 東 ｡",
+      "original_quote": "刑遇貪狼，號曰風流綵杖。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -408,7 +414,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L032",
-      "original_quote": "⽇ ⽉ 守 不 如 照 合 , 蔭 福 聚 不 怕 凶 危 ｡",
+      "original_quote": "七殺廉貞同位，路上埋屍。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -421,7 +427,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L033",
-      "original_quote": "貪 居 亥 ⼦ , 名 為 犯 ⽔ 桃 花 ｡ 刑 遇 貪 狼 , 號 ⽈ 風 流 綵 杖 ｡",
+      "original_quote": "破軍暗曜同鄉，水中作塚。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -434,7 +440,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L034",
-      "original_quote": "七 殺 廉 貞 同 位 , 路 上 埋 屍 ｡ 破 軍 暗 曜 同 鄉 , ⽔ 中 作 塚 ｡",
+      "original_quote": "祿居奴僕縱有官也奔馳，帝遇凶徒雖獲吉而無道。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -447,7 +453,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L035",
-      "original_quote": "祿 居 奴 僕 縱 有 官 也 奔 馳 , 帝 遇 凶 徒 雖 獲 吉 ⽽ 無 道 ｡",
+      "original_quote": "帝坐金車則日金轝捧櫛，福安文曜謂之玉袖天香。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -460,7 +466,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L036",
-      "original_quote": "帝 坐 ⾦ ⾞ 則 ⽇ ⾦ 轝 捧 櫛 , 福 安 ⽂ 曜 謂 之 ⽟ 袖 天 香 ｡",
+      "original_quote": "太陽會文昌於官祿，皇殿朝班，富貴全美。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -473,7 +479,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L037",
-      "original_quote": "太 陽 會 ⽂ 昌 於 官 祿 , 皇 殿 朝 班 , 富 貴 全 美 ｡",
+      "original_quote": "太陰會文曲於妻宮，蟾宮折桂，文章全盛。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -486,7 +492,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L038",
-      "original_quote": "太 陰 會 ⽂ 曲 於 妻 宮 , 蟾 宮 折 桂 , ⽂ 章 全 盛 ｡",
+      "original_quote": "祿存守於田財，堆金積玉。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -499,7 +505,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L039",
-      "original_quote": "祿 存 守 於 ⽥ 財 , 堆 ⾦ 積 ⽟ ｡ 財 蔭 坐 於 遷 移 , 巨 商 ⾼ 賈 ｡",
+      "original_quote": "財蔭坐於遷移，巨商高賈。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -512,7 +518,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L040",
-      "original_quote": "耗 居 祿 位 , 沿 途 乞 食 ｡ 貪 會 旺 宮 , 終 ⾝ 鼠 竊 ｡",
+      "original_quote": "耗居祿位，沿途乞食。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -525,7 +531,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L041",
-      "original_quote": "殺 居 絕 地 , 天 年 天 似 顏 回 ｡ 貪 坐 ⽣ 鄉 , 壽 考 永 如 彭 祖 ｡",
+      "original_quote": "貪會旺宮，終身鼠竊。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -538,7 +544,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L042",
-      "original_quote": "忌 暗 同 居 ⾝ 命 疾 厄 , 沉 困 尪 贏 , 凶 星 會 於 ⽗ ⺟ 遷 移 , 刑 傷 破 祖 ｡",
+      "original_quote": "殺居絕地，天年天似顏回。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -551,7 +557,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L043",
-      "original_quote": "刑 殺 同 廉 貞 於 官 祿 , 枷 扭 難 逃 , 官 符 加 刑 殺 於 遷 移 , 離 鄉 遭 配 ｡",
+      "original_quote": "貪坐生鄉，壽考永如彭祖。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -564,7 +570,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L044",
-      "original_quote": "善 福 居 空 位 , 天 竺 ⽣ 涯 ｡ 輔 弼 單 守 命 宮 , 離 宗 庶 出 ｡",
+      "original_quote": "忌暗同居身命疾厄，沉困尪贏。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -577,7 +583,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L045",
-      "original_quote": "七 殺 臨 於 ⾝ 命 加 惡 殺 , 必 定 死 亡 ｡ 鈴 ⽺ 合 於 命 宮 遇 ⽩ 虎 , 須 當 刑 戮 ｡",
+      "original_quote": "凶星會於父母遷移，刑傷破祖。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -590,7 +596,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L046",
-      "original_quote": "官 府 發 於 吉 曜 , 流 殺 怕 逢 破 軍 ｡ ⽺ 陀 憑 太 歲 以 引 ⾏ , 病 符 官 符 皆 作",
+      "original_quote": "刑殺同廉貞於官祿，枷扭難逃。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -603,7 +609,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L047",
-      "original_quote": "禍 ｡",
+      "original_quote": "官符加刑殺於遷移，離鄉遭配。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -616,7 +622,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L048",
-      "original_quote": "奏 書 博 ⼠ 與 流 祿 , 盡 作 吉 祥 ｡ ⼒ ⼠ 將 軍 同 ⻘ ⿓ , 顯 其 權 勢 ｡",
+      "original_quote": "善福居空位，天竺生涯。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -629,7 +635,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L049",
-      "original_quote": "童 ⼦ 限 如 ⽔ 上 泡 漚 , 老 ⼈ 限 似 風 中 燃 燭 ｡ 遇 殺 無 制 乃 流 年 最 忌 ,",
+      "original_quote": "輔弼單守命宮，離宗庶出。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -642,7 +648,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L050",
-      "original_quote": "⼈ ⽣ 榮 辱 限 元 必 有 休 咎 , 處 世 孤 貧 數 中 逢 乎 駁 雜 , 學 ⾄ 此 誠 ⽞ 微 矣 ｡",
+      "original_quote": "七殺臨於身命加惡殺，必定死亡。",
       "tag": [],
       "tag_reason": "",
       "_source": {
@@ -652,7 +658,98 @@
         "line_id": "ZWQS_Juan1_TaiweiFu_L050",
         "base_edition_lock": "羅洪先編本"
       }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L051",
+      "original_quote": "鈴羊合於命宮遇白虎，須當刑戮。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L051",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L052",
+      "original_quote": "官府發於吉曜，流殺怕逢破軍。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L052",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L053",
+      "original_quote": "羊陀憑太歲以引行，病符官符皆作禍。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L053",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L054",
+      "original_quote": "奏書博士與流祿，盡作吉祥。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L054",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L055",
+      "original_quote": "力士將軍同青龍，顯其權勢。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L055",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L056",
+      "original_quote": "童子限如水上泡漚，老人限似風中燃燭。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L056",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L057",
+      "original_quote": "遇殺無制乃流年最忌，人生榮辱限元必有休咎，處世孤貧數中逢乎駁雜，學至此誠玄微矣。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L057",
+        "base_edition_lock": "羅洪先編本"
+      }
     }
   ],
-  "_extraction_status": "太微賦全文完成"
+  "_extraction_status": "太微賦全文完成，已根據範例修正斷句邏輯並補齊標籤"
 }
