@@ -1,0 +1,58 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "定富貴貧賤十等論",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L001",
+      "original_quote": "福壽論如南⼈天同天梁坐命廟旺主福壽雙全如北⼈紫微武曲破軍貪狼坐命旺宮主福壽",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L002",
+      "original_quote": "聰明論如⽂昌⽂曲天相天府武曲破軍三台⼋座左輔右弼三合拱照主⼈極聰明",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L003",
+      "original_quote": "威勇論如武曲⽂昌擎⽺七殺坐命宮得權祿三⽅⼜得紫微天府左右拱照主⼈威勇",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L004",
+      "original_quote": "⽂職論如⽂昌⽂曲左輔右弼天魁天鉞坐命旺宮⼜得三⽅四正科權祿拱主為⽂官",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L005",
+      "original_quote": "武職論如武曲七殺坐命廟旺宮⼜得三台⼋座加化權祿及天魁天鉞並拱主為武職",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L006",
+      "original_quote": "刑名論如擎⽺陀羅火鈴星武曲破軍帶殺上吉湊合三⽅四正無凶不陷主刑名",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L007",
+      "original_quote": "富貴論如紫微天府天相祿權科太陰太陽⽂昌⽂曲左輔右弼天魁天鉞守照拱沖主⼤富貴",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L008",
+      "original_quote": "貧賤論如擎⽺陀羅廉貞七殺武曲破軍天空地劫忌星三⽅四正守照拱沖諸凶併犯陷地主貧賤",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L009",
+      "original_quote": "疾殀論如貪狼廉貞擎⽺陀羅天空地劫火鈴忌星三⽅守照主疾殀或疾厄相貌宮亦然",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_ShiDengLun_L010",
+      "original_quote": "僧道論為僧道如天機天梁七殺破軍天空地劫併犯帝座紫微⼜或耗殺加臨主",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "十等論合拼重整完成，共10條"
+}
