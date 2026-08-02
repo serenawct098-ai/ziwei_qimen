@@ -1,0 +1,18 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷二",
+  "section": "安輔弼星訣",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan2_AnFubi_L001",
+      "original_quote": "左輔正月起於辰，順逢生月是貴方，右弼正月宮尋戌，逆至正月便調停。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnFubi_L002",
+      "original_quote": "左輔從辰上起正月順行，如正月生者就辰宮安之。二月在巳宮，右弼從戌宮逆轉如正月便成戌宮安之，二月在酉宮餘倣此。",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "安輔弼星訣完成"
+}
