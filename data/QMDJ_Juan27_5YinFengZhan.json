@@ -1,0 +1,980 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan27",
+  "section": "五音風動占",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L000",
+      "original_quote": "五音風動占",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L001",
+      "original_quote": "宮日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L002",
+      "original_quote": "風起子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L003",
+      "original_quote": "山陵崩",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L004",
+      "original_quote": "君出",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L005",
+      "original_quote": "地動",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L006",
+      "original_quote": "旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L007",
+      "original_quote": "有土工",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L008",
+      "original_quote": "起午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L009",
+      "original_quote": "旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L010",
+      "original_quote": "地震",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L011",
+      "original_quote": "後出",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L012",
+      "original_quote": "又時加子午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L013",
+      "original_quote": "為重宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L014",
+      "original_quote": "君大夫走",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L015",
+      "original_quote": "風雨不調",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L016",
+      "original_quote": "從醜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L017",
+      "original_quote": "寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L018",
+      "original_quote": "未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L019",
+      "original_quote": "申起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L020",
+      "original_quote": "為宮動征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L021",
+      "original_quote": "有火燭",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L022",
+      "original_quote": "土上寶物",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L023",
+      "original_quote": "出有兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L024",
+      "original_quote": "時加征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L025",
+      "original_quote": "為重征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L026",
+      "original_quote": "有義兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L027",
+      "original_quote": "詔令",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L028",
+      "original_quote": "曰義風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L029",
+      "original_quote": "從卯酉來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L030",
+      "original_quote": "商動羽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L031",
+      "original_quote": "大雨",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L032",
+      "original_quote": "大臣走",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L033",
+      "original_quote": "旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L034",
+      "original_quote": "時加羽為重羽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L035",
+      "original_quote": "即有赦",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L036",
+      "original_quote": "五榖成",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L037",
+      "original_quote": "從辰戌來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L038",
+      "original_quote": "宮動商",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L039",
+      "original_quote": "有兵行",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L040",
+      "original_quote": "時加辰戌為重商",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L041",
+      "original_quote": "有兵殃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L042",
+      "original_quote": "風從巳亥來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L043",
+      "original_quote": "宮動角",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L044",
+      "original_quote": "主戰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L045",
+      "original_quote": "人主憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L046",
+      "original_quote": "客兵傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L047",
+      "original_quote": "有喪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L048",
+      "original_quote": "時加巳亥為重角",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L049",
+      "original_quote": "君不昌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L050",
+      "original_quote": "征日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L051",
+      "original_quote": "陽宮風來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L052",
+      "original_quote": "旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L053",
+      "original_quote": "火土上起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L054",
+      "original_quote": "宮寺災",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L055",
+      "original_quote": "從陰宮起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L056",
+      "original_quote": "太子疾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L057",
+      "original_quote": "時加重征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L058",
+      "original_quote": "土上火災",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L059",
+      "original_quote": "從陽徵來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L060",
+      "original_quote": "君有恐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L061",
+      "original_quote": "火災",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L062",
+      "original_quote": "走獸入為害",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L063",
+      "original_quote": "宮寺焚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L064",
+      "original_quote": "王相憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L065",
+      "original_quote": "大旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L066",
+      "original_quote": "征陽徵來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L067",
+      "original_quote": "六畜多死",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L068",
+      "original_quote": "從陽商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L069",
+      "original_quote": "急兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L070",
+      "original_quote": "君自守七日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L071",
+      "original_quote": "遠七十日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L072",
+      "original_quote": "從陰商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L073",
+      "original_quote": "有兵戰一日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L074",
+      "original_quote": "從陽商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L075",
+      "original_quote": "臣強大死",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L076",
+      "original_quote": "君殃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L077",
+      "original_quote": "以日占國",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L078",
+      "original_quote": "從陽羽來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L079",
+      "original_quote": "四鄰有事",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L080",
+      "original_quote": "有寶玉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L081",
+      "original_quote": "雷電",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L082",
+      "original_quote": "霜雹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L083",
+      "original_quote": "臣候憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L084",
+      "original_quote": "多火災",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L085",
+      "original_quote": "夷兵至",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L086",
+      "original_quote": "從陰羽來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L087",
+      "original_quote": "寶出",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L088",
+      "original_quote": "雷電",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L089",
+      "original_quote": "夷有事",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L090",
+      "original_quote": "從陽角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L091",
+      "original_quote": "兵喪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L092",
+      "original_quote": "從陰角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L093",
+      "original_quote": "邊驚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L094",
+      "original_quote": "兵火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L095",
+      "original_quote": "春有喪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L096",
+      "original_quote": "羽日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L097",
+      "original_quote": "風從陽宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L098",
+      "original_quote": "財物聚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L099",
+      "original_quote": "君有使令",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L100",
+      "original_quote": "邊兵土工興",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L101",
+      "original_quote": "將受命",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L102",
+      "original_quote": "有集會",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L103",
+      "original_quote": "雷電",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L104",
+      "original_quote": "從陰宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L105",
+      "original_quote": "冰雹寒傷物",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L106",
+      "original_quote": "有土工",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L107",
+      "original_quote": "從陽徵來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L108",
+      "original_quote": "有兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L109",
+      "original_quote": "有急令",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L110",
+      "original_quote": "臣有憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L111",
+      "original_quote": "關塞路阻",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L112",
+      "original_quote": "風從陰徵來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L113",
+      "original_quote": "邊臣有羽事大喪會",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L114",
+      "original_quote": "寒雪雹期五日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L115",
+      "original_quote": "若五十日大雨南方來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L116",
+      "original_quote": "國憂人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L117",
+      "original_quote": "疾風從北方來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L118",
+      "original_quote": "賊聚水中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L119",
+      "original_quote": "陽羽來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L120",
+      "original_quote": "日應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L121",
+      "original_quote": "從陰羽來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L122",
+      "original_quote": "夜應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L123",
+      "original_quote": "從商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L124",
+      "original_quote": "兵圍不戰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L125",
+      "original_quote": "邊急關阻",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L126",
+      "original_quote": "大雨",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L127",
+      "original_quote": "軍各不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L128",
+      "original_quote": "商日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L129",
+      "original_quote": "風從陽宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L130",
+      "original_quote": "太子忌恐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L131",
+      "original_quote": "人臣有急",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L132",
+      "original_quote": "兵主疾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L133",
+      "original_quote": "從陰宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L134",
+      "original_quote": "庶子憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L135",
+      "original_quote": "有急變",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L136",
+      "original_quote": "兵北起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L137",
+      "original_quote": "風從征來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L138",
+      "original_quote": "兵圍不戰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L139",
+      "original_quote": "且旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L140",
+      "original_quote": "時加重征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L141",
+      "original_quote": "大旱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L142",
+      "original_quote": "從陽商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L143",
+      "original_quote": "白衣聚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L144",
+      "original_quote": "關梁閉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L145",
+      "original_quote": "大將死",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L146",
+      "original_quote": "出忌外邑有兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L147",
+      "original_quote": "有小寇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L148",
+      "original_quote": "兵在西",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L149",
+      "original_quote": "君有憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L150",
+      "original_quote": "從陽商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L151",
+      "original_quote": "有殃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L152",
+      "original_quote": "粟貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L153",
+      "original_quote": "有兵七日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L154",
+      "original_quote": "若七十日有急令",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L155",
+      "original_quote": "從陽角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L156",
+      "original_quote": "猝兵從急令",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L157",
+      "original_quote": "從陰角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L158",
+      "original_quote": "喪土工",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L159",
+      "original_quote": "角日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L160",
+      "original_quote": "風從陽宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L161",
+      "original_quote": "兵中興",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L162",
+      "original_quote": "君憂國四閉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L163",
+      "original_quote": "從陽宮來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L164",
+      "original_quote": "貴人病",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L165",
+      "original_quote": "喪土工",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L166",
+      "original_quote": "從征來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L167",
+      "original_quote": "大臣災",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L168",
+      "original_quote": "火蠱生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L169",
+      "original_quote": "榖貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L170",
+      "original_quote": "從羽來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L171",
+      "original_quote": "土工興",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L172",
+      "original_quote": "大雨",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L173",
+      "original_quote": "邊兵人多口舌病",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L174",
+      "original_quote": "夷相奪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L175",
+      "original_quote": "從商來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L176",
+      "original_quote": "有急兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L177",
+      "original_quote": "從陽角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L178",
+      "original_quote": "邊兵起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L179",
+      "original_quote": "人主憂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L180",
+      "original_quote": "賊至",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L181",
+      "original_quote": "戰多死亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L182",
+      "original_quote": "從陰角來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L183",
+      "original_quote": "大喪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L184",
+      "original_quote": "時加重角",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L185",
+      "original_quote": "兵戰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L186",
+      "original_quote": "盜起民飢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L187",
+      "original_quote": "多死人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L188",
+      "original_quote": "宮為君",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L189",
+      "original_quote": "以下皆為大臣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L190",
+      "original_quote": "令長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L191",
+      "original_quote": "庶宮小民當之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_5YinFengZhan_L192",
+      "original_quote": "以下辰占國",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan27",
+    "section": "五音風動占",
+    "line_id_start": "QMDJ_Juan27_5YinFengZhan_L000",
+    "line_id_end": "QMDJ_Juan27_5YinFengZhan_L192"
+  },
+  "_extraction_status": "五音風動占完成"
+}

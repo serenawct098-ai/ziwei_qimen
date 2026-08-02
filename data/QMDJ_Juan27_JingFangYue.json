@@ -1,0 +1,90 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan27",
+  "section": "京房曰",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L000",
+      "original_quote": "京房曰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L001",
+      "original_quote": "京房曰：「赤氣隨行",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L002",
+      "original_quote": "黑氣隨之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L003",
+      "original_quote": "赤氣滅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L004",
+      "original_quote": "賊可得",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L005",
+      "original_quote": "有赤無黑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L006",
+      "original_quote": "賊不可得",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L007",
+      "original_quote": "被圍亦盛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L008",
+      "original_quote": "關上氣鬱鬱如火光芒蓊蓊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L009",
+      "original_quote": "然有救",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L010",
+      "original_quote": "至外出軍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L011",
+      "original_quote": "雲隨後來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L012",
+      "original_quote": "隨而擊之勝",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L013",
+      "original_quote": "逆者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_JingFangYue_L014",
+      "original_quote": "急宜屯兵固守」",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan27",
+    "section": "京房曰",
+    "line_id_start": "QMDJ_Juan27_JingFangYue_L000",
+    "line_id_end": "QMDJ_Juan27_JingFangYue_L014"
+  },
+  "_extraction_status": "京房曰完成"
+}
