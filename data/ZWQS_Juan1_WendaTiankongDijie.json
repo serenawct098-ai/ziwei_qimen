@@ -1,0 +1,73 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "星垣問答論_TiankongDijie",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_WendaTiankongDijie_L001",
+      "original_quote": "問天空地劫所主若何？",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiankongDijie_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiankongDijie_L002",
+      "original_quote": "希夷先生曰：二星守身命，遇吉則吉，遇凶則凶。如四殺沖照，輕者下賤，重者六畜之命。僧道不正，女子婢妾，刑剋孤獨。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiankongDijie_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiankongDijie_L003",
+      "original_quote": "大抵二星俱不宜見，定主破財，二限逢之必凶。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiankongDijie_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiankongDijie_L004",
+      "original_quote": "歌曰",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiankongDijie_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiankongDijie_L005",
+      "original_quote": "劫空為害最愁人，才智英雄誤一身，只好為僧併學術，堆金積玉也須貧。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiankongDijie_L005",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "星垣問答論-TiankongDijie星部分完成"
+}
