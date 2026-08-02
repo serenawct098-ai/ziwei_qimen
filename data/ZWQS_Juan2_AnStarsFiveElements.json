@@ -1,0 +1,248 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷二",
+  "section": "論諸星分屬南北斗並分屬五行訣",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L001",
+      "original_quote": "紫微屬土中天星南北斗化帝座為官祿主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L002",
+      "original_quote": "天機屬木南斗化善為兄弟主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L003",
+      "original_quote": "祿存屬土北斗司爵貴壽星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L004",
+      "original_quote": "太陽屬火南北斗化貴為官祿主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L005",
+      "original_quote": "天同屬水金南斗化福為福德主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L006",
+      "original_quote": "廉真屬火北斗化殺囚在官祿為官祿主在身命為次桃花",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L007",
+      "original_quote": "武曲屬金北斗化財為財帛主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L008",
+      "original_quote": "天府屬土南斗化令星為財帛田宅主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L009",
+      "original_quote": "太陰屬水南北斗化富為財帛田宅主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L010",
+      "original_quote": "貪狼屬水木北斗化桃花殺主禍福",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L011",
+      "original_quote": "巨門屬水北斗化暗主是非",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L012",
+      "original_quote": "天相屬水南斗化印為官祿主",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L013",
+      "original_quote": "天梁屬土南斗化蔭主壽星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L014",
+      "original_quote": "七殺屬火金南斗降星遇帝為權",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L015",
+      "original_quote": "破軍屬水北斗化耗司夫妻子女奴僕",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L016",
+      "original_quote": "文昌屬金南北斗司科甲乃文魁之首",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L017",
+      "original_quote": "文曲屬水北斗主科甲里",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L018",
+      "original_quote": "輔弼二星北斗善住雨令星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L019",
+      "original_quote": "以上自紫微至輔弼一十八星俱南北斗正曜，魁鉞天馬亦是吉星俱不入正曜。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L020",
+      "original_quote": "魁鉞二星屬火",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L021",
+      "original_quote": "天馬屬火",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L022",
+      "original_quote": "擎羊屬金北斗浮星化刑",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L023",
+      "original_quote": "陀羅屬金北斗助星化忌",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L024",
+      "original_quote": "火星屬火南斗助星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L025",
+      "original_quote": "鈴星屬火南斗助星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L026",
+      "original_quote": "天空地劫屬火",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L027",
+      "original_quote": "天殤天使屬水",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L028",
+      "original_quote": "化祿屬土喜見祿存",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L029",
+      "original_quote": "化權屬木喜會巨門武曲",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L030",
+      "original_quote": "化科屬水喜會魁鉞",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L031",
+      "original_quote": "化忌屬水即計都星",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L032",
+      "original_quote": "紅鸞天喜屬水",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L033",
+      "original_quote": "歲君屬火",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L034",
+      "original_quote": "博士屬水主聰明",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L035",
+      "original_quote": "力士屬火主權勢",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L036",
+      "original_quote": "青龍屬木主喜氣",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L037",
+      "original_quote": "大小耗屬火小耗錢財大耗退祖",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L038",
+      "original_quote": "將軍屬木主威猛欠合",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L039",
+      "original_quote": "奏書屬金主福祿",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L040",
+      "original_quote": "飛廉屬火主孤",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L041",
+      "original_quote": "喜神屬火主喜氣",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L042",
+      "original_quote": "伏兵屬火主口舌",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L043",
+      "original_quote": "病符主病",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L044",
+      "original_quote": "官府主官府",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L045",
+      "original_quote": "喪門木",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L046",
+      "original_quote": "吊客火",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L047",
+      "original_quote": "白虎金",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnStarsFiveElements_L048",
+      "original_quote": "官符火",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "論諸星分屬南北斗並分屬五行訣完成"
+}
