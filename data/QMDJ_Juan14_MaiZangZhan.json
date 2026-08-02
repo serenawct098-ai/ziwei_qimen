@@ -1,0 +1,1510 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan14",
+  "section": "埋葬占",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L000",
+      "original_quote": "埋葬占",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L001",
+      "original_quote": "論值符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L002",
+      "original_quote": "值符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L003",
+      "original_quote": "塋壙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L004",
+      "original_quote": "龍神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L005",
+      "original_quote": "結聚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L006",
+      "original_quote": "形勢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L007",
+      "original_quote": "起伏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L008",
+      "original_quote": "去向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L009",
+      "original_quote": "螣蛇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L010",
+      "original_quote": "道路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L011",
+      "original_quote": "羅星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L012",
+      "original_quote": "對岸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L013",
+      "original_quote": "去脈",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L014",
+      "original_quote": "太陰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L015",
+      "original_quote": "穴順起風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L016",
+      "original_quote": "右仲昌弓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L017",
+      "original_quote": "六合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L018",
+      "original_quote": "向道植樹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L019",
+      "original_quote": "左右右弓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L020",
+      "original_quote": "勾陳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L021",
+      "original_quote": "白虎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L022",
+      "original_quote": "護沙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L023",
+      "original_quote": "內勢拱對",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L024",
+      "original_quote": "外勢右沙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L025",
+      "original_quote": "朱雀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L026",
+      "original_quote": "元武",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L027",
+      "original_quote": "明堂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L028",
+      "original_quote": "原長水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L029",
+      "original_quote": "主山來龍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L030",
+      "original_quote": "九地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L031",
+      "original_quote": "穴窩",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L032",
+      "original_quote": "臍跌歇之情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L033",
+      "original_quote": "九天",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L034",
+      "original_quote": "向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L035",
+      "original_quote": "屏障照臨之勢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L036",
+      "original_quote": "值使",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L037",
+      "original_quote": "休",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L038",
+      "original_quote": "壬子癸黃泉在辰忌辰戌日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L039",
+      "original_quote": "生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L040",
+      "original_quote": "醜艮寅黃泉在寅忌丙寅日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L041",
+      "original_quote": "傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L042",
+      "original_quote": "甲卯乙黃泉在申忌庚申日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L043",
+      "original_quote": "杜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L044",
+      "original_quote": "辰巽巳黃泉在酉忌辛酉日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L045",
+      "original_quote": "景",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L046",
+      "original_quote": "丙午丁黃泉在亥忌己亥日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L047",
+      "original_quote": "死",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L048",
+      "original_quote": "未坤申黃泉在卯忌乙卯日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L049",
+      "original_quote": "驚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L050",
+      "original_quote": "庚酉辛黃泉在巳忌丁巳日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L051",
+      "original_quote": "開",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L052",
+      "original_quote": "戌乾亥黃泉在午忌丙午日時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L053",
+      "original_quote": "十干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L054",
+      "original_quote": "甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L055",
+      "original_quote": "黃泉震庫在未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L056",
+      "original_quote": "忌寅水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L057",
+      "original_quote": "忌亥流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L058",
+      "original_quote": "乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L059",
+      "original_quote": "黃泉巽庫在戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L060",
+      "original_quote": "忌辰水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L061",
+      "original_quote": "忌丑流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L062",
+      "original_quote": "丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L063",
+      "original_quote": "黃泉巽庫在戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L064",
+      "original_quote": "忌午水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L065",
+      "original_quote": "忌寅流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L066",
+      "original_quote": "丁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L067",
+      "original_quote": "黃泉坤庫在丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L068",
+      "original_quote": "忌未水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L069",
+      "original_quote": "忌寅流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L070",
+      "original_quote": "戊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L071",
+      "original_quote": "居坎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L072",
+      "original_quote": "己",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L073",
+      "original_quote": "居離",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L074",
+      "original_quote": "庚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L075",
+      "original_quote": "黃泉坤庫在丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L076",
+      "original_quote": "忌申水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L077",
+      "original_quote": "忌申流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L078",
+      "original_quote": "辛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L079",
+      "original_quote": "黃泉乾庫在辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L080",
+      "original_quote": "忌戌水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L081",
+      "original_quote": "忌辰流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L082",
+      "original_quote": "壬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L083",
+      "original_quote": "黃泉乾庫在辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L084",
+      "original_quote": "忌亥水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L085",
+      "original_quote": "忌巳流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L086",
+      "original_quote": "癸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L087",
+      "original_quote": "黃泉艮庫在未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L088",
+      "original_quote": "忌丑水向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L089",
+      "original_quote": "忌巳流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L090",
+      "original_quote": "九星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L091",
+      "original_quote": "蓬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L092",
+      "original_quote": "水形方尖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L093",
+      "original_quote": "任",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L094",
+      "original_quote": "土形曲尖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L095",
+      "original_quote": "衝",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L096",
+      "original_quote": "木形長斜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L097",
+      "original_quote": "輔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L098",
+      "original_quote": "木形秀麗",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L099",
+      "original_quote": "英",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L100",
+      "original_quote": "水形尖虛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L101",
+      "original_quote": "芮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L102",
+      "original_quote": "土形偏側",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L103",
+      "original_quote": "禽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L104",
+      "original_quote": "土形方正",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L105",
+      "original_quote": "柱",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L106",
+      "original_quote": "金形仰缺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L107",
+      "original_quote": "心",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L108",
+      "original_quote": "金形門窩",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L109",
+      "original_quote": "九宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L110",
+      "original_quote": "一",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L111",
+      "original_quote": "結穴水局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L112",
+      "original_quote": "二",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L113",
+      "original_quote": "四維土",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L114",
+      "original_quote": "三",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L115",
+      "original_quote": "結穴木局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L116",
+      "original_quote": "四",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L117",
+      "original_quote": "節申子辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L118",
+      "original_quote": "氣巳酉丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L119",
+      "original_quote": "五",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L120",
+      "original_quote": "節氣結穴土局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L121",
+      "original_quote": "六",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L122",
+      "original_quote": "節寅午戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L123",
+      "original_quote": "氣亥卯未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L124",
+      "original_quote": "七",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L125",
+      "original_quote": "結穴金局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L126",
+      "original_quote": "八",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L127",
+      "original_quote": "四庫土",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L128",
+      "original_quote": "九",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L129",
+      "original_quote": "結穴火局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L130",
+      "original_quote": "門戶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L131",
+      "original_quote": "迎向朝對看天門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L132",
+      "original_quote": "擁護過峽看地戶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L133",
+      "original_quote": "門貴合天乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L134",
+      "original_quote": "天馬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L135",
+      "original_quote": "三吉門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L136",
+      "original_quote": "吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L137",
+      "original_quote": "戶貴合陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L138",
+      "original_quote": "九遁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L139",
+      "original_quote": "五假者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L140",
+      "original_quote": "佳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L141",
+      "original_quote": "三甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L142",
+      "original_quote": "孟甲看左勢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L143",
+      "original_quote": "主龍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L144",
+      "original_quote": "仲甲看中勢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L145",
+      "original_quote": "主穴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L146",
+      "original_quote": "季甲看右勢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L147",
+      "original_quote": "主河水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L148",
+      "original_quote": "開忌無刑闔忌隔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L149",
+      "original_quote": "內外開闔前後測",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L150",
+      "original_quote": "金開沙水沒收欄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L151",
+      "original_quote": "全闔不化欠利益",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L152",
+      "original_quote": "論干支",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L153",
+      "original_quote": "日乾為人時幹地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L154",
+      "original_quote": "納音所藏山向寄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L155",
+      "original_quote": "兩干生合可遷葬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L156",
+      "original_quote": "地剋人兮不愜意",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L157",
+      "original_quote": "日納山情時納向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L158",
+      "original_quote": "山向無傷堪塋壙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L159",
+      "original_quote": "其中有一犯刑傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L160",
+      "original_quote": "酌分改山與遷向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L161",
+      "original_quote": "山向未可剋地元",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L162",
+      "original_quote": "時師點向無真傳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L163",
+      "original_quote": "若剋人死亡者害",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L164",
+      "original_quote": "勸君另議向山看",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L165",
+      "original_quote": "化合中間定龍神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L166",
+      "original_quote": "化旺須真假囚困",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L167",
+      "original_quote": "化氣納音相生合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L168",
+      "original_quote": "得此衣紫與腰金",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L169",
+      "original_quote": "若再符使乘健旺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L170",
+      "original_quote": "終始迪吉可安墳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L171",
+      "original_quote": "論值符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L172",
+      "original_quote": "值符占地火勢形",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L173",
+      "original_quote": "木火金土水類情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L174",
+      "original_quote": "旺相休囚與孤虛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L175",
+      "original_quote": "審時考宮可辨明",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L176",
+      "original_quote": "太陰穴情九地穴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L177",
+      "original_quote": "明堂路案考朱蛇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L178",
+      "original_quote": "向對屏障九天問",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L179",
+      "original_quote": "主山砂勢元白陳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L180",
+      "original_quote": "用神不犯刑孤格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L181",
+      "original_quote": "得合生合可壙塋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L182",
+      "original_quote": "論值使",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L183",
+      "original_quote": "值使分占山與向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L184",
+      "original_quote": "其中轉折多情況",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L185",
+      "original_quote": "休囚飛旺可立塋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L186",
+      "original_quote": "旺飛休廢莫交創",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L187",
+      "original_quote": "好將飛伏兩參詳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L188",
+      "original_quote": "彼此無傷宜山向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L189",
+      "original_quote": "所忌煞曜時日逢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L190",
+      "original_quote": "端的其中有此狀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L191",
+      "original_quote": "更忌此使入此宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L192",
+      "original_quote": "宜速改遷方無恙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L193",
+      "original_quote": "論十干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L194",
+      "original_quote": "十干查分所主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L195",
+      "original_quote": "莫教鬼剋入關攔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L196",
+      "original_quote": "尤嫌坐臨忌煞位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L197",
+      "original_quote": "此地當年擬廢間",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L198",
+      "original_quote": "甲乙興隆左脈威",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L199",
+      "original_quote": "制主須教林木芟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L200",
+      "original_quote": "庚辛眠外無驚險",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L201",
+      "original_quote": "昂首衝空右脈殘",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L202",
+      "original_quote": "丙丁得令跳峰秀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L203",
+      "original_quote": "一有瑕疵口舌關",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L204",
+      "original_quote": "壬癸得元來脈厚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L205",
+      "original_quote": "枯澀休囚後裔難",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L206",
+      "original_quote": "戊己球氈胎息地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L207",
+      "original_quote": "須要生煞入其間",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L208",
+      "original_quote": "細查何干孤剋缺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L209",
+      "original_quote": "堪斷其方缺廢殘",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L210",
+      "original_quote": "子父財官區以別",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L211",
+      "original_quote": "富貴兒孫一局頒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L212",
+      "original_quote": "論九星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L213",
+      "original_quote": "大概九星要純粹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L214",
+      "original_quote": "脫脫變鬼定衰替",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L215",
+      "original_quote": "吉報吉星吉更多",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L216",
+      "original_quote": "凶助凶威凶可畏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L217",
+      "original_quote": "只要本星生本塋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L218",
+      "original_quote": "飛伏兩宮雇祖利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L219",
+      "original_quote": "欲查形勢折換情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L220",
+      "original_quote": "進退加臨考星義",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L221",
+      "original_quote": "旺相休囚逐一詳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L222",
+      "original_quote": "便知其形成與廢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L223",
+      "original_quote": "論九宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L224",
+      "original_quote": "九宮起元論山祖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L225",
+      "original_quote": "元局不孤才可許",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L226",
+      "original_quote": "若有一局墜旬空",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L227",
+      "original_quote": "化氣不真非為美",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L228",
+      "original_quote": "即令全局總無傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L229",
+      "original_quote": "再將本局細參取",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L230",
+      "original_quote": "起從何宮飛向何",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L231",
+      "original_quote": "穿田過峽須尋迤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L232",
+      "original_quote": "更看歸局歷幾辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L233",
+      "original_quote": "詳考變胎可脫體",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L234",
+      "original_quote": "倘得節次入生鄉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L235",
+      "original_quote": "此是佳城天付與",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L236",
+      "original_quote": "上局得令左偏宜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L237",
+      "original_quote": "中元依中下右取",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L238",
+      "original_quote": "應從節次別元情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L239",
+      "original_quote": "得令失令因時舉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L240",
+      "original_quote": "論門戶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L241",
+      "original_quote": "門戶休囚易得征",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L242",
+      "original_quote": "只看陰陽貴人星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L243",
+      "original_quote": "陽吉星臨門發早",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L244",
+      "original_quote": "陰吉星臨戶後興",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L245",
+      "original_quote": "門吉戶凶門漸替",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L246",
+      "original_quote": "戶吉門凶先拂情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L247",
+      "original_quote": "若見門戶全凶吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L248",
+      "original_quote": "終始如類說前程",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L249",
+      "original_quote": "論三甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L250",
+      "original_quote": "三甲區分左右中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L251",
+      "original_quote": "龍穴砂水定其蹤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L252",
+      "original_quote": "開闔就裏有微妙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L253",
+      "original_quote": "用神得地是仙宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L254",
+      "original_quote": "論吉凶格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L255",
+      "original_quote": "返首兮回龍顧祖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L256",
+      "original_quote": "跌穴兮蛇入龍窩",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L257",
+      "original_quote": "虎狂兮須推右水反跳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L258",
+      "original_quote": "龍走兮只怕左脈奔騰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L259",
+      "original_quote": "遁格各有取用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L260",
+      "original_quote": "地遁得之喜非常",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L261",
+      "original_quote": "假格各有區別",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L262",
+      "original_quote": "鬼假逢之大吉利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L263",
+      "original_quote": "三詐之格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L264",
+      "original_quote": "壙當論深淺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L265",
+      "original_quote": "三勝之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L266",
+      "original_quote": "臨山城為妙地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L267",
+      "original_quote": "得使而氣脈遠布",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L268",
+      "original_quote": "守門而拱護森嚴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L269",
+      "original_quote": "門四戶切莫刑傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L270",
+      "original_quote": "值使與時元日元",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L271",
+      "original_quote": "天馬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L272",
+      "original_quote": "私門要值六合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L273",
+      "original_quote": "九天與值符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L274",
+      "original_quote": "值使",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L275",
+      "original_quote": "蛇夭矯而穴情不實",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L276",
+      "original_quote": "須防道路穿傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L277",
+      "original_quote": "雀投江而案山低卸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L278",
+      "original_quote": "還疑元神直流",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L279",
+      "original_quote": "伏乾飛幹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L280",
+      "original_quote": "此地必有更變",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L281",
+      "original_quote": "猶恐後日作邊場",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L282",
+      "original_quote": "飛宮伏宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L283",
+      "original_quote": "此地必見凶咎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L284",
+      "original_quote": "待看蟻屯與風透",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L285",
+      "original_quote": "大格小格水不朝而反射",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L286",
+      "original_quote": "刑格悖格砂不合而門傷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L287",
+      "original_quote": "熒入白兮醜聲官非造出",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L288",
+      "original_quote": "白入熒兮尸靡棺爛遭殃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L289",
+      "original_quote": "年月日時逢悖格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L290",
+      "original_quote": "龍穴砂水可推詳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L291",
+      "original_quote": "五不遇兮人丁不旺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L292",
+      "original_quote": "六儀刑兮財帛分張",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L293",
+      "original_quote": "入墓羅網拱護皆帶刑煞",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L294",
+      "original_quote": "反伏門迫山向那得禎樣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L295",
+      "original_quote": "符使休囚縱葬而不發",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L296",
+      "original_quote": "時日刑害雖用而喪亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L297",
+      "original_quote": "兩元納音無刑陷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan14_MaiZangZhan_L298",
+      "original_quote": "符使生旺時葬之良",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan14",
+    "section": "埋葬占",
+    "line_id_start": "QMDJ_Juan14_MaiZangZhan_L000",
+    "line_id_end": "QMDJ_Juan14_MaiZangZhan_L298"
+  },
+  "_extraction_status": "埋葬占完成"
+}
