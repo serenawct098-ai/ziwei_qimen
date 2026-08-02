@@ -1,0 +1,18 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷二",
+  "section": "安命主",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan2_AnMingzhu_L001",
+      "original_quote": "貪狼子宮，巨門丑亥宮，祿存寅戌宮，文曲卯酉宮，廉真申辰宮，武曲巳未宮，破軍午宮。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnMingzhu_L002",
+      "original_quote": "假如午宮安命尋破軍星在何宮即命主也，子宮安命尋貪狼星在何宮即命主也，左輔隨丑至午，右弼隨亥至午。",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "安命主完成"
+}
