@@ -1,7 +1,7 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "斗數準繩",
+  "section": "⽃數準繩",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L000",
@@ -10,69 +10,85 @@
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L001",
-      "original_quote": "命居⽣旺定富貴,各有所宜｡⾝坐空亡論榮枯,專求其要｡",
+      "original_quote": "⽃數準繩命居⽣旺定富貴,各有所宜｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L002",
-      "original_quote": "紫微帝座在南極不能施功,天府令星在南地專能為福｡",
+      "original_quote": "⾝坐空亡論榮枯,專求其要｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L003",
-      "original_quote": "天機七殺同宮也善三分,太陰火鈴同位反成⼗惡｡",
+      "original_quote": "紫微帝座在南極不能施功,天府令星在南地專能為福｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L004",
-      "original_quote": "貪狼為善宿入廟不凶,巨⾨為惡曜得垣尤美｡",
+      "original_quote": "天機七殺同宮也善三分,太陰火鈴同位反成⼗惡｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L005",
-      "original_quote": "諸凶在緊要之鄉最宜制剋,若在⾝命之位卻受孤單｡",
+      "original_quote": "貪狼為善宿入廟不凶,巨⾨為惡曜得垣尤美｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L006",
-      "original_quote": "若⾒殺星倒限最凶⼤抵在⼈之機變,福蔭臨之庶幾可解｡",
+      "original_quote": "諸凶在緊要之鄉最宜制剋,若在⾝命之位卻受孤單｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L007",
-      "original_quote": ",更加作意之推詳｡",
+      "original_quote": "若⾒殺星倒限最凶⼤抵在⼈之機變,福蔭臨之庶幾可解｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L008",
-      "original_quote": "辨⽣剋制化以定窮通,看好惡正偏以⾔禍福｡",
+      "original_quote": ",更加作意之推詳｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L009",
-      "original_quote": "官星居於福地近貴榮財,福星居於官宮卻成無⽤｡",
+      "original_quote": "辨⽣剋制化以定窮通,看好惡正偏以⾔禍福｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L010",
-      "original_quote": "⾝命得星為要,限度遇吉為榮｡",
+      "original_quote": "官星居於福地近貴榮財,福星居於官宮卻成無⽤｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L011",
-      "original_quote": "若⾔⼦媳有無,專在擎⽺耗殺｡逢之則害妻妾亦然｡",
+      "original_quote": "⾝命得星為要,限度遇吉為榮｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L012",
-      "original_quote": "相貌逢凶必帶破相,疾厄逢忌定有尪贏｡",
+      "original_quote": "若⾔⼦媳有無,專在擎⽺耗殺｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Zhunsheng_L013",
+      "original_quote": "逢之則害妻妾亦然｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_Zhunsheng_L014",
+      "original_quote": "相貌逢凶必帶破相,疾厄逢忌定有尪贏｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_Zhunsheng_L015",
       "original_quote": "須⾔定數以求⽞,更在同年之相合,總為綱領⽤作準繩｡",
       "tag": []
     }
   ],
-  "_extraction_status": "斗數準繩完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷一",
+    "section": "⽃數準繩",
+    "line_id_start": "ZWQS_Juan1_Zhunsheng_L000",
+    "line_id_end": "ZWQS_Juan1_Zhunsheng_L015"
+  }
 }

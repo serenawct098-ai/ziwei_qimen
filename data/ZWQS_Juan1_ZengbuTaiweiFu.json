@@ -10,7 +10,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L001",
-      "original_quote": "前後兩凶神為兩鄰,加會尚可撐持,同室與謀最難隄防｡",
+      "original_quote": "增補太微賦前後兩凶神為兩鄰,加會尚可撐持,同室與謀最難隄防｡",
       "tag": []
     },
     {
@@ -150,34 +150,35 @@
     },
     {
       "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L029",
-      "original_quote": "謀⽽不遂,命限遇入擎⽺,東作⻄成,限⾝遭逢輔相",
+      "original_quote": "謀⽽不遂,命限遇入擎⽺,東作⻄成,限⾝遭逢輔相科權祿拱,定為扳桂之⾼⼈,空劫⽺鈴,作九流之術⼠｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L030",
-      "original_quote": "科權祿拱,定為扳桂之⾼⼈,空劫⽺鈴,作九流之術⼠｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L031",
       "original_quote": "情懷暢舒昌曲命⾝,詭詐浮虛⽺陀陷地｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L032",
+      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L031",
       "original_quote": "天機天梁擎⽺會,早有刑⽽晚⾒孤｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L033",
+      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L032",
       "original_quote": "貪狼武曲廉貞逢,少受貧⽽後享福｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L034",
+      "line_id": "ZWQS_Juan1_ZengbuTaiweiFu_L033",
       "original_quote": "此皆⽃數之奧妙,學者宜熟思之｡",
       "tag": []
     }
   ],
-  "_extraction_status": "增補太微賦完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷一",
+    "section": "增補太微賦",
+    "line_id_start": "ZWQS_Juan1_ZengbuTaiweiFu_L000",
+    "line_id_end": "ZWQS_Juan1_ZengbuTaiweiFu_L033"
+  }
 }

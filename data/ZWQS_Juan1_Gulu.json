@@ -1,16 +1,16 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "斗數轂率",
+  "section": "Gulu",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_Gulu_L000",
-      "original_quote": "重補⽃數彀率",
+      "original_quote": "Gulu",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_Gulu_L001",
-      "original_quote": "諸星吉多逢凶也吉,諸星惡多逢吉也凶｡",
+      "original_quote": "重補⽃數彀率諸星吉多逢凶也吉,諸星惡多逢吉也凶｡",
       "tag": []
     },
     {
@@ -102,12 +102,13 @@
       "line_id": "ZWQS_Juan1_Gulu_L019",
       "original_quote": "⼈⽣發達限元最怕浮沉,⼀世迍邅命限逢乎駁雜｡",
       "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_Gulu_L020",
-      "original_quote": "論⽽⾄此允矣⽞微｡",
-      "tag": []
     }
   ],
-  "_extraction_status": "斗數轂率完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷一",
+    "section": "Gulu",
+    "line_id_start": "ZWQS_Juan1_Gulu_L000",
+    "line_id_end": "ZWQS_Juan1_Gulu_L019"
+  }
 }
