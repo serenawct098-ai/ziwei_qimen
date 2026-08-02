@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan24",
+  "section": "禳疫法",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L000",
+      "original_quote": "禳疫法",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L001",
+      "original_quote": "經曰：「出軍疫癘傳染",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L002",
+      "original_quote": "死者甚眾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L003",
+      "original_quote": "號曰軍氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L004",
+      "original_quote": "可於上風焚死人骷髏數枚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan24_RangYiFa_L005",
+      "original_quote": "軍氣即能散」",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan24",
+    "section": "禳疫法",
+    "line_id_start": "QMDJ_Juan24_RangYiFa_L000",
+    "line_id_end": "QMDJ_Juan24_RangYiFa_L005"
+  },
+  "_extraction_status": "禳疫法完成"
+}
