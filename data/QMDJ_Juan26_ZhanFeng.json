@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan26",
+  "section": "占風",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L000",
+      "original_quote": "占風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L001",
+      "original_quote": "爾雅曰：風而雨上曰霾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L002",
+      "original_quote": "陰而雨曰曀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L003",
+      "original_quote": "日出而風為暴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L004",
+      "original_quote": "回風曰飄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L005",
+      "original_quote": "焚輪謂之頹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L006",
+      "original_quote": "扶搖謂之飈",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L007",
+      "original_quote": "宮曰風曰雨征三羽五正商",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_ZhanFeng_L008",
+      "original_quote": "角始得雨則能",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan26",
+    "section": "占風",
+    "line_id_start": "QMDJ_Juan26_ZhanFeng_L000",
+    "line_id_end": "QMDJ_Juan26_ZhanFeng_L008"
+  },
+  "_extraction_status": "占風完成"
+}

@@ -1,0 +1,125 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan26",
+  "section": "三刑",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L000",
+      "original_quote": "三刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L001",
+      "original_quote": "三刑刑為尤急坐不及起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L002",
+      "original_quote": "刑上刑下",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L003",
+      "original_quote": "自刑也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L004",
+      "original_quote": "如子刑卯為下刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L005",
+      "original_quote": "午為上刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L006",
+      "original_quote": "酉亥為自刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L007",
+      "original_quote": "寅刑巳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L008",
+      "original_quote": "巳刑申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L009",
+      "original_quote": "申刑寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L010",
+      "original_quote": "醜刑戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L011",
+      "original_quote": "戌刑未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L012",
+      "original_quote": "未刑丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L013",
+      "original_quote": "為三刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L014",
+      "original_quote": "子刑卯",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L015",
+      "original_quote": "卯刑子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L016",
+      "original_quote": "為五刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L017",
+      "original_quote": "辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L018",
+      "original_quote": "午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L019",
+      "original_quote": "酉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L020",
+      "original_quote": "亥為自刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_3Xing_L021",
+      "original_quote": "此午為上刑之說誤",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan26",
+    "section": "三刑",
+    "line_id_start": "QMDJ_Juan26_3Xing_L000",
+    "line_id_end": "QMDJ_Juan26_3Xing_L021"
+  },
+  "_extraction_status": "三刑完成"
+}

@@ -1,0 +1,105 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan26",
+  "section": "六情有五",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L000",
+      "original_quote": "六情有五",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L001",
+      "original_quote": "本情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L002",
+      "original_quote": "本日支也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L003",
+      "original_quote": "合情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L004",
+      "original_quote": "支合也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L005",
+      "original_quote": "刑情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L006",
+      "original_quote": "本日支刑也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L007",
+      "original_quote": "衝情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L008",
+      "original_quote": "支衝也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L009",
+      "original_quote": "錫情",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L010",
+      "original_quote": "陽日支後三辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L011",
+      "original_quote": "陰日支前三辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L012",
+      "original_quote": "凡六情日與方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L013",
+      "original_quote": "止用支辰斷之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L014",
+      "original_quote": "五音以納甲五行分五音之日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L015",
+      "original_quote": "如甲子陽商貪狼",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L016",
+      "original_quote": "乙丑陰商",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan26_6Qing5_L017",
+      "original_quote": "公正之類",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan26",
+    "section": "六情有五",
+    "line_id_start": "QMDJ_Juan26_6Qing5_L000",
+    "line_id_end": "QMDJ_Juan26_6Qing5_L017"
+  },
+  "_extraction_status": "六情有五完成"
+}
