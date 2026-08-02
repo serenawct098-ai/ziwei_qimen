@@ -1,0 +1,658 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "太微賦",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L001",
+      "original_quote": "⽃ 數 ⾄ ⽞ ⾄ 微 , 理 旨 難 明 , 雖 設 問 於 各 篇 之 中 , 猶 有 ⾔ ⽽ 未 盡 , ⾄",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L002",
+      "original_quote": "如 星 之 分 野 , 各 有 所 屬 , 壽 天 賢 愚 , 富 貴 貧 賤 , 不 可 ⼀ 概 論 議 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L003",
+      "original_quote": "其 星 分 佈 ⼀ ⼗ ⼆ 垣 , 數 定 乎 三 ⼗ 六 位 , 入 廟 為 奇 , 失 度 為 虛 , ⼤ 抵",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L004",
+      "original_quote": "以 ⾝ 命 為 福 德 之 本 , 加 以 根 源 為 窮 通 之 資 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L005",
+      "original_quote": "星 有 同 躔 , 數 有 分 定 , 須 明 其 ⽣ 剋 之 要 , 必 詳 乎 得 垣 失 度 之 分 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L005",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L006",
+      "original_quote": "觀 乎 紫 微 舍 躔 , 司 ⼀ 天 儀 之 象 , 率 列 宿 ⽽ 成 垣 , ⼟ 星 苟 居 其 垣 , 若",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L006",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L007",
+      "original_quote": "可 移 動 , ⾦ 星 專 司 財 庫 , 最 怕 空 亡 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L007",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L008",
+      "original_quote": "帝 星 動 則 列 宿 奔 馳 , 貪 守 空 ⽽ 財 源 不 聚 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L008",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L009",
+      "original_quote": "各 司 其 職 , 不 可 參 差 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L009",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L010",
+      "original_quote": "苟 或 不 察 其 機 , 更 忘 其 變 , 則 數 之 造 化 遠 矣 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L010",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L011",
+      "original_quote": "例 ⽇",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L011",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L012",
+      "original_quote": "祿 逢 沖 破 , 吉 處 藏 凶 ｡ ⾺ 遇 空 亡 , 終 ⾝ 奔 走 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L012",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L013",
+      "original_quote": "⽣ 逢 敗 地 , 發 也 虛 花 ｡ 絕 處 逢 ⽣ , ⽣ 花 不 敗 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L013",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L014",
+      "original_quote": "星 臨 廟 旺 , 再 觀 ⽣ 剋 之 機 ｡ 命 坐 強 宮 , 細 察 制 化 之 理 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L014",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L015",
+      "original_quote": "⽇ ⽉ 最 嫌 反 背 , 祿 ⾺ 最 喜 交 馳 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L015",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L016",
+      "original_quote": "倘 居 空 亡 , 得 失 最 為 要 緊 ｡ 若 逢 敗 地 , 扶 持 ⼤ 有 奇 功 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L016",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L017",
+      "original_quote": "紫 微 天 府 全 依 輔 弼 之 功 , 七 殺 破 軍 專 依 ⽺ 鈴 之 虐 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L017",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L018",
+      "original_quote": "諸 星 吉 , 逢 凶 也 吉 ｡ 諸 星 凶 , 逢 凶 也 凶 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L018",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L019",
+      "original_quote": "輔 弼 夾 帝 為 上 品 , 桃 花 犯 主 為 ⾄ 淫 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L019",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L020",
+      "original_quote": "君 ⾂ 慶 會 , 材 善 經 邦 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L020",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L021",
+      "original_quote": "魁 鉞 同 ⾏ , 位 居 台 輔 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L021",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L022",
+      "original_quote": "祿 ⽂ 拱 命 , 貴 ⽽ 且 賢 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L022",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L023",
+      "original_quote": "⽇ ⽉ 夾 財 , 不 權 則 富 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L023",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L024",
+      "original_quote": "⾺ 頭 帶 劍 , 鎮 衛 邊 疆 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L024",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L025",
+      "original_quote": "刑 求 夾 印 , 刑 杖 惟 司 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L025",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L026",
+      "original_quote": "善 蔭 朝 綱 , 仁 慈 之 長 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L026",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L027",
+      "original_quote": "貴 入 貴 鄉 , 逢 之 富 貴 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L027",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L028",
+      "original_quote": "財 居 財 位 , 遇 者 富 奢 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L028",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L029",
+      "original_quote": "太 陽 居 午 , 謂 之 ⽇ 麗 中 天 , 有 專 權 之 貴 , 敵 國 之 富 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L029",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L030",
+      "original_quote": "太 陰 居 ⼦ , 號 ⽈ ⽔ 澄 桂 萼 , 得 清 要 之 職 , 忠 諫 之 材 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L030",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L031",
+      "original_quote": "紫 微 輔 弼 同 宮 , ⼀ 呼 百 諾 居 上 品 ｡ ⽂ 耗 居 寅 卯 , 謂 之 眾 ⽔ 朝 東 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L031",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L032",
+      "original_quote": "⽇ ⽉ 守 不 如 照 合 , 蔭 福 聚 不 怕 凶 危 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L032",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L033",
+      "original_quote": "貪 居 亥 ⼦ , 名 為 犯 ⽔ 桃 花 ｡ 刑 遇 貪 狼 , 號 ⽈ 風 流 綵 杖 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L033",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L034",
+      "original_quote": "七 殺 廉 貞 同 位 , 路 上 埋 屍 ｡ 破 軍 暗 曜 同 鄉 , ⽔ 中 作 塚 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L034",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L035",
+      "original_quote": "祿 居 奴 僕 縱 有 官 也 奔 馳 , 帝 遇 凶 徒 雖 獲 吉 ⽽ 無 道 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L035",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L036",
+      "original_quote": "帝 坐 ⾦ ⾞ 則 ⽇ ⾦ 轝 捧 櫛 , 福 安 ⽂ 曜 謂 之 ⽟ 袖 天 香 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L036",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L037",
+      "original_quote": "太 陽 會 ⽂ 昌 於 官 祿 , 皇 殿 朝 班 , 富 貴 全 美 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L037",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L038",
+      "original_quote": "太 陰 會 ⽂ 曲 於 妻 宮 , 蟾 宮 折 桂 , ⽂ 章 全 盛 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L038",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L039",
+      "original_quote": "祿 存 守 於 ⽥ 財 , 堆 ⾦ 積 ⽟ ｡ 財 蔭 坐 於 遷 移 , 巨 商 ⾼ 賈 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L039",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L040",
+      "original_quote": "耗 居 祿 位 , 沿 途 乞 食 ｡ 貪 會 旺 宮 , 終 ⾝ 鼠 竊 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L040",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L041",
+      "original_quote": "殺 居 絕 地 , 天 年 天 似 顏 回 ｡ 貪 坐 ⽣ 鄉 , 壽 考 永 如 彭 祖 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L041",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L042",
+      "original_quote": "忌 暗 同 居 ⾝ 命 疾 厄 , 沉 困 尪 贏 , 凶 星 會 於 ⽗ ⺟ 遷 移 , 刑 傷 破 祖 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L042",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L043",
+      "original_quote": "刑 殺 同 廉 貞 於 官 祿 , 枷 扭 難 逃 , 官 符 加 刑 殺 於 遷 移 , 離 鄉 遭 配 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L043",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L044",
+      "original_quote": "善 福 居 空 位 , 天 竺 ⽣ 涯 ｡ 輔 弼 單 守 命 宮 , 離 宗 庶 出 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L044",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L045",
+      "original_quote": "七 殺 臨 於 ⾝ 命 加 惡 殺 , 必 定 死 亡 ｡ 鈴 ⽺ 合 於 命 宮 遇 ⽩ 虎 , 須 當 刑 戮 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L045",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L046",
+      "original_quote": "官 府 發 於 吉 曜 , 流 殺 怕 逢 破 軍 ｡ ⽺ 陀 憑 太 歲 以 引 ⾏ , 病 符 官 符 皆 作",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L046",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L047",
+      "original_quote": "禍 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L047",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L048",
+      "original_quote": "奏 書 博 ⼠ 與 流 祿 , 盡 作 吉 祥 ｡ ⼒ ⼠ 將 軍 同 ⻘ ⿓ , 顯 其 權 勢 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L048",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L049",
+      "original_quote": "童 ⼦ 限 如 ⽔ 上 泡 漚 , 老 ⼈ 限 似 風 中 燃 燭 ｡ 遇 殺 無 制 乃 流 年 最 忌 ,",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L049",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L050",
+      "original_quote": "⼈ ⽣ 榮 辱 限 元 必 有 休 咎 , 處 世 孤 貧 數 中 逢 乎 駁 雜 , 學 ⾄ 此 誠 ⽞ 微 矣 ｡",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_id": "ZWQS_Juan1_TaiweiFu_L050",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "太微賦全文完成"
+}
