@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占生男女長命",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L000",
+      "original_quote": "占生男女長命",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L001",
+      "original_quote": "以所生時幹天盤所落之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L002",
+      "original_quote": "看是何星?何神?以天蓬為天賊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L003",
+      "original_quote": "元武為偷生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L004",
+      "original_quote": "犯此二神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L005",
+      "original_quote": "再乘休廢無氣之時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L006",
+      "original_quote": "主不能養",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L007",
+      "original_quote": "若有奇門吉格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L008",
+      "original_quote": "吉神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L009",
+      "original_quote": "再乘旺相之氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanShengNanNv_L010",
+      "original_quote": "主長命富貴",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占生男女長命",
+    "line_id_start": "QMDJ_Juan10_ZhanShengNanNv_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanShengNanNv_L010"
+  },
+  "_extraction_status": "占生男女長命完成"
+}

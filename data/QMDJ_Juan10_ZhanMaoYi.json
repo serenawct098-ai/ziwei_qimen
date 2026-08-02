@@ -1,0 +1,110 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占貿易",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L000",
+      "original_quote": "占貿易",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L001",
+      "original_quote": "以甲子戊為資本",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L002",
+      "original_quote": "生門為利息",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L003",
+      "original_quote": "生門所落之宮得奇門吉格來生甲子戊之落宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L004",
+      "original_quote": "必獲倍利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L005",
+      "original_quote": "二宮比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L006",
+      "original_quote": "亦得中利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L007",
+      "original_quote": "生門來剋甲子戊之落宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L008",
+      "original_quote": "再乘凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L009",
+      "original_quote": "凶格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L010",
+      "original_quote": "必折本",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L011",
+      "original_quote": "甲子戊之宮生生門之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L012",
+      "original_quote": "主加添資本",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L013",
+      "original_quote": "仍得利息",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L014",
+      "original_quote": "生門若臨墓絕之地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L015",
+      "original_quote": "再有凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L016",
+      "original_quote": "凶格相乘者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L017",
+      "original_quote": "必耗盡資本",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaoYi_L018",
+      "original_quote": "尤凶",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占貿易",
+    "line_id_start": "QMDJ_Juan10_ZhanMaoYi_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanMaoYi_L018"
+  },
+  "_extraction_status": "占貿易完成"
+}

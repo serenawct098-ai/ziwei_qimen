@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占胎息男女",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L000",
+      "original_quote": "占胎息男女",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L001",
+      "original_quote": "其占法以坤宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L002",
+      "original_quote": "天芮星為母",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L003",
+      "original_quote": "以天盤星臨坤之宮為胎息",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L004",
+      "original_quote": "陽星為男胎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L005",
+      "original_quote": "陰星為女胎",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L006",
+      "original_quote": "惟天禽臨之為雙生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L007",
+      "original_quote": "陽乾是男",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanTaiXi_L008",
+      "original_quote": "陰乾女也",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占胎息男女",
+    "line_id_start": "QMDJ_Juan10_ZhanTaiXi_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanTaiXi_L008"
+  },
+  "_extraction_status": "占胎息男女完成"
+}

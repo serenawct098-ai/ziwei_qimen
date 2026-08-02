@@ -1,0 +1,125 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占交易",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L000",
+      "original_quote": "占交易",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L001",
+      "original_quote": "以日幹落宮為我",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L002",
+      "original_quote": "時幹落宮為他",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L003",
+      "original_quote": "六合為經紀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L004",
+      "original_quote": "日乾生時幹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L005",
+      "original_quote": "買主受置",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L006",
+      "original_quote": "時幹生日乾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L007",
+      "original_quote": "業主願意",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L008",
+      "original_quote": "日乾剋時幹",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L009",
+      "original_quote": "買主不要",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L010",
+      "original_quote": "時幹剋日乾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L011",
+      "original_quote": "業主不賣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L012",
+      "original_quote": "六合生日乾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L013",
+      "original_quote": "經紀人向買主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L014",
+      "original_quote": "生時幹者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L015",
+      "original_quote": "向賣主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L016",
+      "original_quote": "二干落宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L017",
+      "original_quote": "相比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L018",
+      "original_quote": "兩家公平交易",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L019",
+      "original_quote": "主成",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L020",
+      "original_quote": "二干有一落空亡者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanJiaoYi_L021",
+      "original_quote": "交易不成",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占交易",
+    "line_id_start": "QMDJ_Juan10_ZhanJiaoYi_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanJiaoYi_L021"
+  },
+  "_extraction_status": "占交易完成"
+}

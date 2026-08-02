@@ -1,0 +1,105 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占買房屋",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L000",
+      "original_quote": "占買房屋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L001",
+      "original_quote": "以值符為買主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L002",
+      "original_quote": "生門為住宅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L003",
+      "original_quote": "死門為土地",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L004",
+      "original_quote": "生死二門乘三奇吉格來生值符宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L005",
+      "original_quote": "主買後發達",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L006",
+      "original_quote": "二門不得吉格來生值符宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L007",
+      "original_quote": "主買後發達",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L008",
+      "original_quote": "二門不得吉格來生值符宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L009",
+      "original_quote": "中吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L010",
+      "original_quote": "比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L011",
+      "original_quote": "平安",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L012",
+      "original_quote": "二門乘休廢之氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L013",
+      "original_quote": "再有凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L014",
+      "original_quote": "凶格來剋值符宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L015",
+      "original_quote": "主買後破敗家財",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L016",
+      "original_quote": "值符生此二門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanMaiFangWu_L017",
+      "original_quote": "主因宅產贏敗不利",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占買房屋",
+    "line_id_start": "QMDJ_Juan10_ZhanMaiFangWu_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanMaiFangWu_L017"
+  },
+  "_extraction_status": "占買房屋完成"
+}

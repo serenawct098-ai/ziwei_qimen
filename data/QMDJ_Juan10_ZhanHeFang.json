@@ -1,0 +1,115 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占走失何方",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L000",
+      "original_quote": "占走失何方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L001",
+      "original_quote": "失去小兒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L002",
+      "original_quote": "陽遁於天盤六合所在之方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L003",
+      "original_quote": "陰遁於地盤六合所在之宮決之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L004",
+      "original_quote": "若失女婢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L005",
+      "original_quote": "陽遁於天盤太陰所在之方",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L006",
+      "original_quote": "陰遁於地盤太陰所在之宮定之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L007",
+      "original_quote": "看此二神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L008",
+      "original_quote": "即知其人所在之方矣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L009",
+      "original_quote": "陽遁在坎艮震巽四宮為內",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L010",
+      "original_quote": "為近",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L011",
+      "original_quote": "落離坤兌乾為外",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L012",
+      "original_quote": "為遠",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L013",
+      "original_quote": "陰遁反此",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L014",
+      "original_quote": "若二神落日乾之墓庫者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L015",
+      "original_quote": "遠近難尋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L016",
+      "original_quote": "落空亡者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L017",
+      "original_quote": "其人又往他方去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L018",
+      "original_quote": "之後再以干合神之宮尋之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanHeFang_L019",
+      "original_quote": "必獲",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占走失何方",
+    "line_id_start": "QMDJ_Juan10_ZhanHeFang_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanHeFang_L019"
+  },
+  "_extraction_status": "占走失何方完成"
+}

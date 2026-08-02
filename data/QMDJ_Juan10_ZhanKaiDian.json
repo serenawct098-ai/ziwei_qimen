@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占開店肆",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L000",
+      "original_quote": "占開店肆",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L001",
+      "original_quote": "以開門主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L002",
+      "original_quote": "開門乘旺相氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L003",
+      "original_quote": "帶奇門吉格來生日乾之落宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L004",
+      "original_quote": "大吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L005",
+      "original_quote": "相比和不剋制者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L006",
+      "original_quote": "次吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L007",
+      "original_quote": "若開門入墓或返吟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L008",
+      "original_quote": "及落空亡者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L009",
+      "original_quote": "不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L010",
+      "original_quote": "開門落宮乘凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L011",
+      "original_quote": "凶格來衝剋日乾宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanKaiDian_L012",
+      "original_quote": "更不利",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占開店肆",
+    "line_id_start": "QMDJ_Juan10_ZhanKaiDian_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanKaiDian_L012"
+  },
+  "_extraction_status": "占開店肆完成"
+}

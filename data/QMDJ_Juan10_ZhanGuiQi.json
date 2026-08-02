@@ -1,0 +1,75 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan10",
+  "section": "占行人歸期",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L000",
+      "original_quote": "占行人歸期",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L001",
+      "original_quote": "法以行人年命專責庚格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L002",
+      "original_quote": "陽日以庚下臨之乾主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L003",
+      "original_quote": "陰日以庚上乘之乾定之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L004",
+      "original_quote": "年格年來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L005",
+      "original_quote": "月格月來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L006",
+      "original_quote": "日格日來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L007",
+      "original_quote": "時格時來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L008",
+      "original_quote": "不格不來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L009",
+      "original_quote": "何謂不格?乙庚為合不為格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L010",
+      "original_quote": "庚金入墓或臨空亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_ZhanGuiQi_L011",
+      "original_quote": "不為格",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan10",
+    "section": "占行人歸期",
+    "line_id_start": "QMDJ_Juan10_ZhanGuiQi_L000",
+    "line_id_end": "QMDJ_Juan10_ZhanGuiQi_L011"
+  },
+  "_extraction_status": "占行人歸期完成"
+}
