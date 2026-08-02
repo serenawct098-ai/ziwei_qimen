@@ -1,7 +1,7 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "女命骨髓賦",
+  "section": "女命⾻髓賦",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_NumingFu_L000",
@@ -10,7 +10,7 @@
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L001",
-      "original_quote": "府相之星女命躔,必當⼦貴與夫賢｡",
+      "original_quote": "女命⾻髓賦府相之星女命躔,必當⼦貴與夫賢｡",
       "tag": []
     },
     {
@@ -45,59 +45,85 @@
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L008",
-      "original_quote": "巨⾨天機為破蕩｡天梁⽉曜女命貧｡",
+      "original_quote": "巨⾨天機為破蕩｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L009",
-      "original_quote": "擎⽺火星為下賤｡⽂昌⽂曲福不全｡",
+      "original_quote": "天梁⽉曜女命貧｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L010",
-      "original_quote": "武曲之宿為寡宿｡破軍⼀曜性難明｡",
+      "original_quote": "擎⽺火星為下賤｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L011",
-      "original_quote": "貪狼內狠多淫佚｡七殺沉吟福不榮｡",
+      "original_quote": "⽂昌⽂曲福不全｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L012",
-      "original_quote": "⼗⼲化祿最榮昌,女命逢之⼤吉昌｡",
+      "original_quote": "武曲之宿為寡宿｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L013",
-      "original_quote": "更得祿存相湊合,旺夫益⼦受恩光｡",
+      "original_quote": "破軍⼀曜性難明｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L014",
-      "original_quote": "火鈴⽺陀及巨⾨,天空地劫⼜相臨｡",
+      "original_quote": "貪狼內狠多淫佚｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L015",
-      "original_quote": "貪狼七殺廉貞宿,武曲加臨剋害侵｡",
+      "original_quote": "七殺沉吟福不榮｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L016",
-      "original_quote": "三⽅四正嫌逢殺,更在夫宮禍患深｡",
+      "original_quote": "⼗⼲化祿最榮昌,女命逢之⼤吉昌｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L017",
-      "original_quote": "若是本宮無正曜,必主⽣離剋害真｡",
+      "original_quote": "更得祿存相湊合,旺夫益⼦受恩光｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_NumingFu_L018",
+      "original_quote": "火鈴⽺陀及巨⾨,天空地劫⼜相臨｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_NumingFu_L019",
+      "original_quote": "貪狼七殺廉貞宿,武曲加臨剋害侵｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_NumingFu_L020",
+      "original_quote": "三⽅四正嫌逢殺,更在夫宮禍患深｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_NumingFu_L021",
+      "original_quote": "若是本宮無正曜,必主⽣離剋害真｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_NumingFu_L022",
       "original_quote": "已前論賦俱係看命要訣,學者宜熟玩之,乃得原委也｡",
       "tag": []
     }
   ],
-  "_extraction_status": "女命骨髓賦完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷一",
+    "section": "女命⾻髓賦",
+    "line_id_start": "ZWQS_Juan1_NumingFu_L000",
+    "line_id_end": "ZWQS_Juan1_NumingFu_L022"
+  }
 }

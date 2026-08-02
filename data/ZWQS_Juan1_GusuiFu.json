@@ -1,1173 +1,469 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "斗數骨髓賦",
+  "section": "⽃數⾻隨賦",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_GusuiFu_L000",
-      "original_quote": "定⾒君王｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L001",
-      "original_quote": "問祿存星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L002",
-      "original_quote": "希夷先⽣答⽇:祿存北⽃第三星,真⼈之宿,主⼈貴爵,掌⼈壽基｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L003",
-      "original_quote": "帝相扶之施權,⽇⽉得之增輝｡天府武曲為厥職,天梁天同共其祥｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L004",
-      "original_quote": "⼗⼆宮中惟⾝命､⽥宅､財帛為要,主富｡居遷移則佳,與帝星守",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L005",
-      "original_quote": "官祿宜⼦孫爵秩｡若獨守命⽽無吉化,乃看財奴耳｡逢吉逞其權,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L006",
-      "original_quote": "遇惡敗其跡｡最嫌落於陷空不能為福,更湊火鈴空劫,巧藝安⾝｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L007",
-      "original_quote": "蓋祿爵當得勢⽽享之,守⾝命主⼈慈厚信直,通⽂濟楚｡女⼈清淑",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L008",
-      "original_quote": "機巧能幹能為,有君⼦之志｡紫府廉同會合,作祿存上局｡⼤抵此",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L009",
-      "original_quote": "星諸宮降福消災｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L010",
-      "original_quote": "歌⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L011",
-      "original_quote": "⽃北祿存星,數中為上局,守值⾝命內,不貴多⾦⽟,此為迪吉星,亦可登仕路,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L012",
-      "original_quote": "⽂⼈有聲名,武⼈有厚祿,常庶發橫財,僧道亦主福,官吏若",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L013",
-      "original_quote": "逢之,斷然食天祿｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L014",
-      "original_quote": "⼜⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L015",
-      "original_quote": "夾祿拱貴并化祿,⾦裡重逢⾦滿屋,不惟⽅丈比諸侯,⼀食萬",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L016",
-      "original_quote": "鍾猶未⾜,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L017",
-      "original_quote": "⼿起家基｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L018",
-      "original_quote": "祿存對向守遷移,三合逢之利祿宜,得逢遐邇⼈欽敬,的然⽩",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L019",
-      "original_quote": "問天⾺星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L020",
-      "original_quote": "希夷先⽣答⽇:諸宮各有制化,如⾝命臨之謂之驛⾺｡喜祿存､紫",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L021",
-      "original_quote": "府､昌曲,守照為吉｡如⼤⼩⼆限臨之,更遇祿存紫府,流昌必利｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L022",
-      "original_quote": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L023",
-      "original_quote": "刑殺同宮謂之負⼫⾺;火星同宮謂之戰⾺;⽇⽉同宮謂雌雄⾺;逢",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L024",
-      "original_quote": "空亡謂之死⾺､亡⾺;居絕死謂之死⾺;遇陀羅謂之折⾜⾺｡以上",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L025",
-      "original_quote": "犯此數者,俱主災病,流年值之依此斷｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L026",
-      "original_quote": "問化祿星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L027",
-      "original_quote": "希夷先⽣答⽇:祿為福德之神｡守⾝命官祿之位,科權相逢必作⼤",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L028",
-      "original_quote": "⾂之職｡⼩限逢之主進財入仕之喜｡⼤限⼗年吉慶無疑,惡曜來臨",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L029",
-      "original_quote": "并⽺陀火忌沖照,亦不為害｡女⼈吉湊作命婦,⼆限逢之,內外威",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L030",
-      "original_quote": "嚴,殺凑平常｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L031",
-      "original_quote": "問化權星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L032",
-      "original_quote": "希夷先⽣答⽇:權星掌判⽣殺之神｡守⾝命科祿相逢出將入相｡科",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L033",
-      "original_quote": "權相逢必定⽂章冠世,⼈皆欽仰｡⼩限相逢,無有不吉｡⼤限⼗年,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L034",
-      "original_quote": "必然遂志｡如逢⽺陀耗使劫空,聽讒貽累,官災貶謫｡女⼈得之內",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L035",
-      "original_quote": "外稱志,可作命婦｡僧道掌⼭林有師號｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L036",
-      "original_quote": "問化科星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L037",
-      "original_quote": "希夷先⽣答⽇:科星上界應試,主掌⽂墨之星｡守⾝命權祿相逢宰",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L038",
-      "original_quote": "⾂之貴｡如逢惡曜亦為⽂章秀⼠,可作群英師範｡女命吉拱,主貴",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L039",
-      "original_quote": "封贈｡雖四殺沖破,亦為富貴｡與科星拱照沖同論｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L040",
-      "original_quote": "問化忌星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L041",
-      "original_quote": "希夷先⽣答⽇:忌為多管之神｡守⾝命⼀⽣不順,⼩限逢之⼀年不",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L042",
-      "original_quote": "⾜,⼤限⼗年悔吝｡⼆限太歲交臨,斷然蹭蹬｡⽂⼈不耐久,武⼈縱有官災,⼝⾆不防｡雖商賈技藝⼈,皆不宜利｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L043",
-      "original_quote": "如會紫府､昌曲､左右､科權祿,與忌同宮⼜兼四殺共處,即發財",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L044",
-      "original_quote": "亦不佳,功名亦不成就｡如單逢四殺､耗使､劫空,主奔波帶疾｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L045",
-      "original_quote": "僧道流移還俗｡處事只求七分｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L046",
-      "original_quote": "問擎⽺星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L047",
-      "original_quote": "希夷先⽣答⽈:擎⽺北⽃之助星｡守⾝命性粗⾏暴,孤單,視親為",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L048",
-      "original_quote": "疏,翻恩為怨｡入廟性剛果決,機謀好勇,主權貴｡北⽅⽣⼈為福,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L049",
-      "original_quote": "四墓⽣⼈不忌｡居卯⻄作禍興殃,刑剋極甚｡六甲六庚⽣⼈,必有",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L050",
-      "original_quote": "凶禍｡縱富貴不久亦不善終,若九流⼯藝⼈辛勤｡加火忌劫空沖破,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L051",
-      "original_quote": "殘疾離祖刑剋六親｡女⼈入廟加吉上局,殺耗沖破多主刑剋下局｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L052",
-      "original_quote": "問陀羅星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L053",
-      "original_quote": "希夷先⽣答⽈:陀羅北⽃之助星｡守⾝命⼼⾏不正,暗淚長流,性",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L054",
-      "original_quote": "剛威猛,作事進退｡橫成橫破,飄蕩不定｡與貪狼同度因酒⾊以成",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L055",
-      "original_quote": "癆,與火鈴同處,疥疫不死｡居疾厄,暗疾纏綿｡辰戌丑未⽣⼈為",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L056",
-      "original_quote": "福,在廟財官論,⽂⼈不耐久,武⼈橫發⾼遷｡若陷地加殺刑剋招",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L057",
-      "original_quote": "凶,⼆姓延⽣,女⼈刑剋下賤｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L058",
-      "original_quote": "⽺陀⼆星總論",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L059",
-      "original_quote": "⽟蟾先⽣⽇:擎⽺陀羅⼆星屬火⾦,乃北⽃浮星,在⽃司奏,在數",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L060",
-      "original_quote": "凶厄｡⽺化氣⽇刑,陀化氣⽇忌｡怕臨兄弟､⽥宅､⽗⺟三宮｡忌",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L061",
-      "original_quote": "三合臨⾝命,合昌曲､左右有暗痣､眼痣｡⾒⽇⽉女剋夫,⽽夫剋",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L062",
-      "original_quote": "婦,為諸宮之凶神｡忌同⽇⽉則傷親損⽬;刑併桃花則風流惹禍;",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L063",
-      "original_quote": "忌貪狼合因花酒以忘⾝;刑與暗同⾏招暗疾⽽壞⽬;忌與殺暗同度",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L064",
-      "original_quote": "招凌辱⽽⽣暗疾;與火鈴為凶伴只宜僧道;貪耗流年⾯上刺痕｡⼆限更遇此,災害不時⽽⽣也｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L065",
-      "original_quote": "權刑合殺疾病官厄不免;",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L066",
-      "original_quote": "歌⽈",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L067",
-      "original_quote": "刑與暗同⾏,暗疾刑六親,火鈴遇凶伴,只宜道與僧,權刑囚",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L068",
-      "original_quote": "合殺,疾病災厄侵,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L069",
-      "original_quote": "貪耗流年聚,⾯上刺痕新,限運若逢此,橫禍⾎刃⽣｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L070",
-      "original_quote": "⽺陀天壽殺,⼈遇為掃星,君⼦防恐懼,⼩⼈遭凌刑,遇耗決",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L071",
-      "original_quote": "乞求,只宜林泉⼈,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L072",
-      "original_quote": "⼆限倘來犯,不時災禍侵｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L073",
-      "original_quote": "問火星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L074",
-      "original_quote": "答⽇:火星乃南⽃浮星也｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L075",
-      "original_quote": "希夷先⽣歌⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L076",
-      "original_quote": "火星⼤殺將,南⽃號殺神,若主⾝命位,諸宮不可臨,性氣亦",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L077",
-      "original_quote": "沉毒,剛強出眾⼈,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L078",
-      "original_quote": "⽑髮多異類,唇⿒有傷痕,更與⽺陀會,襁褓必災迍,過房出",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L079",
-      "original_quote": "外養,⼆姓可延⽣,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L080",
-      "original_quote": "上將,勳業著邊庭,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L081",
-      "original_quote": "此星東南利,不利⻄北⽣,若得貪狼會,旺地貴無倫,封侯居",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L082",
-      "original_quote": "三⽅無殺破,中年後始興,僧道多飄蕩,不守規戒⼼,女⼈旺",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L083",
-      "original_quote": "地潔,陷地主邪淫,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L084",
-      "original_quote": "刑夫⼜剋⼦,下賤勞碌⼈｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L085",
-      "original_quote": "問鈴星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L086",
-      "original_quote": "答⽇:鈴星乃南⽃助星也｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L087",
-      "original_quote": "希夷先⽣歌⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L088",
-      "original_quote": "⼤殺鈴星將,南⽃為從神,值⼈⾝命者,性格亦沉吟,形貌多",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L089",
-      "original_quote": "異類,威勢有聲名,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L090",
-      "original_quote": "若與貪狼會,指⽇立邊庭,廟地財官貴,陷地主孤貧,⽺陀若",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L091",
-      "original_quote": "湊合,其刑⼤不清,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L092",
-      "original_quote": "孤單并棄祖,殘傷帶疾⼈,僧道多飄蕩,還俗定無疑,女⼈無",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L093",
-      "original_quote": "吉曜,刑剋少六親,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L094",
-      "original_quote": "終⾝不貞潔,壽天仍困貧,此星⼤殺將,其惡不可禁,⼀⽣有",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L095",
-      "original_quote": "凶禍,聚實為虛情,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L096",
-      "original_quote": "七殺主陣亡,破軍財屋傾,廉宿⽺刑會,劫空主⼑兵,或遇貪",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L097",
-      "original_quote": "狼宿,官祿亦不寧,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L098",
-      "original_quote": "若逢居旺地,富貴不可論｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L099",
-      "original_quote": "⽺陀火鈴四星總論",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L100",
-      "original_quote": "⽟蟾先⽣⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L101",
-      "original_quote": "火鈴陀羅⾦,擎⽺刑忌訣,⼀名⾺掃星,⼜名短壽殺,君⼦失",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L102",
-      "original_quote": "其權,⼩⼈犯刑法,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L103",
-      "original_quote": "孤獨剋六親,災禍常不歇,腰⾜唇⿒傷,勞碌多蹇剝,破相⼜",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L104",
-      "original_quote": "勞⼼,乞丐填溝壑,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L105",
-      "original_quote": "寺僧,⾦穀常安樂｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L106",
-      "original_quote": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天空地劫所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L107",
-      "original_quote": "希夷先⽣⽇:⼆星守⾝命,遇吉則吉,遇凶則凶｡如四殺沖照,輕",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L108",
-      "original_quote": "者下賤,重者六畜之命｡僧道不正,女⼦婢妾,刑剋孤獨｡⼤抵⼆",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L109",
-      "original_quote": "星俱不宜⾒,定主破財,⼆限逢之必凶｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L110",
-      "original_quote": "歌⽈",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L111",
-      "original_quote": "⽟也須貧｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L112",
-      "original_quote": "劫空為害最愁⼈,才智英雄誤⼀⾝,只好為僧併學術,堆⾦積",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L113",
-      "original_quote": "問天傷天使所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L114",
-      "original_quote": "希夷先⽣答⽈:天傷乃上天虛耗之神,天使乃上天傳使之神｡太歲",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L115",
-      "original_quote": "⼆限逢之不問得地否?只要吉多為福其禍稍輕,如無吉,值巨⾨､",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L116",
-      "original_quote": "⽺陀､火鈴､忌､天機,其年必主官災,喪亡破敗｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L117",
-      "original_quote": "限⾄⼤耗號天傷,夫⼦在陳也絕糧,天使限臨⼈共忌,⽯崇巨",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L118",
-      "original_quote": "富破家亡｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L119",
-      "original_quote": "問天刑星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L120",
-      "original_quote": "希夷先⽣答⽇:天刑守命⾝,不為僧道定主孤刑,不夭則貧｡⽗⺟",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L121",
-      "original_quote": "兄弟不得全,⼆限逢之主出家,官事牢獄失財,入廟則吉｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L122",
-      "original_quote": "歌⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L123",
-      "original_quote": "天刑未必是凶星,入廟名為天喜神,昌曲吉星來湊合,定然獻",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L124",
-      "original_quote": "策到王庭,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L125",
-      "original_quote": "刑居寅上并⻄戌,更臨卯位⾃光明,必遇⽂星成⼤業,掌握邊",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L126",
-      "original_quote": "疆百萬兵,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L127",
-      "original_quote": "三不⼦兮號天刑,為僧為道是孤⾝,天哭⼆星皆同到,終是難",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L128",
-      "original_quote": "逃有疾⼈｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L129",
-      "original_quote": "問天姚星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L130",
-      "original_quote": "希夷先⽣答⽇:天姚守⾝命,⼼性陰毒,多疑恐､善顏⾊､風流多",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L131",
-      "original_quote": "婢､主淫｡入廟旺主富貴多奴,居亥有學識｡會惡星破家敗產,因",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L132",
-      "original_quote": "⾊犯刑｡六合重逢,少年夭折｡若臨限不⽤媒妁,招⼿成婚｡或紫",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L133",
-      "original_quote": "微吉星加,剛柔相濟,主風騷,加紅鸞愈淫,加刑刃主夭｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L134",
-      "original_quote": "歌⽇",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L135",
-      "original_quote": "天姚居戌卯⻄遊,更入雙⿂⼀併求,福厚⽣成耽酒⾊,無災無禍度春秋,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L136",
-      "original_quote": "跡在客中,",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L137",
-      "original_quote": "天姚星與敗星同,號⽈⼈間掃氣囂,辛苦平⽣過⼀世,不曾安",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L138",
-      "original_quote": "⼈⾝偶爾值天姚,戀⾊貪花性帚凶,此曜若居⽣旺地,位登極",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L139",
-      "original_quote": "品亦風騷｡",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L140",
-      "original_quote": "問天哭天虛⼆星所主若何?",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L141",
-      "original_quote": "希夷先⽣答⽇:哭虛為惡曜,臨命最非常｡加臨⽗⺟內,破蕩賣⽥",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L142",
-      "original_quote": "庄｡若教⾝命陷,窮獨帶刑傷｡六親多不⾜,煩惱過時光｡東謀⻄",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L143",
-      "original_quote": "不就,⼼事匆忙忙｡丑卯申宮吉,遇祿名顯揚｡⼆限若逢之,哀哀",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L144",
-      "original_quote": "哭斷腸",
-      "tag": []
-    },
-    {
-      "line_id": "ZWQS_Juan1_GusuiFu_L145",
       "original_quote": "⽃數⾻隨賦",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L146",
-      "original_quote": "太極星纏,乃群宿眾星之主,天⾨運限,即扶⾝助命之源,在天則",
+      "line_id": "ZWQS_Juan1_GusuiFu_L001",
+      "original_quote": "⽃數⾻隨賦太極星纏,乃群宿眾星之主,天⾨運限,即扶⾝助命之源,在天則運⽤無常,在⼈則命有格局｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L147",
-      "original_quote": "運⽤無常,在⼈則命有格局｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L002",
+      "original_quote": "先明格局,次看眾星｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L148",
-      "original_quote": "先明格局,次看眾星｡或有同年同⽉同⽇同時⽽⽣,則有貧賤富貴",
+      "line_id": "ZWQS_Juan1_GusuiFu_L003",
+      "original_quote": "或有同年同⽉同⽇同時⽽⽣,則有貧賤富貴壽天之異｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L149",
-      "original_quote": "壽天之異｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L004",
+      "original_quote": "或在惡限,積百萬之⾦銀｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L150",
-      "original_quote": "或在惡限,積百萬之⾦銀｡或在旺鄉,遭連年之困苦｡禍福不可⼀",
+      "line_id": "ZWQS_Juan1_GusuiFu_L005",
+      "original_quote": "或在旺鄉,遭連年之困苦｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L151",
-      "original_quote": "途⽽惟,吉凶不可⼀例⽽斷｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L006",
+      "original_quote": "禍福不可⼀途⽽惟,吉凶不可⼀例⽽斷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L152",
-      "original_quote": "要知⼀世之榮枯,定看五⾏之宮位｡立命可知貴賤,安⾝便曉根基｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L007",
+      "original_quote": "要知⼀世之榮枯,定看五⾏之宮位｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L153",
+      "line_id": "ZWQS_Juan1_GusuiFu_L008",
+      "original_quote": "立命可知貴賤,安⾝便曉根基｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_GusuiFu_L009",
       "original_quote": "第⼀先看福德,再三細考遷移,分對宮之體⽤,定三合之源流｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L154",
-      "original_quote": "命無正曜,夭折孤貧｡吉有凶星,美⽟瑕玷｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L010",
+      "original_quote": "命無正曜,夭折孤貧｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L155",
+      "line_id": "ZWQS_Juan1_GusuiFu_L011",
+      "original_quote": "吉有凶星,美⽟瑕玷｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_GusuiFu_L012",
       "original_quote": "既得根源堅固,須知合局相⽣,堅固則富貴延壽,相⽣則財官昭著｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L156",
-      "original_quote": "命好⾝好限好到老榮昌｡命衰⾝衰限衰終⾝乞丐｡",
+      "line_id": "ZWQS_Juan1_GusuiFu_L013",
+      "original_quote": "命好⾝好限好到老榮昌｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L157",
+      "line_id": "ZWQS_Juan1_GusuiFu_L014",
+      "original_quote": "命衰⾝衰限衰終⾝乞丐｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_GusuiFu_L015",
       "original_quote": "夾貴夾祿少⼈知,夾權夾科世所宜｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L158",
+      "line_id": "ZWQS_Juan1_GusuiFu_L016",
       "original_quote": "夾⽇夾⽉誰能遇,夾昌夾曲主貴兮｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L159",
+      "line_id": "ZWQS_Juan1_GusuiFu_L017",
       "original_quote": "夾空夾劫主貧賤,夾⽺夾陀為乞丐｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L160",
+      "line_id": "ZWQS_Juan1_GusuiFu_L018",
       "original_quote": "廉貞七殺反為積富之⼈,天梁太陰卻作飄蓬之客｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L161",
+      "line_id": "ZWQS_Juan1_GusuiFu_L019",
       "original_quote": "廉貞主下賤孤寒,太陰主⼀⽣快樂｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L162",
+      "line_id": "ZWQS_Juan1_GusuiFu_L020",
       "original_quote": "先貧後富武貪同⾝命之宮,先富後貧只為運限逢劫殺｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L163",
+      "line_id": "ZWQS_Juan1_GusuiFu_L021",
       "original_quote": "出世榮華權祿守財官之位,⽣來貧賤劫空臨財福之鄉｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L164",
+      "line_id": "ZWQS_Juan1_GusuiFu_L022",
       "original_quote": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L165",
+      "line_id": "ZWQS_Juan1_GusuiFu_L023",
       "original_quote": "天府天相乃為衣祿之神,為仕為官定主亨通之兆｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L166",
+      "line_id": "ZWQS_Juan1_GusuiFu_L024",
       "original_quote": "苗⽽不秀科名陷於凶神,發不主財祿主躔於弱地｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L167",
+      "line_id": "ZWQS_Juan1_GusuiFu_L025",
       "original_quote": "七殺朝⽃爵祿榮昌,紫府同宮終⾝福厚｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L168",
+      "line_id": "ZWQS_Juan1_GusuiFu_L026",
       "original_quote": "紫微居午無殺湊位⾄三公,天府臨戌有星扶腰⾦衣紫｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L169",
+      "line_id": "ZWQS_Juan1_GusuiFu_L027",
       "original_quote": "科權祿拱名譽昭彰,武曲廟垣威名赫奕｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L170",
+      "line_id": "ZWQS_Juan1_GusuiFu_L028",
       "original_quote": "科明祿暗位列三台,⽇⽉同臨官居侯伯｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L171",
+      "line_id": "ZWQS_Juan1_GusuiFu_L029",
       "original_quote": "巨機同宮公卿之位,貪鈴並守將相之名｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L172",
+      "line_id": "ZWQS_Juan1_GusuiFu_L030",
       "original_quote": "天魁天鉞蓋世⽂章,天祿天⾺驚⼈甲第｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L173",
+      "line_id": "ZWQS_Juan1_GusuiFu_L031",
       "original_quote": "左輔⽂昌會吉星尊居⼋座,貪狼火星居廟旺名鎮諸邦｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L174",
+      "line_id": "ZWQS_Juan1_GusuiFu_L032",
       "original_quote": "巨⽇同宮官封三代,紫府朝垣食祿萬鐘｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L175",
+      "line_id": "ZWQS_Juan1_GusuiFu_L033",
       "original_quote": "科權對拱躍三汲於禹⾨,⽇⽉並明佐九重於堯殿｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L176",
+      "line_id": "ZWQS_Juan1_GusuiFu_L034",
       "original_quote": "府相同來會命宮全家食祿,三合明珠⽣旺地穩步蟾宮｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L177",
+      "line_id": "ZWQS_Juan1_GusuiFu_L035",
       "original_quote": "七殺破軍宜出外,機⽉同梁作吏⼈｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L178",
+      "line_id": "ZWQS_Juan1_GusuiFu_L036",
       "original_quote": "紫府⽇⽉居旺地斷定公侯器,⽇⽉科祿丑宮中定是⽅伯公｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L179",
+      "line_id": "ZWQS_Juan1_GusuiFu_L037",
       "original_quote": "天梁天⾺陷飄蕩無疑,廉貞殺不加聲名遠播｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L180",
+      "line_id": "ZWQS_Juan1_GusuiFu_L038",
       "original_quote": "⽇照雷⾨富貴榮華,⽉朗天⾨進爵封侯｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L181",
+      "line_id": "ZWQS_Juan1_GusuiFu_L039",
       "original_quote": "寅逢府相位登⼀品之榮梁居午位官資清顯科祿巡逢周勃欣然入相擎⽺火星威權出眾,墓逢左右尊居⼋座之貴｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L182",
+      "line_id": "ZWQS_Juan1_GusuiFu_L040",
       "original_quote": ",曲遇梁星位⾄台綱｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L183",
+      "line_id": "ZWQS_Juan1_GusuiFu_L041",
       "original_quote": ",⽂星暗拱賈誼允矣登科｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L184",
+      "line_id": "ZWQS_Juan1_GusuiFu_L042",
       "original_quote": ",貪武同⾏威鎮邊夷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L185",
+      "line_id": "ZWQS_Juan1_GusuiFu_L043",
       "original_quote": "李廣不封擎⽺逢於⼒⼠,顏回天折⽂昌陷於天傷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L186",
+      "line_id": "ZWQS_Juan1_GusuiFu_L044",
       "original_quote": "仲由威猛廉貞入廟遇將軍,⼦⽻才能巨宿同梁沖且合｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L187",
+      "line_id": "ZWQS_Juan1_GusuiFu_L045",
       "original_quote": "寅申最喜同梁會,辰戌應嫌陷巨⾨｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L188",
+      "line_id": "ZWQS_Juan1_GusuiFu_L046",
       "original_quote": "祿倒⾺倒忌太歲之合劫空孤貧多有壽,富貴即天亡｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L189",
+      "line_id": "ZWQS_Juan1_GusuiFu_L047",
       "original_quote": "吊客喪⾨綠珠有墮樓之厄,運衰限衰喜紫微之解凶厄｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L190",
+      "line_id": "ZWQS_Juan1_GusuiFu_L048",
       "original_quote": ",官符太歲公冶有縲絏之憂｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L191",
+      "line_id": "ZWQS_Juan1_GusuiFu_L049",
       "original_quote": "限⾄天羅地網屈原溺⽔⽽⾝亡,運遇地劫天空阮籍有貧窮之苦｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L192",
+      "line_id": "ZWQS_Juan1_GusuiFu_L050",
       "original_quote": "⽂昌⽂曲會廉貞喪命天年,命空限空無吉湊功名蹭蹬｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L193",
+      "line_id": "ZWQS_Juan1_GusuiFu_L051",
       "original_quote": "⽣逢天空猶如半天折翅,命中遇劫恰如浪裡⾏船｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L194",
+      "line_id": "ZWQS_Juan1_GusuiFu_L052",
       "original_quote": "項⽻英雄限⾄天空⽽喪國,⽯崇豪富限⾏劫地以亡家｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L195",
+      "line_id": "ZWQS_Juan1_GusuiFu_L053",
       "original_quote": "呂后專權兩重天祿天⾺,楊妃好⾊三合⽂曲⽂昌｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L196",
+      "line_id": "ZWQS_Juan1_GusuiFu_L054",
       "original_quote": "天梁遇⾺女命賤⽽且淫,昌曲夾墀男命貴⽽且顯｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L197",
+      "line_id": "ZWQS_Juan1_GusuiFu_L055",
       "original_quote": "極居卯⻄多為脫俗僧⼈,貞居卯⻄定是公胥吏輩｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L198",
+      "line_id": "ZWQS_Juan1_GusuiFu_L056",
       "original_quote": "左府同宮尊居萬乘,廉貞七殺流蕩天涯｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L199",
+      "line_id": "ZWQS_Juan1_GusuiFu_L057",
       "original_quote": "鄧通餓死運逢⼤耗之鄉,夫⼦絕糧限到天傷之內｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L200",
+      "line_id": "ZWQS_Juan1_GusuiFu_L058",
       "original_quote": "鈴昌羅武限⾄投河,巨火擎⽺終⾝縊死｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L201",
+      "line_id": "ZWQS_Juan1_GusuiFu_L059",
       "original_quote": "命裡逢空不飄流即主疾苦,⾺頭帶劍非夭折則主刑傷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L202",
+      "line_id": "ZWQS_Juan1_GusuiFu_L060",
       "original_quote": "⼦午破軍加官進祿,昌貪居命粉⾻碎屍｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L203",
+      "line_id": "ZWQS_Juan1_GusuiFu_L061",
       "original_quote": "朝⽃仰⽃爵祿榮昌,⽂桂⽂華九重貴顯｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L204",
+      "line_id": "ZWQS_Juan1_GusuiFu_L062",
       "original_quote": "丹墀桂墀早遂⻘雲之志,合祿拱祿定為巨擘之⾂｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L205",
+      "line_id": "ZWQS_Juan1_GusuiFu_L063",
       "original_quote": "陰陽會昌曲出世榮華,輔弼遇財官衣緋著紫｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L206",
+      "line_id": "ZWQS_Juan1_GusuiFu_L064",
       "original_quote": "巨梁相會廉貞併,合祿鴛鴦⼀世榮｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L207",
+      "line_id": "ZWQS_Juan1_GusuiFu_L065",
       "original_quote": "武曲閑宮多⼿藝天祿朝垣⾝榮貴顯,貪狼陷地作屠⼈｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L208",
+      "line_id": "ZWQS_Juan1_GusuiFu_L066",
       "original_quote": ",魁星臨命位列三台｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L209",
+      "line_id": "ZWQS_Juan1_GusuiFu_L067",
       "original_quote": "武曲居乾戌亥上,最怕太陰逢貪狼｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L210",
+      "line_id": "ZWQS_Juan1_GusuiFu_L068",
       "original_quote": "化祿還為好,休向墓中藏｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L211",
+      "line_id": "ZWQS_Juan1_GusuiFu_L069",
       "original_quote": "⼦午巨⾨⽯中隱⽟,明祿暗祿錦上添花｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L212",
+      "line_id": "ZWQS_Juan1_GusuiFu_L070",
       "original_quote": "紫微辰戌遇破軍,富⽽不貴有虛名｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L213",
+      "line_id": "ZWQS_Juan1_GusuiFu_L071",
       "original_quote": "昌曲破軍逢刑剋多勞碌天同戌宮為反背,丁⼈化吉主⼤貴｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L214",
+      "line_id": "ZWQS_Juan1_GusuiFu_L072",
       "original_quote": ",貪武墓中居三⼗才發福｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L215",
+      "line_id": "ZWQS_Juan1_GusuiFu_L073",
       "original_quote": "巨⾨辰戌為陷地,辛⼈化吉祿崢嶸｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L216",
+      "line_id": "ZWQS_Juan1_GusuiFu_L074",
       "original_quote": "機梁⻄上化吉者,縱遇財官也不榮｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L217",
+      "line_id": "ZWQS_Juan1_GusuiFu_L075",
       "original_quote": "⽇⽉最嫌反背乃為失輝,命⾝定要精求恐差分數｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L218",
+      "line_id": "ZWQS_Juan1_GusuiFu_L076",
       "original_quote": "陰騭延年增百福,⾄於陷地不遭傷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L219",
+      "line_id": "ZWQS_Juan1_GusuiFu_L077",
       "original_quote": "命實運堅稿⽥得雨,命衰限弱嫩草遭霜｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L220",
+      "line_id": "ZWQS_Juan1_GusuiFu_L078",
       "original_quote": "論命必推星善惡,巨破擎⽺性必剛｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L221",
+      "line_id": "ZWQS_Juan1_GusuiFu_L079",
       "original_quote": "府相同梁性必好,火劫空貪性不常｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L222",
+      "line_id": "ZWQS_Juan1_GusuiFu_L080",
       "original_quote": "昌曲祿機清秀巧,陰陽左右最慈祥｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L223",
+      "line_id": "ZWQS_Juan1_GusuiFu_L081",
       "original_quote": "武破貞貪沖合曲全固貴,⽺陀七殺相雜互⾒則傷｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L224",
+      "line_id": "ZWQS_Juan1_GusuiFu_L082",
       "original_quote": "貪狼廉貞破軍惡,七殺擎⽺陀羅凶｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L225",
+      "line_id": "ZWQS_Juan1_GusuiFu_L083",
       "original_quote": "火星鈴星專作禍,劫空傷使禍重重｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L226",
+      "line_id": "ZWQS_Juan1_GusuiFu_L084",
       "original_quote": "巨⾨忌星皆不吉,運⾝命限忌相逢｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L227",
+      "line_id": "ZWQS_Juan1_GusuiFu_L085",
       "original_quote": "更兼太歲官符⾄,官非⼝⾆決不空｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L228",
+      "line_id": "ZWQS_Juan1_GusuiFu_L086",
       "original_quote": "吊客喪⾨⼜相遇,管教災病兩相攻｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L229",
+      "line_id": "ZWQS_Juan1_GusuiFu_L087",
       "original_quote": "七殺守⾝終是天,貪狼入命必為娼｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L230",
+      "line_id": "ZWQS_Juan1_GusuiFu_L088",
       "original_quote": "⼼好命微亦主壽,⼼毒命固亦天亡｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L231",
+      "line_id": "ZWQS_Juan1_GusuiFu_L089",
       "original_quote": "今⼈命有千⾦貴,運去之時豈久長｡",
       "tag": []
     },
     {
-      "line_id": "ZWQS_Juan1_GusuiFu_L232",
+      "line_id": "ZWQS_Juan1_GusuiFu_L090",
       "original_quote": "數內包藏多少理,學者須當仔細詳｡",
       "tag": []
     }
   ],
-  "_extraction_status": "斗數骨髓賦完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷一",
+    "section": "⽃數⾻隨賦",
+    "line_id_start": "ZWQS_Juan1_GusuiFu_L000",
+    "line_id_end": "ZWQS_Juan1_GusuiFu_L090"
+  }
 }

@@ -1,11 +1,11 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "Gulu",
+  "section": "重補⽃數彀率",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_Gulu_L000",
-      "original_quote": "Gulu",
+      "original_quote": "重補⽃數彀率",
       "tag": []
     },
     {
@@ -107,7 +107,7 @@
   "_source": {
     "text": "紫微斗數全書",
     "juan": "卷一",
-    "section": "Gulu",
+    "section": "重補⽃數彀率",
     "line_id_start": "ZWQS_Juan1_Gulu_L000",
     "line_id_end": "ZWQS_Juan1_Gulu_L019"
   }
