@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan6",
+  "section": "天德吉日",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L000",
+      "original_quote": "天德吉日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L001",
+      "original_quote": "正丁二坤申日宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L002",
+      "original_quote": "三壬四辛同",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L003",
+      "original_quote": "五乾亥日六甲上",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L004",
+      "original_quote": "七癸八艮寅日逢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L005",
+      "original_quote": "九丙十居乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_TianDeJiRi_L006",
+      "original_quote": "子巽巳日丑庚申",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan6",
+    "section": "天德吉日",
+    "line_id_start": "QMDJ_Juan6_TianDeJiRi_L000",
+    "line_id_end": "QMDJ_Juan6_TianDeJiRi_L006"
+  },
+  "_extraction_status": "天德吉日完成"
+}

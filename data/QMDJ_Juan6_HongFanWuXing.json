@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan6",
+  "section": "洪範五行歌",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L000",
+      "original_quote": "洪範五行歌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L001",
+      "original_quote": "甲己子午九",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L002",
+      "original_quote": "乙庚丑未八",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L003",
+      "original_quote": "丙辛寅申七",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L004",
+      "original_quote": "丁壬卯酉六",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L005",
+      "original_quote": "戊癸辰戌五",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan6_HongFanWuXing_L006",
+      "original_quote": "巳亥四數終",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan6",
+    "section": "洪範五行歌",
+    "line_id_start": "QMDJ_Juan6_HongFanWuXing_L000",
+    "line_id_end": "QMDJ_Juan6_HongFanWuXing_L006"
+  },
+  "_extraction_status": "洪範五行歌完成"
+}
