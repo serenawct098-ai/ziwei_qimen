@@ -1,0 +1,75 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占選後如何",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L000",
+      "original_quote": "占選後如何",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L001",
+      "original_quote": "以歲干所乘之宮與室女年命日乾之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L002",
+      "original_quote": "來合天柱之落宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L003",
+      "original_quote": "看歲干之宮來生室女年命日乾並天柱之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L004",
+      "original_quote": "主上喜隆寵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L005",
+      "original_quote": "若甲子戊之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L006",
+      "original_quote": "依生年命日乾及天柱之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L007",
+      "original_quote": "主後有王妃貴人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L008",
+      "original_quote": "剋年命",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L009",
+      "original_quote": "天柱宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L010",
+      "original_quote": "主上不喜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanHou_L011",
+      "original_quote": "僅充不陳",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占選後如何",
+    "line_id_start": "QMDJ_Juan9_ZhanXuanHou_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanXuanHou_L011"
+  },
+  "_extraction_status": "占選後如何完成"
+}

@@ -1,0 +1,90 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占走失六畜",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L000",
+      "original_quote": "占走失六畜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L001",
+      "original_quote": "驢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L002",
+      "original_quote": "騾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L003",
+      "original_quote": "車",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L004",
+      "original_quote": "船以傷門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L005",
+      "original_quote": "天衝主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L006",
+      "original_quote": "牛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L007",
+      "original_quote": "羊以死門主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L008",
+      "original_quote": "看落天盤何宮?即往何方尋之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L009",
+      "original_quote": "馬以干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L010",
+      "original_quote": "兌宮所得之星主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L011",
+      "original_quote": "若得天蓬星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L012",
+      "original_quote": "當於近水處尋之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L013",
+      "original_quote": "如乘元武為人盜去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanLiuXu_L014",
+      "original_quote": "再看得之之日必逢庚格",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占走失六畜",
+    "line_id_start": "QMDJ_Juan9_ZhanLiuXu_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanLiuXu_L014"
+  },
+  "_extraction_status": "占走失六畜完成"
+}

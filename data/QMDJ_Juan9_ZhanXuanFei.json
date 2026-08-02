@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占選妃",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L000",
+      "original_quote": "占選妃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L001",
+      "original_quote": "以值符為差官",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L002",
+      "original_quote": "歲乾為天子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L003",
+      "original_quote": "柱星為室女",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L004",
+      "original_quote": "室女年命日乾為值符所生者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L005",
+      "original_quote": "主差官看中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L006",
+      "original_quote": "必選",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L007",
+      "original_quote": "天柱為值符所生者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L008",
+      "original_quote": "亦選",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L009",
+      "original_quote": "若室女年命日乾所乘之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L010",
+      "original_quote": "或天柱之落宮為值符所乘之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L011",
+      "original_quote": "或天柱之落宮為值符所乘之宮來剋者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanXuanFei_L012",
+      "original_quote": "不選",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占選妃",
+    "line_id_start": "QMDJ_Juan9_ZhanXuanFei_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanXuanFei_L012"
+  },
+  "_extraction_status": "占選妃完成"
+}

@@ -1,0 +1,155 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占布種五穀",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L000",
+      "original_quote": "占布種五穀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L001",
+      "original_quote": "以九星所乘之門以類推之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L002",
+      "original_quote": "乘旺相氣而得三奇吉門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L003",
+      "original_quote": "以開門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L004",
+      "original_quote": "天心為麥田",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L005",
+      "original_quote": "傷門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L006",
+      "original_quote": "天衝為稻穀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L007",
+      "original_quote": "杜門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L008",
+      "original_quote": "天輔為麥稷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L009",
+      "original_quote": "又為棉花",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L010",
+      "original_quote": "景門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L011",
+      "original_quote": "天英為高梁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L012",
+      "original_quote": "休門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L013",
+      "original_quote": "天蓬為豆田",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L014",
+      "original_quote": "死門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L015",
+      "original_quote": "天芮為蕎麥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L016",
+      "original_quote": "又為蒜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L017",
+      "original_quote": "各門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L018",
+      "original_quote": "各星乘旺相氣帶三奇吉格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L019",
+      "original_quote": "大收",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L020",
+      "original_quote": "乘旺相氣不得三奇吉格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L021",
+      "original_quote": "薄收",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L022",
+      "original_quote": "九星內有被剋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L023",
+      "original_quote": "或值空亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L024",
+      "original_quote": "入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L025",
+      "original_quote": "而得凶格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L026",
+      "original_quote": "歉收",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanWuGu_L027",
+      "original_quote": "不必種",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占布種五穀",
+    "line_id_start": "QMDJ_Juan9_ZhanWuGu_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanWuGu_L027"
+  },
+  "_extraction_status": "占布種五穀完成"
+}

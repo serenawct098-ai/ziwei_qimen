@@ -1,0 +1,120 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占歲考第",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L000",
+      "original_quote": "占歲考第",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L001",
+      "original_quote": "以天輔星為試官",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L002",
+      "original_quote": "日乾為試子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L003",
+      "original_quote": "丁奇為文章",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L004",
+      "original_quote": "看天輔來生丁奇及年命日乾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L005",
+      "original_quote": "再合奇儀吉格乘三吉門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L006",
+      "original_quote": "上吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L007",
+      "original_quote": "主一等",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L008",
+      "original_quote": "若丁奇年命日幹落景門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L009",
+      "original_quote": "次吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L010",
+      "original_quote": "主二等",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L011",
+      "original_quote": "得門不得奇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L012",
+      "original_quote": "得奇不得門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L013",
+      "original_quote": "或與天輔比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L014",
+      "original_quote": "三等",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L015",
+      "original_quote": "如丁奇落空亡之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L016",
+      "original_quote": "年命日乾再得凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L017",
+      "original_quote": "凶格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L018",
+      "original_quote": "四等",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L019",
+      "original_quote": "倘被天輔來剋者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanSuiKao_L020",
+      "original_quote": "主劣等",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占歲考第",
+    "line_id_start": "QMDJ_Juan9_ZhanSuiKao_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanSuiKao_L020"
+  },
+  "_extraction_status": "占歲考第完成"
+}

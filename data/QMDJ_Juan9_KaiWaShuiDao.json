@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "開挖水道",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L000",
+      "original_quote": "開挖水道",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L001",
+      "original_quote": "以開門主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L002",
+      "original_quote": "開門乘旺相氣而得三奇者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L003",
+      "original_quote": "主開挖有益",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L004",
+      "original_quote": "順利無害",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L005",
+      "original_quote": "若開門返吟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L006",
+      "original_quote": "入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L007",
+      "original_quote": "不宜挑挖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L008",
+      "original_quote": "倘值太白凶格及甲辰壬者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_KaiWaShuiDao_L009",
+      "original_quote": "後必有大害",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "開挖水道",
+    "line_id_start": "QMDJ_Juan9_KaiWaShuiDao_L000",
+    "line_id_end": "QMDJ_Juan9_KaiWaShuiDao_L009"
+  },
+  "_extraction_status": "開挖水道完成"
+}

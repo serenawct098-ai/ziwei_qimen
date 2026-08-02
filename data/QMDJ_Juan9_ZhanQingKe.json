@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan9",
+  "section": "占請客",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L000",
+      "original_quote": "占請客",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L001",
+      "original_quote": "以值符為客",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L002",
+      "original_quote": "天乙為主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L003",
+      "original_quote": "天乙所乘之宮來生值符之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L004",
+      "original_quote": "必來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L005",
+      "original_quote": "時幹生日乾者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L006",
+      "original_quote": "亦來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L007",
+      "original_quote": "天盤星生地盤星者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L008",
+      "original_quote": "亦來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan9_ZhanQingKe_L009",
+      "original_quote": "反此不來",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan9",
+    "section": "占請客",
+    "line_id_start": "QMDJ_Juan9_ZhanQingKe_L000",
+    "line_id_end": "QMDJ_Juan9_ZhanQingKe_L009"
+  },
+  "_extraction_status": "占請客完成"
+}
