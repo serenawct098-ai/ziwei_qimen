@@ -1,0 +1,95 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占訪人",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L000",
+      "original_quote": "占訪人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L001",
+      "original_quote": "以天盤所往之方為我",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L002",
+      "original_quote": "地盤之星為他",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L003",
+      "original_quote": "天地二盤相比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L004",
+      "original_quote": "必見",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L005",
+      "original_quote": "再得奇門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L006",
+      "original_quote": "吉格及天地二盤所得之幹相合者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L007",
+      "original_quote": "並有酒食",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L008",
+      "original_quote": "若相剋制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L009",
+      "original_quote": "主猜忌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L010",
+      "original_quote": "不見",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L011",
+      "original_quote": "如臨星幹入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L012",
+      "original_quote": "彼在家",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L013",
+      "original_quote": "不肯見",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L014",
+      "original_quote": "如地盤之星落空亡者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanFangRen_L015",
+      "original_quote": "彼實不在家",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占訪人",
+    "line_id_start": "QMDJ_Juan8_ZhanFangRen_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanFangRen_L015"
+  },
+  "_extraction_status": "占訪人完成"
+}

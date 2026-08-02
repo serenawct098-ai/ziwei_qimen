@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占詞訟",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L000",
+      "original_quote": "占詞訟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L001",
+      "original_quote": "以值符為原告",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L002",
+      "original_quote": "值符所落地盤所乘之星為被告",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L003",
+      "original_quote": "天盤星剋地盤星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L004",
+      "original_quote": "原告勝",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L005",
+      "original_quote": "地盤星剋天盤星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSong_L006",
+      "original_quote": "被告勝",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占詞訟",
+    "line_id_start": "QMDJ_Juan8_ZhanCiSong_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanCiSong_L006"
+  },
+  "_extraction_status": "占詞訟完成"
+}

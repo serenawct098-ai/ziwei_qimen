@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占差遣誰去",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L000",
+      "original_quote": "占差遣誰去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L001",
+      "original_quote": "專責開門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L002",
+      "original_quote": "天衝之星與眾人年命之乾是何年乾?何日干?年命被開門衝者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L003",
+      "original_quote": "簽差",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L004",
+      "original_quote": "不衝者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanChaiQian_L005",
+      "original_quote": "不簽差",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占差遣誰去",
+    "line_id_start": "QMDJ_Juan8_ZhanChaiQian_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanChaiQian_L005"
+  },
+  "_extraction_status": "占差遣誰去完成"
+}

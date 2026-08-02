@@ -1,0 +1,35 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占病愈",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanBingYu_L000",
+      "original_quote": "占病愈",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBingYu_L001",
+      "original_quote": "以天芮落宮為病症",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBingYu_L002",
+      "original_quote": "剋天芮落宮之干支者為愈期",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBingYu_L003",
+      "original_quote": "如甲乙木剋戊己土之類",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占病愈",
+    "line_id_start": "QMDJ_Juan8_ZhanBingYu_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanBingYu_L003"
+  },
+  "_extraction_status": "占病愈完成"
+}

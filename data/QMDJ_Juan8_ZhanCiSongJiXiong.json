@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占詞訟吉凶",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L000",
+      "original_quote": "占詞訟吉凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L001",
+      "original_quote": "其法以驚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L002",
+      "original_quote": "景二門主之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L003",
+      "original_quote": "凡有詞訟",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L004",
+      "original_quote": "看驚門乘旺相之氣者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L005",
+      "original_quote": "訟不息",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L006",
+      "original_quote": "景門亦然",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L007",
+      "original_quote": "若二門入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L008",
+      "original_quote": "落空亡之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanCiSongJiXiong_L009",
+      "original_quote": "主訟不成",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占詞訟吉凶",
+    "line_id_start": "QMDJ_Juan8_ZhanCiSongJiXiong_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanCiSongJiXiong_L009"
+  },
+  "_extraction_status": "占詞訟吉凶完成"
+}

@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占請醫",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L000",
+      "original_quote": "占請醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L001",
+      "original_quote": "以天心星為醫者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L002",
+      "original_quote": "又以天乙奇為醫者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L003",
+      "original_quote": "所落之宮乘奇門吉格為良醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L004",
+      "original_quote": "二神乘旺相之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L005",
+      "original_quote": "不逢奇門吉格為時醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L006",
+      "original_quote": "不得旺相氣及奇門吉格為庸醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L007",
+      "original_quote": "不論良醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L008",
+      "original_quote": "庸醫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L009",
+      "original_quote": "但能剋天芮病神之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L010",
+      "original_quote": "醫必有功",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L011",
+      "original_quote": "若病神落宮剋二神落宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanQingYi_L012",
+      "original_quote": "雖良醫亦不能治也",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占請醫",
+    "line_id_start": "QMDJ_Juan8_ZhanQingYi_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanQingYi_L012"
+  },
+  "_extraction_status": "占請醫完成"
+}

@@ -1,0 +1,140 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占書館",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L000",
+      "original_quote": "占書館",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L001",
+      "original_quote": "以天輔為師長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L002",
+      "original_quote": "天芮為弟子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L003",
+      "original_quote": "若天芮落宮生天輔宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L004",
+      "original_quote": "主弟子聘師長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L005",
+      "original_quote": "天輔落宮生天芮宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L006",
+      "original_quote": "主師長就弟子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L007",
+      "original_quote": "或舊徒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L008",
+      "original_quote": "天輔宮剋天芮宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L009",
+      "original_quote": "師長嫌弟子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L010",
+      "original_quote": "天芮剋天輔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L011",
+      "original_quote": "弟子嫌師長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L012",
+      "original_quote": "若天芮乘旺相氣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L013",
+      "original_quote": "又得奇門吉格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L014",
+      "original_quote": "必是厚館",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L015",
+      "original_quote": "如天芮不得奇門吉格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L016",
+      "original_quote": "不乘旺相",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L017",
+      "original_quote": "其館必菲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L018",
+      "original_quote": "輔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L019",
+      "original_quote": "芮返吟者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L020",
+      "original_quote": "主半途而廢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L021",
+      "original_quote": "天芮落空亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L022",
+      "original_quote": "墓庫者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L023",
+      "original_quote": "終不得館",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanShuGuan_L024",
+      "original_quote": "餘仿此",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占書館",
+    "line_id_start": "QMDJ_Juan8_ZhanShuGuan_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanShuGuan_L024"
+  },
+  "_extraction_status": "占書館完成"
+}

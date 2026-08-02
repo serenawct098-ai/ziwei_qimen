@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占被審責否",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L000",
+      "original_quote": "占被審責否",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L001",
+      "original_quote": "以庚格決之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L002",
+      "original_quote": "庚金所乘之宮來剋值符宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L003",
+      "original_quote": "主原告被責",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L004",
+      "original_quote": "剋乙奇落宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L005",
+      "original_quote": "被告受責",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L006",
+      "original_quote": "剋六合宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L007",
+      "original_quote": "乾証受責",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L008",
+      "original_quote": "若庚金入墓及落空亡之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanBeiShenZe_L009",
+      "original_quote": "官怒不責",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占被審責否",
+    "line_id_start": "QMDJ_Juan8_ZhanBeiShenZe_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanBeiShenZe_L009"
+  },
+  "_extraction_status": "占被審責否完成"
+}

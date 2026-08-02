@@ -1,0 +1,125 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占幕館",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L000",
+      "original_quote": "占幕館",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L001",
+      "original_quote": "以天輔為求幕館之人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L002",
+      "original_quote": "以甲子戊為開門官長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L003",
+      "original_quote": "若開門乘三奇吉格來生天輔之宮者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L004",
+      "original_quote": "主顯官來聘",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L005",
+      "original_quote": "若甲子戊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L006",
+      "original_quote": "開門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L007",
+      "original_quote": "天輔之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L008",
+      "original_quote": "主貴人舉薦",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L009",
+      "original_quote": "若開門不乘旺相三奇者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L010",
+      "original_quote": "主微官來聘",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L011",
+      "original_quote": "相比和者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L012",
+      "original_quote": "主賓投契",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L013",
+      "original_quote": "相剋制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L014",
+      "original_quote": "返吟者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L015",
+      "original_quote": "主賓不和",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L016",
+      "original_quote": "若天輔入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L017",
+      "original_quote": "賓凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L018",
+      "original_quote": "開門入墓",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L019",
+      "original_quote": "東主凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L020",
+      "original_quote": "落空亡者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanMuGuan_L021",
+      "original_quote": "終不得館",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占幕館",
+    "line_id_start": "QMDJ_Juan8_ZhanMuGuan_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanMuGuan_L021"
+  },
+  "_extraction_status": "占幕館完成"
+}

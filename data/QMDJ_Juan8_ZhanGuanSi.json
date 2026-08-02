@@ -1,0 +1,95 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占官司",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L000",
+      "original_quote": "占官司",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L001",
+      "original_quote": "以甲辰壬為螣蛇推之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L002",
+      "original_quote": "值符落宮下臨甲辰壬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L003",
+      "original_quote": "螣蛇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L004",
+      "original_quote": "主原告牽連多人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L005",
+      "original_quote": "乙奇落宮下臨甲辰壬與螣蛇相並者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L006",
+      "original_quote": "主被告牽連多人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L007",
+      "original_quote": "開門落宮下臨甲辰壬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L008",
+      "original_quote": "螣蛇者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L009",
+      "original_quote": "主問官牽連多人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L010",
+      "original_quote": "甲辰壬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L011",
+      "original_quote": "螣蛇落空亡之官者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L012",
+      "original_quote": "不牽連",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L013",
+      "original_quote": "若見庚癸大格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L014",
+      "original_quote": "縱牽連",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuanSi_L015",
+      "original_quote": "不妨",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占官司",
+    "line_id_start": "QMDJ_Juan8_ZhanGuanSi_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanGuanSi_L015"
+  },
+  "_extraction_status": "占官司完成"
+}

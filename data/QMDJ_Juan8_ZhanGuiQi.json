@@ -1,0 +1,35 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan8",
+  "section": "占出外預定歸期",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuiQi_L000",
+      "original_quote": "占出外預定歸期",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuiQi_L001",
+      "original_quote": "其法以四維長生決之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuiQi_L002",
+      "original_quote": "看出門之日乾系何干?即看四維是何干長生之宮?以本宮地盤之乾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan8_ZhanGuiQi_L003",
+      "original_quote": "即回家之日也",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan8",
+    "section": "占出外預定歸期",
+    "line_id_start": "QMDJ_Juan8_ZhanGuiQi_L000",
+    "line_id_end": "QMDJ_Juan8_ZhanGuiQi_L003"
+  },
+  "_extraction_status": "占出外預定歸期完成"
+}
