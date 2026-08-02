@@ -1,0 +1,73 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "星垣問答論_Qingyang",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_WendaQingyang_L001",
+      "original_quote": "問擎羊星所主若何？",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaQingyang_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaQingyang_L002",
+      "original_quote": "希夷先生答曰：擎羊北斗之助星。守身命性粗行暴，孤單，視親為疏，翻恩為怨。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaQingyang_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaQingyang_L003",
+      "original_quote": "入廟性剛果決，機謀好勇，主權貴。北方生人為福，四墓生人不忌。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaQingyang_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaQingyang_L004",
+      "original_quote": "居卯西作禍興殃，刑剋極甚。六甲六庚生人，必有凶禍。縱富貴不久亦不善終，若九流工藝人辛勤。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaQingyang_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaQingyang_L005",
+      "original_quote": "加火忌劫空沖破，殘疾離祖刑剋六親。女人入廟加吉上局，殺耗沖破多主刑剋下局。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaQingyang_L005",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "星垣問答論-Qingyang星部分完成"
+}
