@@ -1,0 +1,112 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "星垣問答論_Tiantong",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L001",
+      "original_quote": "問天同星所主若何？",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L002",
+      "original_quote": "答曰：天同星屬水，乃南方第四星也，為福德宮之主宰。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L003",
+      "original_quote": "復云：化福最喜遇吉曜，助福添祥，為人廉潔，貌稟清奇。有機樞無亢激，不怕七殺相侵，不怕諸殺同纏。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L004",
+      "original_quote": "限若逢之，一生得地，十二宮中皆日福，無破定為祥。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L005",
+      "original_quote": "希夷先生曰：天同南斗益算保生之星，化祿為善，逢吉為祥，身命值之，主為人謙遜，稟性溫和。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L005",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L006",
+      "original_quote": "必慈鯁直，文墨精通，有奇志無凶激。不忌七殺相侵，不畏諸兇同度，十二宮中皆為福論。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L006",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L007",
+      "original_quote": "遇左右昌梁貴顯，喜壬乙丙生人，巳亥得地。不宜六庚生人居西地，終身不守。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L007",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaTiantong_L008",
+      "original_quote": "會四殺居巳亥為陷，殘疾孤剋。女人逢殺沖破，刑夫剋子。梁月沖破，合作偏房，僧道宜之，主享福。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaTiantong_L008",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "星垣問答論-Tiantong星部分完成"
+}
