@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan22",
+  "section": "門迫宮迫",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L000",
+      "original_quote": "門迫宮迫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L001",
+      "original_quote": "宮制其門是為門迫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L002",
+      "original_quote": "門制其宮是為宮迫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L003",
+      "original_quote": "宮迫謂之制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L004",
+      "original_quote": "門迫謂之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L005",
+      "original_quote": "吉門被迫吉事不成",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_MenPoGongPo_L006",
+      "original_quote": "凶門被迫則凶災尤甚",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan22",
+    "section": "門迫宮迫",
+    "line_id_start": "QMDJ_Juan22_MenPoGongPo_L000",
+    "line_id_end": "QMDJ_Juan22_MenPoGongPo_L006"
+  },
+  "_extraction_status": "門迫宮迫完成"
+}

@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan22",
+  "section": "伍子胥訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L000",
+      "original_quote": "伍子胥訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L001",
+      "original_quote": "伍子胥曰：「凡遠行諸事",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L002",
+      "original_quote": "不往天庭辛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L003",
+      "original_quote": "天獄庚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L004",
+      "original_quote": "天牢壬三神上去",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L005",
+      "original_quote": "大凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L006",
+      "original_quote": "常乘青龍甲歷蓬星乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L007",
+      "original_quote": "百惡不敢起",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_WuZiXu_L008",
+      "original_quote": "大吉」",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan22",
+    "section": "伍子胥訣",
+    "line_id_start": "QMDJ_Juan22_WuZiXu_L000",
+    "line_id_end": "QMDJ_Juan22_WuZiXu_L008"
+  },
+  "_extraction_status": "伍子胥訣完成"
+}
