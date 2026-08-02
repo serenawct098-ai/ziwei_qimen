@@ -5,14 +5,20 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan2_An12GongLi_L000",
-      "original_quote": "安十二宮例男女俱從逆轉切忌莫順去",
+      "original_quote": "安十二宮例",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan2_An12GongLi_L001",
-      "original_quote": "一命宮、二兄弟、三妻妾、四子女、五財帛、六疾厄、七遷移、八奴僕、九官祿、十田宅、十一福德、十二父母",
+      "original_quote": "安十二宮例男女俱從逆轉切忌莫順去一命宮、二兄弟、三妻妾、四子女、五財帛、六疾厄、七遷移、八奴僕、九官祿、十田宅、十一福德、十二父母",
       "tag": []
     }
   ],
-  "_extraction_status": "安十二宮例完成"
+  "_source": {
+    "text": "紫微斗數全書",
+    "juan": "卷二",
+    "section": "安十二宮例",
+    "line_id_start": "ZWQS_Juan2_An12GongLi_L000",
+    "line_id_end": "ZWQS_Juan2_An12GongLi_L001"
+  }
 }
