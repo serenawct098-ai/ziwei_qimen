@@ -1,0 +1,85 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan28",
+  "section": "甲申符",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L000",
+      "original_quote": "甲申符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L001",
+      "original_quote": "甲申神君號曰「六府神」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L002",
+      "original_quote": "又名捷報將軍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L003",
+      "original_quote": "其神猴首人身",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L004",
+      "original_quote": "長二尺五寸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L005",
+      "original_quote": "性甘食",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L006",
+      "original_quote": "好淫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L007",
+      "original_quote": "居天鉞之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L008",
+      "original_quote": "統領神兵七萬七千七百七十數",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L009",
+      "original_quote": "喜助順擊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L010",
+      "original_quote": "綸綰九天青白",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L011",
+      "original_quote": "符式長一尺五寸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L012",
+      "original_quote": "濶二寸七分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaShenFu_L013",
+      "original_quote": "用白圬研紅砂為上吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan28",
+    "section": "甲申符",
+    "line_id_start": "QMDJ_Juan28_JiaShenFu_L000",
+    "line_id_end": "QMDJ_Juan28_JiaShenFu_L013"
+  },
+  "_extraction_status": "甲申符完成"
+}

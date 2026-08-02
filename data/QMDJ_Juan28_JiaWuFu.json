@@ -1,0 +1,85 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan28",
+  "section": "甲午符",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L000",
+      "original_quote": "甲午符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L001",
+      "original_quote": "甲午神君號曰「平水將軍」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L002",
+      "original_quote": "其神馬首人身",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L003",
+      "original_quote": "高一丈九尺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L004",
+      "original_quote": "性最烈",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L005",
+      "original_quote": "不宜速召",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L006",
+      "original_quote": "好肥大尤物",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L007",
+      "original_quote": "忌用馬肉供養",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L008",
+      "original_quote": "統領神兵九萬九千九百九十數",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L009",
+      "original_quote": "喜助報仇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L010",
+      "original_quote": "綸綰青紅下",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L011",
+      "original_quote": "符式長一尺九寸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L012",
+      "original_quote": "濶三寸二分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaWuFu_L013",
+      "original_quote": "用青紅紙圬研黑丹砂為上吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan28",
+    "section": "甲午符",
+    "line_id_start": "QMDJ_Juan28_JiaWuFu_L000",
+    "line_id_end": "QMDJ_Juan28_JiaWuFu_L013"
+  },
+  "_extraction_status": "甲午符完成"
+}

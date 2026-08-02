@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan28",
+  "section": "甲子符",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L000",
+      "original_quote": "甲子符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L001",
+      "original_quote": "甲子神君號曰「飛天大帝」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L002",
+      "original_quote": "又名蛬雨鬼將軍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L003",
+      "original_quote": "其神鼠首人身",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L004",
+      "original_quote": "高一丈九尺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L005",
+      "original_quote": "居陽光天壘之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L006",
+      "original_quote": "統領神將九萬九千九百",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L007",
+      "original_quote": "助有忠孝",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L008",
+      "original_quote": "怒殺不仁不義",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L009",
+      "original_quote": "九天青青之下",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L010",
+      "original_quote": "符式長一尺九寸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L011",
+      "original_quote": "濶三寸一分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_JiaZiFu_L012",
+      "original_quote": "用青黑紙圬研砂為上吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan28",
+    "section": "甲子符",
+    "line_id_start": "QMDJ_Juan28_JiaZiFu_L000",
+    "line_id_end": "QMDJ_Juan28_JiaZiFu_L012"
+  },
+  "_extraction_status": "甲子符完成"
+}

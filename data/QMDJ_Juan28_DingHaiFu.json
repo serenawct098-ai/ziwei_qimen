@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan28",
+  "section": "丁亥符",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L000",
+      "original_quote": "丁亥符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L001",
+      "original_quote": "丁亥神君號曰「塗將軍」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L002",
+      "original_quote": "其神豬首人身",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L003",
+      "original_quote": "性好米食飲酒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L004",
+      "original_quote": "宜寬請不可急召",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L005",
+      "original_quote": "身高一丈四尺",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L006",
+      "original_quote": "鎮天皇之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L007",
+      "original_quote": "喜輔順誅逆",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L008",
+      "original_quote": "統領神兵四萬四千四百四十數",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L009",
+      "original_quote": "鈴錫赤黃下",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L010",
+      "original_quote": "符式長一尺四寸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L011",
+      "original_quote": "濶二寸九分",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_DingHaiFu_L012",
+      "original_quote": "用紅黑紙圬研紅朱為上吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan28",
+    "section": "丁亥符",
+    "line_id_start": "QMDJ_Juan28_DingHaiFu_L000",
+    "line_id_end": "QMDJ_Juan28_DingHaiFu_L012"
+  },
+  "_extraction_status": "丁亥符完成"
+}

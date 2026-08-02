@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan28",
+  "section": "六丁六甲神符",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L000",
+      "original_quote": "六丁六甲神符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L001",
+      "original_quote": "鬱離子曰：「大法軍中急用符法者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L002",
+      "original_quote": "乃時門不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L003",
+      "original_quote": "故六丁之符以禳之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L004",
+      "original_quote": "但當用咒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L005",
+      "original_quote": "掌噀畫雷印鈴甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L006",
+      "original_quote": "方能應驗",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L007",
+      "original_quote": "此例極神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan28_6Ding6JiaFu_L008",
+      "original_quote": "系九天玄女傳授軍中六丁六甲神符」",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan28",
+    "section": "六丁六甲神符",
+    "line_id_start": "QMDJ_Juan28_6Ding6JiaFu_L000",
+    "line_id_end": "QMDJ_Juan28_6Ding6JiaFu_L008"
+  },
+  "_extraction_status": "六丁六甲神符完成"
+}
