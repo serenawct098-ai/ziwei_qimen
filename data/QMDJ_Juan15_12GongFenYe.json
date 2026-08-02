@@ -1,0 +1,590 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan15",
+  "section": "十二宮分野",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L000",
+      "original_quote": "十二宮分野",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L001",
+      "original_quote": "子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L002",
+      "original_quote": "元枵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L003",
+      "original_quote": "危月燕十六度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L004",
+      "original_quote": "虛日鼠九度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L005",
+      "original_quote": "女土蝠十五度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L006",
+      "original_quote": "齊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L007",
+      "original_quote": "青州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L008",
+      "original_quote": "梓州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L009",
+      "original_quote": "京東路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L010",
+      "original_quote": "丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L011",
+      "original_quote": "星紀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L012",
+      "original_quote": "牛金牛七度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L013",
+      "original_quote": "鬥水獬二十三度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L014",
+      "original_quote": "吳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L015",
+      "original_quote": "淮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L016",
+      "original_quote": "南東路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L017",
+      "original_quote": "泗水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L018",
+      "original_quote": "江東",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L019",
+      "original_quote": "揚州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L020",
+      "original_quote": "盧州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L021",
+      "original_quote": "兩浙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L022",
+      "original_quote": "福建",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L023",
+      "original_quote": "寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L024",
+      "original_quote": "析木",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L025",
+      "original_quote": "箕水豹九度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L026",
+      "original_quote": "尾火虎十八度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L027",
+      "original_quote": "燕",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L028",
+      "original_quote": "幽州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L029",
+      "original_quote": "夔州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L030",
+      "original_quote": "河北",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L031",
+      "original_quote": "河西",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L032",
+      "original_quote": "卯",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L033",
+      "original_quote": "大火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L034",
+      "original_quote": "心月狐六度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L035",
+      "original_quote": "房日兔五度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L036",
+      "original_quote": "氐土貉十六度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L037",
+      "original_quote": "宋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L038",
+      "original_quote": "京畿",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L039",
+      "original_quote": "豫州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L040",
+      "original_quote": "楚國",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L041",
+      "original_quote": "濟陰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L042",
+      "original_quote": "辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L043",
+      "original_quote": "壽星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L044",
+      "original_quote": "亢金龍九度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L045",
+      "original_quote": "角木蛟十二度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L046",
+      "original_quote": "鄭",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L047",
+      "original_quote": "龍慶府",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L048",
+      "original_quote": "兗州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L049",
+      "original_quote": "東西路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L050",
+      "original_quote": "泰山",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L051",
+      "original_quote": "陳留",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L052",
+      "original_quote": "山陰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L053",
+      "original_quote": "巳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L054",
+      "original_quote": "鶉尾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L055",
+      "original_quote": "軫水蚓十八度半",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L056",
+      "original_quote": "翼火蛇二十度十杪",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L057",
+      "original_quote": "楚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L058",
+      "original_quote": "荊",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L059",
+      "original_quote": "湖南路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L060",
+      "original_quote": "湖北路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L061",
+      "original_quote": "荊州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L062",
+      "original_quote": "廣東西路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L063",
+      "original_quote": "午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L064",
+      "original_quote": "鶉火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L065",
+      "original_quote": "張月鹿十八度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L066",
+      "original_quote": "星日馬七度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L067",
+      "original_quote": "柳土獐十四度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L068",
+      "original_quote": "周",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L069",
+      "original_quote": "京西南路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L070",
+      "original_quote": "三河",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L071",
+      "original_quote": "關西",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L072",
+      "original_quote": "未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L073",
+      "original_quote": "鶉首",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L074",
+      "original_quote": "鬼金羊二度半",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L075",
+      "original_quote": "井木犴三十度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L076",
+      "original_quote": "秦",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L077",
+      "original_quote": "雍州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L078",
+      "original_quote": "陜西",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L079",
+      "original_quote": "永興軍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L080",
+      "original_quote": "秦風路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L081",
+      "original_quote": "四州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L082",
+      "original_quote": "申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L083",
+      "original_quote": "實沉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L084",
+      "original_quote": "參水猿九度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L085",
+      "original_quote": "觜火猴半度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L086",
+      "original_quote": "晉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L087",
+      "original_quote": "河北東路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L088",
+      "original_quote": "代州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L089",
+      "original_quote": "成都",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L090",
+      "original_quote": "孟州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L091",
+      "original_quote": "酉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L092",
+      "original_quote": "大梁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L093",
+      "original_quote": "畢月烏十六度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L094",
+      "original_quote": "昴日雞七度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L095",
+      "original_quote": "胃土雉十四度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L096",
+      "original_quote": "趙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L097",
+      "original_quote": "冀州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L098",
+      "original_quote": "河北東西路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L099",
+      "original_quote": "真定",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L100",
+      "original_quote": "戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L101",
+      "original_quote": "降婁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L102",
+      "original_quote": "婁金狗十二度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L103",
+      "original_quote": "奎木狼十七度半",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L104",
+      "original_quote": "魯",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L105",
+      "original_quote": "徐州北路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L106",
+      "original_quote": "亥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L107",
+      "original_quote": "娵訾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L108",
+      "original_quote": "璧水狳九度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L109",
+      "original_quote": "室火豬十七度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L110",
+      "original_quote": "危月燕十七度",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L111",
+      "original_quote": "衛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L112",
+      "original_quote": "並州",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L113",
+      "original_quote": "太原",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_12GongFenYe_L114",
+      "original_quote": "河東路",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan15",
+    "section": "十二宮分野",
+    "line_id_start": "QMDJ_Juan15_12GongFenYe_L000",
+    "line_id_end": "QMDJ_Juan15_12GongFenYe_L114"
+  },
+  "_extraction_status": "十二宮分野完成"
+}

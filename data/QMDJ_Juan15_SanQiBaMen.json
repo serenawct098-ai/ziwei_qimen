@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan15",
+  "section": "三奇八門",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L000",
+      "original_quote": "三奇八門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L001",
+      "original_quote": "乙至六七自疑難",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L002",
+      "original_quote": "丙丁臨一不堪觀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L003",
+      "original_quote": "柱心至九皆難用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L004",
+      "original_quote": "也忌驚開門莫前",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L005",
+      "original_quote": "英景定知愁坎位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L006",
+      "original_quote": "休逢二八是頭端",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L007",
+      "original_quote": "死生芮任禽三四",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L008",
+      "original_quote": "衝傷六七不虛言",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L009",
+      "original_quote": "杜輔要知同六七",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_SanQiBaMen_L010",
+      "original_quote": "若人會此透天關",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan15",
+    "section": "三奇八門",
+    "line_id_start": "QMDJ_Juan15_SanQiBaMen_L000",
+    "line_id_end": "QMDJ_Juan15_SanQiBaMen_L010"
+  },
+  "_extraction_status": "三奇八門完成"
+}

@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan15",
+  "section": "門迫歌",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L000",
+      "original_quote": "門迫歌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L001",
+      "original_quote": "驚開三四休臨九",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L002",
+      "original_quote": "傷杜還歸二八宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L003",
+      "original_quote": "生死排來居第一",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L004",
+      "original_quote": "景門六七總相同",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L005",
+      "original_quote": "吉門被迫吉不就",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan15_MenPoGe_L006",
+      "original_quote": "凶門被迫禍重重",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan15",
+    "section": "門迫歌",
+    "line_id_start": "QMDJ_Juan15_MenPoGe_L000",
+    "line_id_end": "QMDJ_Juan15_MenPoGe_L006"
+  },
+  "_extraction_status": "門迫歌完成"
+}
