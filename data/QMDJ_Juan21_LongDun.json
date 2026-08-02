@@ -1,0 +1,125 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan21",
+  "section": "龍遁",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L000",
+      "original_quote": "龍遁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L001",
+      "original_quote": "凡乙奇與休門合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L002",
+      "original_quote": "下臨六癸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L003",
+      "original_quote": "或坎宮得龍之蔽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L004",
+      "original_quote": "其方可以祭龍神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L005",
+      "original_quote": "祈雨澤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L006",
+      "original_quote": "水戰演敵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L007",
+      "original_quote": "計量江面",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L008",
+      "original_quote": "把守河渡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L009",
+      "original_quote": "教習水戰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L010",
+      "original_quote": "密運機謀",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L011",
+      "original_quote": "移舟轉向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L012",
+      "original_quote": "下船",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L013",
+      "original_quote": "開江",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L014",
+      "original_quote": "造置水櫃",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L015",
+      "original_quote": "祭禱鬼神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L016",
+      "original_quote": "填堤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L017",
+      "original_quote": "塞河",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L018",
+      "original_quote": "修橋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L019",
+      "original_quote": "穿井",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L020",
+      "original_quote": "以候龍應」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_LongDun_L021",
+      "original_quote": "《武備志》作休門與乙奇臨六甲為龍遁",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan21",
+    "section": "龍遁",
+    "line_id_start": "QMDJ_Juan21_LongDun_L000",
+    "line_id_end": "QMDJ_Juan21_LongDun_L021"
+  },
+  "_extraction_status": "龍遁完成"
+}

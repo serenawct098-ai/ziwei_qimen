@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan21",
+  "section": "鬼遁",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L000",
+      "original_quote": "鬼遁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L001",
+      "original_quote": "凡丁奇下臨九地與休門合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L002",
+      "original_quote": "得鬼神隱匿之蔽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L003",
+      "original_quote": "其方可以探機",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L004",
+      "original_quote": "偷營",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L005",
+      "original_quote": "設伏攻虛",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L006",
+      "original_quote": "密伺動靜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L007",
+      "original_quote": "詭詐文書",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L008",
+      "original_quote": "薦孤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L009",
+      "original_quote": "拔寡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_GuiDun_L010",
+      "original_quote": "以候鬼應",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan21",
+    "section": "鬼遁",
+    "line_id_start": "QMDJ_Juan21_GuiDun_L000",
+    "line_id_end": "QMDJ_Juan21_GuiDun_L010"
+  },
+  "_extraction_status": "鬼遁完成"
+}

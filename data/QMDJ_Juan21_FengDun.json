@@ -1,0 +1,100 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan21",
+  "section": "風遁",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L000",
+      "original_quote": "風遁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L001",
+      "original_quote": "凡丙奇與開門合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L002",
+      "original_quote": "下臨巽宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L003",
+      "original_quote": "不犯墓迫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L004",
+      "original_quote": "得靈奇順風爽帆之蔽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L005",
+      "original_quote": "又辛儀與休門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L006",
+      "original_quote": "下臨六乙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L007",
+      "original_quote": "其方可以默吸風雲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L008",
+      "original_quote": "噴噀旗旐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L009",
+      "original_quote": "音遙普遍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L010",
+      "original_quote": "或托異遁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L011",
+      "original_quote": "令眾軍士沉吟聽音",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L012",
+      "original_quote": "又丙奇與開門臨坤宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L013",
+      "original_quote": "更宜禱祭風伯雨師",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L014",
+      "original_quote": "同敵壘",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L015",
+      "original_quote": "立旌旗",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan21_FengDun_L016",
+      "original_quote": "以候風應",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan21",
+    "section": "風遁",
+    "line_id_start": "QMDJ_Juan21_FengDun_L000",
+    "line_id_end": "QMDJ_Juan21_FengDun_L016"
+  },
+  "_extraction_status": "風遁完成"
+}
