@@ -1,0 +1,60 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "星垣問答論_Hualu",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_WendaHualu_L001",
+      "original_quote": "問化祿星所主若何？",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHualu_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHualu_L002",
+      "original_quote": "希夷先生答曰：祿星掌祿權之神。守身命，官祿、財帛，最喜科權相逢，必作宰臣之職。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHualu_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHualu_L003",
+      "original_quote": "小限逢之主進財入仕之喜。大限十年吉慶無疑，惡曜來臨并羊陀火忌沖照，亦不為害。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHualu_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHualu_L004",
+      "original_quote": "女人吉湊作命婦，二限逢之，內外威嚴，殺凑平常。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHualu_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "星垣問答論-Hualu星部分完成"
+}

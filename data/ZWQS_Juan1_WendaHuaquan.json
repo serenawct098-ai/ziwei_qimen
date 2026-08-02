@@ -1,0 +1,60 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "星垣問答論_Huaquan",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_WendaHuaquan_L001",
+      "original_quote": "問化權星所主若何？",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHuaquan_L001",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHuaquan_L002",
+      "original_quote": "希夷先生答曰：權星掌判生殺之神。守身命科祿相逢出將入相。科權相逢必定文章冠世，人皆欽仰。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHuaquan_L002",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHuaquan_L003",
+      "original_quote": "小限相逢，無有不吉。大限十年，必然遂志。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHuaquan_L003",
+        "base_edition_lock": "羅洪先編本"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_WendaHuaquan_L004",
+      "original_quote": "如逢羊陀耗使劫空，聽讒貽累，官災貶謫。女人得之內外稱志，可作命婦。僧道掌山林有師號。",
+      "tag": [],
+      "tag_reason": "",
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣問答論",
+        "line_id": "ZWQS_Juan1_WendaHuaquan_L004",
+        "base_edition_lock": "羅洪先編本"
+      }
+    }
+  ],
+  "_extraction_status": "星垣問答論-Huaquan星部分完成"
+}
