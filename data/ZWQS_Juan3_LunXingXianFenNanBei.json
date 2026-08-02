@@ -1,0 +1,28 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷三",
+  "section": "論行限分南北斗",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan3_LunXingXianFenNanBei_L000",
+      "original_quote": "論行限分南北斗",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXingXianFenNanBei_L002",
+      "original_quote": "陽男陰女南斗為福。陰男陽女北斗為福。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXingXianFenNanBei_L003",
+      "original_quote": "北斗諸星吉凶，大限斷上五年應•小限斷上半年應。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXingXianFenNanBei_L004",
+      "original_quote": "南斗諸星吉凶，大限斷下五年應，小限斷下半年應。",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "論行限分南北斗完成"
+}
