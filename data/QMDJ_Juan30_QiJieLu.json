@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "起截路空亡訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L000",
+      "original_quote": "起截路空亡訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L001",
+      "original_quote": "起截路空亡訣時遇空亡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L002",
+      "original_quote": "吉凶不成",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L003",
+      "original_quote": "甲己在坤乙庚離",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L004",
+      "original_quote": "丙辛巽位卻相宜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L005",
+      "original_quote": "丁壬震宮名截路",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiJieLu_L006",
+      "original_quote": "戊癸乾坎空亡時",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "起截路空亡訣",
+    "line_id_start": "QMDJ_Juan30_QiJieLu_L000",
+    "line_id_end": "QMDJ_Juan30_QiJieLu_L006"
+  },
+  "_extraction_status": "起截路空亡訣完成"
+}

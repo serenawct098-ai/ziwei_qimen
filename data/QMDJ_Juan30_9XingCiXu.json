@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "九星神名次序起例",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L000",
+      "original_quote": "九星神名次序起例",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L001",
+      "original_quote": "一太乙吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L002",
+      "original_quote": "二攝提凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L003",
+      "original_quote": "三軒轅平",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L004",
+      "original_quote": "四招搖平",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L005",
+      "original_quote": "五天符凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L006",
+      "original_quote": "六青龍吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L007",
+      "original_quote": "七咸池凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L008",
+      "original_quote": "八太陰吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingCiXu_L009",
+      "original_quote": "九天乙吉",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "九星神名次序起例",
+    "line_id_start": "QMDJ_Juan30_9XingCiXu_L000",
+    "line_id_end": "QMDJ_Juan30_9XingCiXu_L009"
+  },
+  "_extraction_status": "九星神名次序起例完成"
+}

@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "時上起青龍明堂歌",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L000",
+      "original_quote": "時上起青龍明堂歌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L001",
+      "original_quote": "寅申須加子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L002",
+      "original_quote": "卯酉卻起寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L003",
+      "original_quote": "辰戌龍位上",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L004",
+      "original_quote": "巳亥午上尋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L005",
+      "original_quote": "子午尋申位",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L006",
+      "original_quote": "醜未戌上親",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L007",
+      "original_quote": "青龍明堂與天刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L008",
+      "original_quote": "朱雀金匱天德神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L009",
+      "original_quote": "白虎玉堂天牢黑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_ShiQiQingLong_L010",
+      "original_quote": "玄武司命及勾陳",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "時上起青龍明堂歌",
+    "line_id_start": "QMDJ_Juan30_ShiQiQingLong_L000",
+    "line_id_end": "QMDJ_Juan30_ShiQiQingLong_L010"
+  },
+  "_extraction_status": "時上起青龍明堂歌完成"
+}

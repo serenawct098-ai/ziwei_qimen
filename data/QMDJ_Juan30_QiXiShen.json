@@ -1,0 +1,50 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "起喜神訣",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L000",
+      "original_quote": "起喜神訣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L001",
+      "original_quote": "起喜神訣時內遇喜神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L002",
+      "original_quote": "諸事順利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L003",
+      "original_quote": "甲己在艮乙庚干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L004",
+      "original_quote": "丙辛坤位喜神安",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L005",
+      "original_quote": "丁壬遠向離宮坐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_QiXiShen_L006",
+      "original_quote": "戊癸原來在巽間",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "起喜神訣",
+    "line_id_start": "QMDJ_Juan30_QiXiShen_L000",
+    "line_id_end": "QMDJ_Juan30_QiXiShen_L006"
+  },
+  "_extraction_status": "起喜神訣完成"
+}

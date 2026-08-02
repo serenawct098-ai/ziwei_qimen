@@ -1,0 +1,70 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "九星吉凶所宜",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L000",
+      "original_quote": "九星吉凶所宜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L001",
+      "original_quote": "太乙凡為百事通",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L002",
+      "original_quote": "攝提到處便為凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L003",
+      "original_quote": "招搖出入多風雨",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L004",
+      "original_quote": "軒轅鬪毆血光逢",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L005",
+      "original_quote": "咸池臨處多官事",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L006",
+      "original_quote": "太陰取用暗財充",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L007",
+      "original_quote": "天符射獵打圍吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L008",
+      "original_quote": "青龍財喜兩重重",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L009",
+      "original_quote": "天乙所求百事遂",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_9XingSuoYi_L010",
+      "original_quote": "九星吉凶妙無窮",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "九星吉凶所宜",
+    "line_id_start": "QMDJ_Juan30_9XingSuoYi_L000",
+    "line_id_end": "QMDJ_Juan30_9XingSuoYi_L010"
+  },
+  "_extraction_status": "九星吉凶所宜完成"
+}

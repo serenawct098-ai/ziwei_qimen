@@ -1,0 +1,95 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "五行生剋例",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L000",
+      "original_quote": "五行生剋例",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L001",
+      "original_quote": "東方甲乙木",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L002",
+      "original_quote": "南方丙丁火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L003",
+      "original_quote": "西方庚辛金",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L004",
+      "original_quote": "北方壬癸水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L005",
+      "original_quote": "中央戊己土",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L006",
+      "original_quote": "甲乙木剋戊己土",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L007",
+      "original_quote": "戊己土剋壬癸水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L008",
+      "original_quote": "壬癸水剋丙丁火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L009",
+      "original_quote": "丙丁火剋庚辛金",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L010",
+      "original_quote": "庚辛金剋甲乙木",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L011",
+      "original_quote": "甲乙木生丙丁火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L012",
+      "original_quote": "丙丁火生戊己土",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L013",
+      "original_quote": "戊己土生庚辛金",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L014",
+      "original_quote": "庚辛金生壬癸水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_5XingShengKe_L015",
+      "original_quote": "壬癸水生甲乙木",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "五行生剋例",
+    "line_id_start": "QMDJ_Juan30_5XingShengKe_L000",
+    "line_id_end": "QMDJ_Juan30_5XingShengKe_L015"
+  },
+  "_extraction_status": "五行生剋例完成"
+}

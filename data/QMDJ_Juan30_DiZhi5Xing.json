@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan30",
+  "section": "地支屬五行例",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L000",
+      "original_quote": "地支屬五行例",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L001",
+      "original_quote": "北方亥子水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L002",
+      "original_quote": "東方寅卯木",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L003",
+      "original_quote": "南方巳午火",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L004",
+      "original_quote": "西方申酉金",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan30_DiZhi5Xing_L005",
+      "original_quote": "四隅辰戌丑未土",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan30",
+    "section": "地支屬五行例",
+    "line_id_start": "QMDJ_Juan30_DiZhi5Xing_L000",
+    "line_id_end": "QMDJ_Juan30_DiZhi5Xing_L005"
+  },
+  "_extraction_status": "地支屬五行例完成"
+}
