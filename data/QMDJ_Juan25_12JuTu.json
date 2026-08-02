@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan25",
+  "section": "十二局天門地戶返閉立成圖",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L000",
+      "original_quote": "十二局天門地戶返閉立成圖",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L001",
+      "original_quote": "子日醜日寅日卯日辰日巳日午日未日申日酉日戌日亥日",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L002",
+      "original_quote": "天門丙丙丙庚庚庚壬壬壬甲甲甲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L003",
+      "original_quote": "地戶乙乙庚丁丁壬辛辛甲癸癸丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L004",
+      "original_quote": "玉女庚辛乾壬癸艮甲乙巽丙丁坤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_12JuTu_L005",
+      "original_quote": "此與三德方同",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan25",
+    "section": "十二局天門地戶返閉立成圖",
+    "line_id_start": "QMDJ_Juan25_12JuTu_L000",
+    "line_id_end": "QMDJ_Juan25_12JuTu_L005"
+  },
+  "_extraction_status": "十二局天門地戶返閉立成圖完成"
+}

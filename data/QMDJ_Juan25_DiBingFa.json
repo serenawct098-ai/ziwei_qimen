@@ -1,0 +1,65 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan25",
+  "section": "地兵法",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L000",
+      "original_quote": "地兵法",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L001",
+      "original_quote": "太公曰：「凡行軍向陣",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L002",
+      "original_quote": "勿犯地兵",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L003",
+      "original_quote": "將軍忌之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L004",
+      "original_quote": "甲子旬地兵在寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L005",
+      "original_quote": "甲戌旬地兵在子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L006",
+      "original_quote": "甲申旬地兵在戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L007",
+      "original_quote": "甲午旬地兵在申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L008",
+      "original_quote": "甲辰旬地兵在午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan25_DiBingFa_L009",
+      "original_quote": "甲寅旬地兵在辰地兵即六丙也」",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan25",
+    "section": "地兵法",
+    "line_id_start": "QMDJ_Juan25_DiBingFa_L000",
+    "line_id_end": "QMDJ_Juan25_DiBingFa_L009"
+  },
+  "_extraction_status": "地兵法完成"
+}
