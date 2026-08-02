@@ -4,65 +4,125 @@
   "section": "十二宮諸星得地合格訣",
   "entries": [
     {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L000",
+      "original_quote": "⼗⼆宮諸星得地合格訣",
+      "tag": []
+    },
+    {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L001",
-      "original_quote": "子安命：子宮貪狼殺陰星，機梁相拱福興隆，庚辛乙癸生人美，一生富貴足豐榮。",
+      "original_quote": "⼦安命⼦宮貪狼殺陰星,機梁相拱福興隆,庚辛⼄癸⽣⼈美,⼀⽣",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L002",
-      "original_quote": "丑安命：丑宮立命日月朝，丙成生人福祿饒，正坐平常中局論，對照富貴禍皆消。為官女受封。",
+      "original_quote": "富貴⾜豐榮｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L003",
-      "original_quote": "寅安命：寅宮巨日足豐隆，七殺天梁百事通，申巳庚人皆為吉，男子為官女受封。",
+      "original_quote": "丑安命丑宮立命⽇⽉朝,丙成⽣⼈福祿饒,正坐平常中局論,對照",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L004",
-      "original_quote": "卯安命：卯宮機巨武曲逢，辛乙生人福氣隆，男子為當縻廩祿，女人享福受褒封。",
+      "original_quote": "富貴禍皆消｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L005",
-      "original_quote": "辰安命：辰位機梁坐命宮，天府戍地最盈豐，腰金衣紫真榮顯，富華貴輝宜到終。",
+      "original_quote": "為官女受封｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L006",
-      "original_quote": "巳安命：巳位天機天相臨，紫府朝垣福更深，戊辛壬丙皆為貴，一生順遂少災侵。",
+      "original_quote": "寅安命寅宮巨⽇⾜豐隆,七殺天梁百事通,申已庚⼈皆為吉,男⼦",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L007",
-      "original_quote": "午安命：午宮紫府太陽同，機梁破殺喜相逢，甲丁己癸生人福，一世風光廩祿豐。",
+      "original_quote": "卯安命卯宮機巨武曲逢,辛⼄⽣⼈福氣隆,男⼦為當縻廩祿,女⼈",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L008",
-      "original_quote": "未安命：未宮紫武廉貞同，日月巨門喜相逢，女人值此全福壽，男子逢之位三公。",
+      "original_quote": "享福受褒封｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L009",
-      "original_quote": "申安命：申宮紫帝貞梁同，武曲巨門喜相逢，甲庚癸人如得喜，一生富貴逞英雄。",
+      "original_quote": "辰安命辰位機梁坐命宮,天府戍地最盈豐,腰⾦衣紫真榮顯,富華",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L010",
-      "original_quote": "酉安命：酉宮最喜太陰逢，巨日又逢當面沖，辛乙生人為貴格，一生福祿永亨通。",
+      "original_quote": "貴輝宜到終｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L011",
-      "original_quote": "戌安命：戌宮天機天梁同，紫府左右喜相逢，甲己辛壬生人美，一生榮華直到終。",
+      "original_quote": "已安命已位天機天相臨,紫府朝垣福更深,戊辛壬丙皆為貴,⼀⽣",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_PalaceFormulas_L012",
-      "original_quote": "亥安命：亥宮紫府及貪狼，天同相拱亦為良，壬辛乙己生人美，開張貿易人。",
+      "original_quote": "順遂少災侵｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L013",
+      "original_quote": "風光廩祿豐｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L014",
+      "original_quote": "午安命午宮紫府太陽同,機梁破殺喜相逢,甲丁⼰癸⽣⼈福,⼀世未安命未宮紫武廉貞同,⽇⽉巨⾨喜相逢,女⼈值此全福壽,男⼦",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L015",
+      "original_quote": "逢之位三公｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L016",
+      "original_quote": "中安命申宮紫帝貞梁同,武曲巨⾨喜相逢,甲庚癸⼈如得喜,⼀⽣",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L017",
+      "original_quote": "富貴逞英雄｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L018",
+      "original_quote": "⻄安命⻄宮最喜太陰逢,巨⽇⼜逢當⾯沖,辛⼄⽣⼈為貴格,⼀⽣",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L019",
+      "original_quote": "福祿永亨通｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L020",
+      "original_quote": "開張貿易⼈｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L021",
+      "original_quote": "榮華直到終｡",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L022",
+      "original_quote": "成安命戍宮紫微對沖辰,富⽽不貴有虛名,更加吉曜多權祿,只利",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_PalaceFormulas_L023",
+      "original_quote": "亥安命亥宮最喜太陰逢,若⼈值此福祿隆,男女逢之皆稱意,富貴",
       "tag": []
     }
   ],
-  "_extraction_status": "十二宮合格訣完成"
+  "_extraction_status": "十二宮諸星得地合格訣完成"
 }

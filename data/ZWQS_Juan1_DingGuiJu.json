@@ -4,6 +4,11 @@
   "section": "定貴局",
   "entries": [
     {
+      "line_id": "ZWQS_Juan1_DingGuiJu_L000",
+      "original_quote": "定貴局",
+      "tag": []
+    },
+    {
       "line_id": "ZWQS_Juan1_DingGuiJu_L001",
       "original_quote": "⽇⽉夾命不坐空亡遇逢本宮有吉星是也｡",
       "tag": []
@@ -51,11 +56,7 @@
     {
       "line_id": "ZWQS_Juan1_DingGuiJu_L010",
       "original_quote": "⾺頭帶劍謂⾺有刃是也不是居午格｡",
-      "tag": [
-        "_custom",
-        "non_classical"
-      ],
-      "tag_reason": "後世格局命名"
+      "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_DingGuiJu_L011",
@@ -80,11 +81,7 @@
     {
       "line_id": "ZWQS_Juan1_DingGuiJu_L015",
       "original_quote": "刑囚夾印天刑廉貞同臨⾝命主武勇之⼈｡",
-      "tag": [
-        "_custom",
-        "non_classical"
-      ],
-      "tag_reason": "後世格局命名"
+      "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_DingGuiJu_L016",

@@ -1,108 +1,113 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "斗數發微論",
+  "section": "發微論",
   "entries": [
     {
+      "line_id": "ZWQS_Juan1_FaweiLun_L000",
+      "original_quote": "⽃數發微論",
+      "tag": []
+    },
+    {
       "line_id": "ZWQS_Juan1_FaweiLun_L001",
-      "original_quote": "白玉蟾先生曰觀天斗數與五星不同，按此星辰與諸術大異。",
+      "original_quote": "⽩⽟蟾先⽣⽇觀天⽃數與五星不同,按此星辰與諸術⼤異｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L002",
-      "original_quote": "四正吉星定為貴，三方殺拱少為奇。",
+      "original_quote": "四正吉星定為貴,三⽅殺拱少為奇｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L003",
-      "original_quote": "對照兮詳凶詳吉，合照兮觀賤觀榮。",
+      "original_quote": "對照兮詳凶詳吉,合照兮觀賤觀榮｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L004",
-      "original_quote": "吉星入垣則為吉，凶星失地則為凶。",
+      "original_quote": "吉星入垣則為吉,凶星失地則為凶｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L005",
-      "original_quote": "命逢紫微非特壽而且榮，身遇殺星不但貧而且賤。",
+      "original_quote": "命逢紫微非特壽⽽且榮,⾝遇殺星不但貧⽽且賤｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L006",
-      "original_quote": "左右會於紫府極品之尊，科權陷於凶鄉功名蹭蹬。",
+      "original_quote": "左右會於紫府極品之尊,科權陷於凶鄉功名蹭蹬｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L007",
-      "original_quote": "行限逢乎弱地未必為災，立命會在強宮必能降福。",
+      "original_quote": "⾏限逢乎弱地未必為災,立命會在強宮必能降福｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L008",
-      "original_quote": "羊陀七殺限運莫逢，逢之定有刑傷。(劫空傷使在內合斷)",
+      "original_quote": "⽺陀七殺限運莫逢,逢之定有刑傷｡(劫空傷使在內合斷)",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L009",
-      "original_quote": "天哭喪門流年莫遇，遇之實防破害。",
+      "original_quote": "天哭喪⾨流年莫遇,遇之實防破害｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L010",
-      "original_quote": "南斗主限必生男，北斗加臨先得女。",
+      "original_quote": "南⽃主限必⽣男,北⽃加臨先得女｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L011",
-      "original_quote": "科星居於陷地，燈火辛勤。昌曲在於凶鄉，林泉冷淡。",
+      "original_quote": "科星居於陷地,燈火辛勤｡昌曲在於凶鄉,林泉冷淡｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L012",
-      "original_quote": "奸謀頻設，紫微愧遇破軍。淫奔大行，紅鸞差逢貪宿。",
+      "original_quote": "奸謀頻設,紫微愧遇破軍｡淫奔⼤⾏,紅鸞差逢貪宿｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L013",
-      "original_quote": "命身相剋，則心亂而不閑。玄媼三宮，則邪淫而耽酒。(即天姚星)",
+      "original_quote": "命⾝相剋,則⼼亂⽽不閑｡⽞媼三宮,則邪淫⽽耽酒｡(即天姚星)",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L014",
-      "original_quote": "殺臨三位，定然妻子不和。巨到二宮，必是兄弟無義。",
+      "original_quote": "殺臨三位,定然妻⼦不和｡巨到⼆宮,必是兄弟無義｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L015",
-      "original_quote": "刑殺守子，宮子難奉老。諸凶照財，帛聚散無常。",
+      "original_quote": "刑殺守⼦,宮⼦難奉老｡諸凶照財,帛聚散無常｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L016",
-      "original_quote": "羊陀守疾厄，眼目昏盲。火鈴到遷移，長途寂寞。",
+      "original_quote": "⽺陀守疾厄,眼⽬昏盲｡火鈴到遷移,長途寂寞｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L017",
-      "original_quote": "尊星列賤位，主人多勞。惡星應八宮，奴僕無助。",
+      "original_quote": "尊星列賤位,主⼈多勞｡惡星應⼋宮,奴僕無助｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L018",
-      "original_quote": "官祿遇紫府，富而且貴。田宅遇破軍，先破後成。",
+      "original_quote": "官祿遇紫府,富⽽且貴｡⽥宅遇破軍,先破後成｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L019",
-      "original_quote": "福德遇空劫，奔走無力。相貌加刑殺，刑剋難免。",
+      "original_quote": "福德遇空劫,奔走無⼒｡相貌加刑殺,刑剋難免｡",
       "tag": []
     },
     {
       "line_id": "ZWQS_Juan1_FaweiLun_L020",
-      "original_quote": "後學者執此推詳，萬無一失。",
+      "original_quote": "後學者執此推詳,萬無⼀失｡",
       "tag": []
     }
   ],
-  "_extraction_status": "斗數發微論全篇完成，共20句，已按語義斷句"
+  "_extraction_status": "發微論完成"
 }
