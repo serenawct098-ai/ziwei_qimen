@@ -1,0 +1,186 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷一",
+  "section": "富貴論",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L001",
+      "original_quote": "如紫微天府天相祿權科太陰太陽文昌文曲左輔右弼天魁天鉞守照拱沖主大富貴。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L002",
+      "original_quote": "財蔭夾印：相守命武梁來夾是也，田宅宮亦然。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L003",
+      "original_quote": "日月夾財：武守命日月來夾是也，財帛宮亦然。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L004",
+      "original_quote": "財祿夾馬：馬守命武祿來夾是也，逢生旺尤妙。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L005",
+      "original_quote": "蔭印拱身：身臨田宅梁相拱沖是也，勿坐空亡。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L006",
+      "original_quote": "日月照璧：日月臨田宅宮是也，喜居墓庫。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L007",
+      "original_quote": "金燦光輝：太陽單守，命在午宮是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L008",
+      "original_quote": "日月夾命：不坐空亡遇逢本宮有吉星是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L009",
+      "original_quote": "日出扶桑：日在卯守命是也，守官祿宮亦然。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L010",
+      "original_quote": "月落亥宫：月在亥守命是也，又名月朗天門。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L011",
+      "original_quote": "月生滄海：月在子宮守田宅是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L012",
+      "original_quote": "輔弼拱主：紫微守命二星來拱是也，夾之亦然。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L013",
+      "original_quote": "君臣慶會：紫微左右同守命是也，更會相武陰妙上。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L014",
+      "original_quote": "財印夾祿：祿守命梁相來夾是也，入財亦然。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L015",
+      "original_quote": "祿馬佩印：馬前有祿印星同宮是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L016",
+      "original_quote": "坐貴向貴：謂魁鉞在命迭相坐拱是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L017",
+      "original_quote": "馬頭帶劍：謂馬有刃是也不是居午格。",
+      "tag": [
+        "_custom",
+        "non_classical"
+      ],
+      "tag_reason": "後世格局命名，非本句原文自稱格局，需於解讀引擎輸出時與原文引述區隔"
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L018",
+      "original_quote": "七殺朝斗：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L019",
+      "original_quote": "日月並明：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L020",
+      "original_quote": "明珠出海：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L021",
+      "original_quote": "日月同臨：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L022",
+      "original_quote": "刑囚夾印：天刑廉貞同臨身命主武勇之人。",
+      "tag": [
+        "_custom",
+        "non_classical"
+      ],
+      "tag_reason": "後世格局命名，需標記"
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L023",
+      "original_quote": "科權祿拱：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L024",
+      "original_quote": "貪火相逢：謂二星守命同居廟旺是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L025",
+      "original_quote": "武曲守垣：武守命卯宮是也，餘不是。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L026",
+      "original_quote": "府相朝垣：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L027",
+      "original_quote": "紫府朝垣：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L028",
+      "original_quote": "文星暗拱：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L029",
+      "original_quote": "權祿生逢：二星守命廟旺是也，陷不是。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L030",
+      "original_quote": "羊刃入廟：辰戌丑未守命遇吉是也。",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L031",
+      "original_quote": "巨機居卯：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L032",
+      "original_quote": "明祿暗祿：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L033",
+      "original_quote": "科明暗祿：見前註解",
+      "tag": []
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L034",
+      "original_quote": "金輿扶駕：紫微守命前後有日月來夾是也。",
+      "tag": []
+    }
+  ],
+  "_extraction_status": "十等論-富貴論及相關定局完成"
+}
