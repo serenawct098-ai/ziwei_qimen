@@ -1,0 +1,60 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan16",
+  "section": "三奇合格斷",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L000",
+      "original_quote": "三奇合格斷",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L001",
+      "original_quote": "乙奇遇青龍返首",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L002",
+      "original_quote": "丙奇東南是跌穴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L003",
+      "original_quote": "丁奇西貴升壇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L004",
+      "original_quote": "回首喜悅百易遂逐",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L005",
+      "original_quote": "跌穴顯灼事成就",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L006",
+      "original_quote": "龍逃身遭百凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L007",
+      "original_quote": "虎狂兮財虛耗盡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiHeGe_L008",
+      "original_quote": "妖矯逢盜染官訟",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan16",
+    "section": "三奇合格斷",
+    "line_id_start": "QMDJ_Juan16_SanQiHeGe_L000",
+    "line_id_end": "QMDJ_Juan16_SanQiHeGe_L008"
+  },
+  "_extraction_status": "三奇合格斷完成"
+}

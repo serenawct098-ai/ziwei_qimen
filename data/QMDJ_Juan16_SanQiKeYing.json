@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan16",
+  "section": "三奇剋應",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L000",
+      "original_quote": "三奇剋應",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L001",
+      "original_quote": "乙奇遇開聞吏經",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L002",
+      "original_quote": "休同牛馬扛木人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L003",
+      "original_quote": "乙生丙鼠咬孝子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L004",
+      "original_quote": "出門應候老婦人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L005",
+      "original_quote": "丙奇遇開有雷聲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L006",
+      "original_quote": "老翁執杖使威風",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L007",
+      "original_quote": "休門鼓樂五十里",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L008",
+      "original_quote": "生逢患眼相鬪爭",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L009",
+      "original_quote": "丁遇開執竹杖物",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L010",
+      "original_quote": "休婦皂白二十里",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L011",
+      "original_quote": "遇捕獵人須帶犬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_SanQiKeYing_L012",
+      "original_quote": "奇門合處皆應驗",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan16",
+    "section": "三奇剋應",
+    "line_id_start": "QMDJ_Juan16_SanQiKeYing_L000",
+    "line_id_end": "QMDJ_Juan16_SanQiKeYing_L012"
+  },
+  "_extraction_status": "三奇剋應完成"
+}

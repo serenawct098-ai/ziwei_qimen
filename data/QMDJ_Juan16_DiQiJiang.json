@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan16",
+  "section": "地氣將",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L000",
+      "original_quote": "地氣將",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L001",
+      "original_quote": "正月立春子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L002",
+      "original_quote": "二月驚蟄亥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L003",
+      "original_quote": "三月清明戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L004",
+      "original_quote": "四月立夏酉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L005",
+      "original_quote": "五月芒種申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L006",
+      "original_quote": "六月小暑未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L007",
+      "original_quote": "七月立秋午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L008",
+      "original_quote": "八月白露巳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L009",
+      "original_quote": "九月寒露辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L010",
+      "original_quote": "十月立冬卯",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L011",
+      "original_quote": "十一月大雪寅",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_DiQiJiang_L012",
+      "original_quote": "十二月小寒醜",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan16",
+    "section": "地氣將",
+    "line_id_start": "QMDJ_Juan16_DiQiJiang_L000",
+    "line_id_end": "QMDJ_Juan16_DiQiJiang_L012"
+  },
+  "_extraction_status": "地氣將完成"
+}

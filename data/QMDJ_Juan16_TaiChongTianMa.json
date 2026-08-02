@@ -1,0 +1,90 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan16",
+  "section": "太衝天馬方吉時定局",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L000",
+      "original_quote": "太衝天馬方吉時定局",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L001",
+      "original_quote": "用時憲書審定太陽過宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L002",
+      "original_quote": "方可選用子時醜時寅時卯時辰時巳時午時未時申時酉時戌時亥時",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L003",
+      "original_quote": "正月登明將太衝天馬方辰巳午未申酉戌亥子丑寅卯",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L004",
+      "original_quote": "二月河魁將太衝天馬方巳午未申酉戌亥子丑寅卯辰",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L005",
+      "original_quote": "三月從魁將太衝天馬方午未申酉戌亥子丑寅卯辰巳",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L006",
+      "original_quote": "四月傳送將太衝天馬方未申酉戌亥子丑寅卯辰巳午",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L007",
+      "original_quote": "五月小吉將太衝天馬方申酉戌亥子丑寅卯辰巳午未",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L008",
+      "original_quote": "六月勝光將太衝天馬方酉戌亥子丑寅卯辰巳午未申",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L009",
+      "original_quote": "七月太乙將太衝天馬方戌亥子丑寅卯辰巳午未申酉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L010",
+      "original_quote": "八月天罡將太衝天馬方亥子丑寅卯辰巳午未申酉戌",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L011",
+      "original_quote": "九月太衝將太衝天馬方子丑寅卯辰巳午未申酉戌亥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L012",
+      "original_quote": "十月功曹將太衝天馬方丑寅卯辰巳午未申酉戌亥子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L013",
+      "original_quote": "十一月大吉將太衝天馬方寅卯辰巳午未申酉戌亥子丑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan16_TaiChongTianMa_L014",
+      "original_quote": "十二月神後將太衝天馬方卯辰巳午未申酉戌亥子丑寅",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan16",
+    "section": "太衝天馬方吉時定局",
+    "line_id_start": "QMDJ_Juan16_TaiChongTianMa_L000",
+    "line_id_end": "QMDJ_Juan16_TaiChongTianMa_L014"
+  },
+  "_extraction_status": "太衝天馬方吉時定局完成"
+}
