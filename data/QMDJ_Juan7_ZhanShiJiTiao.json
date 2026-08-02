@@ -1,0 +1,370 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "奇門占事計條",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L000",
+      "original_quote": "奇門占事計條",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L001",
+      "original_quote": "按奇門貴人歌與六壬同",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L002",
+      "original_quote": "但冬至後得陰貴",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L003",
+      "original_quote": "夏至後用陽貴之不用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L004",
+      "original_quote": "奇門上盤象天謂九星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L005",
+      "original_quote": "中盤象人謂八門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L006",
+      "original_quote": "下盤象地謂九宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L007",
+      "original_quote": "上盤星也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L008",
+      "original_quote": "中盤門也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L009",
+      "original_quote": "下盤宮也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L010",
+      "original_quote": "用法凡占吉凶者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L011",
+      "original_quote": "首重九星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L012",
+      "original_quote": "以九星是天盤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L013",
+      "original_quote": "吉凶由天故也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L014",
+      "original_quote": "凡星剋門吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L015",
+      "original_quote": "門剋星凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L016",
+      "original_quote": "凡出行趨避者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L017",
+      "original_quote": "首重八門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L018",
+      "original_quote": "以八門為人盤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L019",
+      "original_quote": "吉凶由自取故也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L020",
+      "original_quote": "凡門剋宮吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L021",
+      "original_quote": "宮剋門凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L022",
+      "original_quote": "傷人事故凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L023",
+      "original_quote": "凡造葬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L024",
+      "original_quote": "遷移者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L025",
+      "original_quote": "首重九宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L026",
+      "original_quote": "以九宮為地盤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L027",
+      "original_quote": "遷移等事皆由地而起也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L028",
+      "original_quote": "故門宮相生俱吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L029",
+      "original_quote": "相剋俱凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L030",
+      "original_quote": "茍得此意而推之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L031",
+      "original_quote": "凡事關天人者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L032",
+      "original_quote": "無不可以數通妙哉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L033",
+      "original_quote": "此示人以用法",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L034",
+      "original_quote": "傳曰：奇門既分三盤",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L035",
+      "original_quote": "上下盤俱有一干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L036",
+      "original_quote": "地盤宮中有奇儀是也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L037",
+      "original_quote": "上下相對一照",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L038",
+      "original_quote": "成格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L039",
+      "original_quote": "不成格顯然可知",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L040",
+      "original_quote": "如甲加丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L041",
+      "original_quote": "乙加辛之類",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L042",
+      "original_quote": "惟主星之下",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L043",
+      "original_quote": "飛門之內",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L044",
+      "original_quote": "暗藏一干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L045",
+      "original_quote": "謂值使加時支法",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L046",
+      "original_quote": "又值符首中起數至時干止",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L047",
+      "original_quote": "其由甲而丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L048",
+      "original_quote": "而乙至癸",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L049",
+      "original_quote": "以求時支",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L050",
+      "original_quote": "則八門中又帶了一干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L051",
+      "original_quote": "曰「飛干」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L052",
+      "original_quote": "此干並不露干",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L053",
+      "original_quote": "局面上下盤之外數時支",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L054",
+      "original_quote": "時用甲乙排得者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L055",
+      "original_quote": "故曰暗藏",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L056",
+      "original_quote": "若隱若現",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L057",
+      "original_quote": "變化無窮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L058",
+      "original_quote": "古今來無一識之者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L059",
+      "original_quote": "假如飛門內即中盤八門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L060",
+      "original_quote": "既生主星飛門內忽有庚飛到此甲求時支我甲乙來不露跡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L061",
+      "original_quote": "凡百事外面雖美備",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L062",
+      "original_quote": "內中蹭蹬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L063",
+      "original_quote": "又加飛門既剋主星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L064",
+      "original_quote": "凡百事占之大凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L065",
+      "original_quote": "而飛門內忽有奇飛到即飛干之乙丙丁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L066",
+      "original_quote": "凡百事外面雖凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L067",
+      "original_quote": "內中實多暗獲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L068",
+      "original_quote": "經之若隱若現",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L069",
+      "original_quote": "若有若無",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShiJiTiao_L070",
+      "original_quote": "飛干之謂也",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "奇門占事計條",
+    "line_id_start": "QMDJ_Juan7_ZhanShiJiTiao_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanShiJiTiao_L070"
+  },
+  "_extraction_status": "奇門占事計條完成"
+}

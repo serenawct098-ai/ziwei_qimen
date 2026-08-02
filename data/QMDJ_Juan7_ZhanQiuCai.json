@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占求財",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L000",
+      "original_quote": "占求財",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L001",
+      "original_quote": "占武舉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L002",
+      "original_quote": "以值符為主考",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L003",
+      "original_quote": "時干為舉子",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L004",
+      "original_quote": "甲申庚為箭",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L005",
+      "original_quote": "甲午辛為紅心",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L006",
+      "original_quote": "景門為策論",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L007",
+      "original_quote": "專看甲申庚落宮若剋甲午辛之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L008",
+      "original_quote": "或衝其宮皆為箭中紅心",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L009",
+      "original_quote": "再看景門得旺相",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L010",
+      "original_quote": "又與值符宮相生者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L011",
+      "original_quote": "主中",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQiuCai_L012",
+      "original_quote": "缺一不中箭論",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占求財",
+    "line_id_start": "QMDJ_Juan7_ZhanQiuCai_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanQiuCai_L012"
+  },
+  "_extraction_status": "占求財完成"
+}

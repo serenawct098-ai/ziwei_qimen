@@ -1,0 +1,90 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占守城",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L000",
+      "original_quote": "占守城",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L001",
+      "original_quote": "以天禽為守者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L002",
+      "original_quote": "天蓬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L003",
+      "original_quote": "六庚為攻者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L004",
+      "original_quote": "天禽宮得休",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L005",
+      "original_quote": "生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L006",
+      "original_quote": "開",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L007",
+      "original_quote": "景",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L008",
+      "original_quote": "又旺相有六丙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L009",
+      "original_quote": "其城不破",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L010",
+      "original_quote": "如無旺相及吉門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L011",
+      "original_quote": "再犯天蓬",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L012",
+      "original_quote": "六庚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L013",
+      "original_quote": "又中宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShouCheng_L014",
+      "original_quote": "不能守斷",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占守城",
+    "line_id_start": "QMDJ_Juan7_ZhanShouCheng_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanShouCheng_L014"
+  },
+  "_extraction_status": "占守城完成"
+}

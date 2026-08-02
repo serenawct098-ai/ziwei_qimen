@@ -1,0 +1,75 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占遠信",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L000",
+      "original_quote": "占遠信",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L001",
+      "original_quote": "以景門為信",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L002",
+      "original_quote": "歌曰：「景上投書並破陣」",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L003",
+      "original_quote": "景門臨外界來遲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L004",
+      "original_quote": "臨內界為速",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L005",
+      "original_quote": "上帶吉格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L006",
+      "original_quote": "信吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L007",
+      "original_quote": "凶格",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L008",
+      "original_quote": "信凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L009",
+      "original_quote": "門迫",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L010",
+      "original_quote": "投江水",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanYuanXin_L011",
+      "original_quote": "無信",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占遠信",
+    "line_id_start": "QMDJ_Juan7_ZhanYuanXin_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanYuanXin_L011"
+  },
+  "_extraction_status": "占遠信完成"
+}

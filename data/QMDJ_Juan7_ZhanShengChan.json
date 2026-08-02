@@ -1,0 +1,125 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占生產",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L000",
+      "original_quote": "占生產",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L001",
+      "original_quote": "占婚姻",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L002",
+      "original_quote": "以六乙為女",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L003",
+      "original_quote": "六庚為男",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L004",
+      "original_quote": "取甲以乙妹娶庚之義也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L005",
+      "original_quote": "如乙庚二干落宮兩相生合則成",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L006",
+      "original_quote": "兩相剋則不成如地盤子卯刑之類",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L007",
+      "original_quote": "又以天上六合為媒人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L008",
+      "original_quote": "如六合宮生六乙宮媒向女家",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L009",
+      "original_quote": "生六庚宮媒向男家",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L010",
+      "original_quote": "六庚宮剋六乙宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L011",
+      "original_quote": "女家畏男而不嫁",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L012",
+      "original_quote": "六乙宮剋六庚宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L013",
+      "original_quote": "男家嫌女而不娶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L014",
+      "original_quote": "六乙宮帶擊刑",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L015",
+      "original_quote": "主女性凶惡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L016",
+      "original_quote": "帶德合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L017",
+      "original_quote": "女性堅貞",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L018",
+      "original_quote": "六庚宮帶凶神",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L019",
+      "original_quote": "主男性暴烈",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L020",
+      "original_quote": "帶德合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanShengChan_L021",
+      "original_quote": "主溫厚",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占生產",
+    "line_id_start": "QMDJ_Juan7_ZhanShengChan_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanShengChan_L021"
+  },
+  "_extraction_status": "占生產完成"
+}

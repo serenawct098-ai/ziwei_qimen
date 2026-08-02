@@ -1,0 +1,100 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占遷移吉凶",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L000",
+      "original_quote": "占遷移吉凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L001",
+      "original_quote": "以九星及九宮分方向定可否",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L002",
+      "original_quote": "如此方上有三奇",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L003",
+      "original_quote": "吉門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L004",
+      "original_quote": "再時得天禽",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L005",
+      "original_quote": "四季皆吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L006",
+      "original_quote": "得天輔",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L007",
+      "original_quote": "春",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L008",
+      "original_quote": "夏大吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L009",
+      "original_quote": "得天心",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L010",
+      "original_quote": "秋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L011",
+      "original_quote": "冬大利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L012",
+      "original_quote": "餘星俱不利",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L013",
+      "original_quote": "各以來時占",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L014",
+      "original_quote": "看何星為天乙定之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L015",
+      "original_quote": "觀此則以其人來之時發占",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanQianYi_L016",
+      "original_quote": "不似六壬之筮時也",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占遷移吉凶",
+    "line_id_start": "QMDJ_Juan7_ZhanQianYi_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanQianYi_L016"
+  },
+  "_extraction_status": "占遷移吉凶完成"
+}

@@ -1,0 +1,85 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占大計吉凶",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L000",
+      "original_quote": "占大計吉凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L001",
+      "original_quote": "以值符為吏部",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L002",
+      "original_quote": "開門為官星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L003",
+      "original_quote": "開門宮受值符宮剋制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L004",
+      "original_quote": "又休囚廢沒",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L005",
+      "original_quote": "及不得吉星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L006",
+      "original_quote": "吉格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L007",
+      "original_quote": "主拿問",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L008",
+      "original_quote": "旺相者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L009",
+      "original_quote": "主罷職",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L010",
+      "original_quote": "得吉星降級",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L011",
+      "original_quote": "開門宮不受值符宮剋制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L012",
+      "original_quote": "返相生者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanDaJi_L013",
+      "original_quote": "無事",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占大計吉凶",
+    "line_id_start": "QMDJ_Juan7_ZhanDaJi_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanDaJi_L013"
+  },
+  "_extraction_status": "占大計吉凶完成"
+}

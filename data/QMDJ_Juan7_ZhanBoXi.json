@@ -1,0 +1,45 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占博戲",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L000",
+      "original_quote": "占博戲",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L001",
+      "original_quote": "占出外之人安否",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L002",
+      "original_quote": "先定方向",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L003",
+      "original_quote": "看其方上下二盤得三奇吉門天地二門俱有奇門及諸吉格者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L004",
+      "original_quote": "安",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanBoXi_L005",
+      "original_quote": "反此不安",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占博戲",
+    "line_id_start": "QMDJ_Juan7_ZhanBoXi_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanBoXi_L005"
+  },
+  "_extraction_status": "占博戲完成"
+}

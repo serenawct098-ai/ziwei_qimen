@@ -1,0 +1,95 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占賊臨境城可守否",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L000",
+      "original_quote": "占賊臨境城可守否",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L001",
+      "original_quote": "以時干宮為客",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L002",
+      "original_quote": "時支宮為主即符使之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L003",
+      "original_quote": "看其生剋何如?如時支宮地盤受值符所落之宮剋制",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L004",
+      "original_quote": "而時支又乘六庚",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L005",
+      "original_quote": "元武",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L006",
+      "original_quote": "此城當棄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L007",
+      "original_quote": "或值使宮自被下剋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L008",
+      "original_quote": "此城亦不可居",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L009",
+      "original_quote": "速宜退避",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L010",
+      "original_quote": "如值符宮與值使宮相生",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L011",
+      "original_quote": "相比",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L012",
+      "original_quote": "或值符宮自受刑剋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L013",
+      "original_quote": "敵人三來",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L014",
+      "original_quote": "不能取勝",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanZeiLinJing_L015",
+      "original_quote": "守之無妨",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占賊臨境城可守否",
+    "line_id_start": "QMDJ_Juan7_ZhanZeiLinJing_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanZeiLinJing_L015"
+  },
+  "_extraction_status": "占賊臨境城可守否完成"
+}

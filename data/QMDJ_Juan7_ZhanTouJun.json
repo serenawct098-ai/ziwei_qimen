@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占投軍",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L000",
+      "original_quote": "占投軍",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L001",
+      "original_quote": "天衝為武士",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L002",
+      "original_quote": "值符為主帥",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L003",
+      "original_quote": "值符宮生天衝宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L004",
+      "original_quote": "及天衝宮生值符宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L005",
+      "original_quote": "一見即投合",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L006",
+      "original_quote": "如彼此相剋",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L007",
+      "original_quote": "定不收錄",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L008",
+      "original_quote": "天衝若坐值符",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L009",
+      "original_quote": "一去即為部長",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L010",
+      "original_quote": "後必大用",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L011",
+      "original_quote": "伏吟空回",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanTouJun_L012",
+      "original_quote": "反吟反複不准",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占投軍",
+    "line_id_start": "QMDJ_Juan7_ZhanTouJun_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanTouJun_L012"
+  },
+  "_extraction_status": "占投軍完成"
+}

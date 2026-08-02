@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占合伙",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L000",
+      "original_quote": "占合伙",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L001",
+      "original_quote": "占船主善惡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L002",
+      "original_quote": "以震三宮為船主",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L003",
+      "original_quote": "以天盤上所得之星",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L004",
+      "original_quote": "為船主之善惡",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L005",
+      "original_quote": "震宮上得輔心禽三星為上吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L006",
+      "original_quote": "衝任為中吉",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L007",
+      "original_quote": "其船家是好人",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L008",
+      "original_quote": "得英",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L009",
+      "original_quote": "芮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L010",
+      "original_quote": "杜",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L011",
+      "original_quote": "蓬為大凶",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanHeHuo_L012",
+      "original_quote": "船不可登",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占合伙",
+    "line_id_start": "QMDJ_Juan7_ZhanHeHuo_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanHeHuo_L012"
+  },
+  "_extraction_status": "占合伙完成"
+}

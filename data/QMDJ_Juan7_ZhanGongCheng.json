@@ -1,0 +1,80 @@
+{
+  "text": "奇門遁甲秘笈大全",
+  "juan": "Juan7",
+  "section": "占攻城",
+  "entries": [
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L000",
+      "original_quote": "占攻城",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L001",
+      "original_quote": "以六庚為攻者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L002",
+      "original_quote": "以天禽為守者原法云：庚者兵眾",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L003",
+      "original_quote": "禽者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L004",
+      "original_quote": "中心者攻之",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L005",
+      "original_quote": "故受攻",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L006",
+      "original_quote": "如六庚乘旺相",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L007",
+      "original_quote": "得開門加中五宮城必破可見中五宮亦有門",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L008",
+      "original_quote": "行到此不奇之驗",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L009",
+      "original_quote": "又看地盤天禽所乘之宮",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L010",
+      "original_quote": "得旺相及吉門者",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L011",
+      "original_quote": "其守將不可擒也",
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan7_ZhanGongCheng_L012",
+      "original_quote": "反此必死",
+      "tag": []
+    }
+  ],
+  "_source": {
+    "text": "奇門遁甲秘笈大全",
+    "juan": "Juan7",
+    "section": "占攻城",
+    "line_id_start": "QMDJ_Juan7_ZhanGongCheng_L000",
+    "line_id_end": "QMDJ_Juan7_ZhanGongCheng_L012"
+  },
+  "_extraction_status": "占攻城完成"
+}
