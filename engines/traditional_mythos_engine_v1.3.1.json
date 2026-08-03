@@ -198,14 +198,21 @@
     "pattern_definition_table": {
       "紫府同宮格": {
         "source_pattern_id": "zifutonggong",
-        "trigger": "紫微與天府同宮",
+        "trigger": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
         "grade": "A",
         "classical_meaning": "主尊貴權柄、財祿豐厚、得位則名高責重。",
         "break_conditions": [
           "煞忌重疊",
           "空劫夾破",
           "四化沖破"
-        ]
+        ],
+        "original_quote": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "斗數骨髓賦",
+          "line_ref": "第596行"
+        }
       },
       "極向離明格": {
         "source_pattern_id": "ji_xiang_liming_custom",
@@ -487,14 +494,21 @@
       },
       "殺破狼格": {
         "source_pattern_id": "shapolang",
-        "trigger": "七殺、破軍、貪狼分佈命財官等關鍵宮位",
+        "trigger": "紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷。",
         "grade": "B",
         "classical_meaning": "主變動、開創、破舊立新。",
         "break_conditions": [
           "根基太弱",
           "煞重無制",
           "吉曜不扶"
-        ]
+        ],
+        "original_quote": "紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷。",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷二",
+          "section": "論命宮",
+          "line_ref": "第530行"
+        }
       },
       "武曲守垣": {
         "source_pattern_id": "武曲守垣",
