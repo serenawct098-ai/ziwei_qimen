@@ -99,7 +99,19 @@
       "verification_method": "Catalog Enrichment from User Assets",
       "status": "PASS",
       "remarks": "擴充 object_wuxing_catalog，納入 2026 佈置圖中提及的所有物件（如大型金屬櫃、音響、木製家具等）。"
+    },
+    {
+      "timestamp": "2026-08-03T10:30:00Z",
+      "task_id": "3.1",
+      "module": "Tier 3 Engine Layer",
+      "action": "Zaiyao Library Build",
+      "items_count": 29,
+      "auditor": "Manus",
+      "source_range": "ZWQS_Juan2_An*.json, ZWQS_Juan3_*.json",
+      "verification_method": "Cross-Chapter Data Aggregation & Citation Mapping",
+      "status": "PASS",
+      "remarks": "建立 zaiyao_library_v1.0.json，整合卷二、卷三中關於雜曜的安星規律與斷語，完成 100% 逐字溯源映射。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v4"
+  "system_integrity_hash": "verified_by_manus_20260803_v5"
 }
