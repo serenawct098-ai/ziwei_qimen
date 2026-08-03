@@ -9717,8 +9717,10 @@
     {
       "line_id": "ZWQS_Juan2_AnSihua_L003",
       "original_quote": "壬梁紫府武宿是，癸破巨陰貪狼停。",
-      "tag": [],
-      "tag_reason": "",
+      "tag": [
+        "non_classical"
+      ],
+      "tag_reason": "原文為「壬梁紫府武宿是」，本系統依指令鎖定「梁紫左武」為唯一採用版本。",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
