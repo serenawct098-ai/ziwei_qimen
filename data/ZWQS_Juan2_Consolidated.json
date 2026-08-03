@@ -9701,11 +9701,11 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnSihua_L002",
-      "original_quote": "戊貪月弼機為主，己武貪梁曲最平，庚日陽武同相首，辛巨陽曲昌至臨，",
+      "original_quote": "戊貪月弼機為主，己武貪梁曲最平，庚日武陰同為首，辛巨陽曲昌至臨，",
       "tag": [
         "non_classical"
       ],
-      "tag_reason": "歷代分歧鎖定值，依「陽武同相」為唯一採用版本",
+      "tag_reason": "原文為「庚日武陰同為首」，本系統依指令鎖定「陽武同相」為唯一真值運算版本。",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
