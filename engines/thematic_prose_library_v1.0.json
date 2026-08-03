@@ -1,0 +1,268 @@
+{
+  "module": "thematic_prose_library",
+  "version": "1.0",
+  "last_updated": "2026-08-03",
+  "description": "紫微斗數專題判斷賦文庫，包含女命、童限、僧道、殘疾、聰明等九大專題判斷法則。",
+  "topics": {
+    "女命骨髓賦專題": {
+      "source_files": [
+        "ZWQS_Juan1_NumingFu.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L001",
+          "original_quote": "府相之星女命躔,必當⼦貴與夫賢｡",
+          "line_ref": "第808行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L002",
+          "original_quote": "廉貞清⽩能相守,更有天同理亦然｡",
+          "line_ref": "第809行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L003",
+          "original_quote": "端正紫微太陽星,早遇賢夫性可憑｡",
+          "line_ref": "第810行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L004",
+          "original_quote": "太陽寅到午,遇吉終是福｡",
+          "line_ref": "第811行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L005",
+          "original_quote": "左輔天魁為福壽,左弼天相福相臨｡",
+          "line_ref": "第812行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L006",
+          "original_quote": "祿存厚重多衣食,府相朝垣命必榮｡",
+          "line_ref": "第813行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L007",
+          "original_quote": "紫府⺒亥相互輔,左右扶持福必⽣｡",
+          "line_ref": "第814行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L008",
+          "original_quote": "巨⾨天機為破蕩｡天梁⽉曜女命貧｡",
+          "line_ref": "第815行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L009",
+          "original_quote": "擎⽺火星為下賤｡⽂昌⽂曲福不全｡",
+          "line_ref": "第816行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L010",
+          "original_quote": "武曲之宿為寡宿｡破軍⼀曜性難明｡",
+          "line_ref": "第817行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L011",
+          "original_quote": "貪狼內狠多淫佚｡七殺沉吟福不榮｡",
+          "line_ref": "第818行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L012",
+          "original_quote": "⼗⼲化祿最榮昌,女命逢之⼤吉昌｡",
+          "line_ref": "第819行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L013",
+          "original_quote": "更得祿存相湊合,旺夫益⼦受恩光｡",
+          "line_ref": "第820行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L014",
+          "original_quote": "火鈴⽺陀及巨⾨,天空地劫⼜相臨｡",
+          "line_ref": "第821行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L015",
+          "original_quote": "貪狼七殺廉貞宿,武曲加臨剋害侵｡",
+          "line_ref": "第822行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L016",
+          "original_quote": "三⽅四正嫌逢殺,更在夫宮禍患深｡",
+          "line_ref": "第823行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L017",
+          "original_quote": "若是本宮無正曜,必主⽣離剋害真｡",
+          "line_ref": "第824行"
+        },
+        {
+          "line_id": "ZWQS_Juan1_NumingFu_L018",
+          "original_quote": "已前論賦俱係看命要訣,學者宜熟玩之,乃得原委也｡",
+          "line_ref": "第825行"
+        }
+      ]
+    },
+    "童限判斷法則": {
+      "source_files": [
+        "ZWQS_Juan3_LunXiaoErMing.json",
+        "ZWQS_Juan3_LunXiaoErKeQin.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErMing_L001",
+          "original_quote": "紫微太陽武曲天同天梁廉貞七殺破軍丁己甲癸生人進財遂心。",
+          "line_ref": "第179行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErMing_L002",
+          "original_quote": "午年太歲併小限到午宮不入廟化凶",
+          "line_ref": "第181行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErMing_L003",
+          "original_quote": "貪狼在丙午壬癸生人破財官災口舌。",
+          "line_ref": "第182行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErMing_L004",
+          "original_quote": "午年太歲所值吉凶星",
+          "line_ref": "第184行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErMing_L005",
+          "original_quote": "紫微天府天機太陽武曲廉貞天相巨門天梁破軍祿存，便斷其年人財興旺，婚姻喜事重重。若值太陰貪狼天同羊陀忌星，便斷其年人財破敗，官災口舌孝服，本身災厄可免。",
+          "line_ref": "第185行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L001",
+          "original_quote": "紫微天機天府天相天梁壬乙生人發福，太陰庚壬生人發福生財。",
+          "line_ref": "第188行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L002",
+          "original_quote": "未年太歲併小限到未宮不入廟化凶",
+          "line_ref": "第190行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L003",
+          "original_quote": "太陽甲乙生人多災晦，天同丁庚生人多災，武曲壬癸生人生災招官非橫禍。",
+          "line_ref": "第191行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L004",
+          "original_quote": "未年太歲所值吉凶星",
+          "line_ref": "第193行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L005",
+          "original_quote": "紫微天府廉貞天機破軍天相，便斷其年人財增益，作事如意，婚姻產育之喜。若遇太陰太陽武曲天同貪狼巨門羊陀忌宿，便斷其年人財耗散，孝服官災，陰人小口不寧，本人災厄難免。",
+          "line_ref": "第194行"
+        }
+      ]
+    },
+    "僧道格局判斷法則": {
+      "source_files": [
+        "ZWQS_Juan1_ShiDengLun.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan1_ShiDengLun_L019",
+          "original_quote": "僧道論為僧道",
+          "line_ref": "第927行"
+        }
+      ]
+    },
+    "殘疾破相格局": {
+      "source_files": [
+        "ZWQS_Juan3_LunZhuXingTongYuan.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L154",
+          "original_quote": "廉貞七殺居廟旺反為積富之人殺居午奇格，若陷地化忌，貧賤殘疾。",
+          "line_ref": "第417行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L218",
+          "original_quote": "陀羅巳亥寅申非夭折而刑傷余試得多離祖出外成家者亦吉，主生人有破相。",
+          "line_ref": "第491行"
+        }
+      ]
+    },
+    "聰明格局": {
+      "source_files": [
+        "ZWQS_Juan1_ShiDengLun.json",
+        "ZWQS_Juan3_LunZhuXingTongYuan.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan1_ShiDengLun_L003",
+          "original_quote": "聰明論如⽂昌⽂曲天相天府武曲破軍三台⼋座左輔右弼三合拱照主",
+          "line_ref": "第911行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L044",
+          "original_quote": "梁同機月寅申位一生利業聰明聲多不論。",
+          "line_ref": "第285行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L115",
+          "original_quote": "女人昌曲聰明富貴只多淫",
+          "line_ref": "第372行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L118",
+          "original_quote": "武曲相遇昌曲逢聰明巧藝定無窮武曲或與天相同垣逢昌曲。",
+          "line_ref": "第377行"
+        }
+      ]
+    },
+    "壽夭淫蕩": {
+      "source_files": [
+        "ZWQS_Juan3_LunDaXianShiNian.json",
+        "ZWQS_Juan3_LunZhuXingTongYuan.json"
+      ],
+      "entries": []
+    },
+    "商賈之命": {
+      "source_files": [
+        "ZWQS_Juan3_LunDaXianShiNian.json"
+      ],
+      "entries": []
+    },
+    "藝術九流": {
+      "source_files": [
+        "ZWQS_Juan3_LunDaXianShiNian.json",
+        "ZWQS_Juan3_LunZhuXingTongYuan.json"
+      ],
+      "entries": []
+    },
+    "出家僧道之命": {
+      "source_files": [
+        "ZWQS_Juan3_LunDaXianShiNian.json",
+        "ZWQS_Juan3_LunZhuXingTongYuan.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L035",
+          "original_quote": "天相廉貞擎羊來多招刑杖難逃終身不美招橫禍，只宜僧道。",
+          "line_ref": "第274行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L058",
+          "original_quote": "機梁守命加吉曜富貴慈祥加刑忌僧道。",
+          "line_ref": "第303行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L059",
+          "original_quote": "機梁同照命身空偏宜僧道機同單守命身，又逢空亡。",
+          "line_ref": "第304行"
+        },
+        {
+          "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L228",
+          "original_quote": "魁鉞昌曲祿存扶刑殺無沖台輔貴命身妙三方，次見刑殺沖會者平常，只宜僧道。",
+          "line_ref": "第507行"
+        }
+      ]
+    }
+  }
+}
