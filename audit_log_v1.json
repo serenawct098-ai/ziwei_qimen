@@ -111,7 +111,19 @@
       "verification_method": "Cross-Chapter Data Aggregation & Citation Mapping",
       "status": "PASS",
       "remarks": "建立 zaiyao_library_v1.0.json，整合卷二、卷三中關於雜曜的安星規律與斷語，完成 100% 逐字溯源映射。"
+    },
+    {
+      "timestamp": "2026-08-03T10:45:00Z",
+      "task_id": "3.2",
+      "module": "Tier 3 Engine Layer",
+      "action": "Mythos Engine Expansion",
+      "items_count": 46,
+      "auditor": "Manus",
+      "source_range": "traditional_mythos_engine_v1.3.1.json",
+      "verification_method": "Pattern Collection & Verbatim Citation Mapping",
+      "status": "PASS",
+      "remarks": "將格局庫從 16 個擴充至 46 個，整合 Tier 1 逐字引文與 Tier 2 行號映射，確保 SSOT 唯一真值。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v5"
+  "system_integrity_hash": "verified_by_manus_20260803_v6"
 }
