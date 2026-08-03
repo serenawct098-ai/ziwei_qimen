@@ -196,7 +196,7 @@
       ]
     },
     "pattern_definition_table": {
-    "_consolidated_source": "ZWQS_Juan1_PatternText.json",
+      "_consolidated_source": "ZWQS_Juan1_PatternText.json",
       "紫府同宮格": {
         "source_pattern_id": "zifutonggong",
         "trigger": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
@@ -1122,5 +1122,10 @@
     "A7": "若 current_jieqi_exact_timestamp、kun_2_redirect_rule、sihua_version_lock、leap_month_rule_mode 任一缺失，立即 HALT。",
     "A8": "任何留白、TODO、未定義口訣或無來源副曜定位，不得進入生產輸出。"
   },
-  "_purpose": "卷一·正統古典解讀引擎：以南派三合星曜派《全書》格局為骨、四化派為輔，將 core_engine_v2.1 已定盤的宮位／主星／輔星／四化／奇門盤譯為古典命理敘事（格局乾坤／氣運推移／吉凶藏機／趨吉避凶）。只讀不算，禁重算 SSOT。"
+  "_purpose": "卷一·正統古典解讀引擎：以南派三合星曜派《全書》格局為骨、四化派為輔，將 core_engine_v2.1 已定盤的宮位／主星／輔星／四化／奇門盤譯為古典命理敘事（格局乾坤／氣運推移／吉凶藏機／趨吉避凶）。只讀不算，禁重算 SSOT。",
+  "trigger_mechanism": "OCR組合(經類別B對齊掛接後) vs 原文格局定義比對",
+  "security_check": {
+    "impossible_combination_flag": true,
+    "action": "觸發二次核對並標記錯位風險"
+  }
 }
