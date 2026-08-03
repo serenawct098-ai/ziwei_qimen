@@ -1,271 +1,535 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "Juan28",
+  "juan": "下卷·卷二十八",
   "section": "卷二十八",
   "entries": [
     {
       "line_id": "QMDJ_Juan28_P000_S000",
       "original_quote": "《卷二十八》",
       "paragraph_index": 0,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第504行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P001_S000",
       "original_quote": "六丁六甲神符",
       "paragraph_index": 1,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第505行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P002_S000",
       "original_quote": "鬱離子曰：「大法軍中急用符法者，乃時門不利，故六丁之符以禳之。",
       "paragraph_index": 2,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第506行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P002_S001",
       "original_quote": "但當用咒，掌噀畫雷印鈴甲，方能應驗，此例極神，系九天玄女傳授軍中六丁六甲神符」。",
       "paragraph_index": 2,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第506行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P003_S000",
       "original_quote": "甲子符",
       "paragraph_index": 3,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第507行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P004_S000",
       "original_quote": "甲子神君號曰「飛天大帝」，又名蛬雨鬼將軍，其神鼠首人身，高一丈九尺，居陽光天壘之宮，統領神將九萬九千九百，助有忠孝，怒殺不仁不義，九天青青之下。",
       "paragraph_index": 4,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第508行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P004_S001",
       "original_quote": "符式長一尺九寸，濶三寸一分，用青黑紙圬研砂為上吉。",
       "paragraph_index": 4,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第508行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P005_S000",
       "original_quote": "甲戌符",
       "paragraph_index": 5,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第509行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P006_S000",
       "original_quote": "甲戌神君號曰「掩郎」，又名司獄將軍，其神犬首人身女相，其性好酒，居西隍天廄之宮，統領神兵五萬五千五百五十，喜助正將，誅斬賊兵，身長一丈六尺，綸綰九天青黃下。",
       "paragraph_index": 6,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第510行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P006_S001",
       "original_quote": "符式長一尺六寸，濶二寸九分，用大黃紙圬研砂紅為上吉。",
       "paragraph_index": 6,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第510行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P007_S000",
       "original_quote": "甲申符",
       "paragraph_index": 7,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第511行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P008_S000",
       "original_quote": "甲申神君號曰「六府神」，又名捷報將軍，其神猴首人身，長二尺五寸，性甘食，好淫，居天鉞之宮，統領神兵七萬七千七百七十數，喜助順擊，綸綰九天青白，符式長一尺五寸，濶二寸七分，用白圬研紅砂為上吉。",
       "paragraph_index": 8,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第512行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P009_S000",
       "original_quote": "甲午符",
       "paragraph_index": 9,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第513行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P010_S000",
       "original_quote": "甲午神君號曰「平水將軍」，其神馬首人身，高一丈九尺，性最烈，不宜速召，好肥大尤物，忌用馬肉供養，統領神兵九萬九千九百九十數，喜助報仇，綸綰青紅下。",
       "paragraph_index": 10,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第514行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P010_S001",
       "original_quote": "符式長一尺九寸，濶三寸二分，用青紅紙圬研黑丹砂為上吉。",
       "paragraph_index": 10,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第514行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P011_S000",
       "original_quote": "甲辰符",
       "paragraph_index": 11,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第515行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P012_S000",
       "original_quote": "甲辰神君號曰「平蠻將軍」，其神龍首人身，高一丈九尺，性清高，可順不可逆，喜東南方，輔助真人，掃蕩妖氛，統領神兵五萬五千五百五十數，綸綰青黃下。",
       "paragraph_index": 12,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第516行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P012_S001",
       "original_quote": "符式長一尺九寸，濶三寸九分，用青黃紙圬研紅朱為上吉。",
       "paragraph_index": 12,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第516行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P013_S000",
       "original_quote": "甲寅符",
       "paragraph_index": 13,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第517行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P014_S000",
       "original_quote": "甲寅神君號曰「六孽將軍」，其名灌佳郎，其神虎首人身，高一丈有奇，性最躁不可輕，扶強抑弱，黨正害邪，神居天苑之位，常游六吉之宮，統領神將七萬七千七百七十數，綸綰青黑下。",
       "paragraph_index": 14,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第518行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P014_S001",
       "original_quote": "符式長一尺八寸，濶二寸七分，用青紙圬研紅朱為上吉。",
       "paragraph_index": 14,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第518行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P015_S000",
       "original_quote": "右畫六甲神符，用劍訣，以左手大指杜天罡捧劍跌坐，默念六甲神咒七遍，吸東方一口氣吹入神筆，一氣呵成。",
       "paragraph_index": 15,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第519行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P015_S001",
       "original_quote": "用天池水一瓶，將符焚在瓶中，壓不利之門，化凶為吉。",
       "paragraph_index": 15,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第519行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P015_S002",
       "original_quote": "咒曰：「吾呼六君元陽甲子神，急來速去，願君証吾身，魁康卯勺未吉並，召奉太上老君急急如律令」。",
       "paragraph_index": 15,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第519行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P016_S000",
       "original_quote": "丁卯符",
       "paragraph_index": 16,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第520行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P017_S000",
       "original_quote": "丁卯神君號曰「六將軍」，其神兔首人身，性最柔和，高一丈六尺，司九天雷火之權，統領神兵六萬六千六百六十數，驅邪斬鬼，輔佐真人，鈴錫青赤下。",
       "paragraph_index": 17,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第521行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P017_S001",
       "original_quote": "符式長一尺六寸，濶三寸三分，用紅青紙圬紅朱為上吉。",
       "paragraph_index": 17,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第521行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P018_S000",
       "original_quote": "丁丑符",
       "paragraph_index": 18,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第522行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P019_S000",
       "original_quote": "丁丑神君號曰「奕將軍」，牛首人身，性好香物，高一丈八尺，居天漢之宮，司水利之權，好水戰，統領神兵八萬八千八百八十數，斬誅賊兵，鈴錫赤黃下。",
       "paragraph_index": 19,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第523行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P019_S001",
       "original_quote": "符式長一尺八寸，濶五寸三分，用黃紙圬研朱為上吉。",
       "paragraph_index": 19,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第523行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P020_S000",
       "original_quote": "丁亥符",
       "paragraph_index": 20,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第524行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P021_S000",
       "original_quote": "丁亥神君號曰「塗將軍」，其神豬首人身，性好米食飲酒，宜寬請不可急召，身高一丈四尺，鎮天皇之宮，喜輔順誅逆，統領神兵四萬四千四百四十數，鈴錫赤黃下。",
       "paragraph_index": 21,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第525行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P021_S001",
       "original_quote": "符式長一尺四寸，濶二寸九分，用紅黑紙圬研紅朱為上吉。",
       "paragraph_index": 21,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第525行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P022_S000",
       "original_quote": "丁酉符",
       "paragraph_index": 22,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第526行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P023_S000",
       "original_quote": "丁酉神君號曰「飛將軍」，其神雞首人身，性最惡，不可犯，喜飲酒肉，好陸戰忌水戰，身一丈六尺，居少微之宮，統領神兵六萬六千六百六十數，劫寨破壘，斬將搴旗，追奔逐北，赤白下。",
       "paragraph_index": 23,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第527行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P023_S001",
       "original_quote": "符式長一尺六寸，濶三寸一分，用赤紙圬研朱為上吉。",
       "paragraph_index": 23,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第527行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P024_S000",
       "original_quote": "丁未符",
       "paragraph_index": 24,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第528行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P025_S000",
       "original_quote": "丁未神君號曰「未載何姓將軍」，其神羊首人身，喜食菓品蔬菜之物，好烈口，忌陰雨，身高一丈八尺，居鎮南極之宮，統領神兵八萬八千八百八十數，衝虜破陣，不能御，鈴錫赤下。",
       "paragraph_index": 25,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第529行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P025_S001",
       "original_quote": "符式長一尺八寸，濶三寸一分，用赤黃紙圬研朱為上吉。",
       "paragraph_index": 25,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第529行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P026_S000",
       "original_quote": "丁巳符",
       "paragraph_index": 26,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第530行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P027_S000",
       "original_quote": "丁巳神君號曰「陳將軍」，蛇首人身，性最毒，不可輕用，喜食六畜之物，不忌水陸，高一丈四尺九寸，鎮守天屏之宮，統領神兵四萬四千四百四十數，複城陷陣，變化無窮，鈴赤赤下。",
       "paragraph_index": 27,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第531行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P027_S001",
       "original_quote": "符式長一尺四寸九分，濶二寸九分，用紅紙圬研黑丹為上吉。",
       "paragraph_index": 27,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第531行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P028_S000",
       "original_quote": "右畫六丁符，用鬥訣，以左手大指，杜天地步鬥而坐，默念六丁神咒七遍，吸南方一口吹入神筆，一氣呵成，作法如前。",
       "paragraph_index": 28,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第532行"
+      }
     },
     {
       "line_id": "QMDJ_Juan28_P028_S001",
       "original_quote": "咒曰：「六丁神兵，八卦之精，推例神將，安在吾身，聞咒速至，百事通靈，無事不報，不得動令，吾奉九天玄女急急如律令」。",
       "paragraph_index": 28,
-      "tag": []
+      "tag": [],
+      "_source": {
+        "text": "奇門遁甲秘笈大全",
+        "juan": "下卷·卷二十八",
+        "section": "卷二十八",
+        "line_ref": "第532行"
+      }
     }
   ],
   "_source": {
