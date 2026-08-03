@@ -22,6 +22,7 @@
     "kun_5_redirect": "目標宮=5(中宮)→強制 redirect 坤二宮(index2)，沿用上游 kun_2_redirect_rule。"
   },
   "static_lookup_tables": {
+    "sha_qi_resolution_table_ref": "qimen_2026_2027_sha_qi_resolution_table.json",
     "bamen_dingxing": {
       "_source": "正統奇門八門吉凶與五行（《煙波釣叟歌》通用定性）；三吉門=開休生，三凶門=死驚傷，二中平=景杜",
       "開門": {
