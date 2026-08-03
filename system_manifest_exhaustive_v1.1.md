@@ -9,8 +9,8 @@
 | audit_standards.md | /home/ubuntu/ziwei_qimen/audit_standards.md | 2025 | governance | N/A | N/A | 2026-08-03 10:33:48 | New/Modified |
 | final_audit_report.md | /home/ubuntu/ziwei_qimen/final_audit_report.md | 3030 | governance | N/A | N/A | 2026-08-03 10:35:35 | New/Modified |
 | system_manifest_v1.0.md | /home/ubuntu/ziwei_qimen/system_manifest_v1.0.md | 5253 | governance | N/A | N/A | 2026-08-03 10:45:46 | New/Modified |
-| system_manifest_exhaustive_v1.1.csv | /home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.csv | 18987 | governance | N/A | N/A | 2026-08-03 11:00:42 | New/Modified |
-| system_manifest_exhaustive_v1.1.md | /home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.md | 21433 | governance | N/A | N/A | 2026-08-03 11:00:52 | New/Modified |
+| system_manifest_exhaustive_v1.1.csv | /home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.csv | 19155 | governance | N/A | N/A | 2026-08-03 11:59:23 | New/Modified |
+| system_manifest_exhaustive_v1.1.md | /home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.md | 21618 | governance | N/A | N/A | 2026-08-03 11:59:23 | New/Modified |
 | dual_parallel_fusion_engine_v1.1.json | /home/ubuntu/ziwei_qimen/engines/dual_parallel_fusion_engine_v1.1.json | 12532 | Tier 3 / 運算層 | N/A | 1 | 2026-08-02 18:07:16 | New/Modified |
 | full_compute_flow_v1.4.json | /home/ubuntu/ziwei_qimen/engines/full_compute_flow_v1.4.json | 40077 | Tier 3 / 運算層 | N/A | 1 | 2026-08-03 08:43:20 | New/Modified |
 | interpretation_engine_v1.1.json | /home/ubuntu/ziwei_qimen/engines/interpretation_engine_v1.1.json | 58143 | Tier 3 / 運算層 | 3.7 / 3.8 | 1 | 2026-08-03 10:27:21 | New/Modified |
@@ -18,7 +18,7 @@
 | qimen_fengshui_layout_module_v0.1.json | /home/ubuntu/ziwei_qimen/engines/qimen_fengshui_layout_module_v0.1.json | 11619 | Tier 3 / data_table | N/A | 1 | 2026-08-03 09:36:08 | New/Modified |
 | traditional_core_engine_v2.1.json | /home/ubuntu/ziwei_qimen/engines/traditional_core_engine_v2.1.json | 74287 | Tier 3 / 運算層 | 3.7 / 3.8 | 1 | 2026-08-03 10:26:37 | New/Modified |
 | traditional_mythos_engine_v1.3.1.json | /home/ubuntu/ziwei_qimen/engines/traditional_mythos_engine_v1.3.1.json | 40310 | Tier 3 / 運算層 | 3.2 | 1 | 2026-08-03 10:10:52 | New/Modified |
-| qimen_2026_2027_sha_qi_resolution_table.json | /home/ubuntu/ziwei_qimen/engines/qimen_2026_2027_sha_qi_resolution_table.json | 6828 | Tier 3 / data_table | 3.6 | 1 | 2026-08-03 11:59:08 | New/Modified |
+| qimen_2026_2027_sha_qi_resolution_table.json | /home/ubuntu/ziwei_qimen/engines/qimen_2026_2027_sha_qi_resolution_table.json | 7697 | Tier 3 / data_table | 3.6 | 1 | 2026-08-03 12:09:15 | New/Modified |
 | zaiyao_library_v1.0.json | /home/ubuntu/ziwei_qimen/engines/zaiyao_library_v1.0.json | 14868 | Tier 3 / data_table | 3.1 | 29 | 2026-08-03 09:40:41 | New/Modified |
 | palace_judgment_library_v1.0.json | /home/ubuntu/ziwei_qimen/engines/palace_judgment_library_v1.0.json | 255968 | Tier 3 / data_table | 3.3 | 677 | 2026-08-03 09:44:36 | New/Modified |
 | thematic_prose_library_v1.0.json | /home/ubuntu/ziwei_qimen/engines/thematic_prose_library_v1.0.json | 9635 | Tier 3 / data_table | 3.4 | 39 | 2026-08-03 10:14:19 | New/Modified |
@@ -27,7 +27,6 @@
 | ZWQS_Juan1_XingxingFu.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_XingxingFu.json | 14106 | Tier 1 / 文本層 | 1.4 | 38 | 2026-08-03 08:43:11 | New/Modified |
 | ZWQS_Juan1_XingyuanLun.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_XingyuanLun.json | 8251 | Tier 1 / 文本層 | 1.4 | 21 | 2026-08-03 08:43:20 | New/Modified |
 | ZWQS_Juan1_Zhunsheng.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_Zhunsheng.json | 5339 | Tier 1 / 文本層 | 1.4 | 14 | 2026-08-03 08:43:11 | New/Modified |
-| ZWQS_Juan1_XuanweiLun.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_XuanweiLun.json | 481 | Tier 1 / 文本層 | 1.4 | 1 | 2026-08-03 08:43:11 | New/Modified |
 | ZWQS_Juan1_FaweiLun.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_FaweiLun.json | 7870 | Tier 1 / 文本層 | 1.4 | 21 | 2026-08-03 08:43:11 | New/Modified |
 | ZWQS_Juan1_Gulu.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_Gulu.json | 7996 | Tier 1 / 文本層 | 1.4 | 21 | 2026-08-03 08:43:11 | New/Modified |
 | ZWQS_Juan1_ZengbuTaiweiFu.json | /home/ubuntu/ziwei_qimen/data/ZWQS_Juan1_ZengbuTaiweiFu.json | 13235 | Tier 1 / 文本層 | 1.4 | 35 | 2026-08-03 08:43:11 | New/Modified |
