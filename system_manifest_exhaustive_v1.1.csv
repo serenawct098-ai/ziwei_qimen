@@ -4,7 +4,8 @@ audit_log_v1.json,/home/ubuntu/ziwei_qimen/audit_log_v1.json,7261,governance,2.3
 audit_standards.md,/home/ubuntu/ziwei_qimen/audit_standards.md,2025,governance,N/A,N/A,2026-08-03 10:33:48,New/Modified
 final_audit_report.md,/home/ubuntu/ziwei_qimen/final_audit_report.md,3030,governance,N/A,N/A,2026-08-03 10:35:35,New/Modified
 system_manifest_v1.0.md,/home/ubuntu/ziwei_qimen/system_manifest_v1.0.md,5253,governance,N/A,N/A,2026-08-03 10:45:46,New/Modified
-system_manifest_exhaustive_v1.1.csv,/home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.csv,18827,governance,N/A,N/A,2026-08-03 11:00:20,New/Modified
+system_manifest_exhaustive_v1.1.csv,/home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.csv,18987,governance,N/A,N/A,2026-08-03 11:00:42,New/Modified
+system_manifest_exhaustive_v1.1.md,/home/ubuntu/ziwei_qimen/system_manifest_exhaustive_v1.1.md,21433,governance,N/A,N/A,2026-08-03 11:00:52,New/Modified
 dual_parallel_fusion_engine_v1.1.json,/home/ubuntu/ziwei_qimen/engines/dual_parallel_fusion_engine_v1.1.json,12532,Tier 3 / 運算層,N/A,1,2026-08-02 18:07:16,New/Modified
 full_compute_flow_v1.4.json,/home/ubuntu/ziwei_qimen/engines/full_compute_flow_v1.4.json,40077,Tier 3 / 運算層,N/A,1,2026-08-03 08:43:20,New/Modified
 interpretation_engine_v1.1.json,/home/ubuntu/ziwei_qimen/engines/interpretation_engine_v1.1.json,58143,Tier 3 / 運算層,3.7 / 3.8,1,2026-08-03 10:27:21,New/Modified
@@ -12,7 +13,7 @@ modern_quantum_resonance_engine_v2.1.json,/home/ubuntu/ziwei_qimen/engines/moder
 qimen_fengshui_layout_module_v0.1.json,/home/ubuntu/ziwei_qimen/engines/qimen_fengshui_layout_module_v0.1.json,11619,Tier 3 / data_table,N/A,1,2026-08-03 09:36:08,New/Modified
 traditional_core_engine_v2.1.json,/home/ubuntu/ziwei_qimen/engines/traditional_core_engine_v2.1.json,74287,Tier 3 / 運算層,3.7 / 3.8,1,2026-08-03 10:26:37,New/Modified
 traditional_mythos_engine_v1.3.1.json,/home/ubuntu/ziwei_qimen/engines/traditional_mythos_engine_v1.3.1.json,40310,Tier 3 / 運算層,3.2,1,2026-08-03 10:10:52,New/Modified
-qimen_2026_2027_sha_qi_resolution_table.json,/home/ubuntu/ziwei_qimen/engines/qimen_2026_2027_sha_qi_resolution_table.json,5831,Tier 3 / data_table,3.6,1,2026-08-03 09:35:26,New/Modified
+qimen_2026_2027_sha_qi_resolution_table.json,/home/ubuntu/ziwei_qimen/engines/qimen_2026_2027_sha_qi_resolution_table.json,6828,Tier 3 / data_table,3.6,1,2026-08-03 11:59:08,New/Modified
 zaiyao_library_v1.0.json,/home/ubuntu/ziwei_qimen/engines/zaiyao_library_v1.0.json,14868,Tier 3 / data_table,3.1,29,2026-08-03 09:40:41,New/Modified
 palace_judgment_library_v1.0.json,/home/ubuntu/ziwei_qimen/engines/palace_judgment_library_v1.0.json,255968,Tier 3 / data_table,3.3,677,2026-08-03 09:44:36,New/Modified
 thematic_prose_library_v1.0.json,/home/ubuntu/ziwei_qimen/engines/thematic_prose_library_v1.0.json,9635,Tier 3 / data_table,3.4,39,2026-08-03 10:14:19,New/Modified
@@ -53,7 +54,6 @@ ZWQS_Juan2_AnSihua.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnSihua.json,22
 ZWQS_Juan2_AnKongjie.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnKongjie.json,1339,Tier 1 / 文本層,1.4,3,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnShangshi.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnShangshi.json,1357,Tier 1 / 文本層,1.4,3,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnTaisuisha.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnTaisuisha.json,2254,Tier 1 / 文本層,1.4,5,2026-08-03 08:43:11,New/Modified
-ZWQS_Juan2_AnTongxian.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnTongxian.json,941,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnSantaiBazuo.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnSantaiBazuo.json,995,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnKuxu.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnKuxu.json,936,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnLongfeng.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnLongfeng.json,869,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
@@ -129,3 +129,4 @@ ZWQS_Juan2_AnLiuri.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnLiuri.json,55
 ZWQS_Juan2_AnLiushi.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnLiushi.json,892,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnLiuyue.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnLiuyue.json,526,Tier 1 / 文本層,1.4,1,2026-08-03 08:43:11,New/Modified
 ZWQS_Juan2_AnTongxian_Limit.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnTongxian_Limit.json,898,Tier 1 / 文本層,1.4,2,2026-08-03 08:43:11,New/Modified
+ZWQS_Juan2_AnTianxingTianyao.json,/home/ubuntu/ziwei_qimen/data/ZWQS_Juan2_AnTianxingTianyao.json,956,Tier 1 / 文本層,1.4,2,2026-08-03 11:59:14,New/Modified

@@ -1,11 +1,11 @@
 {
   "metadata": {
     "name": "奇門遁甲 2026-2027 風水化煞對照表",
-    "version": "1.2",
+    "version": "1.3",
     "last_updated": "2026-08-03",
     "scope": "2026丙午年、2027丁未年九宮飛星化煞與奇門礦石佈局",
     "author": "Manus SSOT Engineering",
-    "description": "本表為奇門風水佈局模組的 SSOT 對照源，定義了年度凶星方位、煞氣定性及對應的化解與禁忌物件。數據源自用戶提供之 2026 佈置圖 (IMG_2388/2387/2386/2385)。",
+    "description": "本表為奇門風水佈局模組的 SSOT 對照源，定義了年度凶星方位、煞氣定性及對應的化解與禁忌物件。數據源自用戶提供之 2026 佈置圖 (IMG_2388/2387/2386/2385) 及 2027 飛星週期預測。",
     "integrity_check": "Verified for 2026-2027 Flying Star Cycle with User Assets"
   },
   "resolution_logic": {
@@ -82,78 +82,46 @@
       ]
     }
   },
+  "object_wuxing_catalog": {
+    "大型金屬櫃": "金",
+    "音響": "震動/木火",
+    "木製家具": "木",
+    "紅色佈置": "火",
+    "流水擺設": "水",
+    "魚缸": "水",
+    "藤蔓植物": "木",
+    "睡床": "土/靜止",
+    "蠟燭香薰": "火"
+  },
   "annual_tables": {
     "2026": {
       "year_ganzhi": "丙午",
       "description": "2026 丙午年，歲次火馬。九紫入中宮。",
       "flying_stars": {
-        "正南": {
-          "star": "五黃廉貞",
-          "title": "五黃煞/災煞位",
-          "jixiong": "絕對禁區",
-          "sha_qi_type": "five_yellow",
-          "prohibitions": ["木製品", "藤蔓植物", "音響"],
-          "action": "禁區迴避"
-        },
-        "西北": {
-          "star": "二黑巨門",
-          "title": "病符位",
-          "jixiong": "大凶",
-          "sha_qi_type": "two_black",
-          "prohibitions": ["睡床", "蠟燭香薰", "紅色物品"],
-          "action": "化煞"
-        },
-        "正西": {
-          "star": "三碧祿存",
-          "title": "是非位",
-          "jixiong": "小凶",
-          "sha_qi_type": "three_blue",
-          "prohibitions": ["綠色植物", "木製家具", "音響"],
-          "action": "化煞"
-        },
-        "西南": {
-          "star": "七赤破軍",
-          "title": "破財位",
-          "jixiong": "小凶",
-          "sha_qi_type": "seven_red",
-          "prohibitions": ["剪刀", "風扇", "紅色物品"],
-          "action": "化煞"
-        },
-        "中宮": {
-          "star": "一白貪狼",
-          "title": "桃花位",
-          "jixiong": "小吉",
-          "prohibitions": ["動土", "雜物", "過多粉水晶(已婚者)"],
-          "action": "催旺"
-        },
-        "正北": {
-          "star": "六白武曲",
-          "title": "偏財位",
-          "jixiong": "小吉",
-          "prohibitions": ["流水擺設", "魚缸", "藍色佈置"],
-          "action": "催旺"
-        },
-        "東北": {
-          "star": "四綠文昌",
-          "title": "文昌位",
-          "jixiong": "大吉",
-          "prohibitions": ["大型金屬櫃", "紅色佈置"],
-          "action": "催旺"
-        },
-        "正東": {
-          "star": "八白左輔",
-          "title": "正財位",
-          "jixiong": "大吉",
-          "prohibitions": ["水景", "金屬物品"],
-          "action": "催旺"
-        },
-        "東南": {
-          "star": "九紫右弼",
-          "title": "喜神位/喜慶位",
-          "jixiong": "大吉",
-          "prohibitions": ["金屬物", "水景", "魚缸"],
-          "action": "催旺"
-        }
+        "正南": { "star": "五黃廉貞", "title": "五黃煞/災煞位", "jixiong": "絕對禁區", "sha_qi_type": "five_yellow", "prohibitions": ["木製品", "藤蔓植物", "音響"], "action": "禁區迴避" },
+        "西北": { "star": "二黑巨門", "title": "病符位", "jixiong": "大凶", "sha_qi_type": "two_black", "prohibitions": ["睡床", "蠟燭香薰", "紅色物品"], "action": "化煞" },
+        "正西": { "star": "三碧祿存", "title": "是非位", "jixiong": "小凶", "sha_qi_type": "three_blue", "prohibitions": ["綠色植物", "木製家具", "音響"], "action": "化煞" },
+        "西南": { "star": "七赤破軍", "title": "破財位", "jixiong": "小凶", "sha_qi_type": "seven_red", "prohibitions": ["剪刀", "風扇", "紅色物品"], "action": "化煞" },
+        "中宮": { "star": "九紫右弼", "title": "喜慶位", "jixiong": "大吉", "action": "催旺" },
+        "正北": { "star": "六白武曲", "title": "偏財位", "jixiong": "小吉", "action": "催旺" },
+        "東北": { "star": "四綠文昌", "title": "文昌位", "jixiong": "大吉", "action": "催旺" },
+        "正東": { "star": "八白左輔", "title": "正財位", "jixiong": "大吉", "action": "催旺" },
+        "東南": { "star": "一白貪狼", "title": "桃花位", "jixiong": "小吉", "action": "催旺" }
+      }
+    },
+    "2027": {
+      "year_ganzhi": "丁未",
+      "description": "2027 丁未年，歲次火羊。八白入中宮。",
+      "flying_stars": {
+        "正北": { "star": "五黃廉貞", "title": "五黃煞/災煞位", "jixiong": "絕對禁區", "sha_qi_type": "five_yellow", "prohibitions": ["流水擺設", "魚缸", "藍色佈置"], "action": "禁區迴避" },
+        "正西": { "star": "二黑巨門", "title": "病符位", "jixiong": "大凶", "sha_qi_type": "two_black", "prohibitions": ["綠色植物", "木製家具", "音響"], "action": "化煞" },
+        "東北": { "star": "三碧祿存", "title": "是非位", "jixiong": "小凶", "sha_qi_type": "three_blue", "prohibitions": ["大型金屬櫃", "紅色佈置"], "action": "化煞" },
+        "正南": { "star": "七赤破軍", "title": "破財位", "jixiong": "小凶", "sha_qi_type": "seven_red", "prohibitions": ["木製品", "藤蔓植物", "音響"], "action": "化煞" },
+        "中宮": { "star": "八白左輔", "title": "正財位", "jixiong": "大吉", "action": "催旺" },
+        "東南": { "star": "七赤破軍", "title": "破財位(原星)", "jixiong": "凶", "action": "化煞" },
+        "西北": { "star": "一白貪狼", "title": "桃花位", "jixiong": "小吉", "action": "催旺" },
+        "正東": { "star": "九紫右弼", "title": "喜慶位", "jixiong": "大吉", "action": "催旺" },
+        "西南": { "star": "五黃廉貞(原星)", "title": "五黃煞(原星)", "jixiong": "絕對禁區", "action": "禁區迴避" }
       }
     }
   }
