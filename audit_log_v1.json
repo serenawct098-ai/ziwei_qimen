@@ -87,7 +87,19 @@
       "verification_method": "Image Data Extraction & SSOT Sync",
       "status": "PASS",
       "remarks": "根據用戶提供的 2026 佈置圖，同步了全量方位禁忌與屬性說明。"
+    },
+    {
+      "timestamp": "2026-08-03T10:15:00Z",
+      "task_id": "3.6_Final",
+      "module": "Tier 3 Engine Layer",
+      "action": "Layout Catalog Expansion",
+      "items_count": 15,
+      "auditor": "Manus",
+      "source_range": "qimen_fengshui_layout_module_v0.1.json",
+      "verification_method": "Catalog Enrichment from User Assets",
+      "status": "PASS",
+      "remarks": "擴充 object_wuxing_catalog，納入 2026 佈置圖中提及的所有物件（如大型金屬櫃、音響、木製家具等）。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v3"
+  "system_integrity_hash": "verified_by_manus_20260803_v4"
 }
