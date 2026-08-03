@@ -6,12 +6,14 @@
     {
       "line_id": "ZWQS_Juan2_AnXingyao_L000",
       "original_quote": "安天刑天姚星訣",
-      "tag": []
+      "tag": [],
+      "paragraph_index": 0
     },
     {
       "line_id": "ZWQS_Juan2_AnXingyao_L001",
       "original_quote": "天刑星從酉上起正月順至本生月便安之。天姚星從丑上起正月順至本生月即安之。",
-      "tag": []
+      "tag": [],
+      "paragraph_index": 0
     }
   ],
   "_extraction_status": "安天刑天姚星訣完成"

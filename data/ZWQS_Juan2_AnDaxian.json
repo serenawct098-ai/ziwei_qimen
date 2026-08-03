@@ -6,17 +6,20 @@
     {
       "line_id": "ZWQS_Juan2_AnDaxian_L000",
       "original_quote": "安大限訣",
-      "tag": []
+      "tag": [],
+      "paragraph_index": 0
     },
     {
       "line_id": "ZWQS_Juan2_AnDaxian_L001",
       "original_quote": "安大限訣陽男陰女從命前一宮起順行是父母宮。",
-      "tag": []
+      "tag": [],
+      "paragraph_index": 0
     },
     {
       "line_id": "ZWQS_Juan2_AnDaxian_L002",
       "original_quote": "陰男陽女從命後一宮起逆行是兄弟宮",
-      "tag": []
+      "tag": [],
+      "paragraph_index": 0
     }
   ],
   "_source": {
