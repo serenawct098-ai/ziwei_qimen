@@ -134,23 +134,65 @@
       "grade_A_patterns": [
         "紫府同宮格",
         "極向離明格",
-        "日出扶桑格",
-        "將星得地格"
+        "⽇出扶桑格",
+        "將星得地格",
+        "⽯中隱⽟格",
+        "兼⽂武格",
+        "對⾯朝⽃格",
+        "左右朝垣格",
+        "科權祿主格",
+        "火貴格",
+        "⽂星朝命格",
+        "財蔭夾印",
+        "⽇⽉夾財",
+        "左右同宮",
+        "廉貞⽂武",
+        "權祿重逢",
+        "財祿夾⾺",
+        "雙祿夾命",
+        "天府朝垣",
+        "⽂武丁甲",
+        "左右昭彰",
+        "輔弼拱主",
+        "帝費朝降",
+        "⽉⽣滄海",
+        "俱在朝陽",
+        "祿⾺佩印",
+        "坐貴向貴",
+        "貪火相逢",
+        "⾦輿扶駕"
       ],
       "grade_B_patterns": [
-        "機月同梁格",
-        "日月同梁格",
+        "機⽉同梁格",
+        "⽇⽉同梁格",
         "武曲守財格",
         "廉府同宮格",
-        "殺破狼格"
+        "殺破狼格",
+        "武曲守垣",
+        "權祿⽣逢",
+        "⽺刃入廟",
+        "風雲際會",
+        "錦上添花",
+        "衣錦還鄉",
+        "枯⽊逢春"
       ],
       "sha_patterns": [
         "鈴昌陀武",
-        "巨火羊",
-        "生不逢時",
-        "馬頭帶劍",
-        "日月反背",
-        "空宮借良"
+        "巨火⽺",
+        "⽣不逢時",
+        "⾺頭帶劍",
+        "⽇⽉反背",
+        "空宮借良",
+        "祿逢兩殺",
+        "⽇⽉藏輝",
+        "財與囚仇",
+        "⼀⽣孤貧",
+        "君⼦在野",
+        "兩重華蓋",
+        "祿衰⾺困",
+        "步數無依",
+        "⽔上駕星",
+        "吉凶相伴"
       ]
     },
     "pattern_definition_table": {
@@ -176,17 +218,6 @@
           "命官失守"
         ]
       },
-      "日出扶桑格": {
-        "source_pattern_id": "richu_fusang_custom",
-        "trigger": "太陽居卯辰巳等升明位，兼得吉曜扶持",
-        "grade": "A",
-        "classical_meaning": "主少年奮發、開創揚名、外顯之運易起。",
-        "break_conditions": [
-          "日月反背",
-          "羊陀火鈴交會",
-          "命遷失援"
-        ]
-      },
       "將星得地格": {
         "source_pattern_id": "jiangxing_dedi_custom",
         "trigger": "七殺、破軍、武曲或廉貞等將曜得廟旺守要宮",
@@ -198,27 +229,239 @@
           "福德不載"
         ]
       },
-      "機月同梁格": {
-        "source_pattern_id": "jiyuetongliang",
-        "trigger": "天機、太陰、天梁分布於官祿/財帛/遷移等要宮",
-        "grade": "B",
-        "classical_meaning": "主名聲、策畫、服務、口碑之福。",
-        "break_conditions": [
-          "太陰失輝",
-          "梁機化忌",
-          "煞沖三方"
-        ]
+      "⽯中隱⽟格": {
+        "source_pattern_id": "⽯中隱⽟格",
+        "trigger": "論⽯中隱⽟格命在⼦午逢巨⾨是也",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論⽯中隱⽟格命在⼦午逢巨⾨是也",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第841行"
+        }
       },
-      "日月同梁格": {
-        "source_pattern_id": "riyuetongliang",
-        "trigger": "太陽、太陰、天梁核心宮位互拱且明度足",
-        "grade": "B",
-        "classical_meaning": "主公眾評價、名譽、清望。",
-        "break_conditions": [
-          "日月反背",
-          "陷地無輔",
-          "忌煞夾制"
-        ]
+      "兼⽂武格": {
+        "source_pattern_id": "兼⽂武格",
+        "trigger": "論兼⽂武格⽂曲武曲在⾝命是也",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論兼⽂武格⽂曲武曲在⾝命是也",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第835行"
+        }
+      },
+      "對⾯朝⽃格": {
+        "source_pattern_id": "對⾯朝⽃格",
+        "trigger": "論對⾯朝⽃格⼦午宮逢祿存是也",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論對⾯朝⽃格⼦午宮逢祿存是也",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第826行"
+        }
+      },
+      "左右朝垣格": {
+        "source_pattern_id": "左右朝垣格",
+        "trigger": "論左右朝垣格",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論左右朝垣格",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第832行"
+        }
+      },
+      "科權祿主格": {
+        "source_pattern_id": "科權祿主格",
+        "trigger": "論科權祿主格",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論科權祿主格",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第829行"
+        }
+      },
+      "火貴格": {
+        "source_pattern_id": "火貴格",
+        "trigger": "論貪狼遇火名為火貴格三合照⾝命是也",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論貪狼遇火名為火貴格三合照⾝命是也",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第844行"
+        }
+      },
+      "⽂星朝命格": {
+        "source_pattern_id": "⽂星朝命格",
+        "trigger": "論⽂星朝命格",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "論⽂星朝命格",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富貴貧賤等訣",
+          "line_ref": "第838行"
+        }
+      },
+      "財蔭夾印": {
+        "source_pattern_id": "財蔭夾印",
+        "trigger": "財蔭夾印相守命武梁來夾是也,⽥宅宮亦然｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "財蔭夾印相守命武梁來夾是也,⽥宅宮亦然｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富局",
+          "line_ref": "第1002行"
+        }
+      },
+      "⽇⽉夾財": {
+        "source_pattern_id": "⽇⽉夾財",
+        "trigger": "⽇⽉夾財,不權則富｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽇⽉夾財,不權則富｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "太微賦",
+          "line_ref": "第25行"
+        }
+      },
+      "左右同宮": {
+        "source_pattern_id": "左右同宮",
+        "trigger": "若與左右同宮則為貴論｡⼜嫌火鈴､刑忌,未免先剋其⽗｡此星男",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "若與左右同宮則為貴論｡⼜嫌火鈴､刑忌,未免先剋其⽗｡此星男",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "星垣問答論",
+          "line_ref": "第305行"
+        }
+      },
+      "權祿重逢": {
+        "source_pattern_id": "權祿重逢",
+        "trigger": "權祿重逢財官雙美三方吉多方吉，因聚也不美。",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "權祿重逢財官雙美三方吉多方吉，因聚也不美。",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷三",
+          "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
+          "line_ref": "第543行"
+        }
+      },
+      "財祿夾⾺": {
+        "source_pattern_id": "財祿夾⾺",
+        "trigger": "財祿夾⾺⾺守命武祿來夾是也,逢⽣旺尤妙｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "財祿夾⾺⾺守命武祿來夾是也,逢⽣旺尤妙｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定富局",
+          "line_ref": "第1004行"
+        }
+      },
+      "輔弼拱主": {
+        "source_pattern_id": "輔弼拱主",
+        "trigger": "輔弼拱主紫微守命⼆星來拱是也,夾之亦然｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "輔弼拱主紫微守命⼆星來拱是也,夾之亦然｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1013行"
+        }
+      },
+      "⽉⽣滄海": {
+        "source_pattern_id": "⽉⽣滄海",
+        "trigger": "⽉⽣滄海⽉在⼦宮守⽥宅是也｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽉⽣滄海⽉在⼦宮守⽥宅是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1012行"
+        }
+      },
+      "祿⾺佩印": {
+        "source_pattern_id": "祿⾺佩印",
+        "trigger": "祿⾺佩印⾺前有祿印星同宮是也｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "祿⾺佩印⾺前有祿印星同宮是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1016行"
+        }
+      },
+      "坐貴向貴": {
+        "source_pattern_id": "坐貴向貴",
+        "trigger": "希夷先⽣答⽇:魁鉞⽃中司科之星,入命坐貴向貴,或得左右吉聚",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "希夷先⽣答⽇:魁鉞⽃中司科之星,入命坐貴向貴,或得左右吉聚",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "星垣問答論",
+          "line_ref": "第561行"
+        }
+      },
+      "貪火相逢": {
+        "source_pattern_id": "貪火相逢",
+        "trigger": "貪火相逢謂⼆星守命同居廟旺是也｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "貪火相逢謂⼆星守命同居廟旺是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1025行"
+        }
+      },
+      "⾦輿扶駕": {
+        "source_pattern_id": "⾦輿扶駕",
+        "trigger": "⾦輿扶駕紫微守命前後有⽇⽉來夾是也｡",
+        "grade": "A",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⾦輿扶駕紫微守命前後有⽇⽉來夾是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1035行"
+        }
       },
       "武曲守財格": {
         "source_pattern_id": "wuqushoucai",
@@ -253,6 +496,97 @@
           "吉曜不扶"
         ]
       },
+      "武曲守垣": {
+        "source_pattern_id": "武曲守垣",
+        "trigger": "武曲守垣武守命卯宮是也,餘不是｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "武曲守垣武守命卯宮是也,餘不是｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1026行"
+        }
+      },
+      "權祿⽣逢": {
+        "source_pattern_id": "權祿⽣逢",
+        "trigger": "權祿⽣逢⼆星守命廟旺是也,陷不是｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "權祿⽣逢⼆星守命廟旺是也,陷不是｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1030行"
+        }
+      },
+      "⽺刃入廟": {
+        "source_pattern_id": "⽺刃入廟",
+        "trigger": "⽺刃入廟辰戌丑未守命遇吉是也｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽺刃入廟辰戌丑未守命遇吉是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貴局",
+          "line_ref": "第1031行"
+        }
+      },
+      "風雲際會": {
+        "source_pattern_id": "風雲際會",
+        "trigger": "風雲際會⾝命雖弱⼆限逢祿⾺是也｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "風雲際會⾝命雖弱⼆限逢祿⾺是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1046行"
+        }
+      },
+      "錦上添花": {
+        "source_pattern_id": "錦上添花",
+        "trigger": "⼦午巨⾨⽯中隱⽟,明祿暗祿錦上添花｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⼦午巨⾨⽯中隱⽟,明祿暗祿錦上添花｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "斗數骨髓賦",
+          "line_ref": "第785行"
+        }
+      },
+      "衣錦還鄉": {
+        "source_pattern_id": "衣錦還鄉",
+        "trigger": "衣錦還鄉少年不遂四⼗後⾏墓運是也｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "衣錦還鄉少年不遂四⼗後⾏墓運是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1049行"
+        }
+      },
+      "枯⽊逢春": {
+        "source_pattern_id": "枯⽊逢春",
+        "trigger": "枯⽊逢春謂命衰限好是也｡",
+        "grade": "B",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "枯⽊逢春謂命衰限好是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1053行"
+        }
+      },
       "鈴昌陀武": {
         "source_pattern_id": "lingchangtuowu",
         "trigger": "鈴星、文昌、陀羅、武曲聚於三方四正或同會",
@@ -260,33 +594,44 @@
         "classical_meaning": "主是非、財務波折、文書失誤、刀筆之憂。",
         "break_conditions": []
       },
-      "巨火羊": {
-        "source_pattern_id": "juhuoqingyang",
-        "trigger": "巨門、火星、擎羊同宮或三方會聚",
+      "⽣不逢時": {
+        "source_pattern_id": "⽣不逢時",
+        "trigger": "⽣不逢時命坐空亡逢廉貞是也｡",
         "grade": "SHA",
-        "classical_meaning": "主口舌、官非、衝突、硬碰硬。",
-        "break_conditions": []
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽣不逢時命坐空亡逢廉貞是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1037行"
+        }
       },
-      "生不逢時": {
-        "source_pattern_id": "shengbufengshi_custom",
-        "trigger": "主星陷弱且大限流年同來沖破",
+      "⾺頭帶劍": {
+        "source_pattern_id": "⾺頭帶劍",
+        "trigger": "⾺頭帶劍,鎮衛邊疆｡",
         "grade": "SHA",
-        "classical_meaning": "主時位不濟，才有而不得其用。",
-        "break_conditions": []
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⾺頭帶劍,鎮衛邊疆｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "太微賦",
+          "line_ref": "第26行"
+        }
       },
-      "馬頭帶劍": {
-        "source_pattern_id": "matoudaijian_custom",
-        "trigger": "擎羊守午或馬地受煞而帶兵刃性星曜",
+      "⽇⽉反背": {
+        "source_pattern_id": "⽇⽉反背",
+        "trigger": "⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
         "grade": "SHA",
-        "classical_meaning": "主剛決、奔波、血光、險中求成。",
-        "break_conditions": []
-      },
-      "日月反背": {
-        "source_pattern_id": "riyuefanbei",
-        "trigger": "太陽太陰於核心宮位皆失輝弱陷",
-        "grade": "SHA",
-        "classical_meaning": "主助力不顯，外緣不足，內心多耗。",
-        "break_conditions": []
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1040行"
+        }
       },
       "空宮借良": {
         "source_pattern_id": "konggongjieliang",
@@ -294,6 +639,136 @@
         "grade": "SHA",
         "classical_meaning": "主本宮氣虛，賴外援成局。",
         "break_conditions": []
+      },
+      "祿逢兩殺": {
+        "source_pattern_id": "祿逢兩殺",
+        "trigger": "祿逢兩殺祿坐空亡⼜逢空劫殺星是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "祿逢兩殺祿坐空亡⼜逢空劫殺星是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1038行"
+        }
+      },
+      "⽇⽉藏輝": {
+        "source_pattern_id": "⽇⽉藏輝",
+        "trigger": "⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1040行"
+        }
+      },
+      "財與囚仇": {
+        "source_pattern_id": "財與囚仇",
+        "trigger": "財與囚仇武貞同守⾝命是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "財與囚仇武貞同守⾝命是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1041行"
+        }
+      },
+      "⼀⽣孤貧": {
+        "source_pattern_id": "⼀⽣孤貧",
+        "trigger": "⼀⽣孤貧謂破守命星陷地是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⼀⽣孤貧謂破守命星陷地是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1042行"
+        }
+      },
+      "君⼦在野": {
+        "source_pattern_id": "君⼦在野",
+        "trigger": "雖美⽟不⾜｡更與諸殺同宮,或諸凶合照,君⼦在野,⼩⼈在位｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "雖美⽟不⾜｡更與諸殺同宮,或諸凶合照,君⼦在野,⼩⼈在位｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "星垣問答論",
+          "line_ref": "第212行"
+        }
+      },
+      "兩重華蓋": {
+        "source_pattern_id": "兩重華蓋",
+        "trigger": "兩重華蓋謂祿存化祿坐命遇空劫是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "兩重華蓋謂祿存化祿坐命遇空劫是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定貧賤局",
+          "line_ref": "第1044行"
+        }
+      },
+      "祿衰⾺困": {
+        "source_pattern_id": "祿衰⾺困",
+        "trigger": "祿衰⾺困限逢七殺祿⾺空亡是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "祿衰⾺困限逢七殺祿⾺空亡是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1048行"
+        }
+      },
+      "步數無依": {
+        "source_pattern_id": "步數無依",
+        "trigger": "步數無依前限接後限連綿不分是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "步數無依前限接後限連綿不分是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1050行"
+        }
+      },
+      "⽔上駕星": {
+        "source_pattern_id": "⽔上駕星",
+        "trigger": "⽔上駕星⼀年好⼀年不好是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "⽔上駕星⼀年好⼀年不好是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1051行"
+        }
+      },
+      "吉凶相伴": {
+        "source_pattern_id": "吉凶相伴",
+        "trigger": "吉凶相伴命有主星限前則發限衰不發是也｡",
+        "grade": "SHA",
+        "classical_meaning": "見原文斷語",
+        "original_quote": "吉凶相伴命有主星限前則發限衰不發是也｡",
+        "_source": {
+          "text": "紫微斗數全書",
+          "juan": "卷一",
+          "section": "定雜局",
+          "line_ref": "第1052行"
+        }
       }
     },
     "dynamic_interference_translation": {
