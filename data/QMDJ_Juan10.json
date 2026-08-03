@@ -4,945 +4,1301 @@
   "section": "卷十",
   "entries": [
     {
-      "line_id": "QMDJ_Juan10_L000",
-      "original_quote": "《卷十》\n占走失奴婢\n男僕專責天盤天蓬之宮，女婢專責天盤天芮之宮，尋之必獲。",
+      "line_id": "QMDJ_Juan10_P000_S000",
+      "original_quote": "《卷十》",
+      "paragraph_index": 0,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L001",
+      "line_id": "QMDJ_Juan10_P001_S000",
+      "original_quote": "占走失奴婢",
+      "paragraph_index": 1,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P002_S000",
+      "original_quote": "男僕專責天盤天蓬之宮，女婢專責天盤天芮之宮，尋之必獲。",
+      "paragraph_index": 2,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P002_S001",
       "original_quote": "陽日責地盤蓬、芮之宮決之，逢格必獲，不格不獲。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L002",
+      "line_id": "QMDJ_Juan10_P002_S002",
       "original_quote": "若與六合相並者，必被拐去。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L003",
+      "line_id": "QMDJ_Juan10_P002_S003",
       "original_quote": "二神入庫，有人隱藏難尋。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L004",
+      "line_id": "QMDJ_Juan10_P002_S004",
       "original_quote": "落空亡者，必不能獲。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L005",
-      "original_quote": "\n占走失何方\n失去小兒，陽遁於天盤六合所在之方，陰遁於地盤六合所在之宮決之。",
+      "line_id": "QMDJ_Juan10_P003_S000",
+      "original_quote": "占走失何方",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L006",
-      "original_quote": "若失女婢，陽遁於天盤太陰所在之方，陰遁於地盤太陰所在之宮定之，看此二神，即知其人所在之方矣。",
+      "line_id": "QMDJ_Juan10_P004_S000",
+      "original_quote": "失去小兒，陽遁於天盤六合所在之方，陰遁於地盤六合所在之宮決之。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L007",
+      "line_id": "QMDJ_Juan10_P004_S001",
+      "original_quote": "若失女婢，陽遁於天盤太陰所在之方，陰遁於地盤太陰所在之宮定之，看此二神，即知其人所在 之方矣。",
+      "paragraph_index": 4,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P004_S002",
       "original_quote": "陽遁在坎艮震巽四宮為內，為近；",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L008",
+      "line_id": "QMDJ_Juan10_P004_S003",
       "original_quote": "落離坤兌乾為外，為遠，陰遁反此。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L009",
+      "line_id": "QMDJ_Juan10_P004_S004",
       "original_quote": "若二神落日乾之墓庫者，遠近難尋。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L010",
-      "original_quote": "落空亡者，其人又往他方去，之後再以干合神之宮尋之，必獲。",
+      "line_id": "QMDJ_Juan10_P004_S005",
+      "original_quote": "落空亡者，其人又往他方去，之後再以干合神之 宮尋之，必獲。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L011",
-      "original_quote": "\n占行人在外\n法以行人年命日乾決之。",
+      "line_id": "QMDJ_Juan10_P005_S000",
+      "original_quote": "占行人在外",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L012",
+      "line_id": "QMDJ_Juan10_P006_S000",
+      "original_quote": "法以行人年命日乾決之。",
+      "paragraph_index": 6,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P006_S001",
       "original_quote": "年命日幹落在坎艮震巽，陽遁為內，為近；",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L013",
+      "line_id": "QMDJ_Juan10_P006_S002",
       "original_quote": "離坤兌乾為外，為遠，合而決之。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L014",
+      "line_id": "QMDJ_Juan10_P006_S003",
       "original_quote": "年命落於四維甚遠，落坤艮者，為極遠。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L015",
-      "original_quote": "陰遁以離坤兌乾為內，為近，坎艮震巽，為外，為遠，合而決之。",
+      "line_id": "QMDJ_Juan10_P006_S004",
+      "original_quote": "陰遁以離坤兌乾為內， 為近，坎艮震巽，為外，為遠，合而決之。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L016",
+      "line_id": "QMDJ_Juan10_P006_S005",
       "original_quote": "年命落於四正下者，不甚遠。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L017",
+      "line_id": "QMDJ_Juan10_P006_S006",
       "original_quote": "年命日幹落於休廢，其人在外必不如意，非困即病。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L018",
-      "original_quote": "若年命日幹落於墓庫、空亡之宮，再乘死絕之氣，其人必不在。",
+      "line_id": "QMDJ_Juan10_P006_S007",
+      "original_quote": "若年命日幹落於墓庫、空亡之宮，再乘 死絕之氣，其人必不在。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L019",
+      "line_id": "QMDJ_Juan10_P006_S008",
       "original_quote": "如年命日干乘旺相之氣，再得奇門吉格，行人在外發財如意。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L020",
-      "original_quote": "\n占行人歸期\n法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。",
+      "line_id": "QMDJ_Juan10_P007_S000",
+      "original_quote": "占行人歸期",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L021",
+      "line_id": "QMDJ_Juan10_P008_S000",
+      "original_quote": "法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。",
+      "paragraph_index": 8,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P008_S001",
       "original_quote": "年格年來，月格月來，日格日來，時格時來，不格不來。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L022",
+      "line_id": "QMDJ_Juan10_P008_S002",
       "original_quote": "何謂不格？",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L023",
+      "line_id": "QMDJ_Juan10_P008_S003",
       "original_quote": "乙庚為合不為格。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L024",
+      "line_id": "QMDJ_Juan10_P008_S004",
       "original_quote": "庚金入墓或臨空亡，不為格。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L025",
-      "original_quote": "\n占借貸\n其占法以所往之方天盤所得之星為求借之人，又以天盤之星所落地盤之星為借貸之家。",
+      "line_id": "QMDJ_Juan10_P009_S000",
+      "original_quote": "占借貸",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L026",
+      "line_id": "QMDJ_Juan10_P010_S000",
+      "original_quote": "其占法以所往之方天盤所得之星為求借之人，又以天盤之星所落地盤之星為借貸之家。",
+      "paragraph_index": 10,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P010_S001",
       "original_quote": "地盤所乘之星生天盤星者，必得借。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L027",
+      "line_id": "QMDJ_Juan10_P010_S002",
       "original_quote": "比和者，雖借主遲疑。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L028",
+      "line_id": "QMDJ_Juan10_P010_S003",
       "original_quote": "相剋主不借，反惹羞辱。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L029",
+      "line_id": "QMDJ_Juan10_P010_S004",
       "original_quote": "若天盤所得之幹入地盤墓庫者，彼寔吝嗇，不肯借入。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L030",
+      "line_id": "QMDJ_Juan10_P010_S005",
       "original_quote": "臨空亡宮者，彼寔無，不必去借。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L031",
-      "original_quote": "\n占打抽豐\n以日幹落宮為打抽豐之人，所往之方為抽豐之處。",
+      "line_id": "QMDJ_Juan10_P011_S000",
+      "original_quote": "占打抽豐",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L032",
+      "line_id": "QMDJ_Juan10_P012_S000",
+      "original_quote": "以日幹落宮為打抽豐之人，所往之方為抽豐之處。",
+      "paragraph_index": 12,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P012_S001",
       "original_quote": "得奇門吉格來生日乾者，所往必利，即不得奇門吉格而來生者，亦利。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L033",
+      "line_id": "QMDJ_Juan10_P012_S002",
       "original_quote": "比和者，平平。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L034",
+      "line_id": "QMDJ_Juan10_P012_S003",
       "original_quote": "剋制日乾之宮者，去必有損。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L035",
+      "line_id": "QMDJ_Juan10_P012_S004",
       "original_quote": "臨空亡、墓絕之宮，主不見，徒勞無益，不必去。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L036",
-      "original_quote": "\n占謁貴人\n現任官以天盤開門落宮主之，未任致仕官以天盤甲子戊主之，以日乾為求謁之人。",
+      "line_id": "QMDJ_Juan10_P013_S000",
+      "original_quote": "占謁貴人",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L037",
-      "original_quote": "開門甲子戊乘旺相氣，再得奇門吉格來生日幹落宮者，去謁必見，見且有益，所求如意。",
+      "line_id": "QMDJ_Juan10_P014_S000",
+      "original_quote": "現任官以天盤開門落宮主之，未任致仕官以天盤甲子戊主之，以日乾為求謁之人。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L038",
+      "line_id": "QMDJ_Juan10_P014_S001",
+      "original_quote": "開門甲子戊乘旺相氣，再得奇門吉格來生日幹落宮者，去謁必見，見且有益，所求如 意。",
+      "paragraph_index": 14,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P014_S002",
       "original_quote": "開門甲子戊與日幹比和者，但求謁主少遲。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L039",
+      "line_id": "QMDJ_Juan10_P014_S003",
       "original_quote": "開門甲子戊同宮者，主貴人有客，宜稍待。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L040",
+      "line_id": "QMDJ_Juan10_P014_S004",
       "original_quote": "若開門甲子戊返吟者，主貴人他在，不得見。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L041",
+      "line_id": "QMDJ_Juan10_P014_S005",
       "original_quote": "開門甲子戊入庫，不能見。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L042",
+      "line_id": "QMDJ_Juan10_P014_S006",
       "original_quote": "開門甲子戊受制，貴人有憂事，不見，見亦無益。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L043",
+      "line_id": "QMDJ_Juan10_P014_S007",
       "original_quote": "開門甲子戊落宮衝剋日乾宮者，貴人不喜，枉惹羞辱。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L044",
+      "line_id": "QMDJ_Juan10_P014_S008",
       "original_quote": "若謁武官，看杜門，亦仿此。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L045",
-      "original_quote": "\n占生男女長命\n以所生時幹天盤所落之宮，看是何星？",
+      "line_id": "QMDJ_Juan10_P015_S000",
+      "original_quote": "占生男女長命",
+      "paragraph_index": 15,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L046",
+      "line_id": "QMDJ_Juan10_P016_S000",
+      "original_quote": "以所生時幹天盤所落之宮，看是何星？",
+      "paragraph_index": 16,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P016_S001",
       "original_quote": "何神？",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L047",
+      "line_id": "QMDJ_Juan10_P016_S002",
       "original_quote": "以天蓬為天賊，元武為偷生，犯此二神，再乘休廢無氣之時，主不能養。",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L048",
+      "line_id": "QMDJ_Juan10_P016_S003",
       "original_quote": "若有奇門吉格、吉神，再乘旺相之氣，主長命富貴。",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L049",
-      "original_quote": "\n占孕何日生\n以坤宮為產室，天芮為產母，天盤所得之星為小兒。",
+      "line_id": "QMDJ_Juan10_P017_S000",
+      "original_quote": "占孕何日生",
+      "paragraph_index": 17,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L050",
+      "line_id": "QMDJ_Juan10_P018_S000",
+      "original_quote": "以 坤宮為產室，天芮為產母，天盤所得之星為小兒。",
+      "paragraph_index": 18,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P018_S001",
       "original_quote": "天芮剋天盤之星者，主產速。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L051",
+      "line_id": "QMDJ_Juan10_P018_S002",
       "original_quote": "天盤星生地盤星天芮者，子戀母腹，產遲。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L052",
+      "line_id": "QMDJ_Juan10_P018_S003",
       "original_quote": "天盤星剋地盤星者，主母凶。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L053",
-      "original_quote": "地盤星剋天盤星者，主子亡。",
+      "line_id": "QMDJ_Juan10_P018_S004",
+      "original_quote": "地盤星剋天 盤星者，主子亡。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L054",
+      "line_id": "QMDJ_Juan10_P018_S005",
       "original_quote": "若得旺相氣及奇門吉格者，方吉。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L055",
+      "line_id": "QMDJ_Juan10_P018_S006",
       "original_quote": "如天盤星落地盤庫，子死母腹內。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L056",
+      "line_id": "QMDJ_Juan10_P018_S007",
       "original_quote": "天地二盤乘凶門、凶格者，子母俱凶。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L057",
+      "line_id": "QMDJ_Juan10_P018_S008",
       "original_quote": "以天地二盤乘死絕之氣也。",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L058",
-      "original_quote": "\n占討債\n以天乙所落之宮為欠債之人，以勾陳落宮為使討之人。",
+      "line_id": "QMDJ_Juan10_P019_S000",
+      "original_quote": "占討債",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L059",
+      "line_id": "QMDJ_Juan10_P020_S000",
+      "original_quote": "以 天乙所落之宮為欠債之人，以勾陳落宮為使討之人。",
+      "paragraph_index": 20,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P020_S001",
       "original_quote": "勾陳落宮剋天乙落宮者，其人實心去討。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L060",
+      "line_id": "QMDJ_Juan10_P020_S002",
       "original_quote": "天乙落宮剋勾陳宮者，所使之人畏彼，不敢討。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L061",
-      "original_quote": "勾陳與天乙相生和者，彼此通同，不討。",
+      "line_id": "QMDJ_Juan10_P020_S003",
+      "original_quote": "勾陳與天乙相生和者， 彼此通同，不討。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L062",
+      "line_id": "QMDJ_Juan10_P020_S004",
       "original_quote": "勾陳被天乙生者，主囑托賄賂，所使之人不肯討。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L063",
+      "line_id": "QMDJ_Juan10_P020_S005",
       "original_quote": "天乙落宮得旺相氣來生值符者，必還。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L064",
+      "line_id": "QMDJ_Juan10_P020_S006",
       "original_quote": "若落空亡來生值符可知值符為放債之人。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L065",
-      "original_quote": "者，有心無力，天蓬、天乙落宮剋制值符宮者，安心不環，必不能討。",
+      "line_id": "QMDJ_Juan10_P020_S007",
+      "original_quote": "者，有心無 力，天蓬、天乙落宮剋制值符宮者，安心不環，必不能討。",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L066",
-      "original_quote": "\n占放債\n以六甲值符為放債之人，值符下臨之星為天乙，即借債之人。",
+      "line_id": "QMDJ_Juan10_P021_S000",
+      "original_quote": "占放債",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L067",
+      "line_id": "QMDJ_Juan10_P022_S000",
+      "original_quote": "以六甲值符為放債之人，值符下臨之星為天乙，即借債之人。",
+      "paragraph_index": 22,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P022_S001",
       "original_quote": "若地盤之星乘旺相之氣生天盤之星者，借債必還。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L068",
+      "line_id": "QMDJ_Juan10_P022_S002",
       "original_quote": "乘凶格剋天盤之星者，必不還。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L069",
+      "line_id": "QMDJ_Juan10_P022_S003",
       "original_quote": "落空亡者，主死亡負債。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L070",
+      "line_id": "QMDJ_Juan10_P022_S004",
       "original_quote": "乘墓絕之宮者，主混賴不還，此句言地盤之星所帶之幹儀也。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L071",
-      "original_quote": "\n占買貨\n以日幹落宮為收買貨物之人，以時幹落宮為貨物。",
+      "line_id": "QMDJ_Juan10_P023_S000",
+      "original_quote": "占買貨",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L072",
+      "line_id": "QMDJ_Juan10_P024_S000",
+      "original_quote": "以日幹落宮為收買貨物之人，以時幹落宮為貨物。",
+      "paragraph_index": 24,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P024_S001",
       "original_quote": "時幹落宮乘旺相氣，再得奇門、吉格者，為美貨。",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L073",
+      "line_id": "QMDJ_Juan10_P024_S002",
       "original_quote": "乘休囚之氣，不得奇門、吉格者，為廢貨。",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L074",
+      "line_id": "QMDJ_Juan10_P024_S003",
       "original_quote": "時幹落宮來生日幹落宮者，其貨不拘，美惡皆有。",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L075",
+      "line_id": "QMDJ_Juan10_P024_S004",
       "original_quote": "利息來剋日幹落宮，或乘墓絕及空亡者，貨皆無利，不必買。",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L076",
+      "line_id": "QMDJ_Juan10_P024_S005",
       "original_quote": "餘仿此類推之。",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L077",
-      "original_quote": "\n占胎息男女\n其占法以坤宮、天芮星為母，以天盤星臨坤之宮為胎息，陽星為男胎，陰星為女胎。",
+      "line_id": "QMDJ_Juan10_P025_S000",
+      "original_quote": "占胎息男女",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L078",
+      "line_id": "QMDJ_Juan10_P026_S000",
+      "original_quote": "其占法以坤宮、天芮星為母，以天盤星臨坤之宮為胎息，陽星為男胎，陰星為女胎。",
+      "paragraph_index": 26,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P026_S001",
       "original_quote": "惟天禽臨之為雙生，陽乾是男，陰乾女也。",
+      "paragraph_index": 26,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L079",
-      "original_quote": "\n占脫貨求財\n以值符甲子戊為我，以天乙為脫貨之人，以六合為經紀牙人。",
+      "line_id": "QMDJ_Juan10_P027_S000",
+      "original_quote": "占脫貨求財",
+      "paragraph_index": 27,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L080",
+      "line_id": "QMDJ_Juan10_P028_S000",
+      "original_quote": "以值符甲子戊為我，以天乙為脫貨之人，以六合為經紀牙人。",
+      "paragraph_index": 28,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P028_S001",
       "original_quote": "若天乙落宮乘奇門吉格來生值符之宮者，其貨可脫。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L081",
+      "line_id": "QMDJ_Juan10_P028_S002",
       "original_quote": "比和者，脫亦無礙，反此必不可脫，必有失。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L082",
-      "original_quote": "又看六合落宮生天乙落宮，主經紀以脫貨之人相生，吉。",
+      "line_id": "QMDJ_Juan10_P028_S003",
+      "original_quote": "又看六 合落宮生天乙落宮，主經紀以脫貨之人相生，吉。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L083",
+      "line_id": "QMDJ_Juan10_P028_S004",
       "original_quote": "值符與甲子戊之宮者，主經紀與貨主同心。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L084",
+      "line_id": "QMDJ_Juan10_P028_S005",
       "original_quote": "倘六合入墓或落空亡之宮，必有奸詐、欺騙之事，斷不可脫。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L085",
-      "original_quote": "\n占脫貨求財\n以日幹落宮為貨主，時幹落宮為貨物，以甲子戊落宮為資本，生門落宮為利息。",
+      "line_id": "QMDJ_Juan10_P029_S000",
+      "original_quote": "占脫貨求財",
+      "paragraph_index": 29,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L086",
+      "line_id": "QMDJ_Juan10_P030_S000",
+      "original_quote": "以日幹落宮為貨主，時幹落宮為貨物，以甲子戊落宮為資本，生門落宮為利息。",
+      "paragraph_index": 30,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P030_S001",
       "original_quote": "看日乾之落宮生時幹之落宮，主人戀貨，不肯脫。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L087",
-      "original_quote": "若時幹之落宮生日乾之落宮，主貨戀人，不能脫。",
+      "line_id": "QMDJ_Juan10_P030_S002",
+      "original_quote": "若時幹之落宮生日乾之落宮，主貨戀 人，不能脫。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L088",
+      "line_id": "QMDJ_Juan10_P030_S003",
       "original_quote": "再看時幹之落宮生甲子戊與生門之落宮者，有利息，反此無利息。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L089",
+      "line_id": "QMDJ_Juan10_P030_S004",
       "original_quote": "倘時幹落宮乘凶神、凶格來衝剋日乾宮者，主折耗。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L090",
-      "original_quote": "惟日幹落宮剋時幹落宮者，雖欲急脫，而貨之甚遲。",
+      "line_id": "QMDJ_Juan10_P030_S005",
+      "original_quote": "惟日幹落宮剋時幹落宮者，雖欲 急脫，而貨之甚遲。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L091",
+      "line_id": "QMDJ_Juan10_P030_S006",
       "original_quote": "時幹落宮剋日乾之落宮者，售之必速。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L092",
-      "original_quote": "\n占開店肆\n以開門主之，開門乘旺相氣，帶奇門吉格來生日乾之落宮者，大吉。",
+      "line_id": "QMDJ_Juan10_P031_S000",
+      "original_quote": "占開店肆",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L093",
+      "line_id": "QMDJ_Juan10_P032_S000",
+      "original_quote": "以開門主之，開門乘旺相氣，帶奇門吉格來生日乾之落宮者，大吉。",
+      "paragraph_index": 32,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P032_S001",
       "original_quote": "相比和不剋制者，次吉。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L094",
+      "line_id": "QMDJ_Juan10_P032_S002",
       "original_quote": "若開門入墓或返吟，及落空亡者，不利。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L095",
+      "line_id": "QMDJ_Juan10_P032_S003",
       "original_quote": "開門落宮乘凶神、凶格來衝剋日乾宮者，更不利。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L096",
-      "original_quote": "\n占合伙求財\n以日幹落宮為我，時幹落宮為伙計。",
+      "line_id": "QMDJ_Juan10_P033_S000",
+      "original_quote": "占合伙求財",
+      "paragraph_index": 33,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L097",
+      "line_id": "QMDJ_Juan10_P034_S000",
+      "original_quote": "以日幹落宮為我，時幹落宮為伙計。",
+      "paragraph_index": 34,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P034_S001",
       "original_quote": "時幹乘奇門吉格來生日乾者，則合伙有益於我。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L098",
+      "line_id": "QMDJ_Juan10_P034_S002",
       "original_quote": "日干乘奇門吉格而生時幹者，則有益於他。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L099",
+      "line_id": "QMDJ_Juan10_P034_S003",
       "original_quote": "二宮相比和者，主合伙公平，各無猜忌。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L100",
+      "line_id": "QMDJ_Juan10_P034_S004",
       "original_quote": "若時干所落之宮乘凶神、凶格來剋日乾宮者，不利。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L101",
+      "line_id": "QMDJ_Juan10_P034_S005",
       "original_quote": "再以生門之生我，不生我詳之，百無一失。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L102",
-      "original_quote": "\n占貿易\n以甲子戊為資本，生門為利息。",
+      "line_id": "QMDJ_Juan10_P035_S000",
+      "original_quote": "占貿易",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L103",
+      "line_id": "QMDJ_Juan10_P036_S000",
+      "original_quote": "以甲子戊為資本，生門為利息。",
+      "paragraph_index": 36,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P036_S001",
       "original_quote": "生門所落之宮得奇門吉格來生甲子戊之落宮者，必獲倍利。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L104",
+      "line_id": "QMDJ_Juan10_P036_S002",
       "original_quote": "二宮比和者，亦得中利。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L105",
+      "line_id": "QMDJ_Juan10_P036_S003",
       "original_quote": "生門來剋甲子戊之落宮，再乘凶神、凶格者，必折本。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L106",
+      "line_id": "QMDJ_Juan10_P036_S004",
       "original_quote": "甲子戊之宮生生門之宮，主加添資本，仍得利息。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L107",
+      "line_id": "QMDJ_Juan10_P036_S005",
       "original_quote": "生門若臨墓絕之地，再有凶神、凶格相乘者，必耗盡資本，尤凶。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L108",
-      "original_quote": "\n占求財\n以甲子戊為財神，生門為財方。",
+      "line_id": "QMDJ_Juan10_P037_S000",
+      "original_quote": "占求財",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L109",
+      "line_id": "QMDJ_Juan10_P038_S000",
+      "original_quote": "以甲子戊為財神，生門為財方。",
+      "paragraph_index": 38,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P038_S001",
       "original_quote": "看二宮天盤落於何方？",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L110",
+      "line_id": "QMDJ_Juan10_P038_S002",
       "original_quote": "以二方生剋、比和驗其得失。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L111",
+      "line_id": "QMDJ_Juan10_P038_S003",
       "original_quote": "天盤甲子戊與生門落於坎、艮、震、巽四宮，陽遁為內為近，又為速。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L112",
-      "original_quote": "再得奇門吉格者，得之必多。",
+      "line_id": "QMDJ_Juan10_P038_S004",
+      "original_quote": "再得奇門吉 格者，得之必多。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L113",
+      "line_id": "QMDJ_Juan10_P038_S005",
       "original_quote": "若得門不得奇，得奇不得門，得之不多。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L114",
+      "line_id": "QMDJ_Juan10_P038_S006",
       "original_quote": "門奇俱不得，不落空亡、墓絕，不受地盤剋制，得之必少。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L115",
+      "line_id": "QMDJ_Juan10_P038_S007",
       "original_quote": "或甲子戊與生門落於一內一外，得之必遲。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L116",
-      "original_quote": "二宮俱在外，必求千里之財。",
+      "line_id": "QMDJ_Juan10_P038_S008",
+      "original_quote": "二 宮俱在外，必求千里之財。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L117",
+      "line_id": "QMDJ_Juan10_P038_S009",
       "original_quote": "二宮落空亡、返吟、墓絕，再以凶神、凶格相並者，必不得財，反遭是非。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L118",
-      "original_quote": "\n占交易\n以日幹落宮為我，時幹落宮為他，六合為經紀。",
+      "line_id": "QMDJ_Juan10_P039_S000",
+      "original_quote": "占交易",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L119",
+      "line_id": "QMDJ_Juan10_P040_S000",
+      "original_quote": "以日幹落宮為我，時幹落宮為他，六合為經紀。",
+      "paragraph_index": 40,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P040_S001",
       "original_quote": "日乾生時幹，買主受置。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L120",
+      "line_id": "QMDJ_Juan10_P040_S002",
       "original_quote": "時幹生日乾，業主願意。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L121",
+      "line_id": "QMDJ_Juan10_P040_S003",
       "original_quote": "日乾剋時幹，買主不要。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L122",
+      "line_id": "QMDJ_Juan10_P040_S004",
       "original_quote": "時幹剋日乾，業主不賣。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L123",
+      "line_id": "QMDJ_Juan10_P040_S005",
       "original_quote": "六合生日乾，經紀人向買主。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L124",
+      "line_id": "QMDJ_Juan10_P040_S006",
       "original_quote": "生時幹者，向賣主。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L125",
+      "line_id": "QMDJ_Juan10_P040_S007",
       "original_quote": "二干落宮、相比和者，兩家公平交易，主成。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L126",
+      "line_id": "QMDJ_Juan10_P040_S008",
       "original_quote": "二干有一落空亡者，交易不成。",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L127",
-      "original_quote": "\n占買房屋\n以值符為買主，生門為住宅，死門為土地。",
+      "line_id": "QMDJ_Juan10_P041_S000",
+      "original_quote": "占買房屋",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L128",
+      "line_id": "QMDJ_Juan10_P042_S000",
+      "original_quote": "以值符為買主，生門為住宅，死門為土地。",
+      "paragraph_index": 42,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P042_S001",
       "original_quote": "生死二門乘三奇吉格來生值符宮者，主買後發達。",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L129",
-      "original_quote": "二門不得吉格來生值符宮者，主買後發達，二門不得吉格來生值符宮者，中吉。",
+      "line_id": "QMDJ_Juan10_P042_S002",
+      "original_quote": "二門不得吉格來生值符宮者，主買後發達，二門不得吉格來生值符宮者， 中吉。",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L130",
+      "line_id": "QMDJ_Juan10_P042_S003",
       "original_quote": "比和者，平安。",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L131",
+      "line_id": "QMDJ_Juan10_P042_S004",
       "original_quote": "二門乘休廢之氣，再有凶神、凶格來剋值符宮者，主買後破敗家財。",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L132",
+      "line_id": "QMDJ_Juan10_P042_S005",
       "original_quote": "值符生此二門者，主因宅產贏敗不利。",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L133",
-      "original_quote": "\n占人壽夭吉凶\n法以衝、柱二星合死門遠近以定之。",
+      "line_id": "QMDJ_Juan10_P043_S000",
+      "original_quote": "占人壽夭吉凶",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L134",
+      "line_id": "QMDJ_Juan10_P044_S000",
+      "original_quote": "法以衝、柱二星合死門遠近以定之。",
+      "paragraph_index": 44,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P044_S001",
       "original_quote": "男以天衝星起順布奇儀，女以天柱星起逆布奇儀，看至死門相隔幾宮，一宮十年，起算致死門幾宮，作壽幾十年，餘幾十年外，再以宮一宮為一年，看零幾年是幾歲，零數以四正四宮，一宮只作一宮，惟四維四宮，一宮便作二宮，因為四維乃八支也。",
+      "paragraph_index": 44,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L135",
-      "original_quote": "\n占人年命吉凶\n以來人所乘之方，合天地正時與其年命所坐之方，合而推之。",
+      "line_id": "QMDJ_Juan10_P045_S000",
+      "original_quote": "占人年命吉凶",
+      "paragraph_index": 45,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L136",
+      "line_id": "QMDJ_Juan10_P046_S000",
+      "original_quote": "以來人所乘之方，合天地正時與其年命所坐之方，合而推之。",
+      "paragraph_index": 46,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P046_S001",
       "original_quote": "來方得奇門吉格者，其年命必吉；",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L137",
+      "line_id": "QMDJ_Juan10_P046_S002",
       "original_quote": "年命落宮合奇門吉格者，亦吉。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L138",
+      "line_id": "QMDJ_Juan10_P046_S003",
       "original_quote": "年命坐方俱合奇門吉格，再乘旺相之氣，必有奇遇橫發。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L139",
+      "line_id": "QMDJ_Juan10_P046_S004",
       "original_quote": "入如地盤墓庫者，主昏晦。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L140",
+      "line_id": "QMDJ_Juan10_P046_S005",
       "original_quote": "落空亡者，百事不成。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L141",
+      "line_id": "QMDJ_Juan10_P046_S006",
       "original_quote": "入死門者，死。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L142",
+      "line_id": "QMDJ_Juan10_P046_S007",
       "original_quote": "傷門者，病。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L143",
+      "line_id": "QMDJ_Juan10_P046_S008",
       "original_quote": "驚門者，口舌詞訟。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L144",
+      "line_id": "QMDJ_Juan10_P046_S009",
       "original_quote": "景門者，血光、火災。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L145",
+      "line_id": "QMDJ_Juan10_P046_S010",
       "original_quote": "杜門者，憂疑。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L146",
-      "original_quote": "開門者，見貴。",
+      "line_id": "QMDJ_Juan10_P046_S011",
+      "original_quote": "開門 者，見貴。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L147",
+      "line_id": "QMDJ_Juan10_P046_S012",
       "original_quote": "休門者，進謁。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L148",
+      "line_id": "QMDJ_Juan10_P046_S013",
       "original_quote": "生門者，發財得喜。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L149",
+      "line_id": "QMDJ_Juan10_P046_S014",
       "original_quote": "大抵得奇門者，吉；",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L150",
+      "line_id": "QMDJ_Juan10_P046_S015",
       "original_quote": "乘凶門相剋年命者，凶；",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L151",
+      "line_id": "QMDJ_Juan10_P046_S016",
       "original_quote": "不剋者，小凶。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L152",
-      "original_quote": "\n占納寵\n以乙奇為妻，丁奇為妾，太白庚金為夫。",
+      "line_id": "QMDJ_Juan10_P047_S000",
+      "original_quote": "占納寵",
+      "paragraph_index": 47,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L153",
+      "line_id": "QMDJ_Juan10_P048_S000",
+      "original_quote": "以乙奇為妻，丁奇為妾，太白庚金為夫。",
+      "paragraph_index": 48,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P048_S001",
       "original_quote": "若乙、丁奇之落宮生庚之落宮，其女必肯嫁。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L154",
+      "line_id": "QMDJ_Juan10_P048_S002",
       "original_quote": "乙丁落宮剋庚之落宮者，不肯嫁。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L155",
+      "line_id": "QMDJ_Juan10_P048_S003",
       "original_quote": "乙丁宮相比和者，主妻妾和諧。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L156",
+      "line_id": "QMDJ_Juan10_P048_S004",
       "original_quote": "如乙剋丁宮，主妻不能容妾。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L157",
+      "line_id": "QMDJ_Juan10_P048_S005",
       "original_quote": "或丁剋乙宮，主妾欲欺妻。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L158",
+      "line_id": "QMDJ_Juan10_P048_S006",
       "original_quote": "若乙丁入空陷庫絕之宮，主不能成，成亦不利。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L159",
+      "line_id": "QMDJ_Juan10_P048_S007",
       "original_quote": "如庚金宮生丁奇之宮，主徒勞無成。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L160",
-      "original_quote": "\n占婚姻\n以庚金為男家，乙奇為女家，六合為媒妁。",
+      "line_id": "QMDJ_Juan10_P049_S000",
+      "original_quote": "占婚姻",
+      "paragraph_index": 49,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L161",
+      "line_id": "QMDJ_Juan10_P050_S000",
+      "original_quote": "以庚金為男家，乙奇為女家，六合為媒妁。",
+      "paragraph_index": 50,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P050_S001",
       "original_quote": "庚之落宮生乙之落宮，主男家愛女家，乙之落宮生庚之落宮，主女家愛男家。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L162",
+      "line_id": "QMDJ_Juan10_P050_S002",
       "original_quote": "得奇門吉格者，婚姻必成。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L163",
+      "line_id": "QMDJ_Juan10_P050_S003",
       "original_quote": "比和不相剋制者，亦成。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L164",
+      "line_id": "QMDJ_Juan10_P050_S004",
       "original_quote": "若庚宮剋乙宮，主男家嫌女家，不成。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L165",
+      "line_id": "QMDJ_Juan10_P050_S005",
       "original_quote": "乙宮剋庚宮，主女家嫌男家，不成，強成之後必有刑剋。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L166",
+      "line_id": "QMDJ_Juan10_P050_S006",
       "original_quote": "庚金入墓而乘凶格者，刑夫。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L167",
+      "line_id": "QMDJ_Juan10_P050_S007",
       "original_quote": "乙奇入墓而乘凶格者，剋妻。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L168",
-      "original_quote": "\n占雨\n以天禽星為司命之主，天柱為雨師，天衝為雷神，天輔為風伯，螣蛇為雷光，天蓬為水神，甲辰壬為為龍神。",
+      "line_id": "QMDJ_Juan10_P051_S000",
+      "original_quote": "占雨",
+      "paragraph_index": 51,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L169",
-      "original_quote": "天禽臨旺相之宮，天柱、甲辰壬游於一、三、七宮，或下臨甲辰壬，主大雨。",
+      "line_id": "QMDJ_Juan10_P052_S000",
+      "original_quote": "以天禽星為司命之主，天柱為雨師，天衝為雷神，天輔為風伯，螣蛇為雷光，天蓬為水神，甲辰壬為為龍神。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L170",
+      "line_id": "QMDJ_Juan10_P052_S001",
+      "original_quote": "天禽臨旺相之宮，天柱、甲辰壬游於一、三、七宮，或下 臨甲辰壬，主大雨。",
+      "paragraph_index": 52,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P052_S002",
       "original_quote": "帶甲寅癸下臨甲寅癸於一、三、七宮，主小雨。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L171",
+      "line_id": "QMDJ_Juan10_P052_S003",
       "original_quote": "甲辰壬加臨震宮為龍登雷門，主雷雨。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L172",
+      "line_id": "QMDJ_Juan10_P052_S004",
       "original_quote": "丁臨地盤螣蛇，主閃電。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L173",
+      "line_id": "QMDJ_Juan10_P052_S005",
       "original_quote": "乘凶門臨地盤螣蛇為龍雷發蛟，震怪。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L174",
+      "line_id": "QMDJ_Juan10_P052_S006",
       "original_quote": "落空亡、墓庫宮，主陰霧不雨。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L175",
+      "line_id": "QMDJ_Juan10_P052_S007",
       "original_quote": "冬月看天心星及天任土宿，帶壬癸，下臨壬癸，或乘元武、白虎，主水土凝結而為雪。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L176",
+      "line_id": "QMDJ_Juan10_P052_S008",
       "original_quote": "空亡、入墓，主陰寒。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L177",
+      "line_id": "QMDJ_Juan10_P052_S009",
       "original_quote": "更看白虎猖狂，主大風。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L178",
+      "line_id": "QMDJ_Juan10_P052_S010",
       "original_quote": "青龍逃走，主風起雲散，無雨。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L179",
+      "line_id": "QMDJ_Juan10_P052_S011",
       "original_quote": "白入熒主冰雹。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L180",
+      "line_id": "QMDJ_Juan10_P052_S012",
       "original_quote": "熒入白主晴。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L181",
-      "original_quote": "若天柱游於一、三、七宮下帶壬癸，或下臨壬癸之宮，不見壬癸，而見螣蛇者，主現虹霓不雨。",
+      "line_id": "QMDJ_Juan10_P052_S013",
+      "original_quote": "若天柱游於一、三、七宮下帶壬癸，或下臨壬癸之宮，不見壬癸，而見螣蛇者，主現虹霓不 雨。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L182",
+      "line_id": "QMDJ_Juan10_P052_S014",
       "original_quote": "如落宮下臨朱雀，或落空亡者，主亢旱不雨，強求反有火災。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L183",
-      "original_quote": "\n占立窯\n其占法以景門主之。",
+      "line_id": "QMDJ_Juan10_P053_S000",
+      "original_quote": "占立窯",
+      "paragraph_index": 53,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L184",
+      "line_id": "QMDJ_Juan10_P054_S000",
+      "original_quote": "其占法以景門主之。",
+      "paragraph_index": 54,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan10_P054_S001",
       "original_quote": "景門乘旺相氣，得三奇吉格來生我年命日乾者，吉，可立。",
+      "paragraph_index": 54,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L185",
+      "line_id": "QMDJ_Juan10_P054_S002",
       "original_quote": "若帶凶神、凶格剋我年命日乾者，凶。",
+      "paragraph_index": 54,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan10_L186",
+      "line_id": "QMDJ_Juan10_P054_S003",
       "original_quote": "乘朱雀投江、螣蛇夭矯者，大凶，斷斷不可立。",
+      "paragraph_index": 54,
       "tag": []
     }
   ],
   "_source": {
     "text": "奇門遁甲秘笈大全",
     "juan": "Juan10",
-    "line_id_start": "QMDJ_Juan10_L000",
-    "line_id_end": "QMDJ_Juan10_L186"
+    "line_id_start": "QMDJ_Juan10_P000_S000",
+    "line_id_end": "QMDJ_Juan10_P054_S003",
+    "original_block": "《卷十》\n占走失奴婢\n男僕專責天盤天蓬之宮，女婢專責天盤天芮之宮，尋之必獲。陽日責地盤蓬、芮之宮決之，逢格必獲，不格不獲。若與六合相並者，必被拐去。二神入庫，有人隱藏難尋。落空亡者，必不能獲。\n占走失何方\n失去小兒，陽遁於天盤六合所在之方，陰遁於地盤六合所在之宮決之。若失女婢，陽遁於天盤太陰所在之方，陰遁於地盤太陰所在之宮定之，看此二神，即知其人所在 之方矣。陽遁在坎艮震巽四宮為內，為近；落離坤兌乾為外，為遠，陰遁反此。若二神落日乾之墓庫者，遠近難尋。落空亡者，其人又往他方去，之後再以干合神之 宮尋之，必獲。\n占行人在外\n法以行人年命日乾決之。年命日幹落在坎艮震巽，陽遁為內，為近；離坤兌乾為外，為遠，合而決之。年命落於四維甚遠，落坤艮者，為極遠。陰遁以離坤兌乾為內， 為近，坎艮震巽，為外，為遠，合而決之。年命落於四正下者，不甚遠。年命日幹落於休廢，其人在外必不如意，非困即病。若年命日幹落於墓庫、空亡之宮，再乘 死絕之氣，其人必不在。如年命日干乘旺相之氣，再得奇門吉格，行人在外發財如意。\n占行人歸期\n法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。年格年來，月格月來，日格日來，時格時來，不格不來。何謂不格？乙庚為合不為格。庚金入墓或臨空亡，不為格。\n占借貸\n其占法以所往之方天盤所得之星為求借之人，又以天盤之星所落地盤之星為借貸之家。地盤所乘之星生天盤星者，必得借。比和者，雖借主遲疑。相剋主不借，反惹羞辱。若天盤所得之幹入地盤墓庫者，彼寔吝嗇，不肯借入。臨空亡宮者，彼寔無，不必去借。\n占打抽豐\n以日幹落宮為打抽豐之人，所往之方為抽豐之處。得奇門吉格來生日乾者，所往必利，即不得奇門吉格而來生者，亦利。比和者，平平。剋制日乾之宮者，去必有損。臨空亡、墓絕之宮，主不見，徒勞無益，不必去。\n占謁貴人\n現任官以天盤開門落宮主之，未任致仕官以天盤甲子戊主之，以日乾為求謁之人。開門甲子戊乘旺相氣，再得奇門吉格來生日幹落宮者，去謁必見，見且有益，所求如 意。開門甲子戊與日幹比和者，但求謁主少遲。開門甲子戊同宮者，主貴人有客，宜稍待。若開門甲子戊返吟者，主貴人他在，不得見。開門甲子戊入庫，不能見。 開門甲子戊受制，貴人有憂事，不見，見亦無益。開門甲子戊落宮衝剋日乾宮者，貴人不喜，枉惹羞辱。若謁武官，看杜門，亦仿此。\n占生男女長命\n以所生時幹天盤所落之宮，看是何星？何神？以天蓬為天賊，元武為偷生，犯此二神，再乘休廢無氣之時，主不能養。若有奇門吉格、吉神，再乘旺相之氣，主長命富貴。\n占孕何日生\n以 坤宮為產室，天芮為產母，天盤所得之星為小兒。天芮剋天盤之星者，主產速。天盤星生地盤星天芮者，子戀母腹，產遲。天盤星剋地盤星者，主母凶。地盤星剋天 盤星者，主子亡。若得旺相氣及奇門吉格者，方吉。如天盤星落地盤庫，子死母腹內。天地二盤乘凶門、凶格者，子母俱凶。以天地二盤乘死絕之氣也。\n占討債\n以 天乙所落之宮為欠債之人，以勾陳落宮為使討之人。勾陳落宮剋天乙落宮者，其人實心去討。天乙落宮剋勾陳宮者，所使之人畏彼，不敢討。勾陳與天乙相生和者， 彼此通同，不討。勾陳被天乙生者，主囑托賄賂，所使之人不肯討。天乙落宮得旺相氣來生值符者，必還。若落空亡來生值符可知值符為放債之人。者，有心無 力，天蓬、天乙落宮剋制值符宮者，安心不環，必不能討。\n占放債\n以六甲值符為放債之人，值符下臨之星為天乙，即借債之人。若地盤之星乘旺相之氣生天盤之星者，借債必還。乘凶格剋天盤之星者，必不還。落空亡者，主死亡負債。乘墓絕之宮者，主混賴不還，此句言地盤之星所帶之幹儀也。\n占買貨\n以日幹落宮為收買貨物之人，以時幹落宮為貨物。時幹落宮乘旺相氣，再得奇門、吉格者，為美貨。乘休囚之氣，不得奇門、吉格者，為廢貨。時幹落宮來生日幹落宮者，其貨不拘，美惡皆有。利息來剋日幹落宮，或乘墓絕及空亡者，貨皆無利，不必買。餘仿此類推之。\n占胎息男女\n其占法以坤宮、天芮星為母，以天盤星臨坤之宮為胎息，陽星為男胎，陰星為女胎。惟天禽臨之為雙生，陽乾是男，陰乾女也。\n占脫貨求財\n以值符甲子戊為我，以天乙為脫貨之人，以六合為經紀牙人。若天乙落宮乘奇門吉格來生值符之宮者，其貨可脫。比和者，脫亦無礙，反此必不可脫，必有失。又看六 合落宮生天乙落宮，主經紀以脫貨之人相生，吉。值符與甲子戊之宮者，主經紀與貨主同心。倘六合入墓或落空亡之宮，必有奸詐、欺騙之事，斷不可脫。\n占脫貨求財\n以日幹落宮為貨主，時幹落宮為貨物，以甲子戊落宮為資本，生門落宮為利息。看日乾之落宮生時幹之落宮，主人戀貨，不肯脫。若時幹之落宮生日乾之落宮，主貨戀 人，不能脫。再看時幹之落宮生甲子戊與生門之落宮者，有利息，反此無利息。倘時幹落宮乘凶神、凶格來衝剋日乾宮者，主折耗。惟日幹落宮剋時幹落宮者，雖欲 急脫，而貨之甚遲。時幹落宮剋日乾之落宮者，售之必速。\n占開店肆\n以開門主之，開門乘旺相氣，帶奇門吉格來生日乾之落宮者，大吉。相比和不剋制者，次吉。若開門入墓或返吟，及落空亡者，不利。開門落宮乘凶神、凶格來衝剋日乾宮者，更不利。\n占合伙求財\n以日幹落宮為我，時幹落宮為伙計。時幹乘奇門吉格來生日乾者，則合伙有益於我。日干乘奇門吉格而生時幹者，則有益於他。二宮相比和者，主合伙公平，各無猜忌。若時干所落之宮乘凶神、凶格來剋日乾宮者，不利。再以生門之生我，不生我詳之，百無一失。\n占貿易\n以甲子戊為資本，生門為利息。生門所落之宮得奇門吉格來生甲子戊之落宮者，必獲倍利。二宮比和者，亦得中利。生門來剋甲子戊之落宮，再乘凶神、凶格者，必折本。甲子戊之宮生生門之宮，主加添資本，仍得利息。生門若臨墓絕之地，再有凶神、凶格相乘者，必耗盡資本，尤凶。\n占求財\n以甲子戊為財神，生門為財方。看二宮天盤落於何方？以二方生剋、比和驗其得失。天盤甲子戊與生門落於坎、艮、震、巽四宮，陽遁為內為近，又為速。再得奇門吉 格者，得之必多。若得門不得奇，得奇不得門，得之不多。門奇俱不得，不落空亡、墓絕，不受地盤剋制，得之必少。或甲子戊與生門落於一內一外，得之必遲。二 宮俱在外，必求千里之財。二宮落空亡、返吟、墓絕，再以凶神、凶格相並者，必不得財，反遭是非。\n占交易\n以日幹落宮為我，時幹落宮為他，六合為經紀。日乾生時幹，買主受置。時幹生日乾，業主願意。日乾剋時幹，買主不要。時幹剋日乾，業主不賣。六合生日乾，經紀人向買主。生時幹者，向賣主。二干落宮、相比和者，兩家公平交易，主成。二干有一落空亡者，交易不成。\n占買房屋\n以值符為買主，生門為住宅，死門為土地。生死二門乘三奇吉格來生值符宮者，主買後發達。二門不得吉格來生值符宮者，主買後發達，二門不得吉格來生值符宮者， 中吉。比和者，平安。二門乘休廢之氣，再有凶神、凶格來剋值符宮者，主買後破敗家財。值符生此二門者，主因宅產贏敗不利。\n占人壽夭吉凶\n法以衝、柱二星合死門遠近以定之。男以天衝星起順布奇儀，女以天柱星起逆布奇儀，看至死門相隔幾宮，一宮十年，起算致死門幾宮，作壽幾十年，餘幾十年外，再以宮一宮為一年，看零幾年是幾歲，零數以四正四宮，一宮只作一宮，惟四維四宮，一宮便作二宮，因為四維乃八支也。\n占人年命吉凶\n以來人所乘之方，合天地正時與其年命所坐之方，合而推之。來方得奇門吉格者，其年命必吉；年命落宮合奇門吉格者，亦吉。年命坐方俱合奇門吉格，再乘旺相之氣，必有奇遇橫發。入如地盤墓庫者，主昏晦。落空亡者，百事不成。入死門者，死。傷門者，病。驚門者，口舌詞訟。景門者，血光、火災。杜門者，憂疑。開門 者，見貴。休門者，進謁。生門者，發財得喜。大抵得奇門者，吉；乘凶門相剋年命者，凶；不剋者，小凶。\n占納寵\n以乙奇為妻，丁奇為妾，太白庚金為夫。若乙、丁奇之落宮生庚之落宮，其女必肯嫁。乙丁落宮剋庚之落宮者，不肯嫁。乙丁宮相比和者，主妻妾和諧。如乙剋丁宮，主妻不能容妾。或丁剋乙宮，主妾欲欺妻。若乙丁入空陷庫絕之宮，主不能成，成亦不利。如庚金宮生丁奇之宮，主徒勞無成。\n占婚姻\n以庚金為男家，乙奇為女家，六合為媒妁。庚之落宮生乙之落宮，主男家愛女家，乙之落宮生庚之落宮，主女家愛男家。得奇門吉格者，婚姻必成。比和不相剋制者，亦成。若庚宮剋乙宮，主男家嫌女家，不成。乙宮剋庚宮，主女家嫌男家，不成，強成之後必有刑剋。庚金入墓而乘凶格者，刑夫。乙奇入墓而乘凶格者，剋妻。\n占雨\n以天禽星為司命之主，天柱為雨師，天衝為雷神，天輔為風伯，螣蛇為雷光，天蓬為水神，甲辰壬為為龍神。天禽臨旺相之宮，天柱、甲辰壬游於一、三、七宮，或下 臨甲辰壬，主大雨。帶甲寅癸下臨甲寅癸於一、三、七宮，主小雨。甲辰壬加臨震宮為龍登雷門，主雷雨。丁臨地盤螣蛇，主閃電。乘凶門臨地盤螣蛇為龍雷發蛟，震怪。落空亡、墓庫宮，主陰霧不雨。冬月看天心星及天任土宿，帶壬癸，下臨壬癸，或乘元武、白虎，主水土凝結而為雪。空亡、入墓，主陰寒。更看白虎猖狂，主大風。青龍逃走，主風起雲散，無雨。白入熒主冰雹。熒入白主晴。若天柱游於一、三、七宮下帶壬癸，或下臨壬癸之宮，不見壬癸，而見螣蛇者，主現虹霓不 雨。如落宮下臨朱雀，或落空亡者，主亢旱不雨，強求反有火災。\n占立窯\n其占法以景門主之。景門乘旺相氣，得三奇吉格來生我年命日乾者，吉，可立。若帶凶神、凶格剋我年命日乾者，凶。乘朱雀投江、螣蛇夭矯者，大凶，斷斷不可立。\n\n"
   }
 }

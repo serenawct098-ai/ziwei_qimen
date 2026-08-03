@@ -4,865 +4,1373 @@
   "section": "卷十二",
   "entries": [
     {
-      "line_id": "QMDJ_Juan12_L000",
-      "original_quote": "《卷十二》\n晴雨占\n論值符\n值符，九天日月風雨應明。",
+      "line_id": "QMDJ_Juan12_P000_S000",
+      "original_quote": "《卷十二》",
+      "paragraph_index": 0,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L001",
+      "line_id": "QMDJ_Juan12_P001_S000",
+      "original_quote": "晴雨占",
+      "paragraph_index": 1,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P002_S000",
+      "original_quote": "論值符",
+      "paragraph_index": 2,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P003_S000",
+      "original_quote": "值符，九天日月風雨應明。",
+      "paragraph_index": 3,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P003_S001",
       "original_quote": "螣蛇，雷電虹霓。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L002",
+      "line_id": "QMDJ_Juan12_P003_S002",
       "original_quote": "太陰，霜雪、冰凍、陰雲。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L003",
+      "line_id": "QMDJ_Juan12_P003_S003",
       "original_quote": "六合，和風麗日。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L004",
+      "line_id": "QMDJ_Juan12_P003_S004",
       "original_quote": "勾陳、白虎，呵霧、沉晦、疾風、暴雨。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L005",
+      "line_id": "QMDJ_Juan12_P003_S005",
       "original_quote": "朱雀、元武，天鼓電雷、密雲細雨。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L006",
+      "line_id": "QMDJ_Juan12_P003_S006",
       "original_quote": "九地，陰晴、苦寒。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L007",
+      "line_id": "QMDJ_Juan12_P003_S007",
       "original_quote": "九天，晴空、爽氣。",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L008",
-      "original_quote": "\n值使\n休，白雲、甘露、苦寒、細雨。",
+      "line_id": "QMDJ_Juan12_P004_S000",
+      "original_quote": "值使",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L009",
+      "line_id": "QMDJ_Juan12_P005_S000",
+      "original_quote": "休，白雲、甘露、苦寒、細雨。",
+      "paragraph_index": 5,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P005_S001",
       "original_quote": "生，狂風黃沙。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L010",
+      "line_id": "QMDJ_Juan12_P005_S002",
       "original_quote": "傷，青氣、雷雹、風雲、暴雷。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L011",
+      "line_id": "QMDJ_Juan12_P005_S003",
       "original_quote": "杜，虹霓、閃雷霹靂。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L012",
+      "line_id": "QMDJ_Juan12_P005_S004",
       "original_quote": "景，虹霓、赤日、炎風。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L013",
+      "line_id": "QMDJ_Juan12_P005_S005",
       "original_quote": "死，陰風、寒凍、冰霜、河瘴。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L014",
+      "line_id": "QMDJ_Juan12_P005_S006",
       "original_quote": "驚，狂風、霹靂雷雹。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L015",
+      "line_id": "QMDJ_Juan12_P005_S007",
       "original_quote": "開，霞彩、雷雹。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L016",
-      "original_quote": "\n十干\n甲，青龍、旭日、榖風。",
+      "line_id": "QMDJ_Juan12_P006_S000",
+      "original_quote": "十干",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L017",
+      "line_id": "QMDJ_Juan12_P007_S000",
+      "original_quote": "甲，青龍、旭日、榖風。",
+      "paragraph_index": 7,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P007_S001",
       "original_quote": "乙，青龍、和風、麗日。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L018",
+      "line_id": "QMDJ_Juan12_P007_S002",
       "original_quote": "丙，朱雀、新月、電光。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L019",
+      "line_id": "QMDJ_Juan12_P007_S003",
       "original_quote": "丁，朱雀、景星、慶雲。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L020",
+      "line_id": "QMDJ_Juan12_P007_S004",
       "original_quote": "戊，勾陳、霜霧、瘴氣、迷蒙、雲氣、燥濕。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L021",
+      "line_id": "QMDJ_Juan12_P007_S005",
       "original_quote": "庚，白虎、嚴霜、暴雨，秋冬則嚴霜，春夏則暴雨，按其時令。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L022",
+      "line_id": "QMDJ_Juan12_P007_S006",
       "original_quote": "壬，元武、疾風、暴雨。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L023",
+      "line_id": "QMDJ_Juan12_P007_S007",
       "original_quote": "癸，元武、潔雨、虹霓、凝冰、肅氣，按其時令。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L024",
-      "original_quote": "\n九星\n蓬，烏雲、蒼龍、陰雨、怪氣。",
+      "line_id": "QMDJ_Juan12_P008_S000",
+      "original_quote": "九星",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L025",
+      "line_id": "QMDJ_Juan12_P009_S000",
+      "original_quote": "蓬，烏雲、蒼龍、陰雨、怪氣。",
+      "paragraph_index": 9,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P009_S001",
       "original_quote": "任，霧瘴、風沙。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L026",
+      "line_id": "QMDJ_Juan12_P009_S002",
       "original_quote": "衝，風沙、雹、晴爽氣。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L027",
+      "line_id": "QMDJ_Juan12_P009_S003",
       "original_quote": "輔，虹霓、祥雲。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L028",
+      "line_id": "QMDJ_Juan12_P009_S004",
       "original_quote": "英，彩雲、暗嵐、霓電。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L029",
+      "line_id": "QMDJ_Juan12_P009_S005",
       "original_quote": "芮，霧氣、陰霾、黃沙。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L030",
+      "line_id": "QMDJ_Juan12_P009_S006",
       "original_quote": "禽，晴風、淑氣、爽籟、甘露。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L031",
+      "line_id": "QMDJ_Juan12_P009_S007",
       "original_quote": "柱，風霜、霹靂、寒冰。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L032",
+      "line_id": "QMDJ_Juan12_P009_S008",
       "original_quote": "心，雷電、寒光、赤霞、白氣。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L033",
-      "original_quote": "\n門戶\n晴霽，責天門。",
+      "line_id": "QMDJ_Juan12_P010_S000",
+      "original_quote": "門戶",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L034",
+      "line_id": "QMDJ_Juan12_P011_S000",
+      "original_quote": "晴霽，責天門。",
+      "paragraph_index": 11,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P011_S001",
       "original_quote": "風雲，責地戶門戶。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L035",
+      "line_id": "QMDJ_Juan12_P011_S002",
       "original_quote": "合陽宮陽星晴，合陰宮陰星雨。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L036",
-      "original_quote": "\n三甲\n孟甲多陰雨，合陰開時取。",
+      "line_id": "QMDJ_Juan12_P012_S000",
+      "original_quote": "三甲",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L037",
+      "line_id": "QMDJ_Juan12_P013_S000",
+      "original_quote": "孟甲多陰雨，合陰開時取。",
+      "paragraph_index": 13,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P013_S001",
       "original_quote": "仲甲半陰晴，開合細搜尋。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L038",
+      "line_id": "QMDJ_Juan12_P013_S002",
       "original_quote": "季甲晴堪許，開合從星舉。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L039",
-      "original_quote": "\n論干支\n日乾為天時為地，納音五行陰陽帝，天剋地兮風生林，地剋天兮空霧氣，天地生合論化神如甲己化土之類，金水甘露天未霽，細雨納音生剋情，五行時令消息意，假如合水納是金，管教刻下風雨至。",
+      "line_id": "QMDJ_Juan12_P014_S000",
+      "original_quote": "論干支",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L040",
-      "original_quote": "\n論值符\n水局主雨金局寒，門金符水教出潭，若是金符門到水，只疑飛龍入九淵，土局陰霾未有涯，時或四野起黃沙，冬深符土門金凍，門土符金飛六花，符門之間火木局，天地晴和寔可誇，木局風生火局晴，春夏逢之斷得靈，惟懼囚墓廢時日，反致風停細雨零。",
+      "line_id": "QMDJ_Juan12_P015_S000",
+      "original_quote": "日乾為天時為地，納音五行陰陽帝，天剋地兮風生林，地剋天兮空霧氣，天地生合論化神如甲己化土之類，金水甘露天未霽，細雨納音生剋情，五行時令消息意，假如合水納是金，管教刻下風雨至。",
+      "paragraph_index": 15,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L041",
-      "original_quote": "\n論值使\n值使各逐本宮求，旺氣逢生從類搜，刑制隔害吟反伏，陰晴變易有來由，休囚死廢無定據，縱有風雨霎時收。",
+      "line_id": "QMDJ_Juan12_P016_S000",
+      "original_quote": "論值符",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L042",
-      "original_quote": "\n論十干\n三奇六儀所臨宮，陰晴剋應好推窮，惟忌背令刑墓格，時違三合究其蹤。",
+      "line_id": "QMDJ_Juan12_P017_S000",
+      "original_quote": "水局主雨金局寒，門金符水教出潭，若是金符門到水，只疑飛龍入九淵，土局陰霾未有涯，時或四野起黃沙，冬深符土門金凍，門土符金飛六花，符門之間火木局，天地晴和寔可誇，木局風生火局晴，春夏逢之斷得靈，惟懼囚墓廢時日，反致風停細雨零。",
+      "paragraph_index": 17,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L043",
-      "original_quote": "\n論九星\n九星陰陽判雨晴，符泊旬空未可憑，陽星陽宮晴堪恕，陰宮陰星主晦蒙，半開半合晴兼雨，內外開闔先後評。",
+      "line_id": "QMDJ_Juan12_P018_S000",
+      "original_quote": "論值使",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L044",
-      "original_quote": "\n論九宮\n占驗雨晴論天乙，須究五行起元例，得令失令與刑格，生剋制伏陰晴別，太陰元武司陰雨，六合白虎雷風生，朱雀蛇轄雷雹虹，勾陳陰霧曰霾取，日時月格刑悖逢，陰陽星宮雨暘蹤，九天九地奇儀到，陽開陰闔究玄宗，雨占奇儀化合神，方位時刻可詳料，白虎到巽六合乾，旺相風生休廢煙，朱雀坎位武九，主勝客氣雨必然，惟有太陰並九地，或晴或雨論宮纏。",
+      "line_id": "QMDJ_Juan12_P019_S000",
+      "original_quote": "值使各逐本宮求，旺氣逢生從類搜，刑制隔害吟反伏，陰晴變易有來由，休囚死廢無定據，縱有風雨霎時收。",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L045",
-      "original_quote": "\n論門戶\n三門八宮別陰陽，奇儀加臨仔細詳，陽門陽星三奇會，斷定三光出時方，陰門陰星三奇會，會著之時不顯揚，日月星奇天門照，中宮乾巽見三光，風雨儀神會陰星，來臨六合陰勢生，地四戶兮值陰宮，六儀臨之風雨宗，三奇陰星墓地戶，必主其光不照空。",
+      "line_id": "QMDJ_Juan12_P020_S000",
+      "original_quote": "論十干",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L046",
-      "original_quote": "\n論三甲\n孟甲季甲判陰陽，須從開闔細推詳，再察符使乾星類，會合時令下斷強。",
+      "line_id": "QMDJ_Juan12_P021_S000",
+      "original_quote": "三奇六儀所臨宮，陰晴剋應好推窮，惟忌背令刑墓格，時違三合究其蹤。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L047",
-      "original_quote": "\n論吉凶格\n跌穴主晴，返首主雨，躔在陽宮方晴，移居陰垣定雨，白虎狂兮立見風生，青龍走兮決然雨至，蛇妖而陰雲密布，投江而大雨淋漓，熒入白虹霓頓起，白入熒雷電依稀，庚格陰晴疊變雨將電，日年移羅網四張，須知遍布陰暗，時日生剋的是晴雨真機。",
+      "line_id": "QMDJ_Juan12_P022_S000",
+      "original_quote": "論九星",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L048",
-      "original_quote": "\n又斷\n凡占晴須論符、天、朱、蛇、勾、白之神，與八門生、景、死、杜、輔、禽、英、芮，並起元於火木局，三奇得位，戊己當權，陽星開必主晴。",
+      "line_id": "QMDJ_Juan12_P023_S000",
+      "original_quote": "九星陰陽判雨晴，符泊旬空未可憑，陽星陽宮晴堪恕，陰宮陰星主晦蒙，半開半合晴兼雨，內外開闔先後評。",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L049",
-      "original_quote": "\n凡占雨須看地、陰、元、白之神，與八門之休、驚、開、傷，九星之蓬、柱、心、衝，並起元於金水局，三奇虛墓，庚辛壬癸當權，陰星闔必陰雨也。",
+      "line_id": "QMDJ_Juan12_P024_S000",
+      "original_quote": "論九宮",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L050",
-      "original_quote": "\n身命占\n值符\n值符，發朝之初氣概、雄偉、羊盾、虎皮。",
+      "line_id": "QMDJ_Juan12_P025_S000",
+      "original_quote": "占驗雨晴論天乙，須究五行起元例，得令失令與刑格，生剋制伏陰晴別，太陰元武司陰雨，六合白虎雷風生，朱雀蛇轄雷雹虹，勾陳陰霧曰霾取，日時月格刑悖逢，陰陽星宮雨暘蹤，九天九地奇儀到，陽開陰闔究玄宗，雨占奇儀化合神， 方位時刻可詳料，白虎到巽六合乾，旺相風生休廢煙，朱雀坎位武九，主勝客氣雨必然，惟有太陰並九地，或晴或雨論宮纏。",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L051",
+      "line_id": "QMDJ_Juan12_P026_S000",
+      "original_quote": "論門戶",
+      "paragraph_index": 26,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P027_S000",
+      "original_quote": "三門八宮別陰陽，奇儀加臨仔細詳，陽門陽星三奇會，斷定三光出時方，陰門陰星三奇會，會著之時不顯揚，日月星奇天門照，中宮乾巽見三光，風雨儀神會陰星，來臨六合陰勢生，地四戶兮值陰宮，六儀臨之風雨宗，三奇陰星墓地戶，必主其光不照空。",
+      "paragraph_index": 27,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P028_S000",
+      "original_quote": "論三甲",
+      "paragraph_index": 28,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P029_S000",
+      "original_quote": "孟甲季甲判陰陽，須從開闔細推詳，再察符使乾星類，會合時令下斷強。",
+      "paragraph_index": 29,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P030_S000",
+      "original_quote": "論吉凶格",
+      "paragraph_index": 30,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P031_S000",
+      "original_quote": "跌穴主晴，返首主雨，躔在陽宮方晴，移居陰垣定雨，白虎狂兮立見風生，青龍走兮決然雨至，蛇妖而陰雲密布，投江而大雨淋漓，熒入白虹霓頓起，白入熒雷電依稀，庚格陰晴疊變雨將電，日年移羅網四張，須知遍布陰暗，時日生剋的是晴雨真機。",
+      "paragraph_index": 31,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P032_S000",
+      "original_quote": "又斷",
+      "paragraph_index": 32,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P033_S000",
+      "original_quote": "凡占晴須論符、天、朱、蛇、勾、白之神，與八門生、景、死、杜、輔、禽、英、芮，並起元於火木局，三奇得位，戊己當權，陽星開必主晴。",
+      "paragraph_index": 33,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P034_S000",
+      "original_quote": "凡占雨須看地、陰、元、白之神，與八門之休、驚、開、傷，九星之蓬、柱、心、衝，並起元於金水局，三奇虛墓，庚辛壬癸當權，陰星闔必陰雨也。",
+      "paragraph_index": 34,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P035_S000",
+      "original_quote": "身命占",
+      "paragraph_index": 35,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P036_S000",
+      "original_quote": "值符",
+      "paragraph_index": 36,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P037_S000",
+      "original_quote": "值符，發朝之初氣概、雄偉、羊盾、虎皮。",
+      "paragraph_index": 37,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P037_S001",
       "original_quote": "螣蛇，口實虛驚、奸佞心毒、委屈婉轉。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L052",
+      "line_id": "QMDJ_Juan12_P037_S002",
       "original_quote": "太陰，小人暗算、沉滯猥小、深謀遠慮。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L053",
+      "line_id": "QMDJ_Juan12_P037_S003",
       "original_quote": "六合，親朋招撫、和靄慈祥、易惑易動。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L054",
+      "line_id": "QMDJ_Juan12_P037_S004",
       "original_quote": "勾陳、白虎，事多磨折、果敢執物、道路驚、凶勇威權。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L055",
+      "line_id": "QMDJ_Juan12_P037_S005",
       "original_quote": "朱雀、元武，詞訟是非、巧辯能文、宜防欺偽、奸險陰邪。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L056",
+      "line_id": "QMDJ_Juan12_P037_S006",
       "original_quote": "九地，宜防險阻、深機大度、陰謀莫測。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L057",
-      "original_quote": "九天，出穀遷向、軒昂大方、虛張聲勢。",
+      "line_id": "QMDJ_Juan12_P037_S007",
+      "original_quote": "九天， 出穀遷向、軒昂大方、虛張聲勢。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L058",
-      "original_quote": "\n值使\n休，利謁見、安葬、固執事屈而伸。",
+      "line_id": "QMDJ_Juan12_P038_S000",
+      "original_quote": "值使",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L059",
+      "line_id": "QMDJ_Juan12_P039_S000",
+      "original_quote": "休，利謁見、安葬、固執事屈而伸。",
+      "paragraph_index": 39,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P039_S001",
       "original_quote": "生，利經營、安葬、守時、鳴則驚人。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L060",
+      "line_id": "QMDJ_Juan12_P039_S002",
       "original_quote": "傷，利捕獵、得令著損，先凶損傷。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L061",
+      "line_id": "QMDJ_Juan12_P039_S003",
       "original_quote": "杜，利遮攔、安分、潛形隱匿、秘密。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L062",
-      "original_quote": "景，利投書、利見大人、文書消息。",
+      "line_id": "QMDJ_Juan12_P039_S004",
+      "original_quote": "景，利投書、利見 大人、文書消息。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L063",
+      "line_id": "QMDJ_Juan12_P039_S005",
       "original_quote": "死，防縊死、收債財貨、吊喪、行刑。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L064",
+      "line_id": "QMDJ_Juan12_P039_S006",
       "original_quote": "驚，利擒訟、聲名振世、肅殺虛驚。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L065",
+      "line_id": "QMDJ_Juan12_P039_S007",
       "original_quote": "開，利遠行、遠圖、舉謀、營造、市賈。",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L066",
-      "original_quote": "\n十干\n甲，若父兄師、高人君子。",
+      "line_id": "QMDJ_Juan12_P040_S000",
+      "original_quote": "十干",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L067",
+      "line_id": "QMDJ_Juan12_P041_S000",
+      "original_quote": "甲，若父兄師、高人君子。",
+      "paragraph_index": 41,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P041_S001",
       "original_quote": "乙，如姊姑妹、僧道、藝術。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L068",
+      "line_id": "QMDJ_Juan12_P041_S002",
       "original_quote": "丙，兒外甥佐、詩人墨客。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L069",
+      "line_id": "QMDJ_Juan12_P041_S003",
       "original_quote": "丁，女孫使、媒妁。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L070",
+      "line_id": "QMDJ_Juan12_P041_S004",
       "original_quote": "戊，妾健步。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L071",
+      "line_id": "QMDJ_Juan12_P041_S005",
       "original_quote": "己，妻婢、農人、士工。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L072",
+      "line_id": "QMDJ_Juan12_P041_S006",
       "original_quote": "庚，祖父、將帥、軍校。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L073",
+      "line_id": "QMDJ_Juan12_P041_S007",
       "original_quote": "辛，祖母、陶冶、匠尼。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L074",
+      "line_id": "QMDJ_Juan12_P041_S008",
       "original_quote": "壬，母、牙客、舟人、腳投、穩婆。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L075",
+      "line_id": "QMDJ_Juan12_P041_S009",
       "original_quote": "癸，母姨、參謀、博士。",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L076",
-      "original_quote": "\n九星\n蓬，須黑肥濁、勇猛沉滯。",
+      "line_id": "QMDJ_Juan12_P042_S000",
+      "original_quote": "九星",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L077",
+      "line_id": "QMDJ_Juan12_P043_S000",
+      "original_quote": "蓬，須黑肥濁、勇猛沉滯。",
+      "paragraph_index": 43,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P043_S001",
       "original_quote": "任，矮跎跛足、偽諉詐師巫。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L078",
+      "line_id": "QMDJ_Juan12_P043_S002",
       "original_quote": "衝，五表清奇、善辨奇律。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L079",
+      "line_id": "QMDJ_Juan12_P043_S003",
       "original_quote": "輔，清秀、歌訣、文雅、和順。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L080",
+      "line_id": "QMDJ_Juan12_P043_S004",
       "original_quote": "英，棗面、青須、稀發、麻班、脫穎。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L081",
+      "line_id": "QMDJ_Juan12_P043_S005",
       "original_quote": "芮，黑矮肥胖、拘執忍耐。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L082",
+      "line_id": "QMDJ_Juan12_P043_S006",
       "original_quote": "禽，端正、淑慎、忠良正直。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L083",
+      "line_id": "QMDJ_Juan12_P043_S007",
       "original_quote": "柱，長大雄狼、剛暴險惡。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L084",
+      "line_id": "QMDJ_Juan12_P043_S008",
       "original_quote": "心，闊面、重腮、大耳、果斷辨才。",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L085",
-      "original_quote": "\n九宮\n一，得令，才名雙美；",
+      "line_id": "QMDJ_Juan12_P044_S000",
+      "original_quote": "九宮",
+      "paragraph_index": 44,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L086",
+      "line_id": "QMDJ_Juan12_P045_S000",
+      "original_quote": "一，得令，才名雙美；",
+      "paragraph_index": 45,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P045_S001",
       "original_quote": "失令，風流蕩子。",
+      "paragraph_index": 45,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L087",
-      "original_quote": "\n二，得令，富厚；",
+      "line_id": "QMDJ_Juan12_P046_S000",
+      "original_quote": "二，得令，富厚；",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L088",
+      "line_id": "QMDJ_Juan12_P046_S001",
       "original_quote": "失令，奔馳。",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L089",
-      "original_quote": "\n三，得令，聰明虛詐；",
+      "line_id": "QMDJ_Juan12_P047_S000",
+      "original_quote": "三，得令，聰明虛詐；",
+      "paragraph_index": 47,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L090",
+      "line_id": "QMDJ_Juan12_P047_S001",
       "original_quote": "失令，有始無終。",
+      "paragraph_index": 47,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L091",
-      "original_quote": "\n四，得令，節申子辰，氣巳酉丑。",
+      "line_id": "QMDJ_Juan12_P048_S000",
+      "original_quote": "四，得令，節申子辰，氣巳酉丑。",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L092",
-      "original_quote": "\n五，節四維土，氣四庫土。",
+      "line_id": "QMDJ_Juan12_P049_S000",
+      "original_quote": "五，節四維土，氣四庫土。",
+      "paragraph_index": 49,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L093",
-      "original_quote": "\n六，節寅午戌，氣亥卯未。",
+      "line_id": "QMDJ_Juan12_P050_S000",
+      "original_quote": "六，節寅午戌，氣亥卯未。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L094",
-      "original_quote": "\n七，得令，威名服眾；",
+      "line_id": "QMDJ_Juan12_P051_S000",
+      "original_quote": "七，得令，威名服眾；",
+      "paragraph_index": 51,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L095",
+      "line_id": "QMDJ_Juan12_P051_S001",
       "original_quote": "失令，刑剋險惡。",
+      "paragraph_index": 51,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L096",
-      "original_quote": "\n八，得時，有格；",
+      "line_id": "QMDJ_Juan12_P052_S000",
+      "original_quote": "八，得時，有格；",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L097",
+      "line_id": "QMDJ_Juan12_P052_S001",
       "original_quote": "失令，執滯。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L098",
-      "original_quote": "\n九，得時，清秀文墨；",
+      "line_id": "QMDJ_Juan12_P053_S000",
+      "original_quote": "九，得時，清秀文墨；",
+      "paragraph_index": 53,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L099",
+      "line_id": "QMDJ_Juan12_P053_S001",
       "original_quote": "失令，匠作詭謀。",
+      "paragraph_index": 53,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L100",
-      "original_quote": "\n門戶\n榮貴責天門，富厚責地戶，門戶合陽宮、陽星、得令，軒昂進貴；",
+      "line_id": "QMDJ_Juan12_P054_S000",
+      "original_quote": "門戶",
+      "paragraph_index": 54,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L101",
+      "line_id": "QMDJ_Juan12_P055_S000",
+      "original_quote": "榮貴責天門，富厚責地戶，門戶合陽宮、陽星、得令，軒昂進貴；",
+      "paragraph_index": 55,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P055_S001",
       "original_quote": "合陰宮、陰星、失令，奸險小人。",
+      "paragraph_index": 55,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L102",
-      "original_quote": "\n三甲\n孟甲，多慷慨，開主武魁，合主瘦長或矮疲。",
+      "line_id": "QMDJ_Juan12_P056_S000",
+      "original_quote": "三甲",
+      "paragraph_index": 56,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L103",
+      "line_id": "QMDJ_Juan12_P057_S000",
+      "original_quote": "孟甲，多慷慨，開主武魁，合主瘦長或矮疲。",
+      "paragraph_index": 57,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P057_S001",
       "original_quote": "仲甲，多瀟灑，開主飄蕩，合主刑害或僧道、藝術。",
+      "paragraph_index": 57,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L104",
+      "line_id": "QMDJ_Juan12_P057_S002",
       "original_quote": "季甲，多敦厚，開主刑衝，合主慳澀、孤獨。",
+      "paragraph_index": 57,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L105",
-      "original_quote": "\n論干支\n日乾為身時為命，納音之中運氣定，身無傷剋是吉胎，納音生扶事業成，得化得時不刑傷，此君名望人欽敬，最怕身命值休囚，祖產於令都無剩，納音最慮身命墓，作事多歧壽恐竟。",
+      "line_id": "QMDJ_Juan12_P058_S000",
+      "original_quote": "論干支",
+      "paragraph_index": 58,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L106",
-      "original_quote": "\n論值符\n值符論人直使事，十干人物是性情，九宮起元論來歷，門戶開闔事業因，歲月日時行年命，宮分泊落細推尋，已過將來及時旺，子父財官逐類分，大凡值符怕空鄉，生平事業甚乖張，年命再值別格墓，只疑前程不久長，次及歲月日時幹，不值刑格事多歡，其中有一失宮次，根苗花果分類看。",
+      "line_id": "QMDJ_Juan12_P059_S000",
+      "original_quote": "日乾為身時為命，納音之中運氣定，身無傷剋是吉胎，納音生扶事業成，得化得時不刑傷，此君名望人欽敬，最怕身命值休囚，祖產於令都無剩，納音最慮身命墓，作事多歧壽恐竟。",
+      "paragraph_index": 59,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L107",
-      "original_quote": "\n論值使\n值使從來考作為，逢生乘旺始相宜，倘值刑害兼格墓，所謀未許逐心期，從旁檢點年命上，次及四乾門所依，五凶三吉並空廢，休咎其間另有機。",
+      "line_id": "QMDJ_Juan12_P060_S000",
+      "original_quote": "論值符",
+      "paragraph_index": 60,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L108",
-      "original_quote": "\n論十干\n奇儀九處序六親，各從起宮辨來因，值符宮元時元旺，得符得使亨利貞。",
+      "line_id": "QMDJ_Juan12_P061_S000",
+      "original_quote": "值符論人直使事，十干人物是性情，九宮起元論來歷，門戶開闔事業因，歲月日時行年命，宮分泊落細推尋，已過將來及時旺，子父財官逐類分，大凡值符怕空鄉，生平事業甚乖張，年命再值別格墓，只疑前程不久長，次及歲月日時幹，不值刑格事多歡，其中有一失宮次，根苗花果分類看。",
+      "paragraph_index": 61,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L109",
-      "original_quote": "\n論九星\n九星自古別性情，各隨五行考羲經，孤虛旺相及年命，逐一參看自通靈。",
+      "line_id": "QMDJ_Juan12_P062_S000",
+      "original_quote": "論值使",
+      "paragraph_index": 62,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L110",
-      "original_quote": "\n論九宮\n九宮起元考系派，會局得時多貴介，逐類用神察旁宮，作術興廢數內載。",
+      "line_id": "QMDJ_Juan12_P063_S000",
+      "original_quote": "值使從來考作為，逢生乘旺始相宜，倘值刑害兼格墓，所謀未許逐心期，從旁檢點年命上，次及四乾門所依，五凶三吉並空廢，休咎其間另有機。",
+      "paragraph_index": 63,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L111",
-      "original_quote": "\n論門戶\n須察奇儀分八卦，宮陷墓絕論親因，年命所欣三六會，算來人物自亨通。",
+      "line_id": "QMDJ_Juan12_P064_S000",
+      "original_quote": "論十干",
+      "paragraph_index": 64,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L112",
-      "original_quote": "\n論三甲\n三門四所合陽開，年命逢之顯者來，如若失令值陰合，作事多見巧中呆。",
+      "line_id": "QMDJ_Juan12_P065_S000",
+      "original_quote": "奇儀九處序六親，各從起宮辨來因，值符宮元時元旺，得符得使亨利貞。",
+      "paragraph_index": 65,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L113",
-      "original_quote": "\n論吉凶\n螣蛇含金憂口吻，忽然墜水生災非，太陰課體或承羞，六白臨西陰謀忌。",
+      "line_id": "QMDJ_Juan12_P066_S000",
+      "original_quote": "論九星",
+      "paragraph_index": 66,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L114",
-      "original_quote": "\n勾陳卯位公事擾，到艮申庚門毀嗔，白虎驚柱銜刀可畏，朱雀杜景喧噪堪嫌，元武居乾不能終勢，九地杜死沒齒無聞，九天開雲龍變化。",
+      "line_id": "QMDJ_Juan12_P067_S000",
+      "original_quote": "九星自古別性情，各隨五行考羲經，孤虛旺相及年命，逐一參看自通靈。",
+      "paragraph_index": 67,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L115",
-      "original_quote": "甲乙春榮，丙丁夏盛，戊己四季，庚辛旺秋，壬癸喜冬，此皆發達超群之人。",
+      "line_id": "QMDJ_Juan12_P068_S000",
+      "original_quote": "論九宮",
+      "paragraph_index": 68,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L116",
+      "line_id": "QMDJ_Juan12_P069_S000",
+      "original_quote": "九宮起元考系派，會局得時多貴介，逐類用神察旁宮，作術興廢數內載。",
+      "paragraph_index": 69,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P070_S000",
+      "original_quote": "論門戶",
+      "paragraph_index": 70,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P071_S000",
+      "original_quote": "須察奇儀分八卦，宮陷墓絕論親因，年命所欣三六會，算來人物自亨通。",
+      "paragraph_index": 71,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P072_S000",
+      "original_quote": "論三甲",
+      "paragraph_index": 72,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P073_S000",
+      "original_quote": "三門四所合陽開，年命逢之顯者來，如若失令值陰合，作事多見巧中呆。",
+      "paragraph_index": 73,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P074_S000",
+      "original_quote": "論吉凶",
+      "paragraph_index": 74,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P075_S000",
+      "original_quote": "螣蛇含金憂口吻，忽然墜水生災非，太陰課體或承羞，六白臨西陰謀忌。",
+      "paragraph_index": 75,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P076_S000",
+      "original_quote": "勾陳卯位公事擾，到艮申庚門毀嗔，白虎驚柱銜刀可畏，朱雀杜景喧噪堪嫌，元武居乾不能終勢，九地杜死沒齒無聞，九天開雲龍變化。",
+      "paragraph_index": 76,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P076_S001",
+      "original_quote": "甲乙春榮，丙丁夏盛，戊己 四季，庚辛旺秋，壬癸喜冬，此皆發達超群之人。",
+      "paragraph_index": 76,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P076_S002",
       "original_quote": "至若甲得己而中正可風，乙遇庚而剛柔相濟，丙合辛而施威，丁見壬而諂媚，戊癸剛決，無緣宵小。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L117",
-      "original_quote": "八宮互合靄靄吉人；",
+      "line_id": "QMDJ_Juan12_P076_S003",
+      "original_quote": "八宮互合靄靄 吉人；",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L118",
+      "line_id": "QMDJ_Juan12_P076_S004",
       "original_quote": "各宮偏黨，硜硜鄙劣；",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L119",
+      "line_id": "QMDJ_Juan12_P076_S005",
       "original_quote": "合中帶刑，美不足凶，空吉寔樂有餘。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L120",
-      "original_quote": "從其相生，避其相剋，年月日時參究，旬得龍返首而事業順美，鳥跌穴而聲名顯揚，得遁才堪權變，逢詐自能斡旋，得使急外有助，守門出入亨通，五假機緣邁眾，三勝膽畧過人，夭矯而作事虛驚，投江而文信遺失，伏乾出遺財物，飛幹恃強自傷，伏宮須防盜賊，飛宮事業消亡。",
+      "line_id": "QMDJ_Juan12_P076_S006",
+      "original_quote": "從其相生，避其相剋，年月日時參究，旬得龍返首而事業順美，鳥跌穴而聲名顯揚，得遁才堪權 變，逢詐自能斡旋，得使急外有助，守門出入亨通，五假機緣邁眾，三勝膽畧過人，夭矯而作事虛驚，投江而文信遺失，伏乾出遺財物，飛幹恃強自傷，伏宮須防盜 賊，飛宮事業消亡。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L121",
+      "line_id": "QMDJ_Juan12_P076_S007",
       "original_quote": "大隔小隔，謀為不轉。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L122",
+      "line_id": "QMDJ_Juan12_P076_S008",
       "original_quote": "刑格悖格，禍自內生。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L123",
-      "original_quote": "白入熒宜防外敵，熒入白仇敵自亡，龍逃防身災晦，虎狂恐物乖張，五不遇舉事蹭蹬，羅網張出入宜防。",
+      "line_id": "QMDJ_Juan12_P076_S009",
+      "original_quote": "白入熒宜防外敵，熒入白仇敵自亡，龍逃防身災晦，虎狂恐物乖張，五不遇舉事蹭蹬，羅網張出入 宜防。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L124",
+      "line_id": "QMDJ_Juan12_P076_S010",
       "original_quote": "六儀擊刑，凶災各別。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L125",
+      "line_id": "QMDJ_Juan12_P076_S011",
       "original_quote": "三奇入墓，圖謀不揚。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L126",
+      "line_id": "QMDJ_Juan12_P076_S012",
       "original_quote": "反吟伏吟多啾唧，吉凶門迫果非祥，天馬吉門臨命上，策驥生方永無殃。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L127",
-      "original_quote": "\n又訣\n凡占造化，須看其本命行年屬何卦氣，當令失令，以斷其生平之吉凶。",
+      "line_id": "QMDJ_Juan12_P077_S000",
+      "original_quote": "又訣",
+      "paragraph_index": 77,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L128",
+      "line_id": "QMDJ_Juan12_P078_S000",
+      "original_quote": "凡占造化，須看其本命行年屬何卦氣，當令失令，以斷其生平之吉凶。",
+      "paragraph_index": 78,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P078_S001",
       "original_quote": "次及本日干支之納，正時干支之納，生旺剋制何如，以斷其目下事業興衰。",
+      "paragraph_index": 78,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L129",
-      "original_quote": "值符起元何宮元，屬本宮何親，今行何卦，旺相生剋何如，其子入父垣，妾讓妻位，從中斟酌，自得消息。",
+      "line_id": "QMDJ_Juan12_P078_S002",
+      "original_quote": "值符起元何宮元，屬 本宮何親，今行何卦，旺相生剋何如，其子入父垣，妾讓妻位，從中斟酌，自得消息。",
+      "paragraph_index": 78,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L130",
+      "line_id": "QMDJ_Juan12_P078_S003",
       "original_quote": "再詳值使，以定眼前之作為，會合年命以觀其變化之神妙。",
+      "paragraph_index": 78,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L131",
-      "original_quote": "如父占子則看兒舍，夫占妻則論妻神，遂得所值之星，以察其心事、人品，更加詳於門戶開合，三甲陰陽，自當得其玄妙矣。",
+      "line_id": "QMDJ_Juan12_P078_S004",
+      "original_quote": "如父占子則看兒 舍，夫占妻則論妻神，遂得所值之星，以察其心事、人品，更加詳於門戶開合，三甲陰陽，自當得其玄妙矣。",
+      "paragraph_index": 78,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L132",
-      "original_quote": "\n科試占\n論干支\n日乾原為應試人，時幹卻是主考臨，日支文章忌刑害，時支場屋所寄陳，納音之中去査取，等第優劣可詳分，旺相生合為吉兆，刑囚攻截總遭迍，日生主文宜賄囑，主文生日宜中君，文章再興主文合，擲地金聲姓氏芬，惟忌時納遭刑制，只恐類窄有遺淪，兩支亦忌相刑害，傷驚塗抹要留心。",
+      "line_id": "QMDJ_Juan12_P079_S000",
+      "original_quote": "科試占",
+      "paragraph_index": 79,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L133",
-      "original_quote": "\n論值符\n科試先須論值符，逢生合旺可進圖，朱白生身名高擢，勾蛇刑害卷胡塗，年命日元九天位，皇都得意唱傳臚。",
+      "line_id": "QMDJ_Juan12_P080_S000",
+      "original_quote": "論干支",
+      "paragraph_index": 80,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L134",
-      "original_quote": "\n論直使\n值使論門以後先，開遇九天御筆鮮，杜臨九地孫山外，景門臨之不列前，大約用門無刑格，旁類多吉副榜邊。",
+      "line_id": "QMDJ_Juan12_P081_S000",
+      "original_quote": "日乾原為應試人，時幹卻是主考臨，日支文章忌刑害，時支場屋所寄陳，納音之中去査取，等第優劣可詳分，旺相生合為吉兆，刑囚攻截總遭迍，日生主文宜賄囑，主文生日宜中君，文章再興主文合，擲地金聲姓氏芬，惟忌時納遭刑制，只恐類窄有遺淪，兩支亦忌相刑害，傷驚塗抹要留心。",
+      "paragraph_index": 81,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L135",
-      "original_quote": "\n論十干\n奇儀用神怕刑格，飛伏宮次相推測，三奇湊聚年命間，來朝定作金榜客。",
+      "line_id": "QMDJ_Juan12_P082_S000",
+      "original_quote": "論值符",
+      "paragraph_index": 82,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L136",
-      "original_quote": "\n論九星\n符星起伏忌孤虛，背時擊刑總嗟籲，入父入官要身旺，獻策投書可曳裾。",
+      "line_id": "QMDJ_Juan12_P083_S000",
+      "original_quote": "科試先須論值符，逢生合旺可進圖，朱白生身名高擢，勾蛇刑害卷胡塗，年命日元九天位，皇都得意唱傳臚。",
+      "paragraph_index": 83,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L137",
-      "original_quote": "\n論九宮\n起元專考飛伏宮，弱飛旺兮可從龍，官父互交多得意，比脫加臨可落空。",
+      "line_id": "QMDJ_Juan12_P084_S000",
+      "original_quote": "論直使",
+      "paragraph_index": 84,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L138",
-      "original_quote": "\n論門戶\n將揭曉兮看天門，吉星生合步青雲，初入闈時看地戶，得令生官中舉人。",
+      "line_id": "QMDJ_Juan12_P085_S000",
+      "original_quote": "值使論門以後先，開遇九天御筆鮮，杜臨九地孫山外，景門臨之不列前，大約用門無刑格，旁類多吉副榜邊。",
+      "paragraph_index": 85,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L139",
-      "original_quote": "\n論三甲\n三甲區分前後中，陽開星吉與生身，得比堪言名已備，只從甲位寄奇蹤。",
+      "line_id": "QMDJ_Juan12_P086_S000",
+      "original_quote": "論十干",
+      "paragraph_index": 86,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L140",
-      "original_quote": "\n論吉凶格\n返首跌穴，無疵方得成名。",
+      "line_id": "QMDJ_Juan12_P087_S000",
+      "original_quote": "奇儀用神怕刑格，飛伏宮次相推測，三奇湊聚年命間，來朝定作金榜客。",
+      "paragraph_index": 87,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L141",
+      "line_id": "QMDJ_Juan12_P088_S000",
+      "original_quote": "論九星",
+      "paragraph_index": 88,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P089_S000",
+      "original_quote": "符星起伏忌孤虛，背時擊刑總嗟籲，入父入官要身旺，獻策投書可曳裾。",
+      "paragraph_index": 89,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P090_S000",
+      "original_quote": "論九宮",
+      "paragraph_index": 90,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P091_S000",
+      "original_quote": "起元專考飛伏宮，弱飛旺兮可從龍，官父互交多得意，比脫加臨可落空。",
+      "paragraph_index": 91,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P092_S000",
+      "original_quote": "論門戶",
+      "paragraph_index": 92,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P093_S000",
+      "original_quote": "將揭曉兮看天門，吉星生合步青雲，初入闈時看地戶，得令生官中舉人。",
+      "paragraph_index": 93,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P094_S000",
+      "original_quote": "論三甲",
+      "paragraph_index": 94,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P095_S000",
+      "original_quote": "三甲區分前後中，陽開星吉與生身，得比堪言名已備，只從甲位寄奇蹤。",
+      "paragraph_index": 95,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P096_S000",
+      "original_quote": "論吉凶格",
+      "paragraph_index": 96,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P097_S000",
+      "original_quote": "返首跌穴，無疵方得成名。",
+      "paragraph_index": 97,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P097_S001",
       "original_quote": "虎狂龍走，有傷那能進步。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L142",
+      "line_id": "QMDJ_Juan12_P097_S002",
       "original_quote": "天遁人遁，際會風雲之客。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L143",
+      "line_id": "QMDJ_Juan12_P097_S003",
       "original_quote": "虎遁龍遁，蟾宮折桂之人。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L144",
+      "line_id": "QMDJ_Juan12_P097_S004",
       "original_quote": "俱要填合年命用乾，始可斷其天衢得路。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L145",
-      "original_quote": "三詐五假，從前折挫始亨通。",
+      "line_id": "QMDJ_Juan12_P097_S005",
+      "original_quote": "三詐五假，從前 折挫始亨通。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L146",
+      "line_id": "QMDJ_Juan12_P097_S006",
       "original_quote": "得使守門，旁求公薦方得意。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L147",
-      "original_quote": "門戶忌傷符使，人元最怕休囚，天馬上乘朱雀，泥封已出天衢，夭矯而文不入式，投江而卷或漏遺，伏乾飛幹只疑場屋生變，飛宮伏宮又懼試後興殃，格隔進呈有阻，刑悖字號宜防，熒入白兮不第，白入熒兮不揚，不遇徒勞獻策，擊刑反惹驚惶，入墓網羅，年命吉而可言中。",
+      "line_id": "QMDJ_Juan12_P097_S007",
+      "original_quote": "門戶忌傷符使，人元最怕休囚，天馬上乘朱雀，泥封已出天衢，夭矯而文不入式，投江而卷或漏遺，伏乾飛幹只疑場屋生 變，飛宮伏宮又懼試後興殃，格隔進呈有阻，刑悖字號宜防，熒入白兮不第，白入熒兮不揚，不遇徒勞獻策，擊刑反惹驚惶，入墓網羅，年命吉而可言中。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L148",
-      "original_quote": "反伏門迫雖入試，而未免狼當。",
+      "line_id": "QMDJ_Juan12_P097_S008",
+      "original_quote": "反伏門迫 雖入試，而未免狼當。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L149",
+      "line_id": "QMDJ_Juan12_P097_S009",
       "original_quote": "天乙祿馬乘吉，時來生命自飛黃。",
+      "paragraph_index": 97,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L150",
-      "original_quote": "\n求財占\n論干支\n日元為人時元財，兩支中間債物船，納音之中定市價，孤虛旺相著裁量。",
+      "line_id": "QMDJ_Juan12_P098_S000",
+      "original_quote": "求財占",
+      "paragraph_index": 98,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L151",
-      "original_quote": "\n日剋時兮財可就，時剋日兮腦心懷，買貨時支分貴賤，生合人元可買來，賣貨日支分休旺，最喜生支又作財，日納如若剋時納，倍息生意此一回，時納若剋於日納，空費心機事不諧，一切藝術圖謀事，亦喜時生鬼化財，大抵上下無刑害，始終如意不須猜，索債取捕他受制，支納生乾可得來。",
+      "line_id": "QMDJ_Juan12_P099_S000",
+      "original_quote": "論干支",
+      "paragraph_index": 99,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L152",
-      "original_quote": "\n論值符\n值符貨物交易情，或生或旺休廢刑，賣貨生旺宜售客，買貨休囚當速成，六合中人忌剋休，勾如傷用必遲行，元朱傷人防失脫，又恐腐爛貨不真，九地生身宜堆積，九天生合賣遂心，就使空拳去覓利，亦喜符旺又相生。",
+      "line_id": "QMDJ_Juan12_P100_S000",
+      "original_quote": "日元為人時元財，兩支中間債物船，納音之中定市價，孤虛旺相著裁量。",
+      "paragraph_index": 100,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L153",
-      "original_quote": "\n論值使\n值使求財出八方，門無傷剋利偏安，吉門更臨生旺地，腰纏千萬可行藏，若得用門守財令，坐賈行商不用忙。",
+      "line_id": "QMDJ_Juan12_P101_S000",
+      "original_quote": "日剋時兮財可就，時剋日兮腦心懷，買貨時支分貴賤，生合人元可買來，賣貨日支分休旺，最喜生支又作財，日納如若剋時納，倍息生意此一回，時納若剋於日納，空費心機事不諧，一切藝術圖謀事，亦喜時生鬼化財，大抵上下無刑害，始終如意不須猜，索債取捕他受制，支納生乾可得來。",
+      "paragraph_index": 101,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L154",
-      "original_quote": "\n論十干\n奇儀詳兮子與財，子旺財生可遂懷，最喜財庫命臨身，到手時日此中該。",
+      "line_id": "QMDJ_Juan12_P102_S000",
+      "original_quote": "論值符",
+      "paragraph_index": 102,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L155",
-      "original_quote": "\n論九星\n符星喜旺制財星，財星空旺總勞神，財星化鬼君休覓，鬼化為財白手覆，若還飛入比肩地，其間必定有分爭，財星若去投子舍，我到其方必獲成。",
+      "line_id": "QMDJ_Juan12_P103_S000",
+      "original_quote": "值符貨物交易情，或生或旺休廢刑，賣貨生旺宜售客，買貨休囚當速成，六合中人忌剋休，勾如傷用必遲行，元朱傷人防失脫，又恐腐爛貨不真，九地生身宜堆積，九天生合賣遂心，就使空拳去覓利，亦喜符旺又相生。",
+      "paragraph_index": 103,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L156",
-      "original_quote": "\n論九宮\n起元分辨是何財，土宜布菽慄鹽諧，水木經商火窰冶，金為錢榖珠玉該，時日會元乘生旺，此時端的遂心懷，只有飛伏臨何處，便察從何得將來。",
+      "line_id": "QMDJ_Juan12_P104_S000",
+      "original_quote": "論值使",
+      "paragraph_index": 104,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L157",
-      "original_quote": "\n論門戶\n門戶莫與財元劫，生助財宮方安貼，符元更制門戶上，青蚨多翼方門歇。",
+      "line_id": "QMDJ_Juan12_P105_S000",
+      "original_quote": "值使求財出八方，門無傷剋利偏安，吉門更臨生旺地，腰纏千萬可行藏，若得用門守財令，坐賈行商不用忙。",
+      "paragraph_index": 105,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L158",
-      "original_quote": "\n論三甲\n孟甲原宜去求財，仲甲半喜遂心懷，季甲欲求求未得，開闔中間得失裁。",
+      "line_id": "QMDJ_Juan12_P106_S000",
+      "original_quote": "論十干",
+      "paragraph_index": 106,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L159",
-      "original_quote": "\n論吉凶\n返首跌穴，垂手可得。",
+      "line_id": "QMDJ_Juan12_P107_S000",
+      "original_quote": "奇儀詳兮子與財，子旺財生可遂懷，最喜財庫命臨身，到手時日此中該。",
+      "paragraph_index": 107,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L160",
+      "line_id": "QMDJ_Juan12_P108_S000",
+      "original_quote": "論九星",
+      "paragraph_index": 108,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P109_S000",
+      "original_quote": "符星喜旺制財星，財星空旺總勞神，財星化鬼君休覓，鬼化為財白手覆，若還飛入比肩地，其間必定有分爭，財星若去投子舍，我到其方必獲成。",
+      "paragraph_index": 109,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P110_S000",
+      "original_quote": "論九宮",
+      "paragraph_index": 110,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P111_S000",
+      "original_quote": "起元分辨是何財，土宜布菽慄鹽諧，水木經商火窰冶，金為錢榖珠玉該，時日會元乘生旺，此時端的遂心懷，只有飛伏臨何處，便察從何得將來。",
+      "paragraph_index": 111,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P112_S000",
+      "original_quote": "論門戶",
+      "paragraph_index": 112,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P113_S000",
+      "original_quote": "門戶莫與財元劫，生助財宮方安貼，符元更制門戶上，青蚨多翼方門歇。",
+      "paragraph_index": 113,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P114_S000",
+      "original_quote": "論三甲",
+      "paragraph_index": 114,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P115_S000",
+      "original_quote": "孟甲原宜去求財，仲甲半喜遂心懷，季甲欲求求未得，開闔中間得失裁。",
+      "paragraph_index": 115,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P116_S000",
+      "original_quote": "論吉凶",
+      "paragraph_index": 116,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P117_S000",
+      "original_quote": "返首跌穴，垂手可得。",
+      "paragraph_index": 117,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan12_P117_S001",
       "original_quote": "虎狂龍走，枉自逢迎。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L161",
+      "line_id": "QMDJ_Juan12_P117_S002",
       "original_quote": "得遁格，機變而取。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L162",
+      "line_id": "QMDJ_Juan12_P117_S003",
       "original_quote": "逢詐假設計以求，得使而中人效力，守門而坐賈偏宜，三門四戶最宜生合，財神天馬私門不宜刑衝。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L163",
+      "line_id": "QMDJ_Juan12_P117_S004",
       "original_quote": "符命、妖矯，而人情反複。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L164",
+      "line_id": "QMDJ_Juan12_P117_S005",
       "original_quote": "投江而售賣不行。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L165",
+      "line_id": "QMDJ_Juan12_P117_S006",
       "original_quote": "伏宮飛宮，此地不比他地。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L166",
+      "line_id": "QMDJ_Juan12_P117_S007",
       "original_quote": "伏乾飛幹，此人不比那人。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L167",
-      "original_quote": "大小格難以覓利，刑悖隔就早抽身，熒入白兮宜買貨，白入熒兮賣稱情，不遇空費心力，擊刑此處難求。",
+      "line_id": "QMDJ_Juan12_P117_S008",
+      "original_quote": "大小格難以覓利，刑悖隔就早抽身，熒入白兮宜買貨，白入熒兮 賣稱情，不遇空費心力，擊刑此處難求。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L168",
+      "line_id": "QMDJ_Juan12_P117_S009",
       "original_quote": "入墓、羅網，縱見利而不能得手。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L169",
+      "line_id": "QMDJ_Juan12_P117_S010",
       "original_quote": "反伏、門迫，雖懷寶而難入亂邦。",
+      "paragraph_index": 117,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan12_L170",
+      "line_id": "QMDJ_Juan12_P117_S011",
       "original_quote": "最要持納符元，三才合式不逢鬼劫為詳。",
+      "paragraph_index": 117,
       "tag": []
     }
   ],
   "_source": {
     "text": "奇門遁甲秘笈大全",
     "juan": "Juan12",
-    "line_id_start": "QMDJ_Juan12_L000",
-    "line_id_end": "QMDJ_Juan12_L170"
+    "line_id_start": "QMDJ_Juan12_P000_S000",
+    "line_id_end": "QMDJ_Juan12_P117_S011",
+    "original_block": "《卷十二》\n晴雨占\n論值符\n值符，九天日月風雨應明。螣蛇，雷電虹霓。太陰，霜雪、冰凍、陰雲。六合，和風麗日。勾陳、白虎，呵霧、沉晦、疾風、暴雨。朱雀、元武，天鼓電雷、密雲細雨。九地，陰晴、苦寒。九天，晴空、爽氣。\n值使\n休，白雲、甘露、苦寒、細雨。生，狂風黃沙。傷，青氣、雷雹、風雲、暴雷。杜，虹霓、閃雷霹靂。景，虹霓、赤日、炎風。死，陰風、寒凍、冰霜、河瘴。驚，狂風、霹靂雷雹。開，霞彩、雷雹。\n十干\n甲，青龍、旭日、榖風。乙，青龍、和風、麗日。丙，朱雀、新月、電光。丁，朱雀、景星、慶雲。戊，勾陳、霜霧、瘴氣、迷蒙、雲氣、燥濕。庚，白虎、嚴霜、暴雨，秋冬則嚴霜，春夏則暴雨，按其時令。壬，元武、疾風、暴雨。癸，元武、潔雨、虹霓、凝冰、肅氣，按其時令。\n九星\n蓬，烏雲、蒼龍、陰雨、怪氣。任，霧瘴、風沙。衝，風沙、雹、晴爽氣。輔，虹霓、祥雲。英，彩雲、暗嵐、霓電。芮，霧氣、陰霾、黃沙。禽，晴風、淑氣、爽籟、甘露。柱，風霜、霹靂、寒冰。心，雷電、寒光、赤霞、白氣。\n門戶\n晴霽，責天門。風雲，責地戶門戶。合陽宮陽星晴，合陰宮陰星雨。\n三甲\n孟甲多陰雨，合陰開時取。仲甲半陰晴，開合細搜尋。季甲晴堪許，開合從星舉。\n論干支\n日乾為天時為地，納音五行陰陽帝，天剋地兮風生林，地剋天兮空霧氣，天地生合論化神如甲己化土之類，金水甘露天未霽，細雨納音生剋情，五行時令消息意，假如合水納是金，管教刻下風雨至。\n論值符\n水局主雨金局寒，門金符水教出潭，若是金符門到水，只疑飛龍入九淵，土局陰霾未有涯，時或四野起黃沙，冬深符土門金凍，門土符金飛六花，符門之間火木局，天地晴和寔可誇，木局風生火局晴，春夏逢之斷得靈，惟懼囚墓廢時日，反致風停細雨零。\n論值使\n值使各逐本宮求，旺氣逢生從類搜，刑制隔害吟反伏，陰晴變易有來由，休囚死廢無定據，縱有風雨霎時收。\n論十干\n三奇六儀所臨宮，陰晴剋應好推窮，惟忌背令刑墓格，時違三合究其蹤。\n論九星\n九星陰陽判雨晴，符泊旬空未可憑，陽星陽宮晴堪恕，陰宮陰星主晦蒙，半開半合晴兼雨，內外開闔先後評。\n論九宮\n占驗雨晴論天乙，須究五行起元例，得令失令與刑格，生剋制伏陰晴別，太陰元武司陰雨，六合白虎雷風生，朱雀蛇轄雷雹虹，勾陳陰霧曰霾取，日時月格刑悖逢，陰陽星宮雨暘蹤，九天九地奇儀到，陽開陰闔究玄宗，雨占奇儀化合神， 方位時刻可詳料，白虎到巽六合乾，旺相風生休廢煙，朱雀坎位武九，主勝客氣雨必然，惟有太陰並九地，或晴或雨論宮纏。\n論門戶\n三門八宮別陰陽，奇儀加臨仔細詳，陽門陽星三奇會，斷定三光出時方，陰門陰星三奇會，會著之時不顯揚，日月星奇天門照，中宮乾巽見三光，風雨儀神會陰星，來臨六合陰勢生，地四戶兮值陰宮，六儀臨之風雨宗，三奇陰星墓地戶，必主其光不照空。\n論三甲\n孟甲季甲判陰陽，須從開闔細推詳，再察符使乾星類，會合時令下斷強。\n論吉凶格\n跌穴主晴，返首主雨，躔在陽宮方晴，移居陰垣定雨，白虎狂兮立見風生，青龍走兮決然雨至，蛇妖而陰雲密布，投江而大雨淋漓，熒入白虹霓頓起，白入熒雷電依稀，庚格陰晴疊變雨將電，日年移羅網四張，須知遍布陰暗，時日生剋的是晴雨真機。\n又斷\n凡占晴須論符、天、朱、蛇、勾、白之神，與八門生、景、死、杜、輔、禽、英、芮，並起元於火木局，三奇得位，戊己當權，陽星開必主晴。\n凡占雨須看地、陰、元、白之神，與八門之休、驚、開、傷，九星之蓬、柱、心、衝，並起元於金水局，三奇虛墓，庚辛壬癸當權，陰星闔必陰雨也。\n身命占\n值符\n值符，發朝之初氣概、雄偉、羊盾、虎皮。螣蛇，口實虛驚、奸佞心毒、委屈婉轉。太陰，小人暗算、沉滯猥小、深謀遠慮。六合，親朋招撫、和靄慈祥、易惑易動。 勾陳、白虎，事多磨折、果敢執物、道路驚、凶勇威權。朱雀、元武，詞訟是非、巧辯能文、宜防欺偽、奸險陰邪。九地，宜防險阻、深機大度、陰謀莫測。九天， 出穀遷向、軒昂大方、虛張聲勢。\n值使\n休，利謁見、安葬、固執事屈而伸。生，利經營、安葬、守時、鳴則驚人。傷，利捕獵、得令著損，先凶損傷。杜，利遮攔、安分、潛形隱匿、秘密。景，利投書、利見 大人、文書消息。死，防縊死、收債財貨、吊喪、行刑。驚，利擒訟、聲名振世、肅殺虛驚。開，利遠行、遠圖、舉謀、營造、市賈。\n十干\n甲，若父兄師、高人君子。乙，如姊姑妹、僧道、藝術。丙，兒外甥佐、詩人墨客。丁，女孫使、媒妁。戊，妾健步。己，妻婢、農人、士工。庚，祖父、將帥、軍校。辛，祖母、陶冶、匠尼。壬，母、牙客、舟人、腳投、穩婆。癸，母姨、參謀、博士。\n九星\n蓬，須黑肥濁、勇猛沉滯。任，矮跎跛足、偽諉詐師巫。衝，五表清奇、善辨奇律。輔，清秀、歌訣、文雅、和順。英，棗面、青須、稀發、麻班、脫穎。芮，黑矮肥胖、拘執忍耐。禽，端正、淑慎、忠良正直。柱，長大雄狼、剛暴險惡。心，闊面、重腮、大耳、果斷辨才。\n九宮\n一，得令，才名雙美；失令，風流蕩子。\n二，得令，富厚；失令，奔馳。\n三，得令，聰明虛詐；失令，有始無終。\n四，得令，節申子辰，氣巳酉丑。\n五，節四維土，氣四庫土。\n六，節寅午戌，氣亥卯未。\n七，得令，威名服眾；失令，刑剋險惡。\n八，得時，有格；失令，執滯。\n九，得時，清秀文墨；失令，匠作詭謀。\n門戶\n榮貴責天門，富厚責地戶，門戶合陽宮、陽星、得令，軒昂進貴；合陰宮、陰星、失令，奸險小人。\n三甲\n孟甲，多慷慨，開主武魁，合主瘦長或矮疲。仲甲，多瀟灑，開主飄蕩，合主刑害或僧道、藝術。季甲，多敦厚，開主刑衝，合主慳澀、孤獨。\n論干支\n日乾為身時為命，納音之中運氣定，身無傷剋是吉胎，納音生扶事業成，得化得時不刑傷，此君名望人欽敬，最怕身命值休囚，祖產於令都無剩，納音最慮身命墓，作事多歧壽恐竟。\n論值符\n值符論人直使事，十干人物是性情，九宮起元論來歷，門戶開闔事業因，歲月日時行年命，宮分泊落細推尋，已過將來及時旺，子父財官逐類分，大凡值符怕空鄉，生平事業甚乖張，年命再值別格墓，只疑前程不久長，次及歲月日時幹，不值刑格事多歡，其中有一失宮次，根苗花果分類看。\n論值使\n值使從來考作為，逢生乘旺始相宜，倘值刑害兼格墓，所謀未許逐心期，從旁檢點年命上，次及四乾門所依，五凶三吉並空廢，休咎其間另有機。\n論十干\n奇儀九處序六親，各從起宮辨來因，值符宮元時元旺，得符得使亨利貞。\n論九星\n九星自古別性情，各隨五行考羲經，孤虛旺相及年命，逐一參看自通靈。\n論九宮\n九宮起元考系派，會局得時多貴介，逐類用神察旁宮，作術興廢數內載。\n論門戶\n須察奇儀分八卦，宮陷墓絕論親因，年命所欣三六會，算來人物自亨通。\n論三甲\n三門四所合陽開，年命逢之顯者來，如若失令值陰合，作事多見巧中呆。\n論吉凶\n螣蛇含金憂口吻，忽然墜水生災非，太陰課體或承羞，六白臨西陰謀忌。\n勾陳卯位公事擾，到艮申庚門毀嗔，白虎驚柱銜刀可畏，朱雀杜景喧噪堪嫌，元武居乾不能終勢，九地杜死沒齒無聞，九天開雲龍變化。甲乙春榮，丙丁夏盛，戊己 四季，庚辛旺秋，壬癸喜冬，此皆發達超群之人。至若甲得己而中正可風，乙遇庚而剛柔相濟，丙合辛而施威，丁見壬而諂媚，戊癸剛決，無緣宵小。八宮互合靄靄 吉人；各宮偏黨，硜硜鄙劣；合中帶刑，美不足凶，空吉寔樂有餘。從其相生，避其相剋，年月日時參究，旬得龍返首而事業順美，鳥跌穴而聲名顯揚，得遁才堪權 變，逢詐自能斡旋，得使急外有助，守門出入亨通，五假機緣邁眾，三勝膽畧過人，夭矯而作事虛驚，投江而文信遺失，伏乾出遺財物，飛幹恃強自傷，伏宮須防盜 賊，飛宮事業消亡。大隔小隔，謀為不轉。刑格悖格，禍自內生。白入熒宜防外敵，熒入白仇敵自亡，龍逃防身災晦，虎狂恐物乖張，五不遇舉事蹭蹬，羅網張出入 宜防。六儀擊刑，凶災各別。三奇入墓，圖謀不揚。反吟伏吟多啾唧，吉凶門迫果非祥，天馬吉門臨命上，策驥生方永無殃。\n又訣\n凡占造化，須看其本命行年屬何卦氣，當令失令，以斷其生平之吉凶。次及本日干支之納，正時干支之納，生旺剋制何如，以斷其目下事業興衰。值符起元何宮元，屬 本宮何親，今行何卦，旺相生剋何如，其子入父垣，妾讓妻位，從中斟酌，自得消息。再詳值使，以定眼前之作為，會合年命以觀其變化之神妙。如父占子則看兒 舍，夫占妻則論妻神，遂得所值之星，以察其心事、人品，更加詳於門戶開合，三甲陰陽，自當得其玄妙矣。\n科試占\n論干支\n日乾原為應試人，時幹卻是主考臨，日支文章忌刑害，時支場屋所寄陳，納音之中去査取，等第優劣可詳分，旺相生合為吉兆，刑囚攻截總遭迍，日生主文宜賄囑，主文生日宜中君，文章再興主文合，擲地金聲姓氏芬，惟忌時納遭刑制，只恐類窄有遺淪，兩支亦忌相刑害，傷驚塗抹要留心。\n論值符\n科試先須論值符，逢生合旺可進圖，朱白生身名高擢，勾蛇刑害卷胡塗，年命日元九天位，皇都得意唱傳臚。\n論直使\n值使論門以後先，開遇九天御筆鮮，杜臨九地孫山外，景門臨之不列前，大約用門無刑格，旁類多吉副榜邊。\n論十干\n奇儀用神怕刑格，飛伏宮次相推測，三奇湊聚年命間，來朝定作金榜客。\n論九星\n符星起伏忌孤虛，背時擊刑總嗟籲，入父入官要身旺，獻策投書可曳裾。\n論九宮\n起元專考飛伏宮，弱飛旺兮可從龍，官父互交多得意，比脫加臨可落空。\n論門戶\n將揭曉兮看天門，吉星生合步青雲，初入闈時看地戶，得令生官中舉人。\n論三甲\n三甲區分前後中，陽開星吉與生身，得比堪言名已備，只從甲位寄奇蹤。\n論吉凶格\n返首跌穴，無疵方得成名。虎狂龍走，有傷那能進步。天遁人遁，際會風雲之客。虎遁龍遁，蟾宮折桂之人。俱要填合年命用乾，始可斷其天衢得路。三詐五假，從前 折挫始亨通。得使守門，旁求公薦方得意。門戶忌傷符使，人元最怕休囚，天馬上乘朱雀，泥封已出天衢，夭矯而文不入式，投江而卷或漏遺，伏乾飛幹只疑場屋生 變，飛宮伏宮又懼試後興殃，格隔進呈有阻，刑悖字號宜防，熒入白兮不第，白入熒兮不揚，不遇徒勞獻策，擊刑反惹驚惶，入墓網羅，年命吉而可言中。反伏門迫 雖入試，而未免狼當。天乙祿馬乘吉，時來生命自飛黃。\n求財占\n論干支\n日元為人時元財，兩支中間債物船，納音之中定市價，孤虛旺相著裁量。\n日剋時兮財可就，時剋日兮腦心懷，買貨時支分貴賤，生合人元可買來，賣貨日支分休旺，最喜生支又作財，日納如若剋時納，倍息生意此一回，時納若剋於日納，空費心機事不諧，一切藝術圖謀事，亦喜時生鬼化財，大抵上下無刑害，始終如意不須猜，索債取捕他受制，支納生乾可得來。\n論值符\n值符貨物交易情，或生或旺休廢刑，賣貨生旺宜售客，買貨休囚當速成，六合中人忌剋休，勾如傷用必遲行，元朱傷人防失脫，又恐腐爛貨不真，九地生身宜堆積，九天生合賣遂心，就使空拳去覓利，亦喜符旺又相生。\n論值使\n值使求財出八方，門無傷剋利偏安，吉門更臨生旺地，腰纏千萬可行藏，若得用門守財令，坐賈行商不用忙。\n論十干\n奇儀詳兮子與財，子旺財生可遂懷，最喜財庫命臨身，到手時日此中該。\n論九星\n符星喜旺制財星，財星空旺總勞神，財星化鬼君休覓，鬼化為財白手覆，若還飛入比肩地，其間必定有分爭，財星若去投子舍，我到其方必獲成。\n論九宮\n起元分辨是何財，土宜布菽慄鹽諧，水木經商火窰冶，金為錢榖珠玉該，時日會元乘生旺，此時端的遂心懷，只有飛伏臨何處，便察從何得將來。\n論門戶\n門戶莫與財元劫，生助財宮方安貼，符元更制門戶上，青蚨多翼方門歇。\n論三甲\n孟甲原宜去求財，仲甲半喜遂心懷，季甲欲求求未得，開闔中間得失裁。\n論吉凶\n返首跌穴，垂手可得。虎狂龍走，枉自逢迎。得遁格，機變而取。逢詐假設計以求，得使而中人效力，守門而坐賈偏宜，三門四戶最宜生合，財神天馬私門不宜刑衝。 符命、妖矯，而人情反複。投江而售賣不行。伏宮飛宮，此地不比他地。伏乾飛幹，此人不比那人。大小格難以覓利，刑悖隔就早抽身，熒入白兮宜買貨，白入熒兮 賣稱情，不遇空費心力，擊刑此處難求。入墓、羅網，縱見利而不能得手。反伏、門迫，雖懷寶而難入亂邦。最要持納符元，三才合式不逢鬼劫為詳。\n\n"
   }
 }

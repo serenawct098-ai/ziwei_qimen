@@ -4,485 +4,929 @@
   "section": "卷二十二",
   "entries": [
     {
-      "line_id": "QMDJ_Juan22_L000",
-      "original_quote": "《卷二十二》\n八門總歌\n奇到開門宜出行，休門上書竝理訟，生門婚姻堪入宅，傷門索債終須中，杜門逃閃並塞穴，思量酒肉景門動，死門捕獵並上陣，驚門祈雨並伏眾。",
+      "line_id": "QMDJ_Juan22_P000_S000",
+      "original_quote": "《卷二十二》",
+      "paragraph_index": 0,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L001",
-      "original_quote": "\n門迫宮迫\n宮制其門是為門迫，門制其宮是為宮迫，宮迫謂之制，門迫謂之宮，吉門被迫吉事不成，凶門被迫則凶災尤甚。",
+      "line_id": "QMDJ_Juan22_P001_S000",
+      "original_quote": "八門總歌",
+      "paragraph_index": 1,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L002",
-      "original_quote": "\n月建屬九星出行歌訣\n建計除陰滿羅睺，平定水貪執水破，破木危陽成是土，收紫開金閉月孛，建為青龍用為頭，除是眀堂黃道游，滿為天刑平朱雀，定為金匱吉神求，執為天德直黃道，破為白虎危玉堂，成為天牢堅固守，收為元盜賊心愁，開為司命臨黃道，勾陳為閉主亡流，黃道出行為大吉，行軍戰鬬黑道憂。",
+      "line_id": "QMDJ_Juan22_P002_S000",
+      "original_quote": "奇到開門宜出行，休門上書竝理訟，生門婚姻堪入宅，傷門索債終須中，杜門逃閃並塞穴，思量酒肉景門動，死門捕獵並上陣，驚門祈雨並伏眾。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L003",
-      "original_quote": "\n凡犯天刑者，出軍必傷，主癲狂、六畜死亡之事。",
+      "line_id": "QMDJ_Juan22_P003_S000",
+      "original_quote": "門迫宮迫",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L004",
-      "original_quote": "滿為天刑\n犯天牢者，人傷、賊害、亡財、失利。",
+      "line_id": "QMDJ_Juan22_P004_S000",
+      "original_quote": "宮制其門是為門迫，門制其宮是為宮迫，宮迫謂之制，門迫謂之宮，吉門被迫吉事不成，凶門被迫則凶災尤甚。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L005",
-      "original_quote": "成為天牢\n犯玄武者，亡失財利、逃走奴婢、遭賊劫、傷胎孕。",
+      "line_id": "QMDJ_Juan22_P005_S000",
+      "original_quote": "月建屬九星出行歌訣",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L006",
-      "original_quote": "收為玄武\n犯青龍者，父母、兄弟、長婦死，入獄、逃亡、遭賊，主凶惡事。",
+      "line_id": "QMDJ_Juan22_P006_S000",
+      "original_quote": "建計除陰滿羅睺，平定水貪執水破，破木危陽成是土，收紫開金閉月孛，建為青龍用為頭，除是眀堂黃道游，滿為天刑平朱雀，定為金匱吉神求，執為天德直黃道，破為白虎危玉堂，成為天牢堅固守，收為元盜賊心愁，開為司命臨黃道，勾陳為閉主亡流，黃道出行為大吉，行軍戰鬬黑道憂。",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L007",
-      "original_quote": "建為青龍\n犯朱雀者，因死見血光亡財於地。",
+      "line_id": "QMDJ_Juan22_P007_S000",
+      "original_quote": "凡犯天刑者，出軍必傷，主癲狂、六畜死亡之事。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L008",
-      "original_quote": "平為朱雀\n犯白虎者，治眀堂。",
+      "line_id": "QMDJ_Juan22_P007_S001",
+      "original_quote": "滿為天刑",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L009",
-      "original_quote": "破為白虎，除為明堂\n犯天牢者，治玉堂成為天牢，危為玉堂，即此處壓彼處以消災，大有功。",
+      "line_id": "QMDJ_Juan22_P008_S000",
+      "original_quote": "犯天牢者，人傷、賊害、亡財、失利。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L010",
-      "original_quote": "\n伍子胥曰：「凡遠行諸事，不往天庭辛、天獄庚、天牢壬三神上去，大凶。",
+      "line_id": "QMDJ_Juan22_P008_S001",
+      "original_quote": "成為天牢",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L011",
+      "line_id": "QMDJ_Juan22_P009_S000",
+      "original_quote": "犯玄武者，亡失財利、逃走奴婢、遭賊劫、傷胎孕。",
+      "paragraph_index": 9,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P009_S001",
+      "original_quote": "收為玄武",
+      "paragraph_index": 9,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P010_S000",
+      "original_quote": "犯青龍者，父母、兄弟、長婦死，入獄、逃亡、遭賊，主凶惡事。",
+      "paragraph_index": 10,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P010_S001",
+      "original_quote": "建為青龍",
+      "paragraph_index": 10,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P011_S000",
+      "original_quote": "犯朱雀者，因死見血光亡財於地。",
+      "paragraph_index": 11,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P011_S001",
+      "original_quote": "平為朱雀",
+      "paragraph_index": 11,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P012_S000",
+      "original_quote": "犯白虎者，治眀堂。",
+      "paragraph_index": 12,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P012_S001",
+      "original_quote": "破為白虎，除為明堂",
+      "paragraph_index": 12,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P013_S000",
+      "original_quote": "犯天牢者，治玉堂成為天牢，危為玉堂，即此處壓彼處以消災，大有功。",
+      "paragraph_index": 13,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P014_S000",
+      "original_quote": "伍子胥曰：「凡遠行諸事，不往天庭辛、天獄庚、天牢壬三神上去，大凶。",
+      "paragraph_index": 14,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P014_S001",
       "original_quote": "常乘青龍甲歷蓬星乙，百惡不敢起，大吉」。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L012",
-      "original_quote": "\n大金剛神值日百忌詩訣\n奎婁角亢鬼牛星，出軍定是不還程，若還遠行逢盜賊，經求財利百無成，登船定是遭沉溺，買賣交關不稱情，穿井用工難見水，拜職為官剝重名，婚姻乃主刑損害，出喪撞著損生靈，欲識星辰吉凶處，出在天符秘密經。",
+      "line_id": "QMDJ_Juan22_P015_S000",
+      "original_quote": "大金剛神值日百忌詩訣",
+      "paragraph_index": 15,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L013",
-      "original_quote": "\n易數總斷\n玉冊天元誠至理，分丁役甲洛書數；",
+      "line_id": "QMDJ_Juan22_P016_S000",
+      "original_quote": "奎婁角亢鬼牛星，出軍定是不還程，若還遠行逢盜賊，經求財利百無成，登船定是遭沉溺，買賣交關不稱情，穿井用工難見水，拜職為官剝重名，婚姻乃主刑損害，出喪撞著損生靈，欲識星辰吉凶處，出在天符秘密經。",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L014",
+      "line_id": "QMDJ_Juan22_P017_S000",
+      "original_quote": "易數總斷",
+      "paragraph_index": 17,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P018_S000",
+      "original_quote": "玉冊天元誠至理，分丁役甲洛書數；",
+      "paragraph_index": 18,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P018_S001",
       "original_quote": "陰陽變化互逆順，參伍錯綜並九丘；",
+      "paragraph_index": 18,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L015",
-      "original_quote": "\n遁曰三才天地人，龍虎風雲及鬼神；",
+      "line_id": "QMDJ_Juan22_P019_S000",
+      "original_quote": "遁曰三才天地人，龍虎風雲及鬼神；",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L016",
+      "line_id": "QMDJ_Juan22_P019_S001",
       "original_quote": "生土生中附神位，八卦推行列八門；",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L017",
-      "original_quote": "\n一中造化露天機，上可凌虛升步飛；",
+      "line_id": "QMDJ_Juan22_P020_S000",
+      "original_quote": "一中造化露天機，上可凌虛升步飛；",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L018",
+      "line_id": "QMDJ_Juan22_P020_S001",
       "original_quote": "中可測推謹趨避，藏神合朔卜時期；",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L019",
-      "original_quote": "\n出行造葬為百利，今古幾時能盡知；",
+      "line_id": "QMDJ_Juan22_P021_S000",
+      "original_quote": "出行造葬為百利，今古幾時能盡知；",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L020",
+      "line_id": "QMDJ_Juan22_P021_S001",
       "original_quote": "一千八百軒轅制，子房十八局法邃；",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L021",
-      "original_quote": "\n智慧通神能達微，四十八格難推致；",
+      "line_id": "QMDJ_Juan22_P022_S000",
+      "original_quote": "智慧通神能達微，四十八格難推致；",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L022",
+      "line_id": "QMDJ_Juan22_P022_S001",
       "original_quote": "予今複古演成書，易數通微可精義；",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L023",
-      "original_quote": "\n中人不知能推詳，跬步登階天衢長；",
+      "line_id": "QMDJ_Juan22_P023_S000",
+      "original_quote": "中人不知能推詳，跬步登階天衢長；",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L024",
+      "line_id": "QMDJ_Juan22_P023_S001",
       "original_quote": "衝輔禽任心最吉，三奇加互發禎祥；",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L025",
-      "original_quote": "\n值符值使嫌衝擊，開休生門為上吉；",
+      "line_id": "QMDJ_Juan22_P024_S000",
+      "original_quote": "值符值使嫌衝擊，開休生門為上吉；",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L026",
-      "original_quote": "大概要察候與節，奇門造葬合龍穴，\n開基斬草及行商，動用作為占方向，勿度勿疑勿反顧，至誠感應福無強。",
+      "line_id": "QMDJ_Juan22_P024_S001",
+      "original_quote": "大概要察候與節，奇門造葬合龍穴，",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L027",
-      "original_quote": "\n三奇得使誠堪用，六甲遇之非小補；",
+      "line_id": "QMDJ_Juan22_P025_S000",
+      "original_quote": "開基斬草及行商，動用作為占方向，勿度勿疑勿反顧，至誠感應福無強。",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L028",
+      "line_id": "QMDJ_Juan22_P026_S000",
+      "original_quote": "三奇得使誠堪用，六甲遇之非小補；",
+      "paragraph_index": 26,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P026_S001",
       "original_quote": "乙歸犬馬丙鼠猴，六丁玉女騎龍虎。",
+      "paragraph_index": 26,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L029",
-      "original_quote": "\n又有三奇游六儀，號為玉女守門時，甲子己卯並庚午，丙午丁酉乙卯期，\n利作陰私和合事，宮庭宴樂亦堪為。",
+      "line_id": "QMDJ_Juan22_P027_S000",
+      "original_quote": "又有三奇游六儀，號為玉女守門時，甲子己卯並庚午，丙午丁酉乙卯期，",
+      "paragraph_index": 27,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L030",
+      "line_id": "QMDJ_Juan22_P028_S000",
+      "original_quote": "利作陰私和合事，宮庭宴樂亦堪為。",
+      "paragraph_index": 28,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P028_S001",
       "original_quote": "三奇入墓總非宜，作事此時防後危；",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L031",
-      "original_quote": "\n五不遇時尤可嗔，號為日月損明辰，時幹來剋日乾位，百事皆凶莫輕試。",
+      "line_id": "QMDJ_Juan22_P029_S000",
+      "original_quote": "五不遇時尤可嗔，號為日月損明辰，時幹來剋日乾位，百事皆凶莫輕試。",
+      "paragraph_index": 29,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L032",
-      "original_quote": "\n逆順直符統七神，地宜伏匿天揚兵，太陰六合可回避，蛇遠勾連田土爭，\n白虎西方凶神殺，玄武盜賊防征途，難籌天乙六戊閉。",
+      "line_id": "QMDJ_Juan22_P030_S000",
+      "original_quote": "逆順直符統七神，地宜伏匿天揚兵，太陰六合可回避，蛇遠勾連田土爭，",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L033",
-      "original_quote": "急從神兮緩從門，\n天三門兮地四戶，問君此法居何處，太衝小吉與從魁，此是天門私出路；",
+      "line_id": "QMDJ_Juan22_P031_S000",
+      "original_quote": "白虎西方凶神殺，玄武盜賊防征途，難籌天乙六戊閉。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L034",
-      "original_quote": "\n地戶除危定與開，作為動用從茲去；",
+      "line_id": "QMDJ_Juan22_P031_S001",
+      "original_quote": "急從神兮緩從門，",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L035",
+      "line_id": "QMDJ_Juan22_P032_S000",
+      "original_quote": "天三門兮地四戶，問君此法居何處，太衝小吉與從魁，此是天門私出路；",
+      "paragraph_index": 32,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P033_S000",
+      "original_quote": "地戶除危定與開，作為動用從茲去；",
+      "paragraph_index": 33,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P033_S001",
       "original_quote": "太陰六合太常君，元是地私三吉門；",
+      "paragraph_index": 33,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L036",
-      "original_quote": "\n若得奇門相照應，出門舉事總欣欣。",
+      "line_id": "QMDJ_Juan22_P034_S000",
+      "original_quote": "若得奇門相照應，出門舉事總欣欣。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L037",
-      "original_quote": "太衝天馬真為貴，有難從斯宜躲避，\n若然乘取天馬行，虎豹交馳終不遇。",
+      "line_id": "QMDJ_Juan22_P034_S001",
+      "original_quote": "太衝天馬真為貴，有難從斯宜躲避，",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L038",
-      "original_quote": "最吉奇門如太陰，三般難得總照臨，\n宮方得合亦為美，舉措行藏必遂心。",
+      "line_id": "QMDJ_Juan22_P035_S000",
+      "original_quote": "若然乘取天馬行，虎豹交馳終不遇。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L039",
+      "line_id": "QMDJ_Juan22_P035_S001",
+      "original_quote": "最吉奇門如太陰，三般難得總照臨，",
+      "paragraph_index": 35,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P036_S000",
+      "original_quote": "宮方得合亦為美，舉措行藏必遂心。",
+      "paragraph_index": 36,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P036_S001",
       "original_quote": "六丙生門如六戊，此為天遁自分明；",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L040",
-      "original_quote": "\n開門六乙加六己，地遁如斯而已矣；",
+      "line_id": "QMDJ_Juan22_P037_S000",
+      "original_quote": "開門六乙加六己，地遁如斯而已矣；",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L041",
+      "line_id": "QMDJ_Juan22_P037_S001",
       "original_quote": "休門六丁合太陰，欲識人遁無過此；",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L042",
-      "original_quote": "\n三遁須知百事宜，藏修隱影尤為美。",
+      "line_id": "QMDJ_Juan22_P038_S000",
+      "original_quote": "三遁須知百事宜，藏修隱影尤為美。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L043",
+      "line_id": "QMDJ_Juan22_P038_S001",
       "original_quote": "乙辛為龍休坎羽，龍遁之名居水委；",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L044",
-      "original_quote": "\n辛乙為虎生門遇，虎遁居山在長棲；",
+      "line_id": "QMDJ_Juan22_P039_S000",
+      "original_quote": "辛乙為虎生門遇，虎遁居山在長棲；",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L045",
+      "line_id": "QMDJ_Juan22_P039_S001",
       "original_quote": "六乙加辛休門合，水氣生風風遁威；",
+      "paragraph_index": 39,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L046",
-      "original_quote": "\n六乙加辛生更合，艮源坤土龍遁飛；",
+      "line_id": "QMDJ_Juan22_P040_S000",
+      "original_quote": "六乙加辛生更合，艮源坤土龍遁飛；",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L047",
+      "line_id": "QMDJ_Juan22_P040_S001",
       "original_quote": "生臨丙月九天上，神遁斯為福世熙；",
+      "paragraph_index": 40,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L048",
-      "original_quote": "\n六乙若然加九地，斯為鬼遁達幽機；",
+      "line_id": "QMDJ_Juan22_P041_S000",
+      "original_quote": "六乙若然加九地，斯為鬼遁達幽機；",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L049",
-      "original_quote": "刑擊六儀何太凶，值符刑處與時同，\n子卯戌未申嫌虎，辰午自刑巳午宮；",
+      "line_id": "QMDJ_Juan22_P041_S001",
+      "original_quote": "刑擊六儀何太凶，值符刑處與時同，",
+      "paragraph_index": 41,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L050",
-      "original_quote": "時日門星有伏吟，休加休上蓬加蓬，\n惟當守己財貨斂，妄動輕謀有侵害；",
+      "line_id": "QMDJ_Juan22_P042_S000",
+      "original_quote": "子卯戌未申嫌虎，辰午自刑巳午宮；",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L051",
-      "original_quote": "就中返吟子加午，尤嫌門符相對伍，\n偏宜散侐發倉廩，動眾興工凶必阻，奇門吉宿若加臨，可免災刑福無補；",
+      "line_id": "QMDJ_Juan22_P042_S001",
+      "original_quote": "時日門星有伏吟，休加休上蓬加蓬，",
+      "paragraph_index": 42,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L052",
-      "original_quote": "\n宮剋門害為財多，門制宮分宮鬼迫，吉門逼迫宜疾成，凶門過迫凶莫測；",
+      "line_id": "QMDJ_Juan22_P043_S000",
+      "original_quote": "惟當守己財貨斂，妄動輕謀有侵害；",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L053",
-      "original_quote": "\n丙為悖逆庚為格，格則不通悖亂逆；",
+      "line_id": "QMDJ_Juan22_P043_S001",
+      "original_quote": "就中返吟子加午，尤嫌門符相對伍，",
+      "paragraph_index": 43,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L054",
+      "line_id": "QMDJ_Juan22_P044_S000",
+      "original_quote": "偏宜散侐發倉廩，動眾興工凶必阻，奇門吉宿若加臨，可免災刑福無補；",
+      "paragraph_index": 44,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P045_S000",
+      "original_quote": "宮剋門害為財多，門制宮分宮鬼迫，吉門逼迫宜疾成，凶門過迫凶莫測；",
+      "paragraph_index": 45,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P046_S000",
+      "original_quote": "丙為悖逆庚為格，格則不通悖亂逆；",
+      "paragraph_index": 46,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P046_S001",
       "original_quote": "丙加日乾及值符，忤逆紀綱應不飭；",
+      "paragraph_index": 46,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L055",
-      "original_quote": "\n庚加本歲月日時，俱名干格生災隙；",
+      "line_id": "QMDJ_Juan22_P047_S000",
+      "original_quote": "庚加本歲月日時，俱名干格生災隙；",
+      "paragraph_index": 47,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L056",
+      "line_id": "QMDJ_Juan22_P047_S001",
       "original_quote": "六丙加寅熒入白，寇即欲去勢可獲；",
+      "paragraph_index": 47,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L057",
-      "original_quote": "\n六庚加丙白入熒，賊信方來勢莫測；",
+      "line_id": "QMDJ_Juan22_P048_S000",
+      "original_quote": "六庚加丙白入熒，賊信方來勢莫測；",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L058",
-      "original_quote": "庚加值符天乙伏，值符加庚天乙飛，\n加一宮兮戰在野，刑一宮兮防國持；",
+      "line_id": "QMDJ_Juan22_P048_S001",
+      "original_quote": "庚加值符天乙伏，值符加庚天乙飛，",
+      "paragraph_index": 48,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L059",
-      "original_quote": "庚加癸兮防國持，癸加庚兮為大格，\n加壬之時小格用；",
+      "line_id": "QMDJ_Juan22_P049_S000",
+      "original_quote": "加一宮兮戰在野，刑一宮兮防國持；",
+      "paragraph_index": 49,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L060",
+      "line_id": "QMDJ_Juan22_P049_S001",
+      "original_quote": "庚加癸兮防國持，癸加庚兮為大格，",
+      "paragraph_index": 49,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P050_S000",
+      "original_quote": "加壬之時小格用；",
+      "paragraph_index": 50,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P050_S001",
       "original_quote": "加己為刑道路格，日乾加庚飛幹推。",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L061",
-      "original_quote": "更有一般時格者，\n六庚慎勿加三奇，此時若動出行去，匹馬只輪無返期。",
+      "line_id": "QMDJ_Juan22_P050_S002",
+      "original_quote": "更有一般時格者，",
+      "paragraph_index": 50,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L062",
-      "original_quote": "六癸加丁蛇妖矯，\n憂惶心事何時了，六癸加丁雀投江，奸頑訟罣入公堂。",
+      "line_id": "QMDJ_Juan22_P051_S000",
+      "original_quote": "六庚慎勿加三奇，此時若動出行去，匹馬只輪無返期。",
+      "paragraph_index": 51,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L063",
-      "original_quote": "六辛加乙虎猖狂，\n恐懼身親有損傷，六乙加辛龍逃走，驚惶凜散財存否。",
+      "line_id": "QMDJ_Juan22_P051_S001",
+      "original_quote": "六癸加丁蛇妖矯，",
+      "paragraph_index": 51,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L064",
-      "original_quote": "龍回首兮甲加丙，\n津悅意應無朽，丙加甲兮鳥跌穴，百為舉動成功烈。",
+      "line_id": "QMDJ_Juan22_P052_S000",
+      "original_quote": "憂惶心事何時了，六癸加丁雀投江，奸頑訟罣入公堂。",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L065",
-      "original_quote": "天盤動用占為客，\n地盤安靜占主穴；",
+      "line_id": "QMDJ_Juan22_P052_S001",
+      "original_quote": "六辛加乙虎猖狂，",
+      "paragraph_index": 52,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L066",
+      "line_id": "QMDJ_Juan22_P053_S000",
+      "original_quote": "恐懼身親有損傷，六乙加辛龍逃走，驚惶凜散財存否。",
+      "paragraph_index": 53,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P053_S001",
+      "original_quote": "龍回首兮甲加丙，",
+      "paragraph_index": 53,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P054_S000",
+      "original_quote": "津悅意應無朽　，丙加甲兮鳥跌穴，百為舉動成功烈。",
+      "paragraph_index": 54,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P054_S001",
+      "original_quote": "天盤動用占為客，",
+      "paragraph_index": 54,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P055_S000",
+      "original_quote": "地盤安靜占主穴；",
+      "paragraph_index": 55,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P055_S001",
       "original_quote": "細看星宮奇門知，察其刑剋吉凶決；",
+      "paragraph_index": 55,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L067",
-      "original_quote": "分其日月旺休方，\n更辨其方雲氣色；",
+      "line_id": "QMDJ_Juan22_P055_S002",
+      "original_quote": "分其日月旺休方，",
+      "paragraph_index": 55,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L068",
+      "line_id": "QMDJ_Juan22_P056_S000",
+      "original_quote": "更辨其方雲氣色；",
+      "paragraph_index": 56,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P056_S001",
       "original_quote": "假如天蓬加九宮，旺相之月在秋冬；",
+      "paragraph_index": 56,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L069",
-      "original_quote": "喜逢癸壬亥子日，\n北方黑氣客有功；",
+      "line_id": "QMDJ_Juan22_P056_S002",
+      "original_quote": "喜逢癸壬亥子日，",
+      "paragraph_index": 56,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L070",
+      "line_id": "QMDJ_Juan22_P057_S000",
+      "original_quote": "北方黑氣客有功；",
+      "paragraph_index": 57,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P057_S001",
       "original_quote": "若還天英加一地，冬時北方主反利；",
+      "paragraph_index": 57,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L071",
-      "original_quote": "奇門星位仿此推，\n人在時方分仔細。",
+      "line_id": "QMDJ_Juan22_P057_S002",
+      "original_quote": "奇門星位仿此推，",
+      "paragraph_index": 57,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L072",
-      "original_quote": "自寅至午五陽時，甲乙丙丁戊合宜，先與出行為客勝，\n利造姻宮並移徙；",
+      "line_id": "QMDJ_Juan22_P058_S000",
+      "original_quote": "人在時方分仔細。",
+      "paragraph_index": 58,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L073",
-      "original_quote": "自未至亥時五陰，己庚辛壬癸幹尋，利主集謀修備用，\n尤宜禱造與逃離。",
+      "line_id": "QMDJ_Juan22_P058_S001",
+      "original_quote": "自寅至午五陽時，甲乙丙丁戊合宜，先與出行為客勝，",
+      "paragraph_index": 58,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L074",
-      "original_quote": "十干六甲為宗主，上下交承開闔分，陽星加一宮開吉，\n陰星一宮闔事凶，甲孟宜貞仲宜守，宮方加季吉序興，作為進往憑天局，\n基穴陰謀靜地乘，若見三奇在五陽，偏宜為客自高強，三奇若遇五陰上，\n利宜為主志倘徉，三奇積蘊妙難言，陰逆後占陽順前，每時須別初中末，\n總把值符分後先，乙德往來恍似神，行逢酒饌市財陳，入宮移娶皆宜客，\n卻忌鞭刑與怒嗔，丙子月奇天威吒，火氣銷金兵不起，市賈入官行遇仙，\n聽無憂兮聞有喜，六丁玉女太陰精，出入幽冥老不刑，謁請入官商娶吉，\n半為憂喜利私營，六戊三門凶不起，來龍萬里誰呵止，大馬不鳴行客隨，\n市賈得財驚走否，己為六合利機謀，隱匿如神天莫指，出入官行利百為，\n驚逃凶去小人利，六庚加時絕五本，強出遭凌入天獄，市賈道亡物有傷，\n百宜固守斯為福，六辛出遇死尸陳，強出天庭罪縛身，問疾官商婚娶忌，\n自新利決罪刑人，壬是天牢強出焦，邀遮卻利亡與逃，病人進退存餘喘，\n官吏仇稽百事騷，癸藏出入百憂煎，利病逃亡與覓仙，遁跡隱形人莫曉，\n病加沉重日纏綿。",
+      "line_id": "QMDJ_Juan22_P059_S000",
+      "original_quote": "利造姻宮並移徙；",
+      "paragraph_index": 59,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L075",
-      "original_quote": "\n九星吉凶詩訣\n天蓬主事異秋冬，用訟安邊春夏功，嫁娶俱亡移徙火，\n入官險道門逢凶，賈商埋葬居行否，相會奇門畧少過。",
+      "line_id": "QMDJ_Juan22_P059_S001",
+      "original_quote": "自未至亥時五陰，己庚辛壬癸幹尋，利主集謀修備用，",
+      "paragraph_index": 59,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L076",
-      "original_quote": "\n天任之宿屬星儀，百事求謀利四時，造葬入官並請謁，\n行商娶祀吉遷移，主邊更喜氣神旺，來發機緣客已危。",
+      "line_id": "QMDJ_Juan22_P060_S000",
+      "original_quote": "尤宜禱造與逃離。",
+      "paragraph_index": 60,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L077",
-      "original_quote": "\n天衝報怨趁春溫，萬里威風膽氣雄，不利秋冬春夏勝，\n賈商行徙入官迍，造葬修方娶產難，須知萬物來逢春。",
+      "line_id": "QMDJ_Juan22_P060_S001",
+      "original_quote": "十干六甲為宗主，上下交承開闔分，陽星加一宮開吉，",
+      "paragraph_index": 60,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L078",
-      "original_quote": "\n天輔修身利造營，徵贏春夏地開平，罪刑此出逢天赦，\n遠出居官功亦成，嫁娶多兒增利市，謁求移徙卻無情。",
+      "line_id": "QMDJ_Juan22_P061_S000",
+      "original_quote": "陰星一宮闔事凶，甲孟宜貞仲宜守，宮方加季吉序興，作為進往憑天局，",
+      "paragraph_index": 61,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L079",
-      "original_quote": "\n天英之宿是天衢，遠行飲宴樂愉愉，出入葬埋宜嫁娶，\n徙宮築室祀商違，主令慎勿輕加客，彼若未攻自取危。",
+      "line_id": "QMDJ_Juan22_P062_S000",
+      "original_quote": "基穴陰謀靜地乘，若見三奇在五陽，偏宜為客自高強，三奇若遇五陰上，",
+      "paragraph_index": 62,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L080",
-      "original_quote": "\n芮星授道結交宜，作事征行不必為，盜賊憂驚傷小口，\n災刑囚事被官羈，大凶春夏秋冬吉，縱得奇門福亦虧。",
+      "line_id": "QMDJ_Juan22_P063_S000",
+      "original_quote": "利宜為主志倘徉，三奇積蘊妙難言，陰逆後占陽順前，每時須別初中末，",
+      "paragraph_index": 63,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L081",
-      "original_quote": "\n天禽中主四時通，硬衝堅大有奇功，宜用智謀機活伏，\n祭神感應上官亨，賈商嫁娶行修造，奇門加到盡亨通。",
+      "line_id": "QMDJ_Juan22_P064_S000",
+      "original_quote": "總把值符分後先，乙德往來恍似神，行逢酒饌市財陳，入宮移娶皆宜客，",
+      "paragraph_index": 64,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L082",
-      "original_quote": "\n天柱山方修造良，祀神嫁娶亦生光，藏形謹守斯為美，\n移徙征行卻受殃，營謀不善如輕動，妄行相交主中傷。",
+      "line_id": "QMDJ_Juan22_P065_S000",
+      "original_quote": "卻忌鞭刑與怒嗔，丙子月奇天威吒，火氣銷金兵不起，市賈入官行遇仙，",
+      "paragraph_index": 65,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L083",
-      "original_quote": "\n心宿星機神道輝，求仙合藥百為宜，入官嫁娶及移徙，\n造葬征行祭祀時，泰在秋冬春夏日，利加君子小人危。",
+      "line_id": "QMDJ_Juan22_P066_S000",
+      "original_quote": "聽無憂兮聞有喜，六丁玉女太陰精，出入幽冥老不刑，謁請入官商娶吉，",
+      "paragraph_index": 66,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L084",
-      "original_quote": "\n八門吉凶詩訣\n休門一一原文九九氣盈室，富貴子孫田土吉，祭祀修營入宅基，赴官遷徙事周悉，產招逃絕入興隆，北旺冬時數六一，南北婚姻有遠親，送來六畜增官秩。",
+      "line_id": "QMDJ_Juan22_P067_S000",
+      "original_quote": "半為憂喜利私營，六戊三門凶不起，來龍萬里誰呵止，大馬不鳴行客隨，",
+      "paragraph_index": 67,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L085",
-      "original_quote": "\n生門八八氣盈星，凶煞皆降尊土精，因待女財人寄物，從茲致富子孫興，三年定有貴兒產，出入外州泉貨盈，嫁娶種萌竝造作，消災發福有奇靈。",
+      "line_id": "QMDJ_Juan22_P068_S000",
+      "original_quote": "市賈得財驚走否，己為六合利機謀，隱匿如神天莫指，出入官行利百為，",
+      "paragraph_index": 68,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L086",
-      "original_quote": "\n傷門氣短數三三，寅卯旺方音角間，漁獵捕征搜索債，更宜賭博追亡還，官司口舌重喪至，六畜邅瘟火盜艱，夫婦血光災眼症，三旬產厄禍力殘，刑名死以兼瘋疾，蛇虎傷人居不安。",
+      "line_id": "QMDJ_Juan22_P069_S000",
+      "original_quote": "驚逃凶去小人利，六庚加時絕五本，強出遭凌入天獄，市賈道亡物有傷，",
+      "paragraph_index": 69,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L087",
-      "original_quote": "\n杜門四四星凶惡，木性時方寅卯泊，閉堤絕水事封培，追邪伐盜竝勾捉，出亡逃難斷欲宜，隱伏邀遮俱可托，去佞遠藏埋閉藏，克絕陰私能久約，用動似防盜賊侵，官刑財散瘟疫傷，蛇傷雷打疥瘡濃，焚廩人亡家退落。",
+      "line_id": "QMDJ_Juan22_P070_S000",
+      "original_quote": "百宜固守斯為福，六辛出遇死尸陳，強出天庭罪縛身，問疾官商婚娶忌，",
+      "paragraph_index": 70,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L088",
-      "original_quote": "\n景門九九原文七七紫氣盈，巳午旺南寅戌結，遣使上書能解危，求謀修造訪尋謁，葬埋嫁娶吉中斗，給賞吏人如手捉，獻策求名墀陛親，舉科文士藻文潔。",
+      "line_id": "QMDJ_Juan22_P071_S000",
+      "original_quote": "自新利決罪刑人，壬是天牢強出焦，邀遮卻利亡與逃，病人進退存餘喘，",
+      "paragraph_index": 71,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L089",
-      "original_quote": "\n死門二二凶星逆，戊己坤艮方位即，穿獵漁網刑戳宜，送喪吊死葬埋益，修營妨長及平房，忤逆重喪亡產憾，所求不利不宜行，動見敗亡官落職。",
+      "line_id": "QMDJ_Juan22_P072_S000",
+      "original_quote": "官吏仇稽百事騷，癸藏出入百憂煎，利病逃亡與覓仙，遁跡隱形人莫曉，",
+      "paragraph_index": 72,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L090",
-      "original_quote": "\n驚門無化氣為逆，旺在庚辛申酉地，羅網張疑立獄訟，攻門刑擊一齊到，逃亡掩捕得功能，市賈營修皆可忌，致訟虛驚疾疫興，敗囚軍賊牛羊斃。",
+      "line_id": "QMDJ_Juan22_P073_S000",
+      "original_quote": "病加沉重日纏綿。",
+      "paragraph_index": 73,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L091",
-      "original_quote": "\n開門六六氣營奇，謁貴求謀利有為，立宅扦修官職進，外來財帛馬牛肥，蜂蜜窖冶橫財發，富盛子孫名利齊，金上庚辛秋月旺，奴田畜產賈商宜。",
+      "line_id": "QMDJ_Juan22_P074_S000",
+      "original_quote": "九星吉凶詩訣",
+      "paragraph_index": 74,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L092",
-      "original_quote": "\n日家奇門九星\n更有太乙九星位，冬至艮宮夏坤地，命起甲子順逆行，本日住宮太乙立。",
+      "line_id": "QMDJ_Juan22_P075_S000",
+      "original_quote": "天蓬主事異秋冬，用訟安邊春夏功，嫁娶俱亡移徙火，",
+      "paragraph_index": 75,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L093",
-      "original_quote": "\n太乙求財萬事通，攝提門打鬧叢中，軒轅出入多驚恐，招搖到處血光紅，天符打圍射獵吉，青龍覓利喜重重，咸池所至主官事，太陰服處暗財豐，天乙貴人宜酒食，九星應驗最靈通，天之最貴亭亭星，最宜背主擊向衝，兼及亭亭月將加，時神後是亭亭也，生神背向一般窮，天之好神白奸位，格在寅申合巳亥由亭亭而及白奸。",
+      "line_id": "QMDJ_Juan22_P076_S000",
+      "original_quote": "入官險道門逢凶，賈商埋葬居行否，相會奇門畧少過。",
+      "paragraph_index": 76,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan22_L094",
-      "original_quote": "\n月將加時求孟神，亥寅巳申合孟異，旬里孤皆壬癸方，所對之方是虛位，背孤擊虛虛用奸，女流可當百夫氣由白奸而論孤虛。",
+      "line_id": "QMDJ_Juan22_P077_S000",
+      "original_quote": "天任之宿屬星儀，百事求謀利四時，造葬入官並請謁，",
+      "paragraph_index": 77,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P078_S000",
+      "original_quote": "行商娶祀吉遷移，主邊更喜氣神旺，來發機緣客已危。",
+      "paragraph_index": 78,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P079_S000",
+      "original_quote": "天衝報怨趁春溫，萬里威風膽氣雄，不利秋冬春夏勝，",
+      "paragraph_index": 79,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P080_S000",
+      "original_quote": "賈商行徙入官迍，造葬修方娶產難，須知萬物來逢春。",
+      "paragraph_index": 80,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P081_S000",
+      "original_quote": "天輔修身利造營，徵贏春夏地開平，罪刑此出逢天赦，",
+      "paragraph_index": 81,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P082_S000",
+      "original_quote": "遠出居官功亦成，嫁娶多兒增利市，謁求移徙卻無情。",
+      "paragraph_index": 82,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P083_S000",
+      "original_quote": "天英之宿是天衢，遠行飲宴樂愉愉，出入葬埋宜嫁娶，",
+      "paragraph_index": 83,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P084_S000",
+      "original_quote": "徙宮築室祀商違，主令慎勿輕加客，彼若未攻自取危。",
+      "paragraph_index": 84,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P085_S000",
+      "original_quote": "芮星授道結交宜，作事征行不必為，盜賊憂驚傷小口，",
+      "paragraph_index": 85,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P086_S000",
+      "original_quote": "災刑囚事被官羈，大凶春夏秋冬吉，縱得奇門福亦虧。",
+      "paragraph_index": 86,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P087_S000",
+      "original_quote": "天禽中主四時通，硬衝堅大有奇功，宜用智謀機活伏，",
+      "paragraph_index": 87,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P088_S000",
+      "original_quote": "祭神感應上官亨，賈商嫁娶行修造，奇門加到盡亨通。",
+      "paragraph_index": 88,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P089_S000",
+      "original_quote": "天柱山方修造良，祀神嫁娶亦生光，藏形謹守斯為美，",
+      "paragraph_index": 89,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P090_S000",
+      "original_quote": "移徙征行卻受殃，營謀不善如輕動，妄行相交主中傷。",
+      "paragraph_index": 90,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P091_S000",
+      "original_quote": "心宿星機神道輝，求仙合藥百為宜，入官嫁娶及移徙，",
+      "paragraph_index": 91,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P092_S000",
+      "original_quote": "造葬征行祭祀時，泰在秋冬春夏日，利加君子小人危。",
+      "paragraph_index": 92,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P093_S000",
+      "original_quote": "八門吉凶詩訣",
+      "paragraph_index": 93,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P094_S000",
+      "original_quote": "休門一一原文九九氣盈室，富貴子孫田土吉，祭祀修營入宅基，赴官遷徙事周悉，產招逃絕入興隆，北旺冬時數六一，南北婚姻有遠親，送來六畜增官秩。",
+      "paragraph_index": 94,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P095_S000",
+      "original_quote": "生門八八氣盈星，凶煞皆降尊土精，因待女財人寄物，從茲致富子孫興，三年定有貴兒產，出入外州泉貨盈，嫁娶種萌竝造作，消災發福有奇靈。",
+      "paragraph_index": 95,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P096_S000",
+      "original_quote": "傷門氣短數三三，寅卯旺方音角間，漁獵捕征搜索債，更宜賭博追亡還，官司口舌重喪至，六畜邅瘟火盜艱，夫婦血光災眼症，三旬產厄禍力殘，刑名死以兼瘋疾，蛇虎傷人居不安。",
+      "paragraph_index": 96,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P097_S000",
+      "original_quote": "杜門四四星凶惡，木性時方寅卯泊，閉堤絕水事封培，追邪伐盜竝勾捉，出亡逃難斷欲宜，隱伏邀遮俱可托，去佞遠藏埋閉藏，克絕陰私能久約，用動似防盜賊侵，官刑財散瘟疫傷，蛇傷雷打疥瘡濃，焚廩人亡家退落。",
+      "paragraph_index": 97,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P098_S000",
+      "original_quote": "景門九九原文七七紫氣盈，巳午旺南寅戌結，遣使上書能解危，求謀修造訪尋謁，葬埋嫁娶吉中斗，給賞吏人如手捉，獻策求名墀陛親，舉科文士藻文潔。",
+      "paragraph_index": 98,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P099_S000",
+      "original_quote": "死門二二凶星逆，戊己坤艮方位即，穿獵漁網刑戳宜，送喪吊死葬埋益，修營妨長及平房，忤逆重喪亡產憾，所求不利不宜行，動見敗亡官落職。",
+      "paragraph_index": 99,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P100_S000",
+      "original_quote": "驚門無化氣為逆，旺在庚辛申酉地，羅網張疑立獄訟，攻門刑擊一齊到，逃亡掩捕得功能，市賈營修皆可忌，致訟虛驚疾疫興，敗囚軍賊牛羊斃。",
+      "paragraph_index": 100,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P101_S000",
+      "original_quote": "開門六六氣營奇，謁貴求謀利有為，立宅扦修官職進，外來財帛馬牛肥，蜂蜜窖冶橫財發，富盛子孫名利齊，金上庚辛秋月旺，奴田畜產賈商宜。",
+      "paragraph_index": 101,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P102_S000",
+      "original_quote": "日家奇門九星",
+      "paragraph_index": 102,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P103_S000",
+      "original_quote": "更有太乙九星位，冬至艮宮夏坤地，命起甲子順逆行，本日住宮太乙立。",
+      "paragraph_index": 103,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P104_S000",
+      "original_quote": "太 乙求財萬事通，攝提門打鬧叢中，軒轅出入多驚恐，招搖到處血光紅，天符打圍射獵吉，青龍覓利喜重重，咸池所至主官事，太陰服處暗財豐，天乙貴人宜酒食，九 星應驗最靈通，天之最貴亭亭星，最宜背主擊向衝，兼及亭亭月將加，時神後是亭亭也，生神背向一般窮，天之好神白奸位，格在寅申合巳亥由亭亭而及白奸。",
+      "paragraph_index": 104,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan22_P105_S000",
+      "original_quote": "月將加時求孟神，亥寅巳申合孟異，旬里孤皆壬癸方，所對之方是虛位，背孤擊虛虛用奸，女流可當百夫氣由白奸而論孤虛。",
+      "paragraph_index": 105,
       "tag": []
     }
   ],
   "_source": {
     "text": "奇門遁甲秘笈大全",
     "juan": "Juan22",
-    "line_id_start": "QMDJ_Juan22_L000",
-    "line_id_end": "QMDJ_Juan22_L094"
+    "line_id_start": "QMDJ_Juan22_P000_S000",
+    "line_id_end": "QMDJ_Juan22_P105_S000",
+    "original_block": "《卷二十二》\n八門總歌\n奇到開門宜出行，休門上書竝理訟，生門婚姻堪入宅，傷門索債終須中，杜門逃閃並塞穴，思量酒肉景門動，死門捕獵並上陣，驚門祈雨並伏眾。\n門迫宮迫\n宮制其門是為門迫，門制其宮是為宮迫，宮迫謂之制，門迫謂之宮，吉門被迫吉事不成，凶門被迫則凶災尤甚。\n月建屬九星出行歌訣\n建計除陰滿羅睺，平定水貪執水破，破木危陽成是土，收紫開金閉月孛，建為青龍用為頭，除是眀堂黃道游，滿為天刑平朱雀，定為金匱吉神求，執為天德直黃道，破為白虎危玉堂，成為天牢堅固守，收為元盜賊心愁，開為司命臨黃道，勾陳為閉主亡流，黃道出行為大吉，行軍戰鬬黑道憂。\n凡犯天刑者，出軍必傷，主癲狂、六畜死亡之事。滿為天刑\n犯天牢者，人傷、賊害、亡財、失利。成為天牢\n犯玄武者，亡失財利、逃走奴婢、遭賊劫、傷胎孕。收為玄武\n犯青龍者，父母、兄弟、長婦死，入獄、逃亡、遭賊，主凶惡事。建為青龍\n犯朱雀者，因死見血光亡財於地。平為朱雀\n犯白虎者，治眀堂。破為白虎，除為明堂\n犯天牢者，治玉堂成為天牢，危為玉堂，即此處壓彼處以消災，大有功。\n伍子胥曰：「凡遠行諸事，不往天庭辛、天獄庚、天牢壬三神上去，大凶。常乘青龍甲歷蓬星乙，百惡不敢起，大吉」。\n大金剛神值日百忌詩訣\n奎婁角亢鬼牛星，出軍定是不還程，若還遠行逢盜賊，經求財利百無成，登船定是遭沉溺，買賣交關不稱情，穿井用工難見水，拜職為官剝重名，婚姻乃主刑損害，出喪撞著損生靈，欲識星辰吉凶處，出在天符秘密經。\n易數總斷\n玉冊天元誠至理，分丁役甲洛書數；陰陽變化互逆順，參伍錯綜並九丘；\n遁曰三才天地人，龍虎風雲及鬼神；生土生中附神位，八卦推行列八門；\n一中造化露天機，上可凌虛升步飛；中可測推謹趨避，藏神合朔卜時期；\n出行造葬為百利，今古幾時能盡知；一千八百軒轅制，子房十八局法邃；\n智慧通神能達微，四十八格難推致；予今複古演成書，易數通微可精義；\n中人不知能推詳，跬步登階天衢長；衝輔禽任心最吉，三奇加互發禎祥；\n值符值使嫌衝擊，開休生門為上吉；大概要察候與節，奇門造葬合龍穴，\n開基斬草及行商，動用作為占方向，勿度勿疑勿反顧，至誠感應福無強。\n三奇得使誠堪用，六甲遇之非小補；乙歸犬馬丙鼠猴，六丁玉女騎龍虎。\n又有三奇游六儀，號為玉女守門時，甲子己卯並庚午，丙午丁酉乙卯期，\n利作陰私和合事，宮庭宴樂亦堪為。三奇入墓總非宜，作事此時防後危；\n五不遇時尤可嗔，號為日月損明辰，時幹來剋日乾位，百事皆凶莫輕試。\n逆順直符統七神，地宜伏匿天揚兵，太陰六合可回避，蛇遠勾連田土爭，\n白虎西方凶神殺，玄武盜賊防征途，難籌天乙六戊閉。急從神兮緩從門，\n天三門兮地四戶，問君此法居何處，太衝小吉與從魁，此是天門私出路；\n地戶除危定與開，作為動用從茲去；太陰六合太常君，元是地私三吉門；\n若得奇門相照應，出門舉事總欣欣。太衝天馬真為貴，有難從斯宜躲避，\n若然乘取天馬行，虎豹交馳終不遇。最吉奇門如太陰，三般難得總照臨，\n宮方得合亦為美，舉措行藏必遂心。六丙生門如六戊，此為天遁自分明；\n開門六乙加六己，地遁如斯而已矣；休門六丁合太陰，欲識人遁無過此；\n三遁須知百事宜，藏修隱影尤為美。乙辛為龍休坎羽，龍遁之名居水委；\n辛乙為虎生門遇，虎遁居山在長棲；六乙加辛休門合，水氣生風風遁威；\n六乙加辛生更合，艮源坤土龍遁飛；生臨丙月九天上，神遁斯為福世熙；\n六乙若然加九地，斯為鬼遁達幽機；刑擊六儀何太凶，值符刑處與時同，\n子卯戌未申嫌虎，辰午自刑巳午宮；時日門星有伏吟，休加休上蓬加蓬，\n惟當守己財貨斂，妄動輕謀有侵害；就中返吟子加午，尤嫌門符相對伍，\n偏宜散侐發倉廩，動眾興工凶必阻，奇門吉宿若加臨，可免災刑福無補；\n宮剋門害為財多，門制宮分宮鬼迫，吉門逼迫宜疾成，凶門過迫凶莫測；\n丙為悖逆庚為格，格則不通悖亂逆；丙加日乾及值符，忤逆紀綱應不飭；\n庚加本歲月日時，俱名干格生災隙；六丙加寅熒入白，寇即欲去勢可獲；\n六庚加丙白入熒，賊信方來勢莫測；庚加值符天乙伏，值符加庚天乙飛，\n加一宮兮戰在野，刑一宮兮防國持；庚加癸兮防國持，癸加庚兮為大格，\n加壬之時小格用；加己為刑道路格，日乾加庚飛幹推。更有一般時格者，\n六庚慎勿加三奇，此時若動出行去，匹馬只輪無返期。六癸加丁蛇妖矯，\n憂惶心事何時了，六癸加丁雀投江，奸頑訟罣入公堂。六辛加乙虎猖狂，\n恐懼身親有損傷，六乙加辛龍逃走，驚惶凜散財存否。龍回首兮甲加丙，\n津悅意應無朽　，丙加甲兮鳥跌穴，百為舉動成功烈。天盤動用占為客，\n地盤安靜占主穴；細看星宮奇門知，察其刑剋吉凶決；分其日月旺休方，\n更辨其方雲氣色；假如天蓬加九宮，旺相之月在秋冬；喜逢癸壬亥子日，\n北方黑氣客有功；若還天英加一地，冬時北方主反利；奇門星位仿此推，\n人在時方分仔細。自寅至午五陽時，甲乙丙丁戊合宜，先與出行為客勝，\n利造姻宮並移徙；自未至亥時五陰，己庚辛壬癸幹尋，利主集謀修備用，\n尤宜禱造與逃離。十干六甲為宗主，上下交承開闔分，陽星加一宮開吉，\n陰星一宮闔事凶，甲孟宜貞仲宜守，宮方加季吉序興，作為進往憑天局，\n基穴陰謀靜地乘，若見三奇在五陽，偏宜為客自高強，三奇若遇五陰上，\n利宜為主志倘徉，三奇積蘊妙難言，陰逆後占陽順前，每時須別初中末，\n總把值符分後先，乙德往來恍似神，行逢酒饌市財陳，入宮移娶皆宜客，\n卻忌鞭刑與怒嗔，丙子月奇天威吒，火氣銷金兵不起，市賈入官行遇仙，\n聽無憂兮聞有喜，六丁玉女太陰精，出入幽冥老不刑，謁請入官商娶吉，\n半為憂喜利私營，六戊三門凶不起，來龍萬里誰呵止，大馬不鳴行客隨，\n市賈得財驚走否，己為六合利機謀，隱匿如神天莫指，出入官行利百為，\n驚逃凶去小人利，六庚加時絕五本，強出遭凌入天獄，市賈道亡物有傷，\n百宜固守斯為福，六辛出遇死尸陳，強出天庭罪縛身，問疾官商婚娶忌，\n自新利決罪刑人，壬是天牢強出焦，邀遮卻利亡與逃，病人進退存餘喘，\n官吏仇稽百事騷，癸藏出入百憂煎，利病逃亡與覓仙，遁跡隱形人莫曉，\n病加沉重日纏綿。\n九星吉凶詩訣\n天蓬主事異秋冬，用訟安邊春夏功，嫁娶俱亡移徙火，\n入官險道門逢凶，賈商埋葬居行否，相會奇門畧少過。\n天任之宿屬星儀，百事求謀利四時，造葬入官並請謁，\n行商娶祀吉遷移，主邊更喜氣神旺，來發機緣客已危。\n天衝報怨趁春溫，萬里威風膽氣雄，不利秋冬春夏勝，\n賈商行徙入官迍，造葬修方娶產難，須知萬物來逢春。\n天輔修身利造營，徵贏春夏地開平，罪刑此出逢天赦，\n遠出居官功亦成，嫁娶多兒增利市，謁求移徙卻無情。\n天英之宿是天衢，遠行飲宴樂愉愉，出入葬埋宜嫁娶，\n徙宮築室祀商違，主令慎勿輕加客，彼若未攻自取危。\n芮星授道結交宜，作事征行不必為，盜賊憂驚傷小口，\n災刑囚事被官羈，大凶春夏秋冬吉，縱得奇門福亦虧。\n天禽中主四時通，硬衝堅大有奇功，宜用智謀機活伏，\n祭神感應上官亨，賈商嫁娶行修造，奇門加到盡亨通。\n天柱山方修造良，祀神嫁娶亦生光，藏形謹守斯為美，\n移徙征行卻受殃，營謀不善如輕動，妄行相交主中傷。\n心宿星機神道輝，求仙合藥百為宜，入官嫁娶及移徙，\n造葬征行祭祀時，泰在秋冬春夏日，利加君子小人危。\n八門吉凶詩訣\n休門一一原文九九氣盈室，富貴子孫田土吉，祭祀修營入宅基，赴官遷徙事周悉，產招逃絕入興隆，北旺冬時數六一，南北婚姻有遠親，送來六畜增官秩。\n生門八八氣盈星，凶煞皆降尊土精，因待女財人寄物，從茲致富子孫興，三年定有貴兒產，出入外州泉貨盈，嫁娶種萌竝造作，消災發福有奇靈。\n傷門氣短數三三，寅卯旺方音角間，漁獵捕征搜索債，更宜賭博追亡還，官司口舌重喪至，六畜邅瘟火盜艱，夫婦血光災眼症，三旬產厄禍力殘，刑名死以兼瘋疾，蛇虎傷人居不安。\n杜門四四星凶惡，木性時方寅卯泊，閉堤絕水事封培，追邪伐盜竝勾捉，出亡逃難斷欲宜，隱伏邀遮俱可托，去佞遠藏埋閉藏，克絕陰私能久約，用動似防盜賊侵，官刑財散瘟疫傷，蛇傷雷打疥瘡濃，焚廩人亡家退落。\n景門九九原文七七紫氣盈，巳午旺南寅戌結，遣使上書能解危，求謀修造訪尋謁，葬埋嫁娶吉中斗，給賞吏人如手捉，獻策求名墀陛親，舉科文士藻文潔。\n死門二二凶星逆，戊己坤艮方位即，穿獵漁網刑戳宜，送喪吊死葬埋益，修營妨長及平房，忤逆重喪亡產憾，所求不利不宜行，動見敗亡官落職。\n驚門無化氣為逆，旺在庚辛申酉地，羅網張疑立獄訟，攻門刑擊一齊到，逃亡掩捕得功能，市賈營修皆可忌，致訟虛驚疾疫興，敗囚軍賊牛羊斃。\n開門六六氣營奇，謁貴求謀利有為，立宅扦修官職進，外來財帛馬牛肥，蜂蜜窖冶橫財發，富盛子孫名利齊，金上庚辛秋月旺，奴田畜產賈商宜。\n日家奇門九星\n更有太乙九星位，冬至艮宮夏坤地，命起甲子順逆行，本日住宮太乙立。\n太 乙求財萬事通，攝提門打鬧叢中，軒轅出入多驚恐，招搖到處血光紅，天符打圍射獵吉，青龍覓利喜重重，咸池所至主官事，太陰服處暗財豐，天乙貴人宜酒食，九 星應驗最靈通，天之最貴亭亭星，最宜背主擊向衝，兼及亭亭月將加，時神後是亭亭也，生神背向一般窮，天之好神白奸位，格在寅申合巳亥由亭亭而及白奸。\n月將加時求孟神，亥寅巳申合孟異，旬里孤皆壬癸方，所對之方是虛位，背孤擊虛虛用奸，女流可當百夫氣由白奸而論孤虛。\n\n"
   }
 }

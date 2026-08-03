@@ -4,875 +4,1109 @@
   "section": "卷二十七",
   "entries": [
     {
-      "line_id": "QMDJ_Juan27_L000",
-      "original_quote": "《卷二十七》\n納音分日例\n甲子、甲午、壬申、壬寅、庚辰、庚戌陽商，乙丑、乙未、癸卯、癸酉、辛巳、辛亥陰商。",
+      "line_id": "QMDJ_Juan27_P000_S000",
+      "original_quote": "《卷二十七》",
+      "paragraph_index": 0,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L001",
-      "original_quote": "丙寅、丙申、戊子、戊午、甲辰、甲戌陽征，丁卯、丁酉、己丑、己未、乙巳、乙亥陰徵。",
+      "line_id": "QMDJ_Juan27_P001_S000",
+      "original_quote": "納音分日例",
+      "paragraph_index": 1,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L002",
+      "line_id": "QMDJ_Juan27_P002_S000",
+      "original_quote": "甲子、甲午、壬申、壬寅、庚辰、庚戌陽商，乙丑、乙未、癸卯、癸酉、辛巳、辛亥陰商。",
+      "paragraph_index": 2,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P002_S001",
+      "original_quote": "丙寅、丙申、戊子、戊午、甲辰、甲戌陽征，丁卯、丁酉、己丑、己未、乙 巳、乙亥陰徵。",
+      "paragraph_index": 2,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P002_S002",
       "original_quote": "戊辰、戊戌、庚寅、庚申、壬子、壬午陽角，己巳、己亥、辛卯、辛酉、癸丑、癸未陰角。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L003",
-      "original_quote": "庚子、庚午、戊寅、戊申、丙辰、丙戌陽宮，辛丑、辛未、己卯、己酉、丁巳、丁亥陰宮。",
+      "line_id": "QMDJ_Juan27_P002_S003",
+      "original_quote": "庚子、庚午、戊寅、戊申、丙辰、丙戌陽宮，辛丑、辛 未、己卯、己酉、丁巳、丁亥陰宮。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L004",
+      "line_id": "QMDJ_Juan27_P002_S004",
       "original_quote": "甲寅、甲申、壬辰、壬戌、丙子、丙午陽羽，乙卯、乙酉、癸巳、癸亥、丁丑、丁未陰羽。",
+      "paragraph_index": 2,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L005",
-      "original_quote": "\n十二辰五音所主\n子陽宮，屬土，主帝王。",
+      "line_id": "QMDJ_Juan27_P003_S000",
+      "original_quote": "十二辰五音所主",
+      "paragraph_index": 3,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L006",
+      "line_id": "QMDJ_Juan27_P004_S000",
+      "original_quote": "子陽宮，屬土，主帝王。",
+      "paragraph_index": 4,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P004_S001",
       "original_quote": "丑寅陽征，屬火，主旱，為宮寺、口舌。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L007",
+      "line_id": "QMDJ_Juan27_P004_S002",
       "original_quote": "卯陽羽，屬水，主雨霧。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L008",
+      "line_id": "QMDJ_Juan27_P004_S003",
       "original_quote": "辰陽商，屬金，主將軍、吏士。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L009",
+      "line_id": "QMDJ_Juan27_P004_S004",
       "original_quote": "巳陽角，屬木，主疾病、憂患。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L010",
+      "line_id": "QMDJ_Juan27_P004_S005",
       "original_quote": "午陰宮土，主女後。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L011",
+      "line_id": "QMDJ_Juan27_P004_S006",
       "original_quote": "未申陰徵火，主庶人、士土，誥書、文檄、旱火、郵驛。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L012",
+      "line_id": "QMDJ_Juan27_P004_S007",
       "original_quote": "酉陰羽水，主霜雪，雷電，陰沉虹。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L013",
+      "line_id": "QMDJ_Juan27_P004_S008",
       "original_quote": "戌陰商金，主小將，兵刃。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L014",
+      "line_id": "QMDJ_Juan27_P004_S009",
       "original_quote": "亥陰角木，主死喪、哭泣。",
+      "paragraph_index": 4,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L015",
-      "original_quote": "\n凡宮為君，商為臣子、奴僕，角為民、為疾病、死喪。",
+      "line_id": "QMDJ_Juan27_P005_S000",
+      "original_quote": "凡宮為君，商為臣子、奴僕，角為民、為疾病、死喪。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L016",
+      "line_id": "QMDJ_Juan27_P005_S001",
       "original_quote": "徵為事、為宗廟、鬼神。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L017",
+      "line_id": "QMDJ_Juan27_P005_S002",
       "original_quote": "羽為物、為妻財、為境界。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L018",
+      "line_id": "QMDJ_Juan27_P005_S003",
       "original_quote": "如子日、子方風為官動、主人，君出行布令風暴念急風徐令喜。",
+      "paragraph_index": 5,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L019",
-      "original_quote": "\n五音風動占\n宮日，風起子，山陵崩、君出、地動、旱、有土工；",
+      "line_id": "QMDJ_Juan27_P006_S000",
+      "original_quote": "五音風動占",
+      "paragraph_index": 6,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L020",
+      "line_id": "QMDJ_Juan27_P007_S000",
+      "original_quote": "宮日，風起子，山陵崩、君出、地動、旱、有土工；",
+      "paragraph_index": 7,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P007_S001",
       "original_quote": "起午，旱、地震、後出。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L021",
+      "line_id": "QMDJ_Juan27_P007_S002",
       "original_quote": "又時加子午，為重宮，君大夫走，風雨不調。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L022",
+      "line_id": "QMDJ_Juan27_P007_S003",
       "original_quote": "從醜、寅、未、申起，為宮動征，有火燭，土上寶物，出有兵。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L023",
+      "line_id": "QMDJ_Juan27_P007_S004",
       "original_quote": "時加征，為重征，有義兵、詔令，曰義風。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L024",
+      "line_id": "QMDJ_Juan27_P007_S005",
       "original_quote": "從卯酉來，商動羽，大雨、大臣走、旱。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L025",
+      "line_id": "QMDJ_Juan27_P007_S006",
       "original_quote": "時加羽為重羽，即有赦、五榖成。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L026",
-      "original_quote": "從辰戌來，宮動商，有兵行。",
+      "line_id": "QMDJ_Juan27_P007_S007",
+      "original_quote": "從辰戌來，宮動商，有兵 行。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L027",
+      "line_id": "QMDJ_Juan27_P007_S008",
       "original_quote": "時加辰戌為重商，有兵殃。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L028",
+      "line_id": "QMDJ_Juan27_P007_S009",
       "original_quote": "風從巳亥來，宮動角，主戰、人主憂、客兵傷、有喪。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L029",
+      "line_id": "QMDJ_Juan27_P007_S010",
       "original_quote": "時加巳亥為重角，君不昌。",
+      "paragraph_index": 7,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L030",
-      "original_quote": "\n征日，陽宮風來，旱、火土上起、宮寺災。",
+      "line_id": "QMDJ_Juan27_P008_S000",
+      "original_quote": "征日，陽宮風來，旱、火土上起、宮寺災。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L031",
+      "line_id": "QMDJ_Juan27_P008_S001",
       "original_quote": "從陰宮起，太子疾。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L032",
+      "line_id": "QMDJ_Juan27_P008_S002",
       "original_quote": "時加重征，土上火災。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L033",
+      "line_id": "QMDJ_Juan27_P008_S003",
       "original_quote": "從陽徵來，君有恐、火災、走獸入為害、宮寺焚、王相憂、大旱。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L034",
-      "original_quote": "征陽徵來，六畜多死。",
+      "line_id": "QMDJ_Juan27_P008_S004",
+      "original_quote": "征陽徵來，六 畜多死。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L035",
+      "line_id": "QMDJ_Juan27_P008_S005",
       "original_quote": "從陽商來，急兵、君自守七日、遠七十日。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L036",
+      "line_id": "QMDJ_Juan27_P008_S006",
       "original_quote": "從陰商來，有兵戰一日。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L037",
+      "line_id": "QMDJ_Juan27_P008_S007",
       "original_quote": "從陽商來，臣強大死、君殃，以日占國。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L038",
-      "original_quote": "從陽羽來，四鄰有事、有寶玉、雷電、霜雹、臣候憂、多火災、夷兵至。",
+      "line_id": "QMDJ_Juan27_P008_S008",
+      "original_quote": "從陽羽來，四鄰有事、有寶玉、雷電、霜雹、 臣候憂、多火災、夷兵至。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L039",
+      "line_id": "QMDJ_Juan27_P008_S009",
       "original_quote": "從陰羽來，寶出、雷電、夷有事。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L040",
+      "line_id": "QMDJ_Juan27_P008_S010",
       "original_quote": "從陽角來，兵喪。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L041",
+      "line_id": "QMDJ_Juan27_P008_S011",
       "original_quote": "從陰角來，邊驚、兵火、春有喪。",
+      "paragraph_index": 8,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L042",
-      "original_quote": "\n羽日，風從陽宮來，財物聚、君有使令、邊兵土工興、將受命、有集會、雷電。",
+      "line_id": "QMDJ_Juan27_P009_S000",
+      "original_quote": "羽日，風從陽宮來，財物聚、君有使令、邊兵土工興、將受命、有集會、雷電。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L043",
+      "line_id": "QMDJ_Juan27_P009_S001",
       "original_quote": "從陰宮來，冰雹寒傷物、有土工。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L044",
+      "line_id": "QMDJ_Juan27_P009_S002",
       "original_quote": "從陽徵來，有兵、有急令、臣有憂、關塞路阻。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L045",
-      "original_quote": "風從陰徵來，邊臣有羽事大喪會，寒雪雹期五日，若五十日大雨南方來，國憂人，疾風從北方來，賊聚水中。",
+      "line_id": "QMDJ_Juan27_P009_S003",
+      "original_quote": "風從 陰徵來，邊臣有羽事大喪會，寒雪雹期五日，若五十日大雨南方來，國憂人，疾風從北方來，賊聚水中。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L046",
+      "line_id": "QMDJ_Juan27_P009_S004",
       "original_quote": "陽羽來，日應。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L047",
+      "line_id": "QMDJ_Juan27_P009_S005",
       "original_quote": "從陰羽來，夜應。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L048",
-      "original_quote": "從商來，兵圍不戰、邊急關阻、大雨，軍各不利。",
+      "line_id": "QMDJ_Juan27_P009_S006",
+      "original_quote": "從商來，兵圍不戰、邊急 關阻、大雨，軍各不利。",
+      "paragraph_index": 9,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L049",
-      "original_quote": "\n商日，風從陽宮來，太子忌恐、人臣有急、兵主疾。",
+      "line_id": "QMDJ_Juan27_P010_S000",
+      "original_quote": "商日，風從陽宮來，太子忌恐、人臣有急、兵主疾。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L050",
+      "line_id": "QMDJ_Juan27_P010_S001",
       "original_quote": "從陰宮來，庶子憂、有急變、兵北起。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L051",
+      "line_id": "QMDJ_Juan27_P010_S002",
       "original_quote": "風從征來，兵圍不戰，且旱。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L052",
+      "line_id": "QMDJ_Juan27_P010_S003",
       "original_quote": "時加重征，大旱。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L053",
-      "original_quote": "從陽商來，白衣聚、關梁閉、大將死、出忌外邑有兵、有小寇、兵在西，君有憂。",
+      "line_id": "QMDJ_Juan27_P010_S004",
+      "original_quote": "從陽商來，白衣聚、關梁 閉、大將死、出忌外邑有兵、有小寇、兵在西，君有憂。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L054",
+      "line_id": "QMDJ_Juan27_P010_S005",
       "original_quote": "從陽商來，有殃、粟貴、有兵七日，若七十日有急令。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L055",
+      "line_id": "QMDJ_Juan27_P010_S006",
       "original_quote": "從陽角來，猝兵從急令。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L056",
+      "line_id": "QMDJ_Juan27_P010_S007",
       "original_quote": "從陰角來，喪土工。",
+      "paragraph_index": 10,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L057",
-      "original_quote": "\n角日，風從陽宮來，兵中興、君憂國四閉。",
+      "line_id": "QMDJ_Juan27_P011_S000",
+      "original_quote": "角日，風從陽宮來，兵中興、君憂國四閉。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L058",
+      "line_id": "QMDJ_Juan27_P011_S001",
       "original_quote": "從陽宮來，貴人病、喪土工。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L059",
+      "line_id": "QMDJ_Juan27_P011_S002",
       "original_quote": "從征來，大臣災、火蠱生、榖貴。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L060",
+      "line_id": "QMDJ_Juan27_P011_S003",
       "original_quote": "從羽來，土工興、大雨、邊兵人多口舌病、夷相奪。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L061",
-      "original_quote": "從商來，有急兵。",
+      "line_id": "QMDJ_Juan27_P011_S004",
+      "original_quote": "從商 來，有急兵。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L062",
+      "line_id": "QMDJ_Juan27_P011_S005",
       "original_quote": "從陽角來，邊兵起、人主憂、賊至、戰多死亡。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L063",
+      "line_id": "QMDJ_Juan27_P011_S006",
       "original_quote": "從陰角來，大喪。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L064",
+      "line_id": "QMDJ_Juan27_P011_S007",
       "original_quote": "時加重角，兵戰、盜起民飢、多死人。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L065",
-      "original_quote": "宮為君，以下皆為大臣、令長、庶宮小民當之，以下辰占國。",
+      "line_id": "QMDJ_Juan27_P011_S008",
+      "original_quote": "宮為君，以下皆為大臣、令長、庶宮小民當 之，以下辰占國。",
+      "paragraph_index": 11,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L066",
-      "original_quote": "\n凡風起正日時方位，徵多為火，羽多為水，商多為兵，為粟貴，角多為疾，宮多為吉，鳴條落葉，揚塵吹砍，乃占豈君月相日辰，占分期以干支合數，宮為十數，徵為三十，羽五十，商七十，角九十，干支令數，如甲子十八數，乙丑十六數之類。",
+      "line_id": "QMDJ_Juan27_P012_S000",
+      "original_quote": "凡風起正日時方位，徵多為火，羽多為水，商多為兵，為粟貴，角多為疾，宮多為吉，鳴條落葉，揚塵吹砍，乃占豈君月相日辰，占分期以干支合數，宮為十數，徵為 三十，羽五十，商七十，角九十，干支令數，如甲子十八數，乙丑十六數之類。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L067",
-      "original_quote": "又日為令長，時為民，如德刑俱臨，以風之吉凶占，常以正月二十日，五月、十一月十四日，候天門有雲氣，或蒼黑赤白，皆為中外不通心。",
+      "line_id": "QMDJ_Juan27_P012_S001",
+      "original_quote": "又日為令長，時為民，如德刑俱臨，以風之吉凶占，常以正月二十日，五月、十一月 十四日，候天門有雲氣，或蒼黑赤白，皆為中外不通心。",
+      "paragraph_index": 12,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L068",
-      "original_quote": "\n凡雲氣紫赤，如煙非煙，如云非雲，鬱鬱紛紛，蕭索輪困，是曰夏雲，喜氣也。",
+      "line_id": "QMDJ_Juan27_P013_S000",
+      "original_quote": "凡雲氣紫赤，如煙非煙，如云非雲，鬱鬱紛紛，蕭索輪困，是曰夏雲，喜氣也。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L069",
-      "original_quote": "雲含五色，潤澤和緩，見城上為景雲，太平之應，一曰卿云，大風將至，雲如亂穰，大雨將至，雲甚重潤，日入而青雲東西極天，無雨則三年將有喪軍。",
+      "line_id": "QMDJ_Juan27_P013_S001",
+      "original_quote": "雲含五色，潤澤和緩，見城上為景雲，太平之應，一曰卿云，大風將至，雲如亂穰， 大雨將至，雲甚重潤，日入而青雲東西極天，無雨則三年將有喪軍。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L070",
+      "line_id": "QMDJ_Juan27_P013_S002",
       "original_quote": "有喪則白雲南北如陣。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L071",
+      "line_id": "QMDJ_Juan27_P013_S003",
       "original_quote": "赤雲如血則血流。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L072",
+      "line_id": "QMDJ_Juan27_P013_S004",
       "original_quote": "黑氣如道則有赦雲。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L073",
+      "line_id": "QMDJ_Juan27_P013_S005",
       "original_quote": "如龍行則大水入流。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L074",
-      "original_quote": "赤氣如人影，三日臣叛。",
+      "line_id": "QMDJ_Juan27_P013_S006",
+      "original_quote": "赤氣如人影， 三日臣叛。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L075",
+      "line_id": "QMDJ_Juan27_P013_S007",
       "original_quote": "雲俱五色不下雨，有隱賢。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L076",
+      "line_id": "QMDJ_Juan27_P013_S008",
       "original_quote": "赤黃四塞，連日夜光此照地，大臣縱恣。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L077",
+      "line_id": "QMDJ_Juan27_P013_S009",
       "original_quote": "赤色覆日如血，大旱民飢。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L078",
+      "line_id": "QMDJ_Juan27_P013_S010",
       "original_quote": "黑氣變化更移，夷欺中國。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L079",
-      "original_quote": "雲如疋布，東西南北在邑上者，羊變。",
+      "line_id": "QMDJ_Juan27_P013_S011",
+      "original_quote": "雲如疋布，東西南北在邑上 者，羊變。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L080",
+      "line_id": "QMDJ_Juan27_P013_S012",
       "original_quote": "黑氣如牛頭，龍蛇變化，主病、流亡，不宜新婦，亦為狄侵華。",
+      "paragraph_index": 13,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L081",
-      "original_quote": "\n凡戰氣赤雲，如傘蓋覆羊上，千里內戰吉，外憂。",
+      "line_id": "QMDJ_Juan27_P014_S000",
+      "original_quote": "凡戰氣赤雲，如傘蓋覆羊上，千里內戰吉，外憂。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L082",
+      "line_id": "QMDJ_Juan27_P014_S001",
       "original_quote": "赤雲如狗入營，大戰流血。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L083",
+      "line_id": "QMDJ_Juan27_P014_S002",
       "original_quote": "赤雲旋而不動，或如丹蛇，如覆舟，如耕襲，或白氣如車入北斗中轉移者，下流血將死。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L084",
+      "line_id": "QMDJ_Juan27_P014_S003",
       "original_quote": "或云上白氣如虹而交，或日旁有玦，五色白虹，皆戰氣也。",
+      "paragraph_index": 14,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L085",
-      "original_quote": "\n凡出軍之日，天氣昏漠，雲氣陰沉，必戰。",
+      "line_id": "QMDJ_Juan27_P015_S000",
+      "original_quote": "凡出軍之日，天氣昏漠，雲氣陰沉，必戰。",
+      "paragraph_index": 15,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L086",
+      "line_id": "QMDJ_Juan27_P015_S001",
       "original_quote": "若青陽溫和，風塵不動，不見敵，亦不戰也。",
+      "paragraph_index": 15,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L087",
-      "original_quote": "\n猛將氣\n凡氣上與天連，下有名將。",
+      "line_id": "QMDJ_Juan27_P016_S000",
+      "original_quote": "猛將氣",
+      "paragraph_index": 16,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L088",
-      "original_quote": "抱樸子曰：猛將之氣，如火勢，如張弓，或白如粉絮囷倉，黑如山林竹木，或紫黑如門上樓，或上或下赤如旌旗，或氣發漸漸如雲而變作山形，或云氣如蛟蛇形，或如龍、如虎在殺氣中，或內白而赤氣外繞，或中黑而赤氣在前，或勃勃然如火煙之狀，皆為悍猛謀深，不可當在我軍上，四速戰也。",
+      "line_id": "QMDJ_Juan27_P017_S000",
+      "original_quote": "凡氣上與天連，下有名將。",
+      "paragraph_index": 17,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L089",
-      "original_quote": "\n伏兵氣\n凡兩軍相當，前後左右有赤氣，即有伏氣雲，紛紛綿綿而相繼者，車騎伏也。",
+      "line_id": "QMDJ_Juan27_P017_S001",
+      "original_quote": "抱樸子曰：猛將之氣，如火勢，如張弓，或白如粉絮囷倉，黑如山林竹木，或紫黑如門上樓，或上或下赤如旌旗，或氣發漸漸如雲而變作山 形，或云氣如蛟蛇形，或如龍、如虎在殺氣中，或內白而赤氣外繞，或中黑而赤氣在前，或勃勃然如火煙之狀，皆為悍猛謀深，不可當在我軍上，四速戰也。",
+      "paragraph_index": 17,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L090",
+      "line_id": "QMDJ_Juan27_P018_S000",
+      "original_quote": "伏兵氣",
+      "paragraph_index": 18,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P019_S000",
+      "original_quote": "凡兩軍相當，前後左右有赤氣，即有伏氣雲，紛紛綿綿而相繼者，車騎伏也。",
+      "paragraph_index": 19,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P019_S001",
       "original_quote": "如有席蒿草者，少兵伏也。",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L091",
+      "line_id": "QMDJ_Juan27_P019_S002",
       "original_quote": "白氣紛紜，如樓上狀，萬人伏也。",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L092",
+      "line_id": "QMDJ_Juan27_P019_S003",
       "original_quote": "軍上黑氣洋洋，而赤氣在中，或如烏雲之赤杵，或赤雲中之鳥，人在烏雲內，或如幢節在烏雲中，或如山嶽之王外，或前黑而白雲在後，皆伏兵氣也。",
+      "paragraph_index": 19,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L093",
-      "original_quote": "\n陰謀氣\n凡白氣群行，或如群羊徘徊，結陣而來，或日月蒙蒙無光，士卒內亂及兵內發。",
+      "line_id": "QMDJ_Juan27_P020_S000",
+      "original_quote": "陰謀氣",
+      "paragraph_index": 20,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L094",
+      "line_id": "QMDJ_Juan27_P021_S000",
+      "original_quote": "凡白氣群行，或如群羊徘徊，結陣而來，或日月蒙蒙無光，士卒內亂及兵內發。",
+      "paragraph_index": 21,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P021_S001",
       "original_quote": "或黑如幢節而出於營，必有詐謀。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L095",
+      "line_id": "QMDJ_Juan27_P021_S002",
       "original_quote": "或黑而車旗臨我陣，必有亂臣，謀與賊通。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L096",
-      "original_quote": "晝陰夜月出，君謀臣，夜陰晝日出，臣謀君。",
+      "line_id": "QMDJ_Juan27_P021_S003",
+      "original_quote": "晝陰夜月 出，君謀臣，夜陰晝日出，臣謀君。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L097",
+      "line_id": "QMDJ_Juan27_P021_S004",
       "original_quote": "或晝夜陰沉，或連陰十日，不是冬月而風亂起，君臣奸謀，亦是兩國相圖。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L098",
+      "line_id": "QMDJ_Juan27_P021_S005",
       "original_quote": "黑氣流行，互含五色，臨我軍上，則敵與臣謀，自敗死。",
+      "paragraph_index": 21,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L099",
-      "original_quote": "\n凡敵兵暴至，必有赤雲赫赫然及王子還見，或赤若旌旗，或獨見赤雲，如虹、如狗、如覆船，及天下白雲如布疋，經於丑未，或廣六、七丈，東西亙天，上下起兵，赤者尤甚，青者大喪。",
+      "line_id": "QMDJ_Juan27_P022_S000",
+      "original_quote": "凡敵兵暴至，必有赤雲赫赫然及王子還見，或赤若旌旗，或獨見赤雲，如虹、如狗、如覆船，及天下白雲如布疋，經於丑未，或廣六、七丈，東西亙天，上下起兵，赤 者尤甚，青者大喪。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L100",
+      "line_id": "QMDJ_Juan27_P022_S001",
       "original_quote": "又白如瓜蔓，如仙人衣，千萬戴結，罷而反興，至八九丈，連而不斷，千里兵至。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L101",
-      "original_quote": "或赤虹如狗，四枚相聚，如人行不絕，或如艾虎，或上有云，下有零螟，中天而下入我軍，或黑雲從敵來覆我軍，有雲如人而赤臨城邑，而四望無雲，獨見雲極天半起，或如胡人列陣，或如執楯、如赤杵、如火雲，如人持節之勢，或如旌旗之伸，皆主敵兵暴來襲我也。",
+      "line_id": "QMDJ_Juan27_P022_S002",
+      "original_quote": "或赤虹如狗，四枚相聚，如人行不絕，或如艾虎，或上有云， 下有零螟，中天而下入我軍，或黑雲從敵來覆我軍，有雲如人而赤臨城邑，而四望無雲，獨見雲極天半起，或如胡人列陣，或如執楯、如赤杵、如火雲，如人持節之 勢，或如旌旗之伸，皆主敵兵暴來襲我也。",
+      "paragraph_index": 22,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L102",
-      "original_quote": "\n陣前色黑，有陰謀。",
+      "line_id": "QMDJ_Juan27_P023_S000",
+      "original_quote": "陣前色黑，有陰謀。",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L103",
+      "line_id": "QMDJ_Juan27_P023_S001",
       "original_quote": "色青，兵叛。",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L104",
+      "line_id": "QMDJ_Juan27_P023_S002",
       "original_quote": "色赤，兵飢。",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L105",
+      "line_id": "QMDJ_Juan27_P023_S003",
       "original_quote": "色黃，急去之勾擊。",
+      "paragraph_index": 23,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L106",
-      "original_quote": "\n軍勝氣\n軍勝之氣，前赤後白，雲如旌旗，揚揮指敵。",
+      "line_id": "QMDJ_Juan27_P024_S000",
+      "original_quote": "軍勝氣",
+      "paragraph_index": 24,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L107",
+      "line_id": "QMDJ_Juan27_P025_S000",
+      "original_quote": "軍勝之氣，前赤後白，雲如旌旗，揚揮指敵。",
+      "paragraph_index": 25,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P025_S001",
       "original_quote": "或氣如堤阪，前後摩地。",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L108",
+      "line_id": "QMDJ_Juan27_P025_S002",
       "original_quote": "或如日月暈狀光芒，如飛鳥來而高。",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L109",
+      "line_id": "QMDJ_Juan27_P025_S003",
       "original_quote": "或赤白相隨，如鬪雞在雲霧中，或如三疋帛，前廣後大，或如一疋帛，皆不可勝。",
+      "paragraph_index": 25,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L110",
-      "original_quote": "\n又如五頭馬低尾，而又赤如鳥在氣中如赤杵，在白雲中如人，在烏氣中如人持斧向之，如蛇舉首向之，如人牽牛、如覆舟、如小提、如山林木、如乳虎伏豹、如樸、如樓、如赤繞之。",
+      "line_id": "QMDJ_Juan27_P026_S000",
+      "original_quote": "又如五頭馬低尾，而又赤如鳥在氣中如赤杵，在白雲中如人，在烏氣中如人持斧向之，如蛇舉首向之，如人牽牛、如覆舟、如小提、如山林木、如乳虎伏豹、如樸、如樓、如赤繞之。",
+      "paragraph_index": 26,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L111",
+      "line_id": "QMDJ_Juan27_P026_S001",
       "original_quote": "或赤黃連之，天如華蓋獨立，或五色雲氣如引絲，如陣前銳，皆盛氣也。",
+      "paragraph_index": 26,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L112",
-      "original_quote": "\n敗氣\n營上氣囚廢枯散，或如馬肝，如死灰，如敗車不起，如臥牛，如敗屋，皆敗氣也。",
+      "line_id": "QMDJ_Juan27_P027_S000",
+      "original_quote": "敗氣",
+      "paragraph_index": 27,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L113",
+      "line_id": "QMDJ_Juan27_P028_S000",
+      "original_quote": "營上氣囚廢枯散，或如馬肝，如死灰，如敗車不起，如臥牛，如敗屋，皆敗氣也。",
+      "paragraph_index": 28,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P028_S001",
       "original_quote": "或蓋道敝蒙盡，暝飯不及食，炊不及熟，即急去之。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L114",
+      "line_id": "QMDJ_Juan27_P028_S002",
       "original_quote": "或黑如壤山墮軍壘營頭星也。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L115",
-      "original_quote": "或白雲如群鳥起，趨入屯營結連，百里不絕，須臾不見，主他國來降。",
+      "line_id": "QMDJ_Juan27_P028_S003",
+      "original_quote": "或 白雲如群鳥起，趨入屯營結連，百里不絕，須臾不見，主他國來降。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L116",
+      "line_id": "QMDJ_Juan27_P028_S004",
       "original_quote": "氣如群鳥亂飛，如粉、如塵、如煙燔生草，前銳後敗，如枯蓬轉者，急擊之。",
+      "paragraph_index": 28,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L117",
-      "original_quote": "\n雲如偃蓋，如偃魚臨於軍上，如群羊、群豬在氣中，在十里以外，望念軍上，氣多而前白後青，或基兒臨營上，如馬在氣中漸漸入營，如只蛇委曲，如群狐驚奔，或赤光從天流下，如氣發連夜照人，或如卷席、如灰，如人臥無手無足，如飛鳥亂飛，如覆船車蓋，如敗提，如霧始起，聚散出沒。",
+      "line_id": "QMDJ_Juan27_P029_S000",
+      "original_quote": "雲如偃蓋，如偃魚臨於軍上，如群羊、群豬在氣中，在十里以外，望念軍上，氣多而前白後青，或基兒臨營上，如馬在氣中漸漸入營，如只蛇委曲，如群狐驚奔，或赤 光從天流下，如氣發連夜照人，或如卷席、如灰，如人臥無手無足，如飛鳥亂飛，如覆船車蓋，如敗提，如霧始起，聚散出沒。",
+      "paragraph_index": 29,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L118",
-      "original_quote": "如十十五五妙手相向，又氣出而半絕將敗，氣漸盡將走，皆敗走逃奔之象。",
+      "line_id": "QMDJ_Juan27_P029_S001",
+      "original_quote": "如十十五五妙手相向，又氣出而半絕 將敗，氣漸盡將走，皆敗走逃奔之象。",
+      "paragraph_index": 29,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L119",
-      "original_quote": "\n城有不可攻者，凡青黃雲氣臨城，若白雲從城中南北出，或白氣中出而青氣北入，往返四遠。",
+      "line_id": "QMDJ_Juan27_P030_S000",
+      "original_quote": "城有不可攻者，凡青黃雲氣臨城，若白雲從城中南北出，或白氣中出而青氣北入，往返四遠。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L120",
+      "line_id": "QMDJ_Juan27_P030_S001",
       "original_quote": "若赤氣如杵向外有黑雲如星出，曰星精。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L121",
-      "original_quote": "若日暈有青赤氣從中四出，若蒙氣繞城而不入，若城上白氣如旌旗形狀云，若赤絮、若青雲入，如牛頭觸千人，若氣如煙火，若中出而入我軍，若如雙蛇，若雲分雨雪。",
+      "line_id": "QMDJ_Juan27_P030_S002",
+      "original_quote": "若日暈有青赤氣從中四出，若蒙 氣繞城而不入，若城上白氣如旌旗形狀云，若赤絮、若青雲入，如牛頭觸千人，若氣如煙火，若中出而入我軍，若如雙蛇，若雲分雨雪。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L122",
-      "original_quote": "若云剋日，如甲乙平旦有白云。",
+      "line_id": "QMDJ_Juan27_P030_S003",
+      "original_quote": "若云剋日，如甲乙平旦有白 云。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L123",
+      "line_id": "QMDJ_Juan27_P030_S004",
       "original_quote": "丙丁日有黑雲等，若圍城，雷雨過旬，又城上氣滿人不見，皆為不可攻。",
+      "paragraph_index": 30,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L124",
-      "original_quote": "\n城有不可剋者，凡赤氣在城上，而黃氣四面繞之，將死城降。",
+      "line_id": "QMDJ_Juan27_P031_S000",
+      "original_quote": "城有不可剋者，凡赤氣在城上，而黃氣四面繞之，將死城降。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L125",
+      "line_id": "QMDJ_Juan27_P031_S001",
       "original_quote": "城中氣聚，如樓而出見於外，又赤虹從外入，三日可瘏。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L126",
-      "original_quote": "日重暈而白虹貫之，及蒙霧入城，白氣繞而入後，所入攻之。",
+      "line_id": "QMDJ_Juan27_P031_S002",
+      "original_quote": "日重暈而白虹貫之，及蒙霧入城，白氣繞而入 後，所入攻之。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L127",
+      "line_id": "QMDJ_Juan27_P031_S003",
       "original_quote": "赤黑氣如狐狸皮經及正赤，或如雄雌臨城，或赤氣如眾人頭，如飛鳥，如敗車，氣出向東南者，不可攻。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L128",
-      "original_quote": "氣向西北，或云如式人五、如三牛，如白蛇指城，或青氣，及氣上赤下白，及日無光明，日有西南風至，必剋。",
+      "line_id": "QMDJ_Juan27_P031_S004",
+      "original_quote": "氣向西北，或云如式人五、如三牛，如白蛇 指城，或青氣，及氣上赤下白，及日無光明，日有西南風至，必剋。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L129",
+      "line_id": "QMDJ_Juan27_P031_S005",
       "original_quote": "城中氣出複入者，人欲逃。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L130",
+      "line_id": "QMDJ_Juan27_P031_S006",
       "original_quote": "凡兩軍相當之氣，以我西賊東為例。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L131",
-      "original_quote": "西厚東薄，西長東短，西高東下，西澤東枯，我軍勝，反之敗。",
+      "line_id": "QMDJ_Juan27_P031_S007",
+      "original_quote": "西厚東薄，西長東短，西高東 下，西澤東枯，我軍勝，反之敗。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L132",
+      "line_id": "QMDJ_Juan27_P031_S008",
       "original_quote": "氣安則軍安，氣散則軍亂，氣南軍亦南，氣北軍亦北。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L133",
+      "line_id": "QMDJ_Juan27_P031_S009",
       "original_quote": "對敵有火來，甚早。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L134",
+      "line_id": "QMDJ_Juan27_P031_S010",
       "original_quote": "蔭覆人掩溝，盜大賊將至，雲如蛟蛇者，勝氣也。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L135",
-      "original_quote": "如兔雄者亡，甲乙日東方青氣，盛氣也。",
+      "line_id": "QMDJ_Juan27_P031_S011",
+      "original_quote": "如兔 雄者亡，甲乙日東方青氣，盛氣也。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L136",
+      "line_id": "QMDJ_Juan27_P031_S012",
       "original_quote": "黃氣，死氣也。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L137",
+      "line_id": "QMDJ_Juan27_P031_S013",
       "original_quote": "初出軍，赤氣相隨日出，居有憂，隨日沒，外告急，收兵勿行。",
+      "paragraph_index": 31,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L138",
-      "original_quote": "\n京房曰：「赤氣隨行，黑氣隨之，赤氣滅，賊可得，有赤無黑，賊不可得。",
+      "line_id": "QMDJ_Juan27_P032_S000",
+      "original_quote": "京房曰：「赤氣隨行，黑氣隨之，赤氣滅，賊可得，有赤無黑，賊不可得。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L139",
+      "line_id": "QMDJ_Juan27_P032_S001",
       "original_quote": "被圍亦盛，關上氣鬱鬱如火光芒蓊蓊，然有救。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L140",
+      "line_id": "QMDJ_Juan27_P032_S002",
       "original_quote": "至外出軍，雲隨後來，隨而擊之勝，逆者，急宜屯兵固守」。",
+      "paragraph_index": 32,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L141",
-      "original_quote": "\n五音風\n宮聲風，隆隆然，如雷鼓，如牛羊鳴窯中，發屋折木，主土動，君心煩，急令貴神輔相，疑忌兵起不安，其日風從宮來，山擢岸崩，君出地裂。",
+      "line_id": "QMDJ_Juan27_P033_S000",
+      "original_quote": "五音風",
+      "paragraph_index": 33,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L142",
+      "line_id": "QMDJ_Juan27_P034_S000",
+      "original_quote": "宮聲風，隆隆然，如雷鼓，如牛羊鳴窯中，發屋折木，主土動，君心煩，急令貴神輔相，疑忌兵起不安，其日風從宮來，山擢岸崩，君出地裂。",
+      "paragraph_index": 34,
+      "tag": []
+    },
+    {
+      "line_id": "QMDJ_Juan27_P034_S001",
       "original_quote": "風從角，蝗蟲敗榖。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L143",
+      "line_id": "QMDJ_Juan27_P034_S002",
       "original_quote": "從商來，大水暴雨。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L144",
+      "line_id": "QMDJ_Juan27_P034_S003",
       "original_quote": "風從征來，蠱狼為害。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L145",
+      "line_id": "QMDJ_Juan27_P034_S004",
       "original_quote": "從羽來，大雨陽寒，大臣凶。",
+      "paragraph_index": 34,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L146",
-      "original_quote": "\n商聲風，如離群羊，如扣鐘磬，如飛羽集，如鳴咽流水鳴聲惑人，發屋折木，主宮中兵起，鬪兵，急令關梁不通，耀貴。",
+      "line_id": "QMDJ_Juan27_P035_S000",
+      "original_quote": "商聲風，如離群羊，如扣鐘磬，如飛羽集，如鳴咽流水鳴聲惑人，發屋折木，主宮中兵起，鬪兵，急令關梁不通，耀貴。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L147",
+      "line_id": "QMDJ_Juan27_P035_S001",
       "original_quote": "其日風從商來，白衣聚，關梁塞，大將退，外兵入。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L148",
+      "line_id": "QMDJ_Juan27_P035_S002",
       "original_quote": "從角來，國有喪，兵行。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L149",
+      "line_id": "QMDJ_Juan27_P035_S003",
       "original_quote": "從宮來，國有憂，將在外兵不戰。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L150",
+      "line_id": "QMDJ_Juan27_P035_S004",
       "original_quote": "從征來，君令行兵，主凶。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L151",
+      "line_id": "QMDJ_Juan27_P035_S005",
       "original_quote": "從羽來，大雨至，在外兵解。",
+      "paragraph_index": 35,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L152",
-      "original_quote": "\n角聲風，如千人合聲呼嘯，或合合然。",
+      "line_id": "QMDJ_Juan27_P036_S000",
+      "original_quote": "角聲風，如千人合聲呼嘯，或合合然。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L153",
+      "line_id": "QMDJ_Juan27_P036_S001",
       "original_quote": "如千人唱，令人悲哀。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L154",
+      "line_id": "QMDJ_Juan27_P036_S002",
       "original_quote": "如啾風鳴，雉登木，發屋折木，有急兵鬪入城邑。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L155",
+      "line_id": "QMDJ_Juan27_P036_S003",
       "original_quote": "風從商來，有暴兵，軍令，宮中貴人疾，土工興。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L156",
+      "line_id": "QMDJ_Juan27_P036_S004",
       "original_quote": "從羽來，野飢人。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L157",
+      "line_id": "QMDJ_Juan27_P036_S005",
       "original_quote": "從征來，絲貴有火燔。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L158",
+      "line_id": "QMDJ_Juan27_P036_S006",
       "original_quote": "從宮來，不祥。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L159",
+      "line_id": "QMDJ_Juan27_P036_S007",
       "original_quote": "從角來，不吉。",
+      "paragraph_index": 36,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L160",
-      "original_quote": "\n徵音風，如奔馬、火炎，如縛彘聲發，屋行來火災，妖害、急事、兵行。",
+      "line_id": "QMDJ_Juan27_P037_S000",
+      "original_quote": "徵音風，如奔馬、火炎，如縛彘聲發，屋行來火災，妖害、急事、兵行。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L161",
+      "line_id": "QMDJ_Juan27_P037_S001",
       "original_quote": "其日風從征來，火起、君憂。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L162",
+      "line_id": "QMDJ_Juan27_P037_S002",
       "original_quote": "從角來，火災、土工、大旱。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L163",
+      "line_id": "QMDJ_Juan27_P037_S003",
       "original_quote": "從宮來，喪泣、寺舍火災。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L164",
+      "line_id": "QMDJ_Juan27_P037_S004",
       "original_quote": "從商來，有鬪兵。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L165",
+      "line_id": "QMDJ_Juan27_P037_S005",
       "original_quote": "從羽來，寶物出，國多雷，震有使。",
+      "paragraph_index": 37,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L166",
-      "original_quote": "\n羽音風，如擊溫鼓，如糜鳴子，如水揚波，激氣相磋，發屋折木，兵起，耀貴。",
+      "line_id": "QMDJ_Juan27_P038_S000",
+      "original_quote": "羽音風，如擊溫鼓，如糜鳴子，如水揚波，激氣相磋，發屋折木，兵起，耀貴。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L167",
+      "line_id": "QMDJ_Juan27_P038_S001",
       "original_quote": "其日風從羽來，雨雹、霜災。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L168",
+      "line_id": "QMDJ_Juan27_P038_S002",
       "original_quote": "從商來，兵鬪、將憂。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L169",
+      "line_id": "QMDJ_Juan27_P038_S003",
       "original_quote": "從宮來，暴風、大雨、寒氣傷物。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L170",
+      "line_id": "QMDJ_Juan27_P038_S004",
       "original_quote": "從征來，臣民有憂。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L171",
+      "line_id": "QMDJ_Juan27_P038_S005",
       "original_quote": "從羽來，城圍不去。",
+      "paragraph_index": 38,
       "tag": []
     },
     {
-      "line_id": "QMDJ_Juan27_L172",
+      "line_id": "QMDJ_Juan27_P038_S006",
       "original_quote": "風角之書。",
+      "paragraph_index": 38,
       "tag": []
     }
   ],
   "_source": {
     "text": "奇門遁甲秘笈大全",
     "juan": "Juan27",
-    "line_id_start": "QMDJ_Juan27_L000",
-    "line_id_end": "QMDJ_Juan27_L172"
+    "line_id_start": "QMDJ_Juan27_P000_S000",
+    "line_id_end": "QMDJ_Juan27_P038_S006",
+    "original_block": "《卷二十七》\n納音分日例\n甲子、甲午、壬申、壬寅、庚辰、庚戌陽商，乙丑、乙未、癸卯、癸酉、辛巳、辛亥陰商。丙寅、丙申、戊子、戊午、甲辰、甲戌陽征，丁卯、丁酉、己丑、己未、乙 巳、乙亥陰徵。戊辰、戊戌、庚寅、庚申、壬子、壬午陽角，己巳、己亥、辛卯、辛酉、癸丑、癸未陰角。庚子、庚午、戊寅、戊申、丙辰、丙戌陽宮，辛丑、辛 未、己卯、己酉、丁巳、丁亥陰宮。甲寅、甲申、壬辰、壬戌、丙子、丙午陽羽，乙卯、乙酉、癸巳、癸亥、丁丑、丁未陰羽。\n十二辰五音所主\n子陽宮，屬土，主帝王。丑寅陽征，屬火，主旱，為宮寺、口舌。卯陽羽，屬水，主雨霧。辰陽商，屬金，主將軍、吏士。巳陽角，屬木，主疾病、憂患。午陰宮土，主女後。未申陰徵火，主庶人、士土，誥書、文檄、旱火、郵驛。酉陰羽水，主霜雪，雷電，陰沉虹。戌陰商金，主小將，兵刃。亥陰角木，主死喪、哭泣。\n凡宮為君，商為臣子、奴僕，角為民、為疾病、死喪。徵為事、為宗廟、鬼神。羽為物、為妻財、為境界。如子日、子方風為官動、主人，君出行布令風暴念急風徐令喜。\n五音風動占\n宮日，風起子，山陵崩、君出、地動、旱、有土工；起午，旱、地震、後出。又時加子午，為重宮，君大夫走，風雨不調。從醜、寅、未、申起，為宮動征，有火燭，土上寶物，出有兵。時加征，為重征，有義兵、詔令，曰義風。從卯酉來，商動羽，大雨、大臣走、旱。時加羽為重羽，即有赦、五榖成。從辰戌來，宮動商，有兵 行。時加辰戌為重商，有兵殃。風從巳亥來，宮動角，主戰、人主憂、客兵傷、有喪。時加巳亥為重角，君不昌。\n征日，陽宮風來，旱、火土上起、宮寺災。從陰宮起，太子疾。時加重征，土上火災。從陽徵來，君有恐、火災、走獸入為害、宮寺焚、王相憂、大旱。征陽徵來，六 畜多死。從陽商來，急兵、君自守七日、遠七十日。從陰商來，有兵戰一日。從陽商來，臣強大死、君殃，以日占國。從陽羽來，四鄰有事、有寶玉、雷電、霜雹、 臣候憂、多火災、夷兵至。從陰羽來，寶出、雷電、夷有事。從陽角來，兵喪。從陰角來，邊驚、兵火、春有喪。\n羽日，風從陽宮來，財物聚、君有使令、邊兵土工興、將受命、有集會、雷電。從陰宮來，冰雹寒傷物、有土工。從陽徵來，有兵、有急令、臣有憂、關塞路阻。風從 陰徵來，邊臣有羽事大喪會，寒雪雹期五日，若五十日大雨南方來，國憂人，疾風從北方來，賊聚水中。陽羽來，日應。從陰羽來，夜應。從商來，兵圍不戰、邊急 關阻、大雨，軍各不利。\n商日，風從陽宮來，太子忌恐、人臣有急、兵主疾。從陰宮來，庶子憂、有急變、兵北起。風從征來，兵圍不戰，且旱。時加重征，大旱。從陽商來，白衣聚、關梁 閉、大將死、出忌外邑有兵、有小寇、兵在西，君有憂。從陽商來，有殃、粟貴、有兵七日，若七十日有急令。從陽角來，猝兵從急令。從陰角來，喪土工。\n角日，風從陽宮來，兵中興、君憂國四閉。從陽宮來，貴人病、喪土工。從征來，大臣災、火蠱生、榖貴。從羽來，土工興、大雨、邊兵人多口舌病、夷相奪。從商 來，有急兵。從陽角來，邊兵起、人主憂、賊至、戰多死亡。從陰角來，大喪。時加重角，兵戰、盜起民飢、多死人。宮為君，以下皆為大臣、令長、庶宮小民當 之，以下辰占國。\n凡風起正日時方位，徵多為火，羽多為水，商多為兵，為粟貴，角多為疾，宮多為吉，鳴條落葉，揚塵吹砍，乃占豈君月相日辰，占分期以干支合數，宮為十數，徵為 三十，羽五十，商七十，角九十，干支令數，如甲子十八數，乙丑十六數之類。又日為令長，時為民，如德刑俱臨，以風之吉凶占，常以正月二十日，五月、十一月 十四日，候天門有雲氣，或蒼黑赤白，皆為中外不通心。\n凡雲氣紫赤，如煙非煙，如云非雲，鬱鬱紛紛，蕭索輪困，是曰夏雲，喜氣也。雲含五色，潤澤和緩，見城上為景雲，太平之應，一曰卿云，大風將至，雲如亂穰， 大雨將至，雲甚重潤，日入而青雲東西極天，無雨則三年將有喪軍。有喪則白雲南北如陣。赤雲如血則血流。黑氣如道則有赦雲。如龍行則大水入流。赤氣如人影， 三日臣叛。雲俱五色不下雨，有隱賢。赤黃四塞，連日夜光此照地，大臣縱恣。赤色覆日如血，大旱民飢。黑氣變化更移，夷欺中國。雲如疋布，東西南北在邑上 者，羊變。黑氣如牛頭，龍蛇變化，主病、流亡，不宜新婦，亦為狄侵華。\n凡戰氣赤雲，如傘蓋覆羊上，千里內戰吉，外憂。赤雲如狗入營，大戰流血。赤雲旋而不動，或如丹蛇，如覆舟，如耕襲，或白氣如車入北斗中轉移者，下流血將死。或云上白氣如虹而交，或日旁有玦，五色白虹，皆戰氣也。\n凡出軍之日，天氣昏漠，雲氣陰沉，必戰。若青陽溫和，風塵不動，不見敵，亦不戰也。\n猛將氣\n凡氣上與天連，下有名將。抱樸子曰：猛將之氣，如火勢，如張弓，或白如粉絮囷倉，黑如山林竹木，或紫黑如門上樓，或上或下赤如旌旗，或氣發漸漸如雲而變作山 形，或云氣如蛟蛇形，或如龍、如虎在殺氣中，或內白而赤氣外繞，或中黑而赤氣在前，或勃勃然如火煙之狀，皆為悍猛謀深，不可當在我軍上，四速戰也。\n伏兵氣\n凡兩軍相當，前後左右有赤氣，即有伏氣雲，紛紛綿綿而相繼者，車騎伏也。如有席蒿草者，少兵伏也。白氣紛紜，如樓上狀，萬人伏也。軍上黑氣洋洋，而赤氣在中，或如烏雲之赤杵，或赤雲中之鳥，人在烏雲內，或如幢節在烏雲中，或如山嶽之王外，或前黑而白雲在後，皆伏兵氣也。\n陰謀氣\n凡白氣群行，或如群羊徘徊，結陣而來，或日月蒙蒙無光，士卒內亂及兵內發。或黑如幢節而出於營，必有詐謀。或黑而車旗臨我陣，必有亂臣，謀與賊通。晝陰夜月 出，君謀臣，夜陰晝日出，臣謀君。或晝夜陰沉，或連陰十日，不是冬月而風亂起，君臣奸謀，亦是兩國相圖。黑氣流行，互含五色，臨我軍上，則敵與臣謀，自敗死。\n凡敵兵暴至，必有赤雲赫赫然及王子還見，或赤若旌旗，或獨見赤雲，如虹、如狗、如覆船，及天下白雲如布疋，經於丑未，或廣六、七丈，東西亙天，上下起兵，赤 者尤甚，青者大喪。又白如瓜蔓，如仙人衣，千萬戴結，罷而反興，至八九丈，連而不斷，千里兵至。或赤虹如狗，四枚相聚，如人行不絕，或如艾虎，或上有云， 下有零螟，中天而下入我軍，或黑雲從敵來覆我軍，有雲如人而赤臨城邑，而四望無雲，獨見雲極天半起，或如胡人列陣，或如執楯、如赤杵、如火雲，如人持節之 勢，或如旌旗之伸，皆主敵兵暴來襲我也。\n陣前色黑，有陰謀。色青，兵叛。色赤，兵飢。色黃，急去之勾擊。\n軍勝氣\n軍勝之氣，前赤後白，雲如旌旗，揚揮指敵。或氣如堤阪，前後摩地。或如日月暈狀光芒，如飛鳥來而高。或赤白相隨，如鬪雞在雲霧中，或如三疋帛，前廣後大，或如一疋帛，皆不可勝。\n又如五頭馬低尾，而又赤如鳥在氣中如赤杵，在白雲中如人，在烏氣中如人持斧向之，如蛇舉首向之，如人牽牛、如覆舟、如小提、如山林木、如乳虎伏豹、如樸、如樓、如赤繞之。或赤黃連之，天如華蓋獨立，或五色雲氣如引絲，如陣前銳，皆盛氣也。\n敗氣\n營上氣囚廢枯散，或如馬肝，如死灰，如敗車不起，如臥牛，如敗屋，皆敗氣也。或蓋道敝蒙盡，暝飯不及食，炊不及熟，即急去之。或黑如壤山墮軍壘營頭星也。或 白雲如群鳥起，趨入屯營結連，百里不絕，須臾不見，主他國來降。氣如群鳥亂飛，如粉、如塵、如煙燔生草，前銳後敗，如枯蓬轉者，急擊之。\n雲如偃蓋，如偃魚臨於軍上，如群羊、群豬在氣中，在十里以外，望念軍上，氣多而前白後青，或基兒臨營上，如馬在氣中漸漸入營，如只蛇委曲，如群狐驚奔，或赤 光從天流下，如氣發連夜照人，或如卷席、如灰，如人臥無手無足，如飛鳥亂飛，如覆船車蓋，如敗提，如霧始起，聚散出沒。如十十五五妙手相向，又氣出而半絕 將敗，氣漸盡將走，皆敗走逃奔之象。\n城有不可攻者，凡青黃雲氣臨城，若白雲從城中南北出，或白氣中出而青氣北入，往返四遠。若赤氣如杵向外有黑雲如星出，曰星精。若日暈有青赤氣從中四出，若蒙 氣繞城而不入，若城上白氣如旌旗形狀云，若赤絮、若青雲入，如牛頭觸千人，若氣如煙火，若中出而入我軍，若如雙蛇，若雲分雨雪。若云剋日，如甲乙平旦有白 云。丙丁日有黑雲等，若圍城，雷雨過旬，又城上氣滿人不見，皆為不可攻。\n城有不可剋者，凡赤氣在城上，而黃氣四面繞之，將死城降。城中氣聚，如樓而出見於外，又赤虹從外入，三日可瘏。日重暈而白虹貫之，及蒙霧入城，白氣繞而入 後，所入攻之。赤黑氣如狐狸皮經及正赤，或如雄雌臨城，或赤氣如眾人頭，如飛鳥，如敗車，氣出向東南者，不可攻。氣向西北，或云如式人五、如三牛，如白蛇 指城，或青氣，及氣上赤下白，及日無光明，日有西南風至，必剋。城中氣出複入者，人欲逃。凡兩軍相當之氣，以我西賊東為例。西厚東薄，西長東短，西高東 下，西澤東枯，我軍勝，反之敗。氣安則軍安，氣散則軍亂，氣南軍亦南，氣北軍亦北。對敵有火來，甚早。蔭覆人掩溝，盜大賊將至，雲如蛟蛇者，勝氣也。如兔 雄者亡，甲乙日東方青氣，盛氣也。黃氣，死氣也。初出軍，赤氣相隨日出，居有憂，隨日沒，外告急，收兵勿行。\n京房曰：「赤氣隨行，黑氣隨之，赤氣滅，賊可得，有赤無黑，賊不可得。被圍亦盛，關上氣鬱鬱如火光芒蓊蓊，然有救。至外出軍，雲隨後來，隨而擊之勝，逆者，急宜屯兵固守」。\n五音風\n宮聲風，隆隆然，如雷鼓，如牛羊鳴窯中，發屋折木，主土動，君心煩，急令貴神輔相，疑忌兵起不安，其日風從宮來，山擢岸崩，君出地裂。風從角，蝗蟲敗榖。從商來，大水暴雨。風從征來，蠱狼為害。從羽來，大雨陽寒，大臣凶。\n商聲風，如離群羊，如扣鐘磬，如飛羽集，如鳴咽流水鳴聲惑人，發屋折木，主宮中兵起，鬪兵，急令關梁不通，耀貴。其日風從商來，白衣聚，關梁塞，大將退，外兵入。從角來，國有喪，兵行。從宮來，國有憂，將在外兵不戰。從征來，君令行兵，主凶。從羽來，大雨至，在外兵解。\n角聲風，如千人合聲呼嘯，或合合然。如千人唱，令人悲哀。如啾風鳴，雉登木，發屋折木，有急兵鬪入城邑。風從商來，有暴兵，軍令，宮中貴人疾，土工興。從羽來，野飢人。從征來，絲貴有火燔。從宮來，不祥。從角來，不吉。\n徵音風，如奔馬、火炎，如縛彘聲發，屋行來火災，妖害、急事、兵行。其日風從征來，火起、君憂。從角來，火災、土工、大旱。從宮來，喪泣、寺舍火災。從商來，有鬪兵。從羽來，寶物出，國多雷，震有使。\n羽音風，如擊溫鼓，如糜鳴子，如水揚波，激氣相磋，發屋折木，兵起，耀貴。其日風從羽來，雨雹、霜災。從商來，兵鬪、將憂。從宮來，暴風、大雨、寒氣傷物。從征來，臣民有憂。從羽來，城圍不去。風角之書。\n\n"
   }
 }
