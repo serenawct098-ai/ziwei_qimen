@@ -147,7 +147,19 @@
       "verification_method": "Topic-based Content Extraction & Aggregation",
       "status": "PASS",
       "remarks": "建立 thematic_prose_library_v1.0.json，整合女命、童限、僧道、殘疾等九大專題判斷賦文。"
+    },
+    {
+      "timestamp": "2026-08-03T11:30:00Z",
+      "task_id": "3.5",
+      "module": "Tier 3 Engine Layer",
+      "action": "Qi Men Judgment Library Build",
+      "items_count": 30,
+      "auditor": "Manus",
+      "source_range": "QMDJ_Juan1-30.json",
+      "verification_method": "Keyword-based Judgment Extraction & Structuring",
+      "status": "PASS",
+      "remarks": "建立 qimen_judgment_library_v1.0.json，整合三奇六儀組合斷語及八門、八神、九星占驗內容。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v8"
+  "system_integrity_hash": "verified_by_manus_20260803_v9"
 }
