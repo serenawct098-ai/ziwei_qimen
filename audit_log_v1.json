@@ -75,7 +75,19 @@
       "verification_method": "File Reconstruction & Cross-Reference Linkage",
       "status": "PASS",
       "remarks": "修復 sha_qi 斷鏈，重建 2026-2027 化煞對照表並建立模組引用。"
+    },
+    {
+      "timestamp": "2026-08-03T10:05:00Z",
+      "task_id": "3.6_Update",
+      "module": "Tier 3 Engine Layer",
+      "action": "Sha Qi Prohibitions Update",
+      "items_count": 9,
+      "auditor": "Manus",
+      "source_range": "qimen_2026_2027_sha_qi_resolution_table.json",
+      "verification_method": "Image Data Extraction & SSOT Sync",
+      "status": "PASS",
+      "remarks": "根據用戶提供的 2026 佈置圖，同步了全量方位禁忌與屬性說明。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v2"
+  "system_integrity_hash": "verified_by_manus_20260803_v3"
 }
