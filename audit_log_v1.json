@@ -36,9 +36,9 @@
       "items_count": 10,
       "auditor": "Manus",
       "source_range": "traditional_core_engine_v2.1.json, interpretation_engine_v1.1.json",
-      "verification_method": "SSOT Unified Lock (Yang-Wu-Tong-Xiang)",
+      "verification_method": "SSOT Unified Lock （陽武同相）",
       "status": "PASS",
-      "remarks": "全局替換庚干四化為文墨天機App鎖定版，徹底刪除舊版陽武陰同。"
+      "remarks": "全局替換庚干四化為文墨天機App鎖定版，徹底刪除舊版庚干四化（陽武陰同）。"
     },
     {
       "timestamp": "2026-08-03T08:30:00Z",
