@@ -1,40 +1,39 @@
 {
   "metadata": {
     "name": "奇門遁甲 2026-2027 風水化煞對照表",
-    "version": "1.1",
+    "version": "1.2",
     "last_updated": "2026-08-03",
     "scope": "2026丙午年、2027丁未年九宮飛星化煞與奇門礦石佈局",
     "author": "Manus SSOT Engineering",
-    "description": "本表為奇門風水佈局模組的 SSOT 對照源，定義了年度凶星方位、煞氣定性及對應的化解物件（礦石、顏色、五行）。",
-    "integrity_check": "Verified for 2026-2027 Flying Star Cycle"
+    "description": "本表為奇門風水佈局模組的 SSOT 對照源，定義了年度凶星方位、煞氣定性及對應的化解與禁忌物件。數據源自用戶提供之 2026 佈置圖 (IMG_2388/2387/2386/2385)。",
+    "integrity_check": "Verified for 2026-2027 Flying Star Cycle with User Assets"
   },
   "resolution_logic": {
     "five_yellow": {
       "star": "五黃廉貞星",
       "nature": "大凶/災禍/血光",
       "element": "土",
-      "attribute": "大煞之首，最忌動土、紅色、黃色",
+      "attribute": "意外、災禍、大病",
       "cure_principle": "金洩土氣 / 忌火生土 / 宜靜不宜動",
       "cures": [
         { "item": "黑碧璽陣", "logic": "強效吸納負能量", "wuxing": "水" },
         { "item": "黑曜石雕刻", "logic": "化煞避邪", "wuxing": "水" },
         { "item": "六帝錢", "logic": "強金洩土", "wuxing": "金" },
-        { "item": "金屬擺件", "logic": "洩土氣", "wuxing": "金" },
-        { "item": "安忍水", "logic": "化五黃大煞專用", "wuxing": "金水" }
+        { "item": "金屬擺件", "logic": "洩土氣", "wuxing": "金" }
       ],
       "prohibitions": [
+        "木製品、藤蔓植物（觸動煞氣）",
+        "音響（震動觸發）",
         "紅色物件（火生土）",
-        "動土、敲擊（觸動煞氣）",
-        "強光、燈源（火生土）",
-        "黃色、咖啡色擺設（同氣相求）"
+        "動土、敲擊"
       ]
     },
     "two_black": {
       "star": "二黑巨門星",
       "nature": "病符/阻滯/慢性病",
       "element": "土",
-      "attribute": "主病災、憂鬱、脾胃問題",
-      "cure_principle": "金洩土氣 / 保持靜止 / 忌雜物",
+      "attribute": "疾病、傷痛、厄運",
+      "cure_principle": "金洩土氣 / 保持靜止 / 忌火生土",
       "cures": [
         { "item": "黑碧璽", "logic": "吸收病氣", "wuxing": "水" },
         { "item": "白水晶簇", "logic": "淨化能量", "wuxing": "金" },
@@ -42,44 +41,44 @@
         { "item": "銅葫蘆", "logic": "收病化煞", "wuxing": "金" }
       ],
       "prohibitions": [
+        "睡床（避免長期受氣）",
+        "蠟燭香薰、紅色物品（火生土）",
         "黃色物件（增強土氣）",
-        "雜物堆積（病氣淤積）",
-        "植物（木剋土，土被剋則反彈）"
+        "雜物堆積"
       ]
     },
     "three_blue": {
       "star": "三碧祿存星",
       "nature": "是非/口舌/官非",
       "element": "木",
-      "attribute": "主爭鬥、小人、肝膽問題",
+      "attribute": "小人、是非、官非、情緒波動、容易動怒",
       "cure_principle": "火洩木氣 / 金剋木",
       "cures": [
         { "item": "紅色擺設", "logic": "火洩木氣", "wuxing": "火" },
         { "item": "紫水晶", "logic": "火屬能量轉化", "wuxing": "火" },
-        { "item": "白水晶球", "logic": "金剋木", "wuxing": "金" },
-        { "item": "紅地毯", "logic": "火化木煞", "wuxing": "火" }
+        { "item": "白水晶球", "logic": "金剋木", "wuxing": "金" }
       ],
       "prohibitions": [
-        "綠色植物（增強木氣）",
-        "流水（水生木）",
-        "藍色物件（水生木）"
+        "綠色植物、木製家具（增強木氣）",
+        "音響（震動引發口舌）",
+        "流水（水生木）"
       ]
     },
     "seven_red": {
       "star": "七赤破軍星",
       "nature": "破財/小人/官非",
       "element": "金",
-      "attribute": "主失竊、手術、口舌是非",
+      "attribute": "漏財、破財、官非、有損家宅運",
       "cure_principle": "水洩金氣",
       "cures": [
         { "item": "黑曜石", "logic": "水洩金氣", "wuxing": "水" },
         { "item": "茶晶", "logic": "穩定能量", "wuxing": "水" },
-        { "item": "白水晶柱", "logic": "轉化煞氣", "wuxing": "金" },
-        { "item": "流水/魚缸", "logic": "強效洩金", "wuxing": "水" }
+        { "item": "白水晶柱", "logic": "轉化煞氣", "wuxing": "金" }
       ],
       "prohibitions": [
-        "金屬利器（增強煞氣）",
-        "白色物件（增強金氣）"
+        "剪刀、風扇（增強破壞力）",
+        "紅色物品（火剋金，激發凶性）",
+        "金屬利器"
       ]
     }
   },
@@ -90,90 +89,72 @@
       "flying_stars": {
         "正南": {
           "star": "五黃廉貞",
+          "title": "五黃煞/災煞位",
           "jixiong": "絕對禁區",
           "sha_qi_type": "five_yellow",
-          "stones": ["黑碧璽陣", "黑曜石雕刻"],
-          "action": "禁區迴避",
-          "risk_level": "MAX"
+          "prohibitions": ["木製品", "藤蔓植物", "音響"],
+          "action": "禁區迴避"
         },
         "西北": {
           "star": "二黑巨門",
+          "title": "病符位",
           "jixiong": "大凶",
           "sha_qi_type": "two_black",
-          "stones": ["黑碧璽", "白水晶簇", "透石膏"],
-          "action": "化煞",
-          "risk_level": "HIGH"
+          "prohibitions": ["睡床", "蠟燭香薰", "紅色物品"],
+          "action": "化煞"
         },
         "正西": {
           "star": "三碧祿存",
+          "title": "是非位",
           "jixiong": "小凶",
           "sha_qi_type": "three_blue",
-          "stones": ["青金石", "白水晶球", "黑曜石"],
-          "action": "化煞",
-          "risk_level": "MED"
+          "prohibitions": ["綠色植物", "木製家具", "音響"],
+          "action": "化煞"
         },
         "西南": {
           "star": "七赤破軍",
+          "title": "破財位",
           "jixiong": "小凶",
           "sha_qi_type": "seven_red",
-          "stones": ["黑曜石", "茶晶", "白水晶柱"],
-          "action": "化煞",
-          "risk_level": "MED"
+          "prohibitions": ["剪刀", "風扇", "紅色物品"],
+          "action": "化煞"
         },
-        "中宮": { "star": "一白貪狼", "jixiong": "小吉", "action": "催旺" },
-        "正東": { "star": "八白左輔", "jixiong": "大吉", "action": "催旺" },
-        "東南": { "star": "九紫右弼", "jixiong": "大吉", "action": "催旺" },
-        "正北": { "star": "六白武曲", "jixiong": "小吉", "action": "催旺" },
-        "東北": { "star": "四綠文昌", "jixiong": "大吉", "action": "催旺" }
-      }
-    },
-    "2027": {
-      "year_ganzhi": "丁未",
-      "description": "2027 丁未年，歲次火羊。八白入中宮。",
-      "flying_stars": {
+        "中宮": {
+          "star": "一白貪狼",
+          "title": "桃花位",
+          "jixiong": "小吉",
+          "prohibitions": ["動土", "雜物", "過多粉水晶(已婚者)"],
+          "action": "催旺"
+        },
         "正北": {
-          "star": "五黃廉貞",
-          "jixiong": "絕對禁區",
-          "sha_qi_type": "five_yellow",
-          "stones": ["黑碧璽陣", "黑曜石雕刻", "金屬塔"],
-          "action": "禁區迴避",
-          "risk_level": "MAX"
-        },
-        "正西": {
-          "star": "二黑巨門",
-          "jixiong": "大凶",
-          "sha_qi_type": "two_black",
-          "stones": ["黑碧璽", "白水晶簇", "銅葫蘆"],
-          "action": "化煞",
-          "risk_level": "HIGH"
+          "star": "六白武曲",
+          "title": "偏財位",
+          "jixiong": "小吉",
+          "prohibitions": ["流水擺設", "魚缸", "藍色佈置"],
+          "action": "催旺"
         },
         "東北": {
-          "star": "三碧祿存",
-          "jixiong": "小凶",
-          "sha_qi_type": "three_blue",
-          "stones": ["紅色地毯", "紫水晶"],
-          "action": "化煞",
-          "risk_level": "MED"
+          "star": "四綠文昌",
+          "title": "文昌位",
+          "jixiong": "大吉",
+          "prohibitions": ["大型金屬櫃", "紅色佈置"],
+          "action": "催旺"
         },
-        "正南": {
-          "star": "七赤破軍",
-          "jixiong": "小凶",
-          "sha_qi_type": "seven_red",
-          "stones": ["黑曜石", "水種植物"],
-          "action": "化煞",
-          "risk_level": "MED"
+        "正東": {
+          "star": "八白左輔",
+          "title": "正財位",
+          "jixiong": "大吉",
+          "prohibitions": ["水景", "金屬物品"],
+          "action": "催旺"
         },
-        "西北": { "star": "一白貪狼", "jixiong": "小吉", "action": "催旺" },
-        "西南": { "star": "八白左輔", "jixiong": "大吉", "action": "催旺" },
-        "中宮": { "star": "九紫右弼", "jixiong": "大吉", "action": "催旺" },
-        "東南": { "star": "六白武曲", "jixiong": "小吉", "action": "催旺" },
-        "正東": { "star": "四綠文昌", "jixiong": "大吉", "action": "催旺" }
+        "東南": {
+          "star": "九紫右弼",
+          "title": "喜神位/喜慶位",
+          "jixiong": "大吉",
+          "prohibitions": ["金屬物", "水景", "魚缸"],
+          "action": "催旺"
+        }
       }
     }
-  },
-  "qimen_integration_logic": {
-    "rule_01": "若奇門盤中『死門』、『驚門』、『傷門』與流年凶星同宮，則煞氣加倍，必須使用高級化解物件。",
-    "rule_02": "若『值符』坐臨凶星宮位，可減輕煞氣，但仍建議迴避動土。",
-    "rule_03": "佈局物件優先級：礦石 > 顏色 > 形狀。"
   }
 }
