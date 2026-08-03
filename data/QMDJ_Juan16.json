@@ -1,1442 +1,1016 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "上卷·卷十六",
-  "section": "卷十六",
+  "juan": "上卷·卷16",
+  "section": "卷16",
   "entries": [
     {
-      "line_id": "QMDJ_Juan16_P000_S000",
+      "line_id": "QMDJ_Juan16_L000",
       "original_quote": "《卷十六》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1669行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P001_S000",
+      "line_id": "QMDJ_Juan16_L001",
       "original_quote": "太衝天馬方吉時定局",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1670行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P002_S000",
+      "line_id": "QMDJ_Juan16_L002",
       "original_quote": "用時憲書審定太陽過宮",
-      "paragraph_index": 2,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1671行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P003_S000",
+      "line_id": "QMDJ_Juan16_L003",
       "original_quote": "方可選用子時醜時寅時卯時辰時巳時午時未時申時酉時戌時亥時",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1672行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P004_S000",
+      "line_id": "QMDJ_Juan16_L004",
       "original_quote": "正月登明將太衝天馬方辰巳午未申酉戌亥子丑寅卯",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1673行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P005_S000",
+      "line_id": "QMDJ_Juan16_L005",
       "original_quote": "二月河魁將太衝天馬方巳午未申酉戌亥子丑寅卯辰",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1674行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P006_S000",
+      "line_id": "QMDJ_Juan16_L006",
       "original_quote": "三月從魁將太衝天馬方午未申酉戌亥子丑寅卯辰巳",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1675行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P007_S000",
+      "line_id": "QMDJ_Juan16_L007",
       "original_quote": "四月傳送將太衝天馬方未申酉戌亥子丑寅卯辰巳午",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1676行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P008_S000",
+      "line_id": "QMDJ_Juan16_L008",
       "original_quote": "五月小吉將太衝天馬方申酉戌亥子丑寅卯辰巳午未",
-      "paragraph_index": 8,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1677行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P009_S000",
+      "line_id": "QMDJ_Juan16_L009",
       "original_quote": "六月勝光將太衝天馬方酉戌亥子丑寅卯辰巳午未申",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1678行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P010_S000",
+      "line_id": "QMDJ_Juan16_L010",
       "original_quote": "七月太乙將太衝天馬方戌亥子丑寅卯辰巳午未申酉",
-      "paragraph_index": 10,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1679行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P011_S000",
+      "line_id": "QMDJ_Juan16_L011",
       "original_quote": "八月天罡將太衝天馬方亥子丑寅卯辰巳午未申酉戌",
-      "paragraph_index": 11,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1680行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P012_S000",
+      "line_id": "QMDJ_Juan16_L012",
       "original_quote": "九月太衝將太衝天馬方子丑寅卯辰巳午未申酉戌亥",
-      "paragraph_index": 12,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1681行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P013_S000",
+      "line_id": "QMDJ_Juan16_L013",
       "original_quote": "十月功曹將太衝天馬方丑寅卯辰巳午未申酉戌亥子",
-      "paragraph_index": 13,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1682行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P014_S000",
+      "line_id": "QMDJ_Juan16_L014",
       "original_quote": "十一月大吉將太衝天馬方寅卯辰巳午未申酉戌亥子丑",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1683行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P015_S000",
+      "line_id": "QMDJ_Juan16_L015",
       "original_quote": "十二月神後將太衝天馬方卯辰巳午未申酉戌亥子丑寅",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1684行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P016_S000",
+      "line_id": "QMDJ_Juan16_L016",
       "original_quote": "總論太陽過宮天三門、地四戶、地私門、太衝天馬方同例",
-      "paragraph_index": 16,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1685行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P017_S000",
-      "original_quote": "旦貴用上一字，即內盤之乙巽丙丁坤庚六時，暮貴用下一字，即內盤之辛幹壬癸艮坤。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan16_L017",
+      "original_quote": "旦貴用上一字，即內盤之乙巽丙丁坤庚六時，暮貴用下一字，即內盤之辛幹壬癸艮坤。甲六時神所到之宮，自亥至辰為陽支，宜順行；自巳至戌為陰支，宜逆行。二盤當合推用，但分之以知甲在卯宮用暮貴，巽在巳宮用旦貴。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1686行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P017_S001",
-      "original_quote": "甲六時神所到之宮，自亥至辰為陽支，宜順行；",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan16_L018",
+      "original_quote": "假如正月雨水後，太陽躔娵訾之次，月將在亥，則以亥加用時之上，以分旦暮，定其陰陽。又視貴神所到之宮，詳其陽支宜順行，陰支宜逆行，以求三辰所在之位。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1686行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P017_S002",
-      "original_quote": "自巳至戌為陰支，宜逆行。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1686行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P017_S003",
-      "original_quote": "二盤當合推用，但分之以知甲在卯宮用暮貴，巽在巳宮用旦貴。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1686行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P018_S000",
-      "original_quote": "假如正月雨水後，太陽躔娵訾之次，月將在亥，則以亥加用時之上，以分旦暮，定其陰陽。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1687行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P018_S001",
-      "original_quote": "又視貴神所到之宮，詳其陽支宜順行，陰支宜逆行，以求三辰所在之位。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1687行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P019_S000",
+      "line_id": "QMDJ_Juan16_L019",
       "original_quote": "假如甲日用卯時屬下之一字，用暮貴，定為陽貴，則以亥加卯宮順行，陽貴神未在亥，亥為陽支，加貴神順行，六合在寅，太常在未，太陰在酉也。",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1688行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P020_S000",
+      "line_id": "QMDJ_Juan16_L020",
       "original_quote": "假如甲日用午時屬上之一字，用旦貴，定為陰貴，則以亥加午順行，陰貴醜在申，申為陰支，加貴神逆行，太陰在戌，太常在子，六合在巳也。",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1689行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P021_S000",
-      "original_quote": "假如甲日用子時屬下之一字，用暮貴，定為陽貴神，則以亥加子順行，陽貴神未在申，申為陰支，加貴神逆行，太陰在戌，太常在子，六合在巳也。",
-      "paragraph_index": 21,
+      "line_id": "QMDJ_Juan16_L021",
+      "original_quote": "假如甲日用子時屬下之一字，用暮貴，定為陽貴神，則以亥加子順行，陽貴神未在申，申為陰支，加貴神逆行，太陰在戌，太常在子，六合在巳也。餘皆仿此。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1690行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P021_S001",
-      "original_quote": "餘皆仿此。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第904行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P022_S000",
+      "line_id": "QMDJ_Juan16_L022",
       "original_quote": "陽貴詩曰：「庚戊見牛甲在羊，乙猴己鼠丙雞方，丁豬癸蛇壬是兔，六辛逢虎貴為陽」。",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1691行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P023_S000",
+      "line_id": "QMDJ_Juan16_L023",
       "original_quote": "陰貴詩曰：「甲貴陰牛庚戊羊，乙陰在鼠己猴鄉，丙雞丁豬辛遇馬，壬蛇癸兔是陰方」。",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1692行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P024_S000",
+      "line_id": "QMDJ_Juan16_L024",
       "original_quote": "論天門地戶",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1693行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P025_S000",
-      "original_quote": "入式歌云：「天乙會合女陰私」。",
-      "paragraph_index": 25,
+      "line_id": "QMDJ_Juan16_L025",
+      "original_quote": "入式歌云：「天乙會合女陰私」。所謂天乙會合女陰私之事，要在三奇臨六儀，與三奇吉門合太衝、小吉、從魁天三門，加除、危、定、開地四戶，是謂福食、遠行、出入皆吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1694行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P025_S001",
-      "original_quote": "所謂天乙會合女陰私之事，要在三奇臨六儀，與三奇吉門合太衝、小吉、從魁天三門，加除、危、定、開地四戶，是謂福食、遠行、出入皆吉。",
-      "paragraph_index": 25,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1694行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P026_S000",
+      "line_id": "QMDJ_Juan16_L026",
       "original_quote": "歌云：「本月將名加時支，十二月將順數去，太衝、小吉與從魁，三方避禍天門是，便以月將加時支順數也」。",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1695行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P027_S000",
+      "line_id": "QMDJ_Juan16_L027",
       "original_quote": "假如正月雨水後用午時出行，則以登明將加於午宮，登明在午，神後在未，大吉在申，功曹在酉，太衝在戌為天門，天罡在亥，太乙在子，勝光在丑，小吉在寅為天門，傳送在卯，從魁在辰為天門，河魁在巳。",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1696行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P028_S000",
-      "original_quote": "以時憲書審訂太陽過宮方要選用。",
-      "paragraph_index": 28,
+      "line_id": "QMDJ_Juan16_L028",
+      "original_quote": "以時憲書審訂太陽過宮方要選用。如去年大寒後某日時刻日躔元枵之次，太陽在子，以神後出將加用時，世俗但知登明為正月將，卻不知雨水後某日時刻日躔娵訾之次，太陽始過亥宮，始可用登明將，以次輪去，如遇從魁、小吉、太衝即是天三門也。倘得本日貴神到乾亥，就是貴神登天門，大吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1697行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P028_S001",
-      "original_quote": "如去年大寒後某日時刻日躔元枵之次，太陽在子，以神後出將加用時，世俗但知登明為正月將，卻不知雨水後某日時刻日躔娵訾之次，太陽始過亥宮，始可用登明將，以次輪去，如遇從魁、小吉、太衝即是天三門也。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1697行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P028_S002",
-      "original_quote": "倘得本日貴神到乾亥，就是貴神登天門，大吉。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1697行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P029_S000",
+      "line_id": "QMDJ_Juan16_L029",
       "original_quote": "天月將即太陽",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1698行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P030_S000",
+      "line_id": "QMDJ_Juan16_L030",
       "original_quote": "正月亥、二月戌、三月酉、四月申、五月未、六月午、七月巳、八月辰、九月卯、十月寅、十一月丑、十二月子。",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1699行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P031_S000",
+      "line_id": "QMDJ_Juan16_L031",
       "original_quote": "地月將即月建",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1700行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P032_S000",
+      "line_id": "QMDJ_Juan16_L032",
       "original_quote": "正月寅、二月卯、三月辰、四月巳、五月午、六月未、七月申、八月酉、九月戌、十月亥、十一月子、十二月丑。",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1701行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P033_S000",
+      "line_id": "QMDJ_Juan16_L033",
       "original_quote": "天氣將",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1702行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P034_S000",
+      "line_id": "QMDJ_Juan16_L034",
       "original_quote": "正月雨水壬、二月春分乾、三月榖雨辛、四月小滿庚、五月夏至坤、六月大暑丁、七月處暑丙、八月秋分巽、九月霜將乙、十月立冬甲、十一月冬至艮、十二月大寒癸。",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1703行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P035_S000",
+      "line_id": "QMDJ_Juan16_L035",
       "original_quote": "地氣將",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1704行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P036_S000",
+      "line_id": "QMDJ_Juan16_L036",
       "original_quote": "正月立春子、二月驚蟄亥、三月清明戌、四月立夏酉、五月芒種申、六月小暑未、七月立秋午、八月白露巳、九月寒露辰、十月立冬卯、十一月大雪寅、十二月小寒醜。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1705行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P037_S000",
+      "line_id": "QMDJ_Juan16_L037",
       "original_quote": "天符經",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1706行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P038_S000",
+      "line_id": "QMDJ_Juan16_L038",
       "original_quote": "正月娵訾亥、二月降婁戌、三月大梁酉、四月實沉申、五月鶉首未、六月鶉火午、七月鶉尾巳、八月壽星辰、九月大火卯、十月析木寅、十一月星紀丑、十二月元枵子。",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1707行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P039_S000",
+      "line_id": "QMDJ_Juan16_L039",
       "original_quote": "十二支神將",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第185行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P040_S000",
+      "line_id": "QMDJ_Juan16_L040",
       "original_quote": "申白虎、傳送酉太陰、從魁",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第186行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P041_S000",
+      "line_id": "QMDJ_Juan16_L041",
       "original_quote": "戌天空、河魁亥神元武、將登明",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1710行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P042_S000",
+      "line_id": "QMDJ_Juan16_L042",
       "original_quote": "未太常、小吉子神天后、將神后",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第187行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P043_S000",
+      "line_id": "QMDJ_Juan16_L043",
       "original_quote": "午朱雀、勝光丑神天乙、將大吉",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第188行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P044_S000",
+      "line_id": "QMDJ_Juan16_L044",
       "original_quote": "巳螣蛇、太乙辰勾陳、天罡",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第189行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P045_S000",
+      "line_id": "QMDJ_Juan16_L045",
       "original_quote": "卯六合、太衝寅神青龍、將功曹",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第189行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P046_S000",
-      "original_quote": "歌云：「用時支上加月建，建除滿平一順流，定執破危相接去，成收開閉掌中周，除定危開為四戶，此方有難來逃避」。",
-      "paragraph_index": 46,
+      "line_id": "QMDJ_Juan16_L046",
+      "original_quote": "歌云：「用時支上加月建，建除滿平一順流，定執破危相接去，成收開閉掌中周，除定危開為四戶，此方有難來逃避」。以月建加用時順數，如寅月寅時，於寅上起建，卯為除，午為定，酉為危，子為開，三奇臨之大吉；若得三吉門更佳，餘仿此。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1715行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P046_S001",
-      "original_quote": "以月建加用時順數，如寅月寅時，於寅上起建，卯為除，午為定，酉為危，子為開，三奇臨之大吉；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1715行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P046_S002",
-      "original_quote": "若得三吉門更佳，餘仿此。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1715行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P047_S000",
+      "line_id": "QMDJ_Juan16_L047",
       "original_quote": "如九月戌建用巳時，則以戌加巳上，建在巳，除在午，午為地戶，滿在未，平在申，定在酉，酉為地戶，執在戌，破在亥，危在子，子為地戶，成在丑，收在寅，開在卯，卯為地戶，閉在辰，子午卯酉四宮為地四戶，俱吉。",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1716行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P048_S000",
+      "line_id": "QMDJ_Juan16_L048",
       "original_quote": "地私門",
-      "paragraph_index": 48,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第34行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P049_S000",
-      "original_quote": "以天月將加用時，看貴神所泊何宮，即於貴神上起貴神、螣蛇、朱雀、六合、勾陳、青龍、天空、白虎、太常、元武、太陰、天後，順逆而行，陽貴神出於先天之坤，子上起甲乾順布，乙癸在丑，庚與乙合，戊與癸合，取乾德為貴神，故庚戊二干，陽貴神在醜也；",
-      "paragraph_index": 49,
+      "line_id": "QMDJ_Juan16_L049",
+      "original_quote": "以天月將加用時，看貴神所泊何宮，即於貴神上起貴神、螣蛇、朱雀、六合、勾陳、青龍、天空、白虎、太常、元武、太陰、天後，順逆而行，陽貴神出於先天之坤，子上起甲乾順布，乙癸在丑，庚與乙合，戊與癸合，取乾德為貴神，故庚戊二干，陽貴神在醜也；己乾在未，甲與己合，故甲乾陽貴神在未也。自亥至辰為陽貴順流，自巳至戌為陰貴逆行。若得太陰、太常、六合之神與奇門同臨其方，百事大吉。陽時宜擊，陰時宜陜，陽先舉，陰後應。凡欲擊者，謂破而擊之；陜者，密而去之，其敗軍宜向六合下走得出也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P049_S001",
-      "original_quote": "己乾在未，甲與己合，故甲乾陽貴神在未也。",
-      "paragraph_index": 49,
+      "line_id": "QMDJ_Juan16_L050",
+      "original_quote": "以六合、太陰、太常三辰，依圖推看何方日支。自子至巳為陽，用陽貴神，自午至亥為陰，用陰貴神。假如丁亥日，亥為陽日，丙丁豬雞位，則亥豬為陽日貴神，須將貴神加亥上順數去，卻是六合、太陰、太常在何處？即是地私門，只是論日不論時，然須得奇門方可用。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P049_S002",
-      "original_quote": "自亥至辰為陽貴順流，自巳至戌為陰貴逆行。",
-      "paragraph_index": 49,
+      "line_id": "QMDJ_Juan16_L051",
+      "original_quote": "又一例，審太陽過宮，以月將加用時，尋本日貴人起星，求地私門。如正月亥加甲日辰時，即以亥加辰順數去，尋本日陽貴未到子，陽貴順行，則螣蛇在丑，朱雀在寅，六合在卯為地私門，勾陳在辰，青龍在巳，天空在午，白虎在未，太常在申為地私門，玄武在酉，太陰在戌為地私門，天后在亥。如用陰貴，亦以亥加辰，陰貴丑到午，陰貴逆行，則螣蛇在巳，朱雀在辰，六合在卯為地私門，勾陳在寅，青龍在丑，天空在子，白虎在亥，太常在戌為地私門，元武在酉，太陰在申為地私門，天后在未，餘皆仿此。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P049_S003",
-      "original_quote": "若得太陰、太常、六合之神與奇門同臨其方，百事大吉。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P049_S004",
-      "original_quote": "陽時宜擊，陰時宜陜，陽先舉，陰後應。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P049_S005",
-      "original_quote": "凡欲擊者，謂破而擊之；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P049_S006",
-      "original_quote": "陜者，密而去之，其敗軍宜向六合下走得出也。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1718行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P050_S000",
-      "original_quote": "以六合、太陰、太常三辰，依圖推看何方日支。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1719行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P050_S001",
-      "original_quote": "自子至巳為陽，用陽貴神，自午至亥為陰，用陰貴神。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1719行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P050_S002",
-      "original_quote": "假如丁亥日，亥為陽日，丙丁豬雞位，則亥豬為陽日貴神，須將貴神加亥上順數去，卻是六合、太陰、太常在何處？",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1719行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P050_S003",
-      "original_quote": "即是地私門，只是論日不論時，然須得奇門方可用。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1719行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P051_S000",
-      "original_quote": "又一例，審太陽過宮，以月將加用時，尋本日貴人起星，求地私門。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1720行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P051_S001",
-      "original_quote": "如正月亥加甲日辰時，即以亥加辰順數去，尋本日陽貴未到子，陽貴順行，則螣蛇在丑，朱雀在寅，六合在卯為地私門，勾陳在辰，青龍在巳，天空在午，白虎在未，太常在申為地私門，玄武在酉，太陰在戌為地私門，天后在亥。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1720行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P051_S002",
-      "original_quote": "如用陰貴，亦以亥加辰，陰貴丑到午，陰貴逆行，則螣蛇在巳，朱雀在辰，六合在卯為地私門，勾陳在寅，青龍在丑，天空在子，白虎在亥，太常在戌為地私門，元武在酉，太陰在申為地私門，天后在未，餘皆仿此。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1720行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P052_S000",
+      "line_id": "QMDJ_Juan16_L052",
       "original_quote": "三奇剋應",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1721行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P053_S000",
+      "line_id": "QMDJ_Juan16_L053",
       "original_quote": "乙奇遇開聞吏經，休同牛馬扛木人，乙生丙鼠咬孝子，出門應候老婦人。",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1722行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P054_S000",
+      "line_id": "QMDJ_Juan16_L054",
       "original_quote": "丙奇遇開有雷聲，老翁執杖使威風，休門鼓樂五十里，生逢患眼相鬪爭。",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1723行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P055_S000",
+      "line_id": "QMDJ_Juan16_L055",
       "original_quote": "丁遇開執竹杖物，休婦皂白二十里，遇捕獵人須帶犬，奇門合處皆應驗。",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1724行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P056_S000",
+      "line_id": "QMDJ_Juan16_L056",
       "original_quote": "又三奇會三吉門應驗",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1725行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P057_S000",
-      "original_quote": "乙為日奇，會生門宜上官赴任、應舉、嫁娶、破土、立券、安葬，見兩鼠或孝服人，有百鳥、風雲、微雨、車馬來應，主子孫富貴。",
-      "paragraph_index": 57,
+      "line_id": "QMDJ_Juan16_L057",
+      "original_quote": "乙為日奇，會生門宜上官赴任、應舉、嫁娶、破土、立券、安葬，見兩鼠或孝服人，有百鳥、風雲、微雨、車馬來應，主子孫富貴。會休門見牛馬或打木人來應。會開門逢客人、公吏、穿紅衣者至。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1726行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P057_S001",
-      "original_quote": "會休門見牛馬或打木人來應。",
-      "paragraph_index": 57,
+      "line_id": "QMDJ_Juan16_L058",
+      "original_quote": "丙為月奇，會生門見眼疾人或逢爭鬪事應。會休門宜上官赴任、應舉、嫁娶、破土、立券、豎柱、上梁，五十里內外聞鼓聲或軍器、樂器、烏鳥、白鶴來應，主子孫富貴。會開門主見老者執杖等物，或聞哭聲應。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1726行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P057_S002",
-      "original_quote": "會開門逢客人、公吏、穿紅衣者至。",
-      "paragraph_index": 57,
+      "line_id": "QMDJ_Juan16_L059",
+      "original_quote": "丁為星奇，會生門遇捕獵或鷹犬應。會休門二十里見白虎、皂衣人或婦女應。會開門宜上官赴任、嫁娶、豎柱、上梁、入宅，見大車、小車、白雲、蓋幕，或小兒手執杖物等應，主子孫富貴。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1726行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P058_S000",
-      "original_quote": "丙為月奇，會生門見眼疾人或逢爭鬪事應。",
-      "paragraph_index": 58,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1727行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P058_S001",
-      "original_quote": "會休門宜上官赴任、應舉、嫁娶、破土、立券、豎柱、上梁，五十里內外聞鼓聲或軍器、樂器、烏鳥、白鶴來應，主子孫富貴。",
-      "paragraph_index": 58,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1727行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P058_S002",
-      "original_quote": "會開門主見老者執杖等物，或聞哭聲應。",
-      "paragraph_index": 58,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1727行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P059_S000",
-      "original_quote": "丁為星奇，會生門遇捕獵或鷹犬應。",
-      "paragraph_index": 59,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1728行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P059_S001",
-      "original_quote": "會休門二十里見白虎、皂衣人或婦女應。",
-      "paragraph_index": 59,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1728行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P059_S002",
-      "original_quote": "會開門宜上官赴任、嫁娶、豎柱、上梁、入宅，見大車、小車、白雲、蓋幕，或小兒手執杖物等應，主子孫富貴。",
-      "paragraph_index": 59,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1728行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P060_S000",
+      "line_id": "QMDJ_Juan16_L060",
       "original_quote": "三奇合格斷",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1729行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P061_S000",
+      "line_id": "QMDJ_Juan16_L061",
       "original_quote": "乙奇遇青龍返首，丙奇東南是跌穴，丁奇西貴升壇，回首喜悅百易遂逐，跌穴顯灼事成就，龍逃身遭百凶，虎狂兮財虛耗盡，妖矯逢盜染官訟。",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1730行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P062_S000",
+      "line_id": "QMDJ_Juan16_L062",
       "original_quote": "符使應驗",
-      "paragraph_index": 62,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1731行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P063_S000",
-      "original_quote": "乙奇會天輔、生門，主乙庚日時雷電現、二鳥來應，大利。",
-      "paragraph_index": 63,
+      "line_id": "QMDJ_Juan16_L063",
+      "original_quote": "乙奇會天輔、生門，主乙庚日時雷電現、二鳥來應，大利。丙奇會天芮、休門，主甲己日時，鶴鳥至、二人乘馬來應，大吉。丁奇會天英、開門，主戊癸日時，烏鳥白項、雷鳴來應，大吉。天盤星剋地盤星，在四時旺相日時，有本方五色雲起在其方助客，客勝。地盤星剋天盤星，在四時旺相日時，有五色雲氣在其方助主，主勝。五色雲氣合從本方，東青、西白、中黃、南赤、北黑。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P063_S001",
-      "original_quote": "丙奇會天芮、休門，主甲己日時，鶴鳥至、二人乘馬來應，大吉。",
-      "paragraph_index": 63,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P063_S002",
-      "original_quote": "丁奇會天英、開門，主戊癸日時，烏鳥白項、雷鳴來應，大吉。",
-      "paragraph_index": 63,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P063_S003",
-      "original_quote": "天盤星剋地盤星，在四時旺相日時，有本方五色雲起在其方助客，客勝。",
-      "paragraph_index": 63,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P063_S004",
-      "original_quote": "地盤星剋天盤星，在四時旺相日時，有五色雲氣在其方助主，主勝。",
-      "paragraph_index": 63,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P063_S005",
-      "original_quote": "五色雲氣合從本方，東青、西白、中黃、南赤、北黑。",
-      "paragraph_index": 63,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1732行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P064_S000",
+      "line_id": "QMDJ_Juan16_L064",
       "original_quote": "八門剋應",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第457行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P065_S000",
+      "line_id": "QMDJ_Juan16_L065",
       "original_quote": "休門二十里，貴陰人衣著藍黃及白青。",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1734行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P066_S000",
+      "line_id": "QMDJ_Juan16_L066",
       "original_quote": "生門十里，逢公吏人著皂衣紫紳。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1735行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P067_S000",
+      "line_id": "QMDJ_Juan16_L067",
       "original_quote": "傷門三十里，公訟起、囚人著皂衣、血光生。",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1736行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P068_S000",
+      "line_id": "QMDJ_Juan16_L068",
       "original_quote": "杜門二十里，男女輩絹皂在裙相從行。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1737行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P069_S000",
+      "line_id": "QMDJ_Juan16_L069",
       "original_quote": "景門二十里，驚憂至、非皂衣人、會賓客。",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1738行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P070_S000",
+      "line_id": "QMDJ_Juan16_L070",
       "original_quote": "死門二十里，逢疾病、黃皂衣、甲俱遭迍。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1739行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P071_S000",
+      "line_id": "QMDJ_Juan16_L071",
       "original_quote": "驚門三十里，鴉雀噪、官司相連、六畜驚。",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1740行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P072_S000",
+      "line_id": "QMDJ_Juan16_L072",
       "original_quote": "開門二十里，陽人至、貴人乘馬、紫衣襟。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1741行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P073_S000",
+      "line_id": "QMDJ_Juan16_L073",
       "original_quote": "十幹應驗",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1742行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P074_S000",
-      "original_quote": "來時六甲出門去，金馬玉堂逢貴人。",
-      "paragraph_index": 74,
+      "line_id": "QMDJ_Juan16_L074",
+      "original_quote": "來時六甲出門去，金馬玉堂逢貴人。若乘六乙出門去，禿頭公吏宜終身，執持弓弩人騎射。蓋為時乘六丙行，州官縣宰相逢著，出門行時正六丁，若逢戊己出行去，兩個婦人身著青。若乘庚辛壬最惡，大凶無吉有災迍，六癸出門逢騎射，多遇山林隱逸人。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1743行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P074_S001",
-      "original_quote": "若乘六乙出門去，禿頭公吏宜終身，執持弓弩人騎射。",
-      "paragraph_index": 74,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1743行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P074_S002",
-      "original_quote": "蓋為時乘六丙行，州官縣宰相逢著，出門行時正六丁，若逢戊己出行去，兩個婦人身著青。",
-      "paragraph_index": 74,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1743行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P074_S003",
-      "original_quote": "若乘庚辛壬最惡，大凶無吉有災迍，六癸出門逢騎射，多遇山林隱逸人。",
-      "paragraph_index": 74,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1743行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan16_P075_S000",
+      "line_id": "QMDJ_Juan16_L075",
       "original_quote": "八神應驗",
-      "paragraph_index": 75,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1744行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P076_S000",
+      "line_id": "QMDJ_Juan16_L076",
       "original_quote": "值符主長者、貴人、公吏、錢物為應。",
-      "paragraph_index": 76,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1745行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P077_S000",
+      "line_id": "QMDJ_Juan16_L077",
       "original_quote": "螣蛇主官司牽連、羅網、推風送雨，及驚恐、怪異為應。",
-      "paragraph_index": 77,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1746行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P078_S000",
+      "line_id": "QMDJ_Juan16_L078",
       "original_quote": "太陰主賢人及夫婦陰私之事為應。",
-      "paragraph_index": 78,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1747行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P079_S000",
+      "line_id": "QMDJ_Juan16_L079",
       "original_quote": "六合主華彩、車、書、酒食、筵會、婚姻為應。",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1748行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P080_S000",
+      "line_id": "QMDJ_Juan16_L080",
       "original_quote": "白虎主醫巫、死喪、穢氣、錢物為應。",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1749行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P081_S000",
+      "line_id": "QMDJ_Juan16_L081",
       "original_quote": "元武主驚盜賊及雲雨為應。",
-      "paragraph_index": 81,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1750行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P082_S000",
+      "line_id": "QMDJ_Juan16_L082",
       "original_quote": "九地主女人、衣服、稻豆、埋葬、走獸為應。",
-      "paragraph_index": 82,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1751行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan16_P083_S000",
+      "line_id": "QMDJ_Juan16_L083",
       "original_quote": "九天主文書、印信、槍棒、火災、占天、飛鳥為應。",
-      "paragraph_index": 83,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十六",
-        "section": "卷十六",
-        "line_ref": "第1752行"
+        "juan": "上卷·卷16",
+        "section": "卷16",
+        "line_ref": "段落83"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan16",
-    "line_id_start": "QMDJ_Juan16_P000_S000",
-    "line_id_end": "QMDJ_Juan16_P083_S000",
-    "original_block": "《卷十六》\n太衝天馬方吉時定局\n用時憲書審定太陽過宮\n方可選用 子時 醜時 寅時 卯時 辰時 巳時 午時 未時 申時 酉時 戌時 亥時\n正月登明將太衝天馬方　 辰 巳 午 未 申 酉 戌 亥 子 丑 寅 卯\n二月河魁將太衝天馬方　 巳 午 未 申 酉 戌 亥 子 丑 寅 卯 辰\n三月從魁將太衝天馬方　 午 未 申 酉 戌 亥 子 丑 寅 卯 辰 巳\n四月傳送將太衝天馬方　 未 申 酉 戌 亥 子 丑 寅 卯 辰 巳 午\n五月小吉將太衝天馬方　 申 酉 戌 亥 子 丑 寅 卯 辰 巳 午 未\n六月勝光將太衝天馬方 　酉 戌 亥 子 丑 寅 卯 辰 巳 午 未 申\n七月太乙將太衝天馬方　 戌 亥 子 丑 寅 卯 辰 巳 午 未 申 酉\n八月天罡將太衝天馬方　 亥 子 丑 寅 卯 辰 巳 午 未 申 酉 戌\n九月太衝將太衝天馬方 　子 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥\n十月功曹將太衝天馬方　 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥 子\n十一月大吉將太衝天馬方 寅 卯 辰 巳 午 未 申 酉 戌 亥 子 丑\n十二月神後將太衝天馬方 卯 辰 巳 午 未 申 酉 戌 亥 子 丑 寅\n總論太陽過宮天三門、地四戶、地私門、太衝天馬方同例\n旦貴用上一字，即內盤之乙巽丙丁坤庚六時，暮貴用下一字，即內盤之辛幹壬癸艮坤。甲六時神所到之宮，自亥至辰為陽支，宜順行；自巳至戌為陰支，宜逆行。二盤當合推用，但分之以知甲在卯宮用暮貴，巽在巳宮用旦貴。\n假如正月雨水後，太陽躔娵訾之次，月將在亥，則以亥加用時之上，以分旦暮，定其陰陽。又視貴神所到之宮，詳其陽支宜順行，陰支宜逆行，以求三辰所在之位。\n假如甲日用卯時屬下之一字，用暮貴，定為陽貴，則以亥加卯宮順行，陽貴神未在亥，亥為陽支，加貴神順行，六合在寅，太常在未，太陰在酉也。\n假如甲日用午時屬上之一字，用旦貴，定為陰貴，則以亥加午順行，陰貴醜在申，申為陰支，加貴神逆行，太陰在戌，太常在子，六合在巳也。\n假如甲日用子時屬下之一字，用暮貴，定為陽貴神，則以亥加子順行，陽貴神未在申，申為陰支，加貴神逆行，太陰在戌，太常在子，六合在巳也。餘皆仿此。\n陽貴詩曰：「庚戊見牛甲在羊，乙猴己鼠丙雞方，丁豬癸蛇壬是兔，六辛逢虎貴為陽」。\n陰貴詩曰：「甲貴陰牛庚戊羊，乙陰在鼠己猴鄉，丙雞丁豬辛遇馬，壬蛇癸兔是陰方」。\n論天門地戶\n入式歌云：「天乙會合女陰私」。所謂天乙會合女陰私之事，要在三奇臨六儀，與三奇吉門合太衝、小吉、從魁天三門，加除、危、定、開地四戶，是謂福食、遠行、出入皆吉。\n歌云：「本月將名加時支，十二月將順數去，太衝、小吉與從魁，三方避禍天門是，便以月將加時支順數也」。\n假如正月雨水後用午時出行，則以登明將加於午宮，登明在午，神後在未，大吉在申，功曹在酉，太衝在戌為天門，天罡在亥，太乙在子，勝光在丑，小吉在寅為天門，傳送在卯，從魁在辰為天門，河魁在巳。\n以 時憲書審訂太陽過宮方要選用。如去年大寒後某日時刻日躔元枵之次，太陽在子，以神後出將加用時，世俗但知登明為正月將，卻不知雨水後某日時刻日躔娵訾之 次，太陽始過亥宮，始可用登明將，以次輪去，如遇從魁、小吉、太衝即是天三門也。倘得本日貴神到乾亥，就是貴神登天門，大吉。\n天月將即太陽\n正月亥、二月戌、三月酉、四月申、五月未、六月午、七月巳、八月辰、九月卯、十月寅、十一月丑、十二月子。\n地月將即月建\n正月寅、二月卯、三月辰、四月巳、五月午、六月未、七月申、八月酉、九月戌、十月亥、十一月子、十二月丑。\n天氣將\n正月雨水壬、二月春分乾、三月榖雨辛、四月小滿庚、五月夏至坤、六月大暑丁、七月處暑丙、八月秋分巽、九月霜將乙、十月立冬甲、十一月冬至艮、十二月大寒癸。\n地氣將\n正月立春子、二月驚蟄亥、三月清明戌、四月立夏酉、五月芒種申、六月小暑未、七月立秋午、八月白露巳、九月寒露辰、十月立冬卯、十一月大雪寅、十二月小寒醜。\n天符經\n正月娵訾亥、二月降婁戌、三月大梁酉、四月實沉申、五月鶉首未、六月鶉火午、七月鶉尾巳、八月壽星辰、九月大火卯、十月析木寅、十一月星紀丑、十二月元枵子。\n十二支神將\n申白虎、傳送酉太陰、從魁\n戌天空、河魁亥神元武、將登明\n未太常、小吉子神天后、將神后\n午朱雀、勝光丑神天乙、將大吉\n巳螣蛇、太乙辰勾陳、天罡\n卯六合、太衝寅神青龍、將功曹\n歌云：「用時支上加月建，建除滿平一順流，定執破危相接去，成收開閉掌中周，除定危開為四戶，此方有難來逃避」。以月建加用時順數，如寅月寅時，於寅上起建，卯為除，午為定，酉為危，子為開，三奇臨之大吉；若得三吉門更佳，餘仿此。\n如九月戌建用巳時，則以戌加巳上，建在巳，除在午，午為地戶，滿在未，平在申，定在酉，酉為地戶，執在戌，破在亥，危在子，子為地戶，成在丑，收在寅，開在卯，卯為地戶，閉在辰，子午卯酉四宮為地四戶，俱吉。\n地私門\n以天月將加用時，看貴神所泊何宮，即於貴神上起貴神、螣蛇、朱雀、六合、勾陳、青龍、天空、白虎、太常、元武、太陰、天後，順逆而行，陽貴神出於先天之坤， 子上起甲乾順布，乙癸在丑，庚與乙合，戊與癸合，取乾德為貴神，故庚戊二干，陽貴神在醜也；己乾在未，甲與己合，故甲乾陽貴神在未也。自亥至辰為陽貴順 流，自巳至戌為陰貴逆行。若得太陰、太常、六合之神與奇門同臨其方，百事大吉。陽時宜擊，陰時宜陜，陽先舉，陰後應。凡欲擊者，謂破而擊之；陜者，密而去 之，其敗軍宜向六合下走得出也。\n以六合、太陰、太常三辰，依圖推看何方日支。自子至巳為陽，用陽貴神，自午至亥為陰，用陰貴神。假如丁亥日，亥為陽日，丙丁豬雞位，則亥豬為陽日貴神，須將貴神加亥上順數去，卻是六合、太陰、太常在何處？即是地私門，只是論日不論時，然須得奇門方可用。\n又一例，審太陽過宮，以月將加用時，尋本日貴人起星，求地私門。如正月亥加甲日辰時，即以亥加辰順數去，尋本日陽貴未到子，陽貴順行，則螣蛇在丑，朱雀在 寅，六合在卯為地私門，勾陳在辰，青龍在巳，天空在午，白虎在未，太常在申為地私門，玄武在酉，太陰在戌為地私門，天后在亥。如用陰貴，亦以亥加辰，陰貴 丑到午，陰貴逆行，則螣蛇在巳，朱雀在辰，六合在卯為地私門，勾陳在寅，青龍在丑，天空在子，白虎在亥，太常在戌為地私門，元武在酉，太陰在申為地私門， 天后在未，餘皆仿此。\n三奇剋應\n乙奇遇開聞吏經，休同牛馬扛木人，乙生丙鼠咬孝子，出門應候老婦人。\n丙奇遇開有雷聲，老翁執杖使威風，休門鼓樂五十里，生逢患眼相鬪爭。\n丁遇開執竹杖物，休婦皂白二十里，遇捕獵人須帶犬，奇門合處皆應驗。\n又三奇會三吉門應驗\n乙為日奇，會生門宜上官赴任、應舉、嫁娶、破土、立券、安葬，見兩鼠或孝服人，有百鳥、風雲、微雨、車馬來應，主子孫富貴。會休門見牛馬或打木人來應。會開門逢客人、公吏、穿紅衣者至。\n丙為月奇，會生門見眼疾人或逢爭鬪事應。會休門宜上官赴任、應舉、嫁娶、破土、立券、豎柱、上梁，五十里內外聞鼓聲或軍器、樂器、烏鳥、白鶴來應，主子孫富貴。會開門主見老者執杖等物，或聞哭聲應。\n丁為星奇，會生門遇捕獵或鷹犬應。會休門二十里見白虎、皂衣人或婦女應。會開門宜上官赴任、嫁娶、豎柱、上梁、入宅，見大車、小車、白雲、蓋幕，或小兒手執杖物等應，主子孫富貴。\n三奇合格斷\n乙奇遇青龍返首，丙奇東南是跌穴，丁奇西貴升壇，回首喜悅百易遂逐，跌穴顯灼事成就，龍逃身遭百凶，虎狂兮財虛耗盡，妖矯逢盜染官訟。\n符使應驗\n乙 奇會天輔、生門，主乙庚日時雷電現、二鳥來應，大利。丙奇會天芮、休門，主甲己日時，鶴鳥至、二人乘馬來應，大吉。丁奇會天英、開門，主戊癸日時，烏鳥白 項、雷鳴來應，大吉。天盤星剋地盤星，在四時旺相日時，有本方五色雲起在其方助客，客勝。地盤星剋天盤星，在四時旺相日時，有五色雲氣在其方助主，主勝。 五色雲氣合從本方，東青、西白、中黃、南赤、北黑。\n八門剋應\n休門二十里，貴陰人衣著藍黃及白青。\n生門十里，逢公吏人著皂衣紫紳。\n傷門三十里，公訟起、囚人著皂衣、血光生。\n杜門二十里，男女輩絹皂在裙相從行。\n景門二十里，驚憂至、非皂衣人、會賓客。\n死門二十里，逢疾病、黃皂衣、甲俱遭迍。\n驚門三十里，鴉雀噪、官司相連、六畜驚。\n開門二十里，陽人至、貴人乘馬、紫衣襟。\n十幹應驗\n來時六甲出門去，金馬玉堂逢貴人。若乘六乙出門去，禿頭公吏宜終身，執持弓弩人騎射。蓋為時乘六丙行，州官縣宰相逢著，出門行時正六丁，若逢戊己出行去，兩個婦人身著青。若乘庚辛壬最惡，大凶無吉有災迍，六癸出門逢騎射，多遇山林隱逸人。\n八神應驗\n值符主長者、貴人、公吏、錢物為應。\n螣蛇主官司牽連、羅網、推風送雨，及驚恐、怪異為應。\n太陰主賢人及夫婦陰私之事為應。\n六合主華彩、車、書、酒食、筵會、婚姻為應。\n白虎主醫巫、死喪、穢氣、錢物為應。\n元武主驚盜賊及雲雨為應。\n九地主女人、衣服、稻豆、埋葬、走獸為應。\n九天主文書、印信、槍棒、火災、占天、飛鳥為應。\n\n"
-  }
+  "_extraction_status": "卷16完成"
 }

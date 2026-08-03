@@ -5,20 +5,9 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan1_XuanweiLun_L000",
-      "original_quote": "玄微論",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "玄微論",
-        "line_ref": "第168行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_XuanweiLun_L001",
       "original_quote": "論⽽⾄此允矣⽞微｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -28,11 +17,5 @@
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷一",
-    "section": "玄微論",
-    "line_id_start": "ZWQS_Juan1_XuanweiLun_L000",
-    "line_id_end": "ZWQS_Juan1_XuanweiLun_L001"
-  }
+  "_extraction_status": "玄微論完成"
 }

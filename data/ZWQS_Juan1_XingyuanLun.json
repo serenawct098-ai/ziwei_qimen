@@ -5,32 +5,9 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan1_XingyuanLun_L000",
-      "original_quote": "星垣論",
+      "original_quote": "紫微帝座以輔弼為佐貳,作數中之主星乃有⽤之源流｡是以南北⼆",
       "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "星垣論",
-        "line_ref": "第91行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L001",
-      "original_quote": "星垣論紫微帝座以輔弼為佐貳,作數中之主星乃有⽤之源流｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "星垣論",
-        "line_ref": "第91行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L002",
-      "original_quote": "是以南北⼆⽃集⽽成數,為萬物之靈｡",
-      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -40,9 +17,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L003",
-      "original_quote": "蓋以⽔淘溶,則陰陽既濟,⽔盛陽傷,火盛陰滅,⼆者不可偏廢,故知其中者,斯為美矣｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L001",
+      "original_quote": "⽃集⽽成數,為萬物之靈｡",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第93行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L002",
+      "original_quote": "蓋以⽔淘溶,則陰陽既濟,⽔盛陽傷,火盛陰滅,⼆者不可偏廢,",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -52,9 +43,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L004",
-      "original_quote": "寅乃⽊之垣,乃三陽交泰之時,草⽊萌芽之所,⾄於卯位,其⽊⾄旺矣｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L003",
+      "original_quote": "故知其中者,斯為美矣｡",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第95行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L004",
+      "original_quote": "寅乃⽊之垣,乃三陽交泰之時,草⽊萌芽之所,⾄於卯位,其⽊⾄",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -65,8 +70,9 @@
     },
     {
       "line_id": "ZWQS_Juan1_XingyuanLun_L005",
-      "original_quote": "貪狼天機是廟樂,故得天相⽔到寅為之旺相､巨⾨⽔得卯為之疏通,⽊乃⼟栽培,加以⽔之澆灌,三⽅更得⽂曲⽔破軍⽔相會尤妙,⼜加祿存⼟極美矣｡",
+      "original_quote": "旺矣｡貪狼天機是廟樂,故得天相⽔到寅為之旺相､巨⾨⽔得卯為",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -77,8 +83,35 @@
     },
     {
       "line_id": "ZWQS_Juan1_XingyuanLun_L006",
-      "original_quote": "巨⾨⽔到丑,天梁⼟到未,陀羅⾦到於四墓之所,苟或得擎⽺⾦相會,以⼟為⾦墓,則⾦通不凝｡",
+      "original_quote": "之疏通,⽊乃⼟栽培,加以⽔之澆灌,三⽅更得⽂曲⽔破軍⽔相會",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第98行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L007",
+      "original_quote": "尤妙,⼜加祿存⼟極美矣｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第99行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L008",
+      "original_quote": "巨⾨⽔到丑,天梁⼟到未,陀羅⾦到於四墓之所,苟或得擎⽺⾦相",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -88,9 +121,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L007",
-      "original_quote": "加以天府⼟天同⾦以⽣之,是為⾦趁⼟肥,順其德以⽣成｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L009",
+      "original_quote": "會,以⼟為⾦墓,則⾦通不凝｡加以天府⼟天同⾦以⽣之,是為⾦",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -100,9 +134,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L008",
-      "original_quote": "已午乃火位,已為⽔⼟所絕之地,更午垣之火,餘氣流於已,⽔則倒流,火氣逆焰,必歸於⺒｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L010",
+      "original_quote": "趁⼟肥,順其德以⽣成｡",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第102行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L011",
+      "original_quote": "已午乃火位,已為⽔⼟所絕之地,更午垣之火,餘氣流於已,⽔則",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -112,45 +160,36 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L009",
-      "original_quote": "午屬火德,能⽣於已絕之⼟,所以廉貞火居焉｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "星垣論",
-        "line_ref": "第104行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L010",
-      "original_quote": "⾄於午火,旺照離明洞徹表裏,⽽⽂曲⽔入廟｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "星垣論",
-        "line_ref": "第104行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L011",
-      "original_quote": "若會紫府,則魁星拱⽃,加以天機⽊貪狼⽊,謂之變景,愈加奇特｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "星垣論",
-        "line_ref": "第104行"
-      }
-    },
-    {
       "line_id": "ZWQS_Juan1_XingyuanLun_L012",
-      "original_quote": "申⻄⾦乃⻄⽅太⽩之氣,武曲居申⽽好⽣,擎⽺在⻄⽽⽤殺,加以巨⾨祿存陀羅⽽助之愈急,須得逆⾏逢善化惡是為妙⽤｡",
+      "original_quote": "倒流,火氣逆焰,必歸於⺒｡午屬火德,能⽣於已絕之⼟,所以廉貞火居焉｡⾄於午火,旺照離明洞徹表裏,⽽⽂曲⽔入廟｡若會紫",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第104行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L013",
+      "original_quote": "府,則魁星拱⽃,加以天機⽊貪狼⽊,謂之變景,愈加奇特｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第105行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L014",
+      "original_quote": "申⻄⾦乃⻄⽅太⽩之氣,武曲居申⽽好⽣,擎⽺在⻄⽽⽤殺,加以",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -160,9 +199,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L013",
-      "original_quote": "亥⽔屬⽂曲破軍之要地,乃⽂明清⾼之⼠,萬⾥派源之潔,如⼤川之澤不為焦枯｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L015",
+      "original_quote": "巨⾨祿存陀羅⽽助之愈急,須得逆⾏逢善化惡是為妙⽤｡",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第107行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L016",
+      "original_quote": "亥⽔屬⽂曲破軍之要地,乃⽂明清⾼之⼠,萬⾥派源之潔,如⼤川",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -172,9 +225,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L014",
-      "original_quote": "居於亥位將入天河,是故為妙｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L017",
+      "original_quote": "之澤不為焦枯｡居於亥位將入天河,是故為妙｡破軍⽔於⼦旺之鄉,",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -184,21 +238,36 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L015",
-      "original_quote": "破軍⽔於⼦旺之鄉,如巨海之浪淜洶湧,可遠觀⽽不可近倚,破軍是以居焉,若四墓之剋,充其瀰漫其餘諸星以⾝命推之,必得武曲之⾦使其源流不絕⽅為妙矣｡",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L018",
+      "original_quote": "如巨海之浪淜洶湧,可遠觀⽽不可近倚,破軍是以居焉,若四墓之",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
         "section": "星垣論",
-        "line_ref": "第109行"
+        "line_ref": "第110行"
       }
     },
     {
-      "line_id": "ZWQS_Juan1_XingyuanLun_L016",
+      "line_id": "ZWQS_Juan1_XingyuanLun_L019",
+      "original_quote": "剋,充其瀰漫其餘諸星以⾝命推之,必得武曲之⾦使其源流不絕⽅為妙矣｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "星垣論",
+        "line_ref": "第111行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_XingyuanLun_L020",
       "original_quote": ",無施不可⾄⽞⾄妙者矣｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -208,11 +277,5 @@
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷一",
-    "section": "星垣論",
-    "line_id_start": "ZWQS_Juan1_XingyuanLun_L000",
-    "line_id_end": "ZWQS_Juan1_XingyuanLun_L016"
-  }
+  "_extraction_status": "星垣論完成"
 }

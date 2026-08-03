@@ -1,0 +1,34 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷二",
+  "section": "安童限訣",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan2_AnTongxian_Limit_L000",
+      "original_quote": "安童限訣",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安童限訣",
+        "line_ref": "第132行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnTongxian_Limit_L001",
+      "original_quote": "一命二財三疾厄，四妻五福六官祿，餘年一派順流行，十五命宮看端的。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安童限訣",
+        "line_ref": "第133行"
+      }
+    }
+  ],
+  "_extraction_status": "安童限訣完成"
+}

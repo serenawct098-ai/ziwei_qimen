@@ -1,2978 +1,1496 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "上卷·卷十四",
-  "section": "卷十四",
+  "juan": "上卷·卷14",
+  "section": "卷14",
   "entries": [
     {
-      "line_id": "QMDJ_Juan14_P000_S000",
+      "line_id": "QMDJ_Juan14_L000",
       "original_quote": "《卷十四》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1453行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P001_S000",
+      "line_id": "QMDJ_Juan14_L001",
       "original_quote": "婚姻占",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1454行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P002_S000",
+      "line_id": "QMDJ_Juan14_L002",
       "original_quote": "值符",
-      "paragraph_index": 2,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第27行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P003_S000",
-      "original_quote": "值符，婚主。",
-      "paragraph_index": 3,
+      "line_id": "QMDJ_Juan14_L003",
+      "original_quote": "值符，婚主。螣蛇，唆使。太陰，女妁、男飾。六合，婿媒、禮物。勾陳、白虎，阻撓、刑剋。朱雀、元武，口舌、奸詐、欺瞞、說合。九地，蓬滯、女室、遠涉。九天，懼悅、軒昂、男家。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P003_S001",
-      "original_quote": "螣蛇，唆使。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S002",
-      "original_quote": "太陰，女妁、男飾。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S003",
-      "original_quote": "六合，婿媒、禮物。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S004",
-      "original_quote": "勾陳、白虎，阻撓、刑剋。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S005",
-      "original_quote": "朱雀、元武，口舌、奸詐、欺瞞、說合。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S006",
-      "original_quote": "九地，蓬滯、女室、遠涉。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P003_S007",
-      "original_quote": "九天，懼悅、軒昂、男家。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1456行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P004_S000",
+      "line_id": "QMDJ_Juan14_L004",
       "original_quote": "值使",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第27行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P005_S000",
-      "original_quote": "休，中男、遲滯。",
-      "paragraph_index": 5,
+      "line_id": "QMDJ_Juan14_L005",
+      "original_quote": "休，中男、遲滯。生，少男、年齡不等。傷，長男、男家更變。杜，長女、發稀、女家失約。景，中女、虛詐。死，母姑、婆囂。驚，少女、殘疾。開，父老、妝奩。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P005_S001",
-      "original_quote": "生，少男、年齡不等。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S002",
-      "original_quote": "傷，長男、男家更變。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S003",
-      "original_quote": "杜，長女、發稀、女家失約。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S004",
-      "original_quote": "景，中女、虛詐。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S005",
-      "original_quote": "死，母姑、婆囂。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S006",
-      "original_quote": "驚，少女、殘疾。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P005_S007",
-      "original_quote": "開，父老、妝奩。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1458行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P006_S000",
+      "line_id": "QMDJ_Juan14_L006",
       "original_quote": "十干",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第72行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P007_S000",
-      "original_quote": "甲，男家長。",
-      "paragraph_index": 7,
+      "line_id": "QMDJ_Juan14_L007",
+      "original_quote": "甲，男家長。乙，媒妁、姨、秀媚。丙，媒、躁急。丁，媒使、柔順。戊，禮儀。己，女敦厚。庚，奸讒、刑門。辛，媒紅白。壬，媒妁、姑、長女。癸，婚期、婆。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P007_S001",
-      "original_quote": "乙，媒妁、姨、秀媚。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S002",
-      "original_quote": "丙，媒、躁急。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S003",
-      "original_quote": "丁，媒使、柔順。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S004",
-      "original_quote": "戊，禮儀。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S005",
-      "original_quote": "己，女敦厚。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S006",
-      "original_quote": "庚，奸讒、刑門。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S007",
-      "original_quote": "辛，媒紅白。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S008",
-      "original_quote": "壬，媒妁、姑、長女。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P007_S009",
-      "original_quote": "癸，婚期、婆。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1460行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P008_S000",
+      "line_id": "QMDJ_Juan14_L008",
       "original_quote": "九星",
-      "paragraph_index": 8,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第5行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P009_S000",
-      "original_quote": "蓬，黑矮暗疾。",
-      "paragraph_index": 9,
+      "line_id": "QMDJ_Juan14_L009",
+      "original_quote": "蓬，黑矮暗疾。任，孿僻、醜貌。衝，雄聲長瘦。輔，富厚、才貌。英，紫赤、細麻、大聲。芮，斑點、黃黑、腰大。禽，端正。柱，清瘦、須厲聲突。心，平麗有為。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P009_S001",
-      "original_quote": "任，孿僻、醜貌。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S002",
-      "original_quote": "衝，雄聲長瘦。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S003",
-      "original_quote": "輔，富厚、才貌。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S004",
-      "original_quote": "英，紫赤、細麻、大聲。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S005",
-      "original_quote": "芮，斑點、黃黑、腰大。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S006",
-      "original_quote": "禽，端正。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S007",
-      "original_quote": "柱，清瘦、須厲聲突。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P009_S008",
-      "original_quote": "心，平麗有為。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1462行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P010_S000",
+      "line_id": "QMDJ_Juan14_L010",
       "original_quote": "九宮",
-      "paragraph_index": 10,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第3行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P011_S000",
-      "original_quote": "一，得令，幽閒貞靜；",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan14_L011",
+      "original_quote": "一，得令，幽閒貞靜；失令，蕩佚風塵。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1464行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P011_S001",
-      "original_quote": "失令，蕩佚風塵。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1464行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P012_S000",
+      "line_id": "QMDJ_Juan14_L012",
       "original_quote": "二，得令敦厚。",
-      "paragraph_index": 12,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1465行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P013_S000",
-      "original_quote": "三，得令，半儀豐採；",
-      "paragraph_index": 13,
+      "line_id": "QMDJ_Juan14_L013",
+      "original_quote": "三，得令，半儀豐採；失令，疤痣淫佚。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1466行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P013_S001",
-      "original_quote": "失令，疤痣淫佚。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1466行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P014_S000",
+      "line_id": "QMDJ_Juan14_L014",
       "original_quote": "四，節申子辰緇黑聰明，氣巳酉丑，黃閏剛決。",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1467行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P015_S000",
+      "line_id": "QMDJ_Juan14_L015",
       "original_quote": "五，節四維土，氣四庫土。",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1240行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P016_S000",
+      "line_id": "QMDJ_Juan14_L016",
       "original_quote": "六，節寅午戌麻赤，氣亥卯未清俊。",
-      "paragraph_index": 16,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1469行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P017_S000",
-      "original_quote": "七，得令，名門大家；",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan14_L017",
+      "original_quote": "七，得令，名門大家；失令，刑剋孤寡。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1470行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P017_S001",
-      "original_quote": "失令，刑剋孤寡。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1470行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P018_S000",
+      "line_id": "QMDJ_Juan14_L018",
       "original_quote": "八，失令，踒跛。",
-      "paragraph_index": 18,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1471行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P019_S000",
-      "original_quote": "九，得令，秀長；",
-      "paragraph_index": 19,
+      "line_id": "QMDJ_Juan14_L019",
+      "original_quote": "九，得令，秀長；失令，飄逸、夭折、殘疾。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1472行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P019_S001",
-      "original_quote": "失令，飄逸、夭折、殘疾。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1472行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P020_S000",
+      "line_id": "QMDJ_Juan14_L020",
       "original_quote": "門戶",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第218行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P021_S000",
+      "line_id": "QMDJ_Juan14_L021",
       "original_quote": "男家責天門，女家責地戶，門戶值直符、太陰、九天、九地、六合者，男昌女盛。",
-      "paragraph_index": 21,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1474行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P022_S000",
+      "line_id": "QMDJ_Juan14_L022",
       "original_quote": "三甲",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第985行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P023_S000",
-      "original_quote": "孟甲宜長男、長女，占利於初婚。",
-      "paragraph_index": 23,
+      "line_id": "QMDJ_Juan14_L023",
+      "original_quote": "孟甲宜長男、長女，占利於初婚。仲甲宜中男、中女占。季甲宜少男、少女，占利於再醮。陽開無刑，男家富麗；陰闔無刑，女家父麗。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1476行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P023_S001",
-      "original_quote": "仲甲宜中男、中女占。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1476行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P023_S002",
-      "original_quote": "季甲宜少男、少女，占利於再醮。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1476行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P023_S003",
-      "original_quote": "陽開無刑，男家富麗；",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1476行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P023_S004",
-      "original_quote": "陰闔無刑，女家父麗。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1476行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P024_S000",
+      "line_id": "QMDJ_Juan14_L024",
       "original_quote": "論干支",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1093行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P025_S000",
+      "line_id": "QMDJ_Juan14_L025",
       "original_quote": "日乾為男時乾女，納音生剋從中取，時日生合兩和諧，化從變體有無理，化父化鬼事難成，化子化財婚可許，金水相傷貴時令，水火剋濟上下舉，大約休剋事無妨，旺刑衝制非為美，考取年命及類神，害門休劣辨大體。",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1478行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P026_S000",
+      "line_id": "QMDJ_Juan14_L026",
       "original_quote": "論值符",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1068行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P027_S000",
+      "line_id": "QMDJ_Juan14_L027",
       "original_quote": "男婚女嫁貴陰合，生旺相資登姻牘，螣蛇朱雀是媒婆，勾陳白虎破婚局，地遲天速元詐虛，直符婚娶大機軸。",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1480行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P028_S000",
+      "line_id": "QMDJ_Juan14_L028",
       "original_quote": "論值使",
-      "paragraph_index": 28,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1097行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P029_S000",
+      "line_id": "QMDJ_Juan14_L029",
       "original_quote": "直使從來考破成，方位老少亦同征，合占無剋誠為吉，休囚空陷枉勞心。",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1482行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P030_S000",
+      "line_id": "QMDJ_Juan14_L030",
       "original_quote": "論十干",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1099行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P031_S000",
+      "line_id": "QMDJ_Juan14_L031",
       "original_quote": "三奇六儀判陰陽，男女情形別樣妝，奇不墓兮儀不系，正合旁合逐日詳。",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1484行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P032_S000",
+      "line_id": "QMDJ_Juan14_L032",
       "original_quote": "論九星",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第995行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P033_S000",
+      "line_id": "QMDJ_Juan14_L033",
       "original_quote": "九星分類識性情，亦如身命考原因，已過將來論時令，貧富貴賤透玄靈。",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1486行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P034_S000",
+      "line_id": "QMDJ_Juan14_L034",
       "original_quote": "論九宮",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1103行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P035_S000",
+      "line_id": "QMDJ_Juan14_L035",
       "original_quote": "起元水局多淫蕩，得吉無刑真端相，只嫌背時與孤虛，勉強成親坎坷狀，起元火局疑虛詐，得吉男才女貌吉，若是背時與刑墓，婚娶不久而生疤，起元木局主和柔，清秀淑人君子流，若值刑墓囚空廢，暗疾殘傷不自由，起亢金局兩和諧，得令無衝屏雀開，若犯刑衝空廢墓，癡瘦黑肥都帶來。",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1488行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P036_S000",
+      "line_id": "QMDJ_Juan14_L036",
       "original_quote": "論門戶",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1105行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P037_S000",
+      "line_id": "QMDJ_Juan14_L037",
       "original_quote": "門戶吉泰兩相當，門凶戶吉男不昌，戶凶門吉女不利，門戶皆凶男女傷。",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1490行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P038_S000",
+      "line_id": "QMDJ_Juan14_L038",
       "original_quote": "論三甲",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1107行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P039_S000",
+      "line_id": "QMDJ_Juan14_L039",
       "original_quote": "孟甲逢門婚正宜，仲季相依亦共推，最怕囚兼刑剋闔，休廢男女皆趦趄。",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1492行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P040_S000",
+      "line_id": "QMDJ_Juan14_L040",
       "original_quote": "論吉凶格",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1221行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P041_S000",
+      "line_id": "QMDJ_Juan14_L041",
       "original_quote": "返首乘龍之婿，跌穴百兩之娘，虎狂龍走男女相傷，天遁人遁齊眉孟光，三詐五假過舍填房，得使而鸞妝耀日，守戶而女男掌綱，蛇妖而婦女激聒，投江而媒妁不良，伏乾飛乾多應剛悍，伏宮飛宮彼此狼當，大格小格鰥寡孤獨，刑格悖格男女暴強，歲月格而公姑不利，時日格而夫妻不長，入熒入白各懷私意，不遇兮有變，刑擊兮性狂，入墓羅網定受屈，返伏門迫恐招殃，男女年命乘生合，白髮兒孫滿畫堂。",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1494行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P042_S000",
+      "line_id": "QMDJ_Juan14_L042",
       "original_quote": "埋葬占",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1495行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P043_S000",
+      "line_id": "QMDJ_Juan14_L043",
       "original_quote": "論值符",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1068行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P044_S000",
-      "original_quote": "值符，塋壙、龍神、結聚、形勢、起伏、去向。",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan14_L044",
+      "original_quote": "值符，塋壙、龍神、結聚、形勢、起伏、去向。螣蛇，道路、羅星、對岸、去脈。太陰，穴順起風、右仲昌弓。六合，向道植樹、左右右弓。勾陳、白虎，護沙、內勢拱對、外勢右沙。朱雀、元武，明堂、原長水、主山來龍。九地，穴窩、臍跌歇之情。九天，向、屏障照臨之勢。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P044_S001",
-      "original_quote": "螣蛇，道路、羅星、對岸、去脈。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S002",
-      "original_quote": "太陰，穴順起風、右仲昌弓。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S003",
-      "original_quote": "六合，向道植樹、左右右弓。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S004",
-      "original_quote": "勾陳、白虎，護沙、內勢拱對、外勢右沙。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S005",
-      "original_quote": "朱雀、元武，明堂、原長水、主山來龍。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S006",
-      "original_quote": "九地，穴窩、臍跌歇之情。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P044_S007",
-      "original_quote": "九天，向、屏障照臨之勢。",
-      "paragraph_index": 44,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1497行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P045_S000",
+      "line_id": "QMDJ_Juan14_L045",
       "original_quote": "值使",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第27行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P046_S000",
-      "original_quote": "休，壬子癸黃泉在辰忌辰戌日時。",
-      "paragraph_index": 46,
+      "line_id": "QMDJ_Juan14_L046",
+      "original_quote": "休，壬子癸黃泉在辰忌辰戌日時。生，醜艮寅黃泉在寅忌丙寅日時。傷，甲卯乙黃泉在申忌庚申日時。杜，辰巽巳黃泉在酉忌辛酉日時。景，丙午丁黃泉在亥忌己亥日時。死，未坤申黃泉在卯忌乙卯日時。驚，庚酉辛黃泉在巳忌丁巳日時。開，戌乾亥黃泉在午忌丙午日時。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P046_S001",
-      "original_quote": "生，醜艮寅黃泉在寅忌丙寅日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S002",
-      "original_quote": "傷，甲卯乙黃泉在申忌庚申日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S003",
-      "original_quote": "杜，辰巽巳黃泉在酉忌辛酉日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S004",
-      "original_quote": "景，丙午丁黃泉在亥忌己亥日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S005",
-      "original_quote": "死，未坤申黃泉在卯忌乙卯日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S006",
-      "original_quote": "驚，庚酉辛黃泉在巳忌丁巳日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P046_S007",
-      "original_quote": "開，戌乾亥黃泉在午忌丙午日時。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1499行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P047_S000",
+      "line_id": "QMDJ_Juan14_L047",
       "original_quote": "十干",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第72行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P048_S000",
-      "original_quote": "甲，黃泉震庫在未，忌寅水向，忌亥流。",
-      "paragraph_index": 48,
+      "line_id": "QMDJ_Juan14_L048",
+      "original_quote": "甲，黃泉震庫在未，忌寅水向，忌亥流。乙，黃泉巽庫在戌，忌辰水向，忌丑流。丙，黃泉巽庫在戌，忌午水向，忌寅流。丁，黃泉坤庫在丑，忌未水向，忌寅流。戊，居坎。己，居離。庚，黃泉坤庫在丑，忌申水向，忌申流。辛，黃泉乾庫在辰，忌戌水向，忌辰流。壬，黃泉乾庫在辰，忌亥水向，忌巳流。癸，黃泉艮庫在未，忌丑水向，忌巳流。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P048_S001",
-      "original_quote": "乙，黃泉巽庫在戌，忌辰水向，忌丑流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S002",
-      "original_quote": "丙，黃泉巽庫在戌，忌午水向，忌寅流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S003",
-      "original_quote": "丁，黃泉坤庫在丑，忌未水向，忌寅流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S004",
-      "original_quote": "戊，居坎。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S005",
-      "original_quote": "己，居離。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S006",
-      "original_quote": "庚，黃泉坤庫在丑，忌申水向，忌申流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S007",
-      "original_quote": "辛，黃泉乾庫在辰，忌戌水向，忌辰流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S008",
-      "original_quote": "壬，黃泉乾庫在辰，忌亥水向，忌巳流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P048_S009",
-      "original_quote": "癸，黃泉艮庫在未，忌丑水向，忌巳流。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1501行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P049_S000",
+      "line_id": "QMDJ_Juan14_L049",
       "original_quote": "九星",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第5行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P050_S000",
-      "original_quote": "蓬，水形方尖。",
-      "paragraph_index": 50,
+      "line_id": "QMDJ_Juan14_L050",
+      "original_quote": "蓬，水形方尖。任，土形曲尖。衝，木形長斜。輔，木形秀麗。英，水形尖虛。芮，土形偏側。禽，土形方正。柱，金形仰缺。心，金形門窩。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P050_S001",
-      "original_quote": "任，土形曲尖。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S002",
-      "original_quote": "衝，木形長斜。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S003",
-      "original_quote": "輔，木形秀麗。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S004",
-      "original_quote": "英，水形尖虛。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S005",
-      "original_quote": "芮，土形偏側。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S006",
-      "original_quote": "禽，土形方正。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S007",
-      "original_quote": "柱，金形仰缺。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P050_S008",
-      "original_quote": "心，金形門窩。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1503行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P051_S000",
+      "line_id": "QMDJ_Juan14_L051",
       "original_quote": "九宮",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第3行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P052_S000",
+      "line_id": "QMDJ_Juan14_L052",
       "original_quote": "一，結穴水局。",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1505行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P053_S000",
+      "line_id": "QMDJ_Juan14_L053",
       "original_quote": "二，四維土。",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1506行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P054_S000",
+      "line_id": "QMDJ_Juan14_L054",
       "original_quote": "三，結穴木局。",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1507行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P055_S000",
+      "line_id": "QMDJ_Juan14_L055",
       "original_quote": "四，節申子辰，氣巳酉丑。",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1351行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P056_S000",
+      "line_id": "QMDJ_Juan14_L056",
       "original_quote": "五，節氣結穴土局。",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1509行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P057_S000",
+      "line_id": "QMDJ_Juan14_L057",
       "original_quote": "六，節寅午戌，氣亥卯未。",
-      "paragraph_index": 57,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1241行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P058_S000",
+      "line_id": "QMDJ_Juan14_L058",
       "original_quote": "七，結穴金局。",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1511行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P059_S000",
+      "line_id": "QMDJ_Juan14_L059",
       "original_quote": "八，四庫土。",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1512行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P060_S000",
+      "line_id": "QMDJ_Juan14_L060",
       "original_quote": "九，結穴火局。",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1513行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P061_S000",
+      "line_id": "QMDJ_Juan14_L061",
       "original_quote": "門戶",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第218行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P062_S000",
-      "original_quote": "迎向朝對看天門，擁護過峽看地戶。",
-      "paragraph_index": 62,
+      "line_id": "QMDJ_Juan14_L062",
+      "original_quote": "迎向朝對看天門，擁護過峽看地戶。門貴合天乙、天馬、三吉門者，吉。戶貴合陰貴、九遁、五假者，佳。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1515行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P062_S001",
-      "original_quote": "門貴合天乙、天馬、三吉門者，吉。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1515行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P062_S002",
-      "original_quote": "戶貴合陰貴、九遁、五假者，佳。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1515行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P063_S000",
+      "line_id": "QMDJ_Juan14_L063",
       "original_quote": "三甲",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第985行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P064_S000",
-      "original_quote": "孟甲看左勢，主龍；",
-      "paragraph_index": 64,
+      "line_id": "QMDJ_Juan14_L064",
+      "original_quote": "孟甲看左勢，主龍；仲甲看中勢，主穴；季甲看右勢，主河水。開忌無刑闔忌隔，內外開闔前後測，金開沙水沒收欄，全闔不化欠利益。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1517行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P064_S001",
-      "original_quote": "仲甲看中勢，主穴；",
-      "paragraph_index": 64,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1517行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P064_S002",
-      "original_quote": "季甲看右勢，主河水。",
-      "paragraph_index": 64,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1517行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P064_S003",
-      "original_quote": "開忌無刑闔忌隔，內外開闔前後測，金開沙水沒收欄，全闔不化欠利益。",
-      "paragraph_index": 64,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1517行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P065_S000",
+      "line_id": "QMDJ_Juan14_L065",
       "original_quote": "論干支",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1093行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P066_S000",
+      "line_id": "QMDJ_Juan14_L066",
       "original_quote": "日乾為人時幹地，納音所藏山向寄，兩干生合可遷葬，地剋人兮不愜意，日納山情時納向，山向無傷堪塋壙，其中有一犯刑傷，酌分改山與遷向，山向未可剋地元，時師點向無真傳，若剋人死亡者害，勸君另議向山看，化合中間定龍神，化旺須真假囚困，化氣納音相生合，得此衣紫與腰金，若再符使乘健旺，終始迪吉可安墳。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1519行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P067_S000",
+      "line_id": "QMDJ_Juan14_L067",
       "original_quote": "論值符",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1068行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P068_S000",
+      "line_id": "QMDJ_Juan14_L068",
       "original_quote": "值符占地火勢形，木火金土水類情，旺相休囚與孤虛，審時考宮可辨明，太陰穴情九地穴，明堂路案考朱蛇，向對屏障九天問，主山砂勢元白陳，用神不犯刑孤格，得合生合可壙塋。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1521行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P069_S000",
+      "line_id": "QMDJ_Juan14_L069",
       "original_quote": "論值使",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1097行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P070_S000",
+      "line_id": "QMDJ_Juan14_L070",
       "original_quote": "值使分占山與向，其中轉折多情況，休囚飛旺可立塋，旺飛休廢莫交創，好將飛伏兩參詳，彼此無傷宜山向，所忌煞曜時日逢，端的其中有此狀，更忌此使入此宮，宜速改遷方無恙。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1523行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P071_S000",
+      "line_id": "QMDJ_Juan14_L071",
       "original_quote": "論十干",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1099行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P072_S000",
+      "line_id": "QMDJ_Juan14_L072",
       "original_quote": "十干查分所主，莫教鬼剋入關攔，尤嫌坐臨忌煞位，此地當年擬廢間，甲乙興隆左脈威，制主須教林木芟，庚辛眠外無驚險，昂首衝空右脈殘，丙丁得令跳峰秀，一有瑕疵口舌關，壬癸得元來脈厚，枯澀休囚後裔難，戊己球氈胎息地，須要生煞入其間，細查何干孤剋缺，堪斷其方缺廢殘，子父財官區以別，富貴兒孫一局頒。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1525行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P073_S000",
+      "line_id": "QMDJ_Juan14_L073",
       "original_quote": "論九星",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第995行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P074_S000",
+      "line_id": "QMDJ_Juan14_L074",
       "original_quote": "大概九星要純粹，脫脫變鬼定衰替，吉報吉星吉更多，凶助凶威凶可畏，只要本星生本塋，飛伏兩宮雇祖利，欲查形勢折換情，進退加臨考星義，旺相休囚逐一詳，便知其形成與廢。",
-      "paragraph_index": 74,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1527行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P075_S000",
+      "line_id": "QMDJ_Juan14_L075",
       "original_quote": "論九宮",
-      "paragraph_index": 75,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1103行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P076_S000",
+      "line_id": "QMDJ_Juan14_L076",
       "original_quote": "九宮起元論山祖，元局不孤才可許，若有一局墜旬空，化氣不真非為美，即令全局總無傷，再將本局細參取，起從何宮飛向何，穿田過峽須尋迤，更看歸局歷幾辰，詳考變胎可脫體，倘得節次入生鄉，此是佳城天付與，上局得令左偏宜，中元依中下右取，應從節次別元情，得令失令因時舉。",
-      "paragraph_index": 76,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1529行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P077_S000",
+      "line_id": "QMDJ_Juan14_L077",
       "original_quote": "論門戶",
-      "paragraph_index": 77,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1105行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P078_S000",
+      "line_id": "QMDJ_Juan14_L078",
       "original_quote": "門戶休囚易得征，只看陰陽貴人星，陽吉星臨門發早，陰吉星臨戶後興，門吉戶凶門漸替，戶吉門凶先拂情，若見門戶全凶吉，終始如類說前程。",
-      "paragraph_index": 78,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1531行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P079_S000",
+      "line_id": "QMDJ_Juan14_L079",
       "original_quote": "論三甲",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1107行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P080_S000",
+      "line_id": "QMDJ_Juan14_L080",
       "original_quote": "三甲區分左右中，龍穴砂水定其蹤，開闔就裏有微妙，用神得地是仙宮。",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1533行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P081_S000",
+      "line_id": "QMDJ_Juan14_L081",
       "original_quote": "論吉凶格",
-      "paragraph_index": 81,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1221行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P082_S000",
-      "original_quote": "返首兮回龍顧祖，跌穴兮蛇入龍窩，虎狂兮須推右水反跳，龍走兮只怕左脈奔騰，遁格各有取用，地遁得之喜非常，假格各有區別，鬼假逢之大吉利。",
-      "paragraph_index": 82,
+      "line_id": "QMDJ_Juan14_L082",
+      "original_quote": "返首兮回龍顧祖，跌穴兮蛇入龍窩，虎狂兮須推右水反跳，龍走兮只怕左脈奔騰，遁格各有取用，地遁得之喜非常，假格各有區別，鬼假逢之大吉利。三詐之格，壙當論深淺。三勝之宮，臨山城為妙地。得使而氣脈遠布，守門而拱護森嚴，門四戶切莫刑傷，值使與時元日元。天馬、私門要值六合、九天與值符、值使。蛇夭矯而穴情不實，須防道路穿傷，雀投江而案山低卸，還疑元神直流。伏乾飛幹，此地必有更變，猶恐後日作邊場。飛宮伏宮，此地必見凶咎，待看蟻屯與風透。大格小格水不朝而反射，刑格悖格砂不合而門傷，熒入白兮醜聲官非造出，白入熒兮尸靡棺爛遭殃，年月日時逢悖格，龍穴砂水可推詳，五不遇兮人丁不旺，六儀刑兮財帛分張，入墓羅網拱護皆帶刑煞，反伏門迫山向那得禎樣，符使休囚縱葬而不發，時日刑害雖用而喪亡，兩元納音無刑陷，符使生旺時葬之良。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P082_S001",
-      "original_quote": "三詐之格，壙當論深淺。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S002",
-      "original_quote": "三勝之宮，臨山城為妙地。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S003",
-      "original_quote": "得使而氣脈遠布，守門而拱護森嚴，門四戶切莫刑傷，值使與時元日元。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S004",
-      "original_quote": "天馬、私門要值六合、九天與值符、值使。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S005",
-      "original_quote": "蛇夭矯而穴情不實，須防道路穿傷，雀投江而案山低卸，還疑元神直流。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S006",
-      "original_quote": "伏乾飛幹，此地必有更變，猶恐後日作邊場。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S007",
-      "original_quote": "飛宮伏宮，此地必見凶咎，待看蟻屯與風透。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P082_S008",
-      "original_quote": "大格小格水不朝而反射，刑格悖格砂不合而門傷，熒入白兮醜聲官非造出，白入熒兮尸靡棺爛遭殃，年月日時逢悖格，龍穴砂水可推詳，五不遇兮人丁不旺，六儀刑兮財帛分張，入墓羅網拱護皆帶刑煞，反伏門迫山向那得禎樣，符使休囚縱葬而不發，時日刑害雖用而喪亡，兩元納音無刑陷，符使生旺時葬之良。",
-      "paragraph_index": 82,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1535行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P083_S000",
+      "line_id": "QMDJ_Juan14_L083",
       "original_quote": "田禾占",
-      "paragraph_index": 83,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1536行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落83"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P084_S000",
+      "line_id": "QMDJ_Juan14_L084",
       "original_quote": "論值符",
-      "paragraph_index": 84,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1068行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落84"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P085_S000",
-      "original_quote": "值符，農人、禾稼。",
-      "paragraph_index": 85,
+      "line_id": "QMDJ_Juan14_L085",
+      "original_quote": "值符，農人、禾稼。螣蛇，蝗喃、蛙害。太陰，籽粒。六合，禾苗。勾陳、白虎，牛力、災殃。朱雀、元武，穗頭、旱蝗、根淺水澇。九地，田塍堆積收成。九天，場圃、栽插。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落85"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P085_S001",
-      "original_quote": "螣蛇，蝗喃、蛙害。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S002",
-      "original_quote": "太陰，籽粒。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S003",
-      "original_quote": "六合，禾苗。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S004",
-      "original_quote": "勾陳、白虎，牛力、災殃。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S005",
-      "original_quote": "朱雀、元武，穗頭、旱蝗、根淺水澇。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S006",
-      "original_quote": "九地，田塍堆積收成。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P085_S007",
-      "original_quote": "九天，場圃、栽插。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1538行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P086_S000",
+      "line_id": "QMDJ_Juan14_L086",
       "original_quote": "值使",
-      "paragraph_index": 86,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第27行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落86"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P087_S000",
-      "original_quote": "休，水灌溉。",
-      "paragraph_index": 87,
+      "line_id": "QMDJ_Juan14_L087",
+      "original_quote": "休，水灌溉。生，春耕。傷，耨耘。杜，苗梗。景，花節。死，秋收、籽粒。驚，收割。開，抽心、放葉、探穗。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落87"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P087_S001",
-      "original_quote": "生，春耕。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S002",
-      "original_quote": "傷，耨耘。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S003",
-      "original_quote": "杜，苗梗。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S004",
-      "original_quote": "景，花節。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S005",
-      "original_quote": "死，秋收、籽粒。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S006",
-      "original_quote": "驚，收割。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P087_S007",
-      "original_quote": "開，抽心、放葉、探穗。",
-      "paragraph_index": 87,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1540行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P088_S000",
+      "line_id": "QMDJ_Juan14_L088",
       "original_quote": "十干",
-      "paragraph_index": 88,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第72行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落88"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P089_S000",
-      "original_quote": "甲，秧、牛力、人工、旱稻。",
-      "paragraph_index": 89,
+      "line_id": "QMDJ_Juan14_L089",
+      "original_quote": "甲，秧、牛力、人工、旱稻。乙，苗中木。丙，花豆。丁，穗麻。戊，黍、慄、棉、豆。己，稻穀、圍埂。庚，大麥、蟲。辛，小麥、籽粒、未雹。壬，漿汁、晚稻。癸，收實。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落89"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P089_S001",
-      "original_quote": "乙，苗中木。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S002",
-      "original_quote": "丙，花豆。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S003",
-      "original_quote": "丁，穗麻。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S004",
-      "original_quote": "戊，黍、慄、棉、豆。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S005",
-      "original_quote": "己，稻穀、圍埂。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S006",
-      "original_quote": "庚，大麥、蟲。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S007",
-      "original_quote": "辛，小麥、籽粒、未雹。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S008",
-      "original_quote": "壬，漿汁、晚稻。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P089_S009",
-      "original_quote": "癸，收實。",
-      "paragraph_index": 89,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1542行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P090_S000",
+      "line_id": "QMDJ_Juan14_L090",
       "original_quote": "九星",
-      "paragraph_index": 90,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第5行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落90"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P091_S000",
-      "original_quote": "蓬，芒稻、粘稻、水災。",
-      "paragraph_index": 91,
+      "line_id": "QMDJ_Juan14_L091",
+      "original_quote": "蓬，芒稻、粘稻、水災。任，旱稻、旱榖、風暴。輔，榖、粟、福神。英，花穗衝、旱焦。芮，秀實、神。禽，稼穡、真宰。柱，蟲瘟、枯焦。心，籽粒。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落91"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P091_S001",
-      "original_quote": "任，旱稻、旱榖、風暴。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S002",
-      "original_quote": "輔，榖、粟、福神。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S003",
-      "original_quote": "英，花穗衝、旱焦。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S004",
-      "original_quote": "芮，秀實、神。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S005",
-      "original_quote": "禽，稼穡、真宰。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S006",
-      "original_quote": "柱，蟲瘟、枯焦。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P091_S007",
-      "original_quote": "心，籽粒。",
-      "paragraph_index": 91,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1544行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P092_S000",
+      "line_id": "QMDJ_Juan14_L092",
       "original_quote": "九宮",
-      "paragraph_index": 92,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第3行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落92"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P093_S000",
-      "original_quote": "一，主菽，得令水勢大；",
-      "paragraph_index": 93,
+      "line_id": "QMDJ_Juan14_L093",
+      "original_quote": "一，主菽，得令水勢大；中和，水漿、豐稔。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1546行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落93"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P093_S001",
-      "original_quote": "中和，水漿、豐稔。",
-      "paragraph_index": 93,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1546行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P094_S000",
+      "line_id": "QMDJ_Juan14_L094",
       "original_quote": "二，得令，田禾好、四維土。",
-      "paragraph_index": 94,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1547行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落94"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P095_S000",
-      "original_quote": "三，主麻，失令，防旱荒；",
-      "paragraph_index": 95,
+      "line_id": "QMDJ_Juan14_L095",
+      "original_quote": "三，主麻，失令，防旱荒；中和，花秀。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1548行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落95"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P095_S001",
-      "original_quote": "中和，花秀。",
-      "paragraph_index": 95,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1548行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P096_S000",
+      "line_id": "QMDJ_Juan14_L096",
       "original_quote": "四，節申子辰，氣巳酉丑。",
-      "paragraph_index": 96,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1351行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落96"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P097_S000",
+      "line_id": "QMDJ_Juan14_L097",
       "original_quote": "五，節五榖總宰，氣。",
-      "paragraph_index": 97,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1550行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落97"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P098_S000",
+      "line_id": "QMDJ_Juan14_L098",
       "original_quote": "六，節寅午戌，氣亥卯未。",
-      "paragraph_index": 98,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1241行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落98"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P099_S000",
+      "line_id": "QMDJ_Juan14_L099",
       "original_quote": "七，主麥，失令有剋，防蟲荒，無剋收成。",
-      "paragraph_index": 99,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1552行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落99"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P100_S000",
+      "line_id": "QMDJ_Juan14_L100",
       "original_quote": "八，四庫土，失令有偏枯。",
-      "paragraph_index": 100,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1553行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落100"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P101_S000",
-      "original_quote": "九，主禾，得令，豐熟；",
-      "paragraph_index": 101,
+      "line_id": "QMDJ_Juan14_L101",
+      "original_quote": "九，主禾，得令，豐熟；失莠草。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1554行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落101"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P101_S001",
-      "original_quote": "失莠草。",
-      "paragraph_index": 101,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1554行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P102_S000",
+      "line_id": "QMDJ_Juan14_L102",
       "original_quote": "門戶",
-      "paragraph_index": 102,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第218行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落102"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P103_S000",
+      "line_id": "QMDJ_Juan14_L103",
       "original_quote": "栽插花秀責天門，耨耘收割責地戶，陽開得令豐收，陰闔失令荒歉。",
-      "paragraph_index": 103,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1556行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落103"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P104_S000",
+      "line_id": "QMDJ_Juan14_L104",
       "original_quote": "三甲",
-      "paragraph_index": 104,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第985行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落104"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P105_S000",
+      "line_id": "QMDJ_Juan14_L105",
       "original_quote": "甲宜早榖，仲甲宜中稻，季甲宜晚禾，陽開無刑不怕旱，陰闔刑格須慮水。",
-      "paragraph_index": 105,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1558行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落105"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P106_S000",
+      "line_id": "QMDJ_Juan14_L106",
       "original_quote": "論干支",
-      "paragraph_index": 106,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1093行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落106"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P107_S000",
+      "line_id": "QMDJ_Juan14_L107",
       "original_quote": "日乾農人時幹田，納音牛力時籽兼，時生日兮宜佃種，日剋時兮亦許全，反此須防有災變，納音化合考先天，課體之中怕金火，蟲荒焦旱查類銓，土木二象宜取用，水象泛濫正堪嫌，逐頂搜看田種子，參詳時令仔細言。",
-      "paragraph_index": 107,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1560行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落107"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P108_S000",
+      "line_id": "QMDJ_Juan14_L108",
       "original_quote": "論值符",
-      "paragraph_index": 108,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1068行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落108"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P109_S000",
+      "line_id": "QMDJ_Juan14_L109",
       "original_quote": "值符六合怕刑傷，飛宮伏宮生旺強，朱蛇元白加臨處，休囚無氣忌猖狂。",
-      "paragraph_index": 109,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1562行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落109"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P110_S000",
+      "line_id": "QMDJ_Juan14_L110",
       "original_quote": "論值使",
-      "paragraph_index": 110,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1097行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落110"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P111_S000",
+      "line_id": "QMDJ_Juan14_L111",
       "original_quote": "值使東作與西成，門次條分優劣情，得令逢水無刑格，用神旺相細多能。",
-      "paragraph_index": 111,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1564行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落111"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P112_S000",
+      "line_id": "QMDJ_Juan14_L112",
       "original_quote": "論十干",
-      "paragraph_index": 112,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1099行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落112"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P113_S000",
+      "line_id": "QMDJ_Juan14_L113",
       "original_quote": "秧苗花粒逐乾分，四季天時亦繼陳，主幹乘生無刑擊，佐使兼濟榖如云。",
-      "paragraph_index": 113,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1566行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落113"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P114_S000",
+      "line_id": "QMDJ_Juan14_L114",
       "original_quote": "論九星",
-      "paragraph_index": 114,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第995行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落114"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P115_S000",
+      "line_id": "QMDJ_Juan14_L115",
       "original_quote": "九星五行各分行，吉星得令有收成，用神天星不生合，人力參差齟齬情。",
-      "paragraph_index": 115,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1568行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落115"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P116_S000",
+      "line_id": "QMDJ_Juan14_L116",
       "original_quote": "論九宮",
-      "paragraph_index": 116,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1103行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落116"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P117_S000",
+      "line_id": "QMDJ_Juan14_L117",
       "original_quote": "九宮起元論所屬，旺相生合樹藝熟，時逢刑格與孤虛，反局古來宜種粟。",
-      "paragraph_index": 117,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1570行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落117"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P118_S000",
+      "line_id": "QMDJ_Juan14_L118",
       "original_quote": "論門戶",
-      "paragraph_index": 118,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1105行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落118"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P119_S000",
+      "line_id": "QMDJ_Juan14_L119",
       "original_quote": "四季令星登門戶，無隔無刑榖麥富，門吉戶凶秋實虛，戶吉門凶春作悞。",
-      "paragraph_index": 119,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1572行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落119"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P120_S000",
+      "line_id": "QMDJ_Juan14_L120",
       "original_quote": "論三甲",
-      "paragraph_index": 120,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1107行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落120"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P121_S000",
+      "line_id": "QMDJ_Juan14_L121",
       "original_quote": "三甲查分播種田，何開何闔各爭先逐類未，三吉三勝來湊合，如茹如雲寄阡陌隴頭。",
-      "paragraph_index": 121,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1574行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落121"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P122_S000",
+      "line_id": "QMDJ_Juan14_L122",
       "original_quote": "論吉凶格",
-      "paragraph_index": 122,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1221行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落122"
       }
     },
     {
-      "line_id": "QMDJ_Juan14_P123_S000",
-      "original_quote": "反首跌穴皆為吉象，倘無刑剋與墓空，自然千倉與頌。",
-      "paragraph_index": 123,
+      "line_id": "QMDJ_Juan14_L123",
+      "original_quote": "反首跌穴皆為吉象，倘無刑剋與墓空，自然千倉與頌。虎狂龍走原作凶，推若遇震巽風雲，管教險後豐收。地遁人遁吉無不利，三詐五假權變合宜，得使而本類皆豐，守門而本屬傷利，三門四戶出作入息喜恩。逢天馬私門，風車水槽怕刑格。蛇夭矯而苗不秀，雀投江而秀入倉，伏乾飛幹蝗蟲災異，伏宮飛宮耕種狼當，大格小格水災蟲變，刑格悖格旱魃為殃，年月日時逢悖格，五行消息斷災祥，熒入白兮夏榖有損，白入熒兮秋來須防，五不遇兮徒勞心力，六儀刑兮佃種相妨。入墓與羅網，或因臨界偏生隙。反伏及門迫，縱雖佃種卻心忙。武侯賦比千金訣，留為佃種細推詳，再查來人行年命，或逢生旺與刑傷，如此會合類神取，判斷佃種驗非常。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S001",
-      "original_quote": "虎狂龍走原作凶，推若遇震巽風雲，管教險後豐收。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S002",
-      "original_quote": "地遁人遁吉無不利，三詐五假權變合宜，得使而本類皆豐，守門而本屬傷利，三門四戶出作入息喜恩。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S003",
-      "original_quote": "逢天馬私門，風車水槽怕刑格。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S004",
-      "original_quote": "蛇夭矯而苗不秀，雀投江而秀入倉，伏乾飛幹蝗蟲災異，伏宮飛宮耕種狼當，大格小格水災蟲變，刑格悖格旱魃為殃，年月日時逢悖格，五行消息斷災祥，熒入白兮夏榖有損，白入熒兮秋來須防，五不遇兮徒勞心力，六儀刑兮佃種相妨。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S005",
-      "original_quote": "入墓與羅網，或因臨界偏生隙。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S006",
-      "original_quote": "反伏及門迫，縱雖佃種卻心忙。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan14_P123_S007",
-      "original_quote": "武侯賦比千金訣，留為佃種細推詳，再查來人行年命，或逢生旺與刑傷，如此會合類神取，判斷佃種驗非常。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十四",
-        "section": "卷十四",
-        "line_ref": "第1576行"
+        "juan": "上卷·卷14",
+        "section": "卷14",
+        "line_ref": "段落123"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan14",
-    "line_id_start": "QMDJ_Juan14_P000_S000",
-    "line_id_end": "QMDJ_Juan14_P123_S007",
-    "original_block": "《卷十四》\n婚姻占\n值符\n值符，婚主。螣蛇，唆使。太陰，女妁、男飾。六合，婿媒、禮物。勾陳、白虎，阻撓、刑剋。朱雀、元武，口舌、奸詐、欺瞞、說合。九地，蓬滯、女室、遠涉。九天，懼悅、軒昂、男家。\n值使\n休，中男、遲滯。生，少男、年齡不等。傷，長男、男家更變。杜，長女、發稀、女家失約。景，中女、虛詐。死，母姑、婆囂。驚，少女、殘疾。開，父老、妝奩。\n十干\n甲，男家長。乙，媒妁、姨、秀媚。丙，媒、躁急。丁，媒使、柔順。戊，禮儀。己，女敦厚。庚，奸讒、刑門。辛，媒紅白。壬，媒妁、姑、長女。癸，婚期、婆。\n九星\n蓬，黑矮暗疾。任，孿僻、醜貌。衝，雄聲長瘦。輔，富厚、才貌。英，紫赤、細麻、大聲。芮，斑點、黃黑、腰大。禽，端正。柱，清瘦、須厲聲突。心，平麗有為。\n九宮\n一，得令，幽閒貞靜；失令，蕩佚風塵。\n二，得令敦厚。\n三，得令，半儀豐採；失令，疤痣淫佚。\n四，節申子辰緇黑聰明，氣巳酉丑，黃閏剛決。\n五，節四維土，氣四庫土。\n六，節寅午戌麻赤，氣亥卯未清俊。\n七，得令，名門大家；失令，刑剋孤寡。\n八，失令，踒跛。\n九，得令，秀長；失令，飄逸、夭折、殘疾。\n門戶\n男家責天門，女家責地戶，門戶值直符、太陰、九天、九地、六合者，男昌女盛。\n三甲\n孟甲宜長男、長女，占利於初婚。仲甲宜中男、中女占。季甲宜少男、少女，占利於再醮。陽開無刑，男家富麗；陰闔無刑，女家父麗。\n論干支\n日乾為男時乾女，納音生剋從中取，時日生合兩和諧，化從變體有無理，化父化鬼事難成，化子化財婚可許，金水相傷貴時令，水火剋濟上下舉，大約休剋事無妨，旺刑衝制非為美，考取年命及類神，害門休劣辨大體。\n論值符\n男婚女嫁貴陰合，生旺相資登姻牘，螣蛇朱雀是媒婆，勾陳白虎破婚局，地遲天速元詐虛，直符婚娶大機軸。\n論值使\n直使從來考破成，方位老少亦同征，合占無剋誠為吉，休囚空陷枉勞心。\n論十干\n三奇六儀判陰陽，男女情形別樣妝，奇不墓兮儀不系，正合旁合逐日詳。\n論九星\n九星分類識性情，亦如身命考原因，已過將來論時令，貧富貴賤透玄靈。\n論九宮\n起元水局多淫蕩，得吉無刑真端相，只嫌背時與孤虛，勉強成親坎坷狀，起元火局疑虛詐，得吉男才女貌吉，若是背時與刑墓，婚娶不久而生疤，起元木局主和柔， 清秀淑人君子流，若值刑墓囚空廢，暗疾殘傷不自由，起亢金局兩和諧，得令無衝屏雀開，若犯刑衝空廢墓，癡瘦黑肥都帶來。\n論門戶\n門戶吉泰兩相當，門凶戶吉男不昌，戶凶門吉女不利，門戶皆凶男女傷。\n論三甲\n孟甲逢門婚正宜，仲季相依亦共推，最怕囚兼刑剋闔，休廢男女皆趦趄。\n論吉凶格\n返首乘龍之婿，跌穴百兩之娘，虎狂龍走男女相傷，天遁人遁齊眉孟光，三詐五假過舍填房，得使而鸞妝耀日，守戶而女男掌綱，蛇妖而婦女激聒，投江而媒妁不 良，伏乾飛乾多應剛悍，伏宮飛宮彼此狼當，大格小格鰥寡孤獨，刑格悖格男女暴強，歲月格而公姑不利，時日格而夫妻不長，入熒入白各懷私意，不遇兮有變，刑 擊兮性狂，入墓羅網定受屈，返伏門迫恐招殃，男女年命乘生合，白髮兒孫滿畫堂。\n埋葬占\n論值符\n值符，塋壙、龍神、結聚、形勢、起伏、去向。螣蛇，道路、羅星、對岸、去脈。太陰，穴順起風、右仲昌弓。六合，向道植樹、左右右弓。勾陳、白虎，護沙、內勢拱對、外勢右沙。朱雀、元武，明堂、原長水、主山來龍。九地，穴窩、臍跌歇之情。九天，向、屏障照臨之勢。\n值使\n休，壬子癸黃泉在辰忌辰戌日時。生，醜艮寅黃泉在寅忌丙寅日時。傷，甲卯乙黃泉在申忌庚申日時。杜，辰巽巳黃泉在酉忌辛酉日時。景，丙午丁黃泉在亥忌己亥日時。死，未坤申黃泉在卯忌乙卯日時。驚，庚酉辛黃泉在巳忌丁巳日時。開，戌乾亥黃泉在午忌丙午日時。\n十干\n甲，黃泉震庫在未，忌寅水向，忌亥流。乙，黃泉巽庫在戌，忌辰水向，忌丑流。丙，黃泉巽庫在戌，忌午水向，忌寅流。丁，黃泉坤庫在丑，忌未水向，忌寅流。 戊，居坎。己，居離。庚，黃泉坤庫在丑，忌申水向，忌申流。辛，黃泉乾庫在辰，忌戌水向，忌辰流。壬，黃泉乾庫在辰，忌亥水向，忌巳流。癸，黃泉艮庫在 未，忌丑水向，忌巳流。\n九星\n蓬，水形方尖。任，土形曲尖。衝，木形長斜。輔，木形秀麗。英，水形尖虛。芮，土形偏側。禽，土形方正。柱，金形仰缺。心，金形門窩。\n九宮\n一，結穴水局。\n二，四維土。\n三，結穴木局。\n四，節申子辰，氣巳酉丑。\n五，節氣結穴土局。\n六，節寅午戌，氣亥卯未。\n七，結穴金局。\n八，四庫土。\n九，結穴火局。\n門戶\n迎向朝對看天門，擁護過峽看地戶。門貴合天乙、天馬、三吉門者，吉。戶貴合陰貴、九遁、五假者，佳。\n三甲\n孟甲看左勢，主龍；仲甲看中勢，主穴；季甲看右勢，主河水。開忌無刑闔忌隔，內外開闔前後測，金開沙水沒收欄，全闔不化欠利益。\n論干支\n日乾為人時幹地，納音所藏山向寄，兩干生合可遷葬，地剋人兮不愜意，日納山情時納向，山向無傷堪塋壙，其中有一犯刑傷，酌分改山與遷向，山向未可剋地元， 時師點向無真傳，若剋人死亡者害，勸君另議向山看，化合中間定龍神，化旺須真假囚困，化氣納音相生合，得此衣紫與腰金，若再符使乘健旺，終始迪吉可安墳。\n論值符\n值符占地火勢形，木火金土水類情，旺相休囚與孤虛，審時考宮可辨明，太陰穴情九地穴，明堂路案考朱蛇，向對屏障九天問，主山砂勢元白陳，用神不犯刑孤格，得合生合可壙塋。\n論值使\n值使分占山與向，其中轉折多情況，休囚飛旺可立塋，旺飛休廢莫交創，好將飛伏兩參詳，彼此無傷宜山向，所忌煞曜時日逢，端的其中有此狀，更忌此使入此宮，宜速改遷方無恙。\n論十干\n十干查分所主，莫教鬼剋入關攔，尤嫌坐臨忌煞位，此地當年擬廢間，甲乙興隆左脈威，制主須教林木芟，庚辛眠外無驚險，昂首衝空右脈殘，丙丁得令跳峰秀，一 有瑕疵口舌關，壬癸得元來脈厚，枯澀休囚後裔難，戊己球氈胎息地，須要生煞入其間，細查何干孤剋缺，堪斷其方缺廢殘，子父財官區以別，富貴兒孫一局頒。\n論九星\n大概九星要純粹，脫脫變鬼定衰替，吉報吉星吉更多，凶助凶威凶可畏，只要本星生本塋，飛伏兩宮雇祖利，欲查形勢折換情，進退加臨考星義，旺相休囚逐一詳，便知其形成與廢。\n論九宮\n九宮起元論山祖，元局不孤才可許，若有一局墜旬空，化氣不真非為美，即令全局總無傷，再將本局細參取，起從何宮飛向何，穿田過峽須尋迤，更看歸局歷幾辰， 詳考變胎可脫體，倘得節次入生鄉，此是佳城天付與，上局得令左偏宜，中元依中下右取，應從節次別元情，得令失令因時舉。\n論門戶\n門戶休囚易得征，只看陰陽貴人星，陽吉星臨門發早，陰吉星臨戶後興，門吉戶凶門漸替，戶吉門凶先拂情，若見門戶全凶吉，終始如類說前程。\n論三甲\n三甲區分左右中，龍穴砂水定其蹤，開闔就裏有微妙，用神得地是仙宮。\n論吉凶格\n返首兮回龍顧祖，跌穴兮蛇入龍窩，虎狂兮須推右水反跳，龍走兮只怕左脈奔騰，遁格各有取用，地遁得之喜非常，假格各有區別，鬼假逢之大吉利。三詐之格，壙 當論深淺。三勝之宮，臨山城為妙地。得使而氣脈遠布，守門而拱護森嚴，門四戶切莫刑傷，值使與時元日元。天馬、私門要值六合、九天與值符、值使。蛇夭矯而 穴情不實，須防道路穿傷，雀投江而案山低卸，還疑元神直流。伏乾飛幹，此地必有更變，猶恐後日作邊場。飛宮伏宮，此地必見凶咎，待看蟻屯與風透。大格小格 水不朝而反射，刑格悖格砂不合而門傷，熒入白兮醜聲官非造出，白入熒兮尸靡棺爛遭殃，年月日時逢悖格，龍穴砂水可推詳，五不遇兮人丁不旺，六儀刑兮財帛分 張，入墓羅網拱護皆帶刑煞，反伏門迫山向那得禎樣，符使休囚縱葬而不發，時日刑害雖用而喪亡，兩元納音無刑陷，符使生旺時葬之良。\n田禾占\n論值符\n值符，農人、禾稼。螣蛇，蝗喃、蛙害。太陰，籽粒。六合，禾苗。勾陳、白虎，牛力、災殃。朱雀、元武，穗頭、旱蝗、根淺水澇。九地，田塍堆積收成。九天，場圃、栽插。\n值使\n休，水灌溉。生，春耕。傷，耨耘。杜，苗梗。景，花節。死，秋收、籽粒。驚，收割。開，抽心、放葉、探穗。\n十干\n甲，秧、牛力、人工、旱稻。乙，苗中木。丙，花豆。丁，穗麻。戊，黍、慄、棉、豆。己，稻穀、圍埂。庚，大麥、蟲。辛，小麥、籽粒、未雹。壬，漿汁、晚稻。癸，收實。\n九星\n蓬，芒稻、粘稻、水災。任，旱稻、旱榖、風暴。輔，榖、粟、福神。英，花穗衝、旱焦。芮，秀實、神。禽，稼穡、真宰。柱，蟲瘟、枯焦。心，籽粒。\n九宮\n一，主菽，得令水勢大；中和，水漿、豐稔。\n二，得令，田禾好、四維土。\n三，主麻，失令，防旱荒；中和，花秀。\n四，節申子辰，氣巳酉丑。\n五，節五榖總宰，氣。\n六，節寅午戌，氣亥卯未。\n七，主麥，失令有剋，防蟲荒，無剋收成。\n八，四庫土，失令有偏枯。\n九，主禾，得令，豐熟；失莠草。\n門戶\n栽插花秀責天門，耨耘收割責地戶，陽開得令豐收，陰闔失令荒歉。\n三甲\n甲宜早榖，仲甲宜中稻，季甲宜晚禾，陽開無刑不怕旱，陰闔刑格須慮水。\n論干支\n日乾農人時幹田，納音牛力時籽兼，時生日兮宜佃種，日剋時兮亦許全，反此須防有災變，納音化合考先天，課體之中怕金火，蟲荒焦旱查類銓，土木二象宜取用，水象泛濫正堪嫌，逐頂搜看田種子，參詳時令仔細言。\n論值符\n值符六合怕刑傷，飛宮伏宮生旺強，朱蛇元白加臨處，休囚無氣忌猖狂。\n論值使\n值使東作與西成，門次條分優劣情，得令逢水無刑格，用神旺相細多能。\n論十干\n秧苗花粒逐乾分，四季天時亦繼陳，主幹乘生無刑擊，佐使兼濟榖如云。\n論九星\n九星五行各分行，吉星得令有收成，用神天星不生合，人力參差齟齬情。\n論九宮\n九宮起元論所屬，旺相生合樹藝熟，時逢刑格與孤虛，反局古來宜種粟。\n論門戶\n四季令星登門戶，無隔無刑榖麥富，門吉戶凶秋實虛，戶吉門凶春作悞。\n論三甲\n三甲查分播種田，何開何闔各爭先逐類未，三吉三勝來湊合，如茹如雲寄阡陌隴頭。\n論吉凶格\n反首跌穴皆為吉象，倘無刑剋與墓空，自然千倉與頌。虎狂龍走原作凶，推若遇震巽風雲，管教險後豐收。地遁人遁吉無不利，三詐五假權變合宜，得使而本類皆 豐，守門而本屬傷利，三門四戶出作入息喜恩。逢天馬私門，風車水槽怕刑格。蛇夭矯而苗不秀，雀投江而秀入倉，伏乾飛幹蝗蟲災異，伏宮飛宮耕種狼當，大格小 格水災蟲變，刑格悖格旱魃為殃，年月日時逢悖格，五行消息斷災祥，熒入白兮夏榖有損，白入熒兮秋來須防，五不遇兮徒勞心力，六儀刑兮佃種相妨。入墓與羅 網，或因臨界偏生隙。反伏及門迫，縱雖佃種卻心忙。武侯賦比千金訣，留為佃種細推詳，再查來人行年命，或逢生旺與刑傷，如此會合類神取，判斷佃種驗非常。\n\n"
-  }
+  "_extraction_status": "卷14完成"
 }

@@ -1,0 +1,34 @@
+{
+  "text": "紫微斗數全書",
+  "juan": "卷二",
+  "section": "安流魁流鉞訣",
+  "entries": [
+    {
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
+      "original_quote": "安斗君訣即月將星是也",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安流魁流鉞訣",
+        "line_ref": "第105行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
+      "original_quote": "於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安流魁流鉞訣",
+        "line_ref": "第106行"
+      }
+    }
+  ],
+  "_extraction_status": "安流魁流鉞訣完成"
+}

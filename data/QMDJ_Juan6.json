@@ -1,1886 +1,836 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "上卷·卷六",
-  "section": "卷六",
+  "juan": "上卷·卷6",
+  "section": "卷6",
   "entries": [
     {
-      "line_id": "QMDJ_Juan6_P000_S000",
+      "line_id": "QMDJ_Juan6_L000",
       "original_quote": "《卷六》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第744行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P001_S000",
+      "line_id": "QMDJ_Juan6_L001",
       "original_quote": "九遁變化法",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第745行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S000",
-      "original_quote": "天遁：開休生三吉門，天盤丙奇下臨地盤丁奇者，皆名「天遁」，得月精所蔽。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L002",
+      "original_quote": "天遁：開休生三吉門，天盤丙奇下臨地盤丁奇者，皆名「天遁」，得月精所蔽。或臨地盤九地、太陰者，亦名「天遁」，可以遁跡、隱形。若乘天月二德、天恩、天赦、日祿、喜神者，百事皆吉。乘朱雀，利文書、奏對。乘螣蛇，主疑惑。乘青龍，主財喜。如乘白虎、玄武者，主災病、損失，細事不得全吉。倘練祭丁甲，呼風喚雨等項之事，用「天遁」可以全吉也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S001",
-      "original_quote": "或臨地盤九地、太陰者，亦名「天遁」，可以遁跡、隱形。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L003",
+      "original_quote": "地遁：開休生合乙奇，下臨地盤六合、九地、太陰宮者，皆名「地遁」，得日精所蔽，可以設伏、謀為，百事皆吉。若乘朱雀，惟宜設詞、行詐、間諜。乘螣蛇者，宜蠱惑。乘太常，有酒食、宴會。乘青龍，有財喜。如乘白虎主鬪勝。乘玄武，主竊盜、探私。乘勾陳，主淹滯。得地遁之吉者，宜修築、起造、埋葬、藏匿之事，俱皆大吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S002",
-      "original_quote": "若乘天月二德、天恩、天赦、日祿、喜神者，百事皆吉。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L004",
+      "original_quote": "人遁：開休生合三奇，下臨地盤六合者，名為「人遁」。生門與三奇臨太陰，及生門、乙奇、九地宮者，亦名「人遁」。乘日祿、喜神及貴神者，主財喜、和合之事。乘朱雀者，主詞訟得理。乘螣蛇者，主惡夢、邪魅之事。乘白虎者，忌行船。乘玄武者，主盜賊。若乘天輔、天柱之星，主雨；天衝主雷，天英主電。占疾病，危急。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S003",
-      "original_quote": "乘朱雀，利文書、奏對。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L005",
+      "original_quote": "風遁：開休生合乙奇，下臨地盤六辛，落於巽宮者為「風遁」。乘天衝、天輔二星者，此方可以祭風，但不利行舟。信息至，行兵利火攻大勝。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S004",
-      "original_quote": "乘螣蛇，主疑惑。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L006",
+      "original_quote": "云遁：開休生合乙奇，下臨六辛宮者，名為「云遁」。生門合天芮，壬臨坤宮，及三吉門合六辛臨於地盤乙；或天芮合生門，下臨地盤九地於坤宮，亦皆名「云遁」。冬月宜祈云，夏月宜求雨。若乘白虎，主有冰雹。乘螣蛇、朱雀者，主旱。強求招火災，行兵宜劫營，彼不能知也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S005",
-      "original_quote": "乘青龍，主財喜。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L007",
+      "original_quote": "龍遁：開休生合天心星、甲辰壬、六合於坎宮為「龍遁」。或休門、乙奇加坤宮，或開門、六戊加地盤九地，及休門、丁奇，下臨地盤九地於坎宮，皆名「龍遁」。此方祈雨必應，水戰必勝，再得青龍、玄武、神後之神，主霪雨，仍防奸細、盜賊。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S006",
-      "original_quote": "如乘白虎、玄武者，主災病、損失，細事不得全吉。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L008",
+      "original_quote": "虎遁：開門、甲申庚，下臨地盤兌宮為「虎遁」。或休門、乙奇加地盤六辛於艮宮，或生門、辛加地盤於乙、艮宮，亦皆名「虎遁」。此方宜祭風、鎮邪、驅鬼、安宅，並吉。行船宜，招安、攻險、剿巢，利為客。若安營、伏兵，賊不敢正視也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P002_S007",
-      "original_quote": "倘練祭丁甲，呼風喚雨等項之事，用「天遁」可以全吉也。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan6_L009",
+      "original_quote": "神遁：開門、乙奇合天心星或天禽星，下臨地盤九天於乾宮，名為「神遁」。或生門、丙奇合禽、心二星，下臨地盤九天宮者，亦名「神遁」。此方宜驅神遣將、施計，神必暗助，行兵宜作神將，塗抹三軍，神即至矣。更宜祭祀，神必來享。若有白虎雷煞、劫煞，主雷傷。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第746行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P003_S000",
-      "original_quote": "地遁：開休生合乙奇，下臨地盤六合、九地、太陰宮者，皆名「地遁」，得日精所蔽，可以設伏、謀為，百事皆吉。",
-      "paragraph_index": 3,
+      "line_id": "QMDJ_Juan6_L010",
+      "original_quote": "鬼遁：休門、天輔，六辛下臨地盤丁奇，於艮宮者，名為鬼遁，生門、太陰下臨地盤丁奇，或生門、九地，下臨地盤丁奇，亦皆「鬼遁」。宜探路、偵賊處、實行間謀、布謠言，彼不能察，而疑惑軍心。宅中有鬼，宜書符鎮之則吉，餘事不利。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P003_S001",
-      "original_quote": "若乘朱雀，惟宜設詞、行詐、間諜。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S002",
-      "original_quote": "乘螣蛇者，宜蠱惑。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S003",
-      "original_quote": "乘太常，有酒食、宴會。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S004",
-      "original_quote": "乘青龍，有財喜。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S005",
-      "original_quote": "如乘白虎主鬪勝。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S006",
-      "original_quote": "乘玄武，主竊盜、探私。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S007",
-      "original_quote": "乘勾陳，主淹滯。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P003_S008",
-      "original_quote": "得地遁之吉者，宜修築、起造、埋葬、藏匿之事，俱皆大吉。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第747行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S000",
-      "original_quote": "人遁：開休生合三奇，下臨地盤六合者，名為「人遁」。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S001",
-      "original_quote": "生門與三奇臨太陰，及生門、乙奇、九地宮者，亦名「人遁」。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S002",
-      "original_quote": "乘日祿、喜神及貴神者，主財喜、和合之事。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S003",
-      "original_quote": "乘朱雀者，主詞訟得理。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S004",
-      "original_quote": "乘螣蛇者，主惡夢、邪魅之事。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S005",
-      "original_quote": "乘白虎者，忌行船。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S006",
-      "original_quote": "乘玄武者，主盜賊。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S007",
-      "original_quote": "若乘天輔、天柱之星，主雨；",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S008",
-      "original_quote": "天衝主雷，天英主電。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P004_S009",
-      "original_quote": "占疾病，危急。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第748行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P005_S000",
-      "original_quote": "風遁：開休生合乙奇，下臨地盤六辛，落於巽宮者為「風遁」。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第749行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P005_S001",
-      "original_quote": "乘天衝、天輔二星者，此方可以祭風，但不利行舟。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第749行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P005_S002",
-      "original_quote": "信息至，行兵利火攻大勝。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第749行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S000",
-      "original_quote": "云遁：開休生合乙奇，下臨六辛宮者，名為「云遁」。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S001",
-      "original_quote": "生門合天芮，壬臨坤宮，及三吉門合六辛臨於地盤乙；",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S002",
-      "original_quote": "或天芮合生門，下臨地盤九地於坤宮，亦皆名「云遁」。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S003",
-      "original_quote": "冬月宜祈云，夏月宜求雨。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S004",
-      "original_quote": "若乘白虎，主有冰雹。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S005",
-      "original_quote": "乘螣蛇、朱雀者，主旱。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P006_S006",
-      "original_quote": "強求招火災，行兵宜劫營，彼不能知也。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P007_S000",
-      "original_quote": "龍遁：開休生合天心星、甲辰壬、六合於坎宮為「龍遁」。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P007_S001",
-      "original_quote": "或休門、乙奇加坤宮，或開門、六戊加地盤九地，及休門、丁奇，下臨地盤九地於坎宮，皆名「龍遁」。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P007_S002",
-      "original_quote": "此方祈雨必應，水戰必勝，再得青龍、玄武、神後之神，主霪雨，仍防奸細、盜賊。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P008_S000",
-      "original_quote": "虎遁：開門、甲申庚，下臨地盤兌宮為「虎遁」。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第752行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P008_S001",
-      "original_quote": "或休門、乙奇加地盤六辛於艮宮，或生門、辛加地盤於乙、艮宮，亦皆名「虎遁」。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第752行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P008_S002",
-      "original_quote": "此方宜祭風、鎮邪、驅鬼、安宅，並吉。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第752行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P008_S003",
-      "original_quote": "行船宜，招安、攻險、剿巢，利為客。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第752行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P008_S004",
-      "original_quote": "若安營、伏兵，賊不敢正視也。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第752行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P009_S000",
-      "original_quote": "神遁：開門、乙奇合天心星或天禽星，下臨地盤九天於乾宮，名為「神遁」。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第753行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P009_S001",
-      "original_quote": "或生門、丙奇合禽、心二星，下臨地盤九天宮者，亦名「神遁」。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第753行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P009_S002",
-      "original_quote": "此方宜驅神遣將、施計，神必暗助，行兵宜作神將，塗抹三軍，神即至矣。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第753行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P009_S003",
-      "original_quote": "更宜祭祀，神必來享。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第753行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P009_S004",
-      "original_quote": "若有白虎雷煞、劫煞，主雷傷。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第753行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P010_S000",
-      "original_quote": "鬼遁：休門、天輔，六辛下臨地盤丁奇，於艮宮者，名為鬼遁，生門、太陰下臨地盤丁奇，或生門、九地，下臨地盤丁奇，亦皆「鬼遁」。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第754行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P010_S001",
-      "original_quote": "宜探路、偵賊處、實行間謀、布謠言，彼不能察，而疑惑軍心。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第754行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P010_S002",
-      "original_quote": "宅中有鬼，宜書符鎮之則吉，餘事不利。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第754行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P011_S000",
+      "line_id": "QMDJ_Juan6_L011",
       "original_quote": "超神接氣訣",
-      "paragraph_index": 11,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第755行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P012_S000",
-      "original_quote": "夫閏奇者，有過九日而後閏者，有過十四日而值閏者，各有決例。",
-      "paragraph_index": 12,
+      "line_id": "QMDJ_Juan6_L012",
+      "original_quote": "夫閏奇者，有過九日而後閏者，有過十四日而值閏者，各有決例。大約氣先到而節未到，先用其氣謂之「接氣」，節先到而氣未到，謂之「超神」。超神者，仍用其當局之氣，而不用其節，待超過九日而方用其節，謂之「超神」。接氣者，必在閏月之前；超神者，須在閏月之後。閏月前，氣必先到；閏月後，節必先到。節先到者，必先用其氣；節先到者，猶不用其節，超神、接氣之旨明矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P012_S001",
-      "original_quote": "大約氣先到而節未到，先用其氣謂之「接氣」，節先到而氣未到，謂之「超神」。",
-      "paragraph_index": 12,
+      "line_id": "QMDJ_Juan6_L013",
+      "original_quote": "若其年閏正、二、三、四月者，必閏大雪一氣之候；如閏五、六、七、八、九月者，必閏芒種一氣之候，所謂過猶不及者，不得中和之氣，而值閏也。總以甲己子午卯酉為上元，寅申巳亥為中元，辰戌丑未為下元，此定例也。又云：「節與氣同為中和」，中節之前甲己子午卯酉者，謂之過，過則接氣；中節之後見甲己子午卯酉者，謂之不及，不及則超神總以三十舊本月令三十三，刪去三字，值月而值閏者，不過陰陽消長之道也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P012_S002",
-      "original_quote": "超神者，仍用其當局之氣，而不用其節，待超過九日而方用其節，謂之「超神」。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S003",
-      "original_quote": "接氣者，必在閏月之前；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S004",
-      "original_quote": "超神者，須在閏月之後。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S005",
-      "original_quote": "閏月前，氣必先到；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S006",
-      "original_quote": "閏月後，節必先到。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S007",
-      "original_quote": "節先到者，必先用其氣；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P012_S008",
-      "original_quote": "節先到者，猶不用其節，超神、接氣之旨明矣。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P013_S000",
-      "original_quote": "若其年閏正、二、三、四月者，必閏大雪一氣之候；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第757行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P013_S001",
-      "original_quote": "如閏五、六、七、八、九月者，必閏芒種一氣之候，所謂過猶不及者，不得中和之氣，而值閏也。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第757行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P013_S002",
-      "original_quote": "總以甲己子午卯酉為上元，寅申巳亥為中元，辰戌丑未為下元，此定例也。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第757行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P013_S003",
-      "original_quote": "又云：「節與氣同為中和」，中節之前甲己子午卯酉者，謂之過，過則接氣；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第757行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P013_S004",
-      "original_quote": "中節之後見甲己子午卯酉者，謂之不及，不及則超神總以三十舊本月令三十三，刪去三字，值月而值閏者，不過陰陽消長之道也。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第757行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P014_S000",
+      "line_id": "QMDJ_Juan6_L014",
       "original_quote": "九神主論章",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第758行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P015_S000",
-      "original_quote": "值符者，諸神之元首，九星之領袖。",
-      "paragraph_index": 15,
+      "line_id": "QMDJ_Juan6_L015",
+      "original_quote": "值符者，諸神之元首，九星之領袖。因名值符，其體屬火，其神所到之處，百惡消散，諸凶寂滅，至吉之神。所畏者，太白金星，忌入墓，吉處不吉，凶處更凶。天始於甲，地始於子，固謂萬匯之尊者，舉甲子而六甲在其中矣，故名之曰「值符」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第759行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P015_S001",
-      "original_quote": "因名值符，其體屬火，其神所到之處，百惡消散，諸凶寂滅，至吉之神。",
-      "paragraph_index": 15,
+      "line_id": "QMDJ_Juan6_L016",
+      "original_quote": "螣蛇者，丁火之氣，其實屬陰土，兌納丁，其神性柔而口毒，專司驚恐、怪異、火妖蠱之事。位鎮巽方，又名「玉女」，遁為六丁，六甲之神，乃陰神之最靈者，舉丁卯而六丁在其中矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第759行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P015_S002",
-      "original_quote": "所畏者，太白金星，忌入墓，吉處不吉，凶處更凶。",
-      "paragraph_index": 15,
+      "line_id": "QMDJ_Juan6_L017",
+      "original_quote": "太陰者，西方之陰金也。其神好陰匿、暗昧、欺蔽、妾婦之事。離納辛，配於西方，位鎮兌宮，兌為少女，陰陽至此而化育不成。自甲至癸，其數終，自子至酉，其數窮，故名之曰「太陰」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第759行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P015_S003",
-      "original_quote": "天始於甲，地始於子，固謂萬匯之尊者，舉甲子而六甲在其中矣，故名之曰「值符」。",
-      "paragraph_index": 15,
+      "line_id": "QMDJ_Juan6_L018",
+      "original_quote": "六合者，甲木之化氣也，東方之陰木也。其神性和平，專司婚姻、交易、媒勺、和合之事。乃六甲之妹，配於庚金，為妻懷庚之胎，歸妹於家，位鎮東方，震納庚，自甲至己其數六，故名之曰「六合」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第759行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P016_S000",
-      "original_quote": "螣蛇者，丁火之氣，其實屬陰土，兌納丁，其神性柔而口毒，專司驚恐、怪異、火妖蠱之事。",
-      "paragraph_index": 16,
+      "line_id": "QMDJ_Juan6_L019",
+      "original_quote": "勾陳者，中央之陽土也。其性頑，專司田土、詞訟之事，自甲至戊其數五，自子至辰其數亦五，艮納丙，坎納戊，配於東南。經云：知三避五，三五反複，凶頑之氣，不可趨位。鎮於艮，故名之曰「勾陳」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第760行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P016_S001",
-      "original_quote": "位鎮巽方，又名「玉女」，遁為六丁，六甲之神，乃陰神之最靈者，舉丁卯而六丁在其中矣。",
-      "paragraph_index": 16,
+      "line_id": "QMDJ_Juan6_L020",
+      "original_quote": "白虎者，庚金也。統轄西方之威，其神好殺，專司兵戈、殺伐、爭鬪、疾病、死喪、道路之事。已納庚金，巽為風，風從虎，位鎮於西方。自甲至庚，其數七，故名之曰「白虎」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第760行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P017_S000",
-      "original_quote": "太陰者，西方之陰金也。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan6_L021",
+      "original_quote": "朱雀者，南方之火神，統轄周天之野，專司文明之權，掌奏口舌、文書之職。得地則文書印信有喜，失時則有是非口舌撓亂之凶。位在丙，丙納艮，土旺相在離，在天為赤鳥之神，屬丙火，舉丙寅而六丙在其中矣。故名之曰「朱雀」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第761行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P017_S001",
-      "original_quote": "其神好陰匿、暗昧、欺蔽、妾婦之事。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan6_L022",
+      "original_quote": "玄武者，水之精也。統轄北方之氣，其神好陰謀、賊害，專司盜賊、逃亡之事。水主黑色，得中央黃土而成元，故名之曰「元武」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第761行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P017_S002",
-      "original_quote": "離納辛，配於西方，位鎮兌宮，兌為少女，陰陽至此而化育不成。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan6_L023",
+      "original_quote": "九地者，坤土也。其性好靜，所主者，乃柔順虛恭之事，亦操生殺之權，半吉半凶之神，畏剋制，忌入墓，春夏則生，秋冬則殺，司君後之柄。坤納乙癸，自乙至癸其數九，故名之曰「九地」。舉乙醜而六乙在其中矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第761行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P017_S003",
-      "original_quote": "自甲至癸，其數終，自子至酉，其數窮，故名之曰「太陰」。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan6_L024",
+      "original_quote": "九天者，乾金也。其體屬金，乾納甲壬，性剛而好動。所主者，名正言順之事，值其令而無阻，至吉之神。若得門、得奇，萬福咸集，即不得奇，亦不為凶，畏入墓而力屈。天始於甲，自甲至壬其數九，故名之曰「九天」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第761行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P018_S000",
-      "original_quote": "六合者，甲木之化氣也，東方之陰木也。",
-      "paragraph_index": 18,
+      "line_id": "QMDJ_Juan6_L025",
+      "original_quote": "太常者，五行之化氣也。其神好歌飲，專司宴享、祭祀、衣帛、羔雁、酒食之事。此神隨天禽遍游諸方，遇火則從火，遇金則從金，遇水則從水，遇木則從木，遇土則從土，與五體相合，其性不常，故名之曰「太常」。與吉門並則吉，與凶門並則凶，主衣服、彩衣、孝服之變更也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第762行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P018_S001",
-      "original_quote": "其神性和平，專司婚姻、交易、媒勺、和合之事。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第762行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P018_S002",
-      "original_quote": "乃六甲之妹，配於庚金，為妻懷庚之胎，歸妹於家，位鎮東方，震納庚，自甲至己其數六，故名之曰「六合」。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第762行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P019_S000",
-      "original_quote": "勾陳者，中央之陽土也。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第763行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P019_S001",
-      "original_quote": "其性頑，專司田土、詞訟之事，自甲至戊其數五，自子至辰其數亦五，艮納丙，坎納戊，配於東南。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第763行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P019_S002",
-      "original_quote": "經云：知三避五，三五反複，凶頑之氣，不可趨位。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第763行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P019_S003",
-      "original_quote": "鎮於艮，故名之曰「勾陳」。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第763行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P020_S000",
-      "original_quote": "白虎者，庚金也。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第764行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P020_S001",
-      "original_quote": "統轄西方之威，其神好殺，專司兵戈、殺伐、爭鬪、疾病、死喪、道路之事。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第764行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P020_S002",
-      "original_quote": "已納庚金，巽為風，風從虎，位鎮於西方。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第764行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P020_S003",
-      "original_quote": "自甲至庚，其數七，故名之曰「白虎」。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第764行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P021_S000",
-      "original_quote": "朱雀者，南方之火神，統轄周天之野，專司文明之權，掌奏口舌、文書之職。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第765行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P021_S001",
-      "original_quote": "得地則文書印信有喜，失時則有是非口舌撓亂之凶。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第765行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P021_S002",
-      "original_quote": "位在丙，丙納艮，土旺相在離，在天為赤鳥之神，屬丙火，舉丙寅而六丙在其中矣。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第765行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P021_S003",
-      "original_quote": "故名之曰「朱雀」。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第765行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P022_S000",
-      "original_quote": "玄武者，水之精也。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第766行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P022_S001",
-      "original_quote": "統轄北方之氣，其神好陰謀、賊害，專司盜賊、逃亡之事。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第766行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P022_S002",
-      "original_quote": "水主黑色，得中央黃土而成元，故名之曰「元武」。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第766行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P023_S000",
-      "original_quote": "九地者，坤土也。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第767行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P023_S001",
-      "original_quote": "其性好靜，所主者，乃柔順虛恭之事，亦操生殺之權，半吉半凶之神，畏剋制，忌入墓，春夏則生，秋冬則殺，司君後之柄。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第767行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P023_S002",
-      "original_quote": "坤納乙癸，自乙至癸其數九，故名之曰「九地」。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第767行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P023_S003",
-      "original_quote": "舉乙醜而六乙在其中矣。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第767行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P024_S000",
-      "original_quote": "九天者，乾金也。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第768行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P024_S001",
-      "original_quote": "其體屬金，乾納甲壬，性剛而好動。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第768行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P024_S002",
-      "original_quote": "所主者，名正言順之事，值其令而無阻，至吉之神。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第768行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P024_S003",
-      "original_quote": "若得門、得奇，萬福咸集，即不得奇，亦不為凶，畏入墓而力屈。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第768行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P024_S004",
-      "original_quote": "天始於甲，自甲至壬其數九，故名之曰「九天」。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第768行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P025_S000",
-      "original_quote": "太常者，五行之化氣也。",
-      "paragraph_index": 25,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第769行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P025_S001",
-      "original_quote": "其神好歌飲，專司宴享、祭祀、衣帛、羔雁、酒食之事。",
-      "paragraph_index": 25,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第769行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P025_S002",
-      "original_quote": "此神隨天禽遍游諸方，遇火則從火，遇金則從金，遇水則從水，遇木則從木，遇土則從土，與五體相合，其性不常，故名之曰「太常」。",
-      "paragraph_index": 25,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第769行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P025_S003",
-      "original_quote": "與吉門並則吉，與凶門並則凶，主衣服、彩衣、孝服之變更也。",
-      "paragraph_index": 25,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第769行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P026_S000",
+      "line_id": "QMDJ_Juan6_L026",
       "original_quote": "二十四氣",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第770行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P027_S000",
+      "line_id": "QMDJ_Juan6_L027",
       "original_quote": "正月立春、雨水，二月驚蟄、春分，三月清明、榖雨，四月立夏、小滿，",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第771行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P028_S000",
+      "line_id": "QMDJ_Juan6_L028",
       "original_quote": "五月芒種、夏至，六月小暑、大暑，七月立秋、處暑，八月白露、秋分，",
-      "paragraph_index": 28,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第772行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P029_S000",
+      "line_id": "QMDJ_Juan6_L029",
       "original_quote": "九月寒露、霜降，十月立冬、小雪，十一月大雪、冬至，十二月小寒、大寒。",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第773行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P030_S000",
+      "line_id": "QMDJ_Juan6_L030",
       "original_quote": "天德吉日",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第774行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P031_S000",
+      "line_id": "QMDJ_Juan6_L031",
       "original_quote": "正丁二坤申日宮，三壬四辛同，五乾亥日六甲上，七癸八艮寅日逢，九丙十居乙，子巽巳日丑庚申。",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第775行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P032_S000",
+      "line_id": "QMDJ_Juan6_L032",
       "original_quote": "月德吉日",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第776行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P033_S000",
+      "line_id": "QMDJ_Juan6_L033",
       "original_quote": "正五九月居丙，二六十月在甲，三七十一月在壬，四八十二月在庚。",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第777行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P034_S000",
+      "line_id": "QMDJ_Juan6_L034",
       "original_quote": "五符法",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第778行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P035_S000",
+      "line_id": "QMDJ_Juan6_L035",
       "original_quote": "五符，吉神，屬火，謁貴。",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第779行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P036_S000",
+      "line_id": "QMDJ_Juan6_L036",
       "original_quote": "天曹，屬金，主詞訟。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第780行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P037_S000",
+      "line_id": "QMDJ_Juan6_L037",
       "original_quote": "地符，半吉半凶，屬土，迫避。",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第781行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P038_S000",
+      "line_id": "QMDJ_Juan6_L038",
       "original_quote": "風伯、雷公，屬木，主驚恐。",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第782行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P039_S000",
+      "line_id": "QMDJ_Juan6_L039",
       "original_quote": "雨師，陽水，出行主陰雨。",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第783行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P040_S000",
+      "line_id": "QMDJ_Juan6_L040",
       "original_quote": "風雲，陰木，主半陰。",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第784行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P041_S000",
+      "line_id": "QMDJ_Juan6_L041",
       "original_quote": "唐符，屬金，求財吉。",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第785行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P042_S000",
+      "line_id": "QMDJ_Juan6_L042",
       "original_quote": "國印，屬金，主升遷。",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第786行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P043_S000",
+      "line_id": "QMDJ_Juan6_L043",
       "original_quote": "天官，屬木，主阻隔。",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第787行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P044_S000",
+      "line_id": "QMDJ_Juan6_L044",
       "original_quote": "地軸，陰土，主反複。",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第788行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P045_S000",
+      "line_id": "QMDJ_Juan6_L045",
       "original_quote": "天賊，陰水，主失盜。",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第789行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P046_S000",
+      "line_id": "QMDJ_Juan6_L046",
       "original_quote": "以上月將加正，順數至本日祿上起五符，如甲祿寅，即在寅上起五符，卯上即為天曹，辰上即為地符，巳上即為風伯，雷公在午，餘俱仿此。",
-      "paragraph_index": 46,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第790行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P047_S000",
+      "line_id": "QMDJ_Juan6_L047",
       "original_quote": "皇恩煞",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第791行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P048_S000",
+      "line_id": "QMDJ_Juan6_L048",
       "original_quote": "正五九月戌，二六十月丑，三七十一月辰，四八十二月未。",
-      "paragraph_index": 48,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第792行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P049_S000",
+      "line_id": "QMDJ_Juan6_L049",
       "original_quote": "月厭煞",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第793行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P050_S000",
-      "original_quote": "正月戌、二月酉、三月申、四月未、五月午、六月巳、七月辰、八月卯、九月寅、十月丑、十一月子、十二月亥。",
-      "paragraph_index": 50,
+      "line_id": "QMDJ_Juan6_L050",
+      "original_quote": "正月戌、二月酉、三月申、四月未、五月午、六月巳、七月辰、八月卯、九月寅、十月丑、十一月子、十二月亥。相衝即對不可用。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第794行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P050_S001",
-      "original_quote": "相衝即對不可用。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第794行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan6_P051_S000",
+      "line_id": "QMDJ_Juan6_L051",
       "original_quote": "洪範五行歌",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第795行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P052_S000",
+      "line_id": "QMDJ_Juan6_L052",
       "original_quote": "甲己子午九，乙庚丑未八，丙辛寅申七，丁壬卯酉六，戊癸辰戌五，巳亥四數終。",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第796行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P053_S000",
+      "line_id": "QMDJ_Juan6_L053",
       "original_quote": "渾天甲子歌納音所屬亦出洪範五行",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第797行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P054_S000",
+      "line_id": "QMDJ_Juan6_L054",
       "original_quote": "甲子乙丑海中金，丙寅丁卯爐中火，",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第798行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P055_S000",
+      "line_id": "QMDJ_Juan6_L055",
       "original_quote": "戊辰己巳大林木，庚午辛未路傍土，",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第799行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P056_S000",
+      "line_id": "QMDJ_Juan6_L056",
       "original_quote": "壬申癸酉劍鋒金，甲戌乙亥山頭火，",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第800行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P057_S000",
+      "line_id": "QMDJ_Juan6_L057",
       "original_quote": "丙子丁丑澗下水，戊寅己卯城頭土，",
-      "paragraph_index": 57,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第801行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P058_S000",
+      "line_id": "QMDJ_Juan6_L058",
       "original_quote": "庚辰辛巳白鑞金，壬午癸未楊柳木，",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第802行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P059_S000",
+      "line_id": "QMDJ_Juan6_L059",
       "original_quote": "甲申乙酉井泉水，丙戌丁亥屋上土，",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第803行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P060_S000",
+      "line_id": "QMDJ_Juan6_L060",
       "original_quote": "戊子己丑霹靂火，庚寅辛卯松柏木，",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第804行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P061_S000",
+      "line_id": "QMDJ_Juan6_L061",
       "original_quote": "壬辰癸巳長流水，甲午乙未砂中金，",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第805行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P062_S000",
+      "line_id": "QMDJ_Juan6_L062",
       "original_quote": "丙申丁酉山下火，戊戌己亥平地木，",
-      "paragraph_index": 62,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第806行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P063_S000",
+      "line_id": "QMDJ_Juan6_L063",
       "original_quote": "庚子辛丑壁上土，壬寅癸卯金箔金，",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第807行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P064_S000",
+      "line_id": "QMDJ_Juan6_L064",
       "original_quote": "甲辰乙巳覆燈火，丙午丁未天河水，",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第808行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P065_S000",
+      "line_id": "QMDJ_Juan6_L065",
       "original_quote": "戊申己酉大驛土，庚戌辛亥釵釧金，",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第809行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P066_S000",
+      "line_id": "QMDJ_Juan6_L066",
       "original_quote": "壬子癸丑桑柘木，甲寅乙卯大溪水，",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第810行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P067_S000",
+      "line_id": "QMDJ_Juan6_L067",
       "original_quote": "丙辰丁巳砂中土，戊午己未天上火，",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第811行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan6_P068_S000",
+      "line_id": "QMDJ_Juan6_L068",
       "original_quote": "庚申辛酉石榴木，壬戌癸亥大海水。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷六",
-        "section": "卷六",
-        "line_ref": "第812行"
+        "juan": "上卷·卷6",
+        "section": "卷6",
+        "line_ref": "段落68"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan6",
-    "line_id_start": "QMDJ_Juan6_P000_S000",
-    "line_id_end": "QMDJ_Juan6_P068_S000",
-    "original_block": "《卷六》\n九遁變化法\n天遁：開休生三吉門，天盤丙奇下臨地盤丁奇者，皆名「天遁」，得月精所蔽。或臨地盤九地、太陰者，亦名「天遁」，可以遁跡、隱形。若乘天月二德、天恩、天 赦、日祿、喜神者，百事皆吉。乘朱雀，利文書、奏對。乘螣蛇，主疑惑。乘青龍，主財喜。如乘白虎、玄武者，主災病、損失，細事不得全吉。倘練祭丁甲，呼風 喚雨等項之事，用「天遁」可以全吉也。\n地遁：開休生合乙奇，下臨地盤六合、九地、太陰宮者，皆名「地遁」，得日精所蔽，可以設伏、謀為，百事皆吉。若乘朱雀，惟宜設詞、行詐、間諜。乘螣蛇者，宜 蠱惑。乘太常，有酒食、宴會。乘青龍，有財喜。如乘白虎主鬪勝。乘玄武，主竊盜、探私。乘勾陳，主淹滯。得地遁之吉者，宜修築、起造、埋葬、藏匿之事，俱 皆大吉。\n人遁：開休生合三奇，下臨地盤六合者，名為「人遁」。生門與三奇臨太陰，及生門、乙奇、九地宮者，亦名「人遁」。乘日祿、喜神及貴神者，主財喜、和合之事。 乘朱雀者，主詞訟得理。乘螣蛇者，主惡夢、邪魅之事。乘白虎者，忌行船。乘玄武者，主盜賊。若乘天輔、天柱之星，主雨；天衝主雷，天英主電。占疾病，危 急。\n風遁：開休生合乙奇，下臨地盤六辛，落於巽宮者為「風遁」。乘天衝、天輔二星者，此方可以祭風，但不利行舟。信息至，行兵利火攻大勝。\n云遁：開休生合乙奇，下臨六辛宮者，名為「云遁」。生門合天芮，壬臨坤宮，及三吉門合六辛臨於地盤乙；或天芮合生門，下臨地盤九地於坤宮，亦皆名「云遁」。冬月宜祈云，夏月宜求雨。若乘白虎，主有冰雹。乘螣蛇、朱雀者，主旱。強求招火災，行兵宜劫營，彼不能知也。\n龍遁：開休生合天心星、甲辰壬、六合於坎宮為「龍遁」。或休門、乙奇加坤宮，或開門、六戊加地盤九地，及休門、丁奇，下臨地盤九地於坎宮，皆名「龍遁」。此方祈雨必應，水戰必勝，再得青龍、玄武、神後之神，主霪雨，仍防奸細、盜賊。\n虎遁：開門、甲申庚，下臨地盤兌宮為「虎遁」。或休門、乙奇加地盤六辛於艮宮，或生門、辛加地盤於乙、艮宮，亦皆名「虎遁」。此方宜祭風、鎮邪、驅鬼、安宅，並吉。行船宜，招安、攻險、剿巢，利為客。若安營、伏兵，賊不敢正視也。\n神遁：開門、乙奇合天心星或天禽星，下臨地盤九天於乾宮，名為「神遁」。或生門、丙奇合禽、心二星，下臨地盤九天宮者，亦名「神遁」。此方宜驅神遣將、施計，神必暗助，行兵宜作神將，塗抹三軍，神即至矣。更宜祭祀，神必來享。若有白虎雷煞、劫煞，主雷傷。\n鬼遁：休門、天輔，六辛下臨地盤丁奇，於艮宮者，名為鬼遁，生門、太陰下臨地盤丁奇，或生門、九地，下臨地盤丁奇，亦皆「鬼遁」。宜探路、偵賊處、實行間謀、布謠言，彼不能察，而疑惑軍心。宅中有鬼，宜書符鎮之則吉，餘事不利。\n超神接氣訣\n夫 閏奇者，有過九日而後閏者，有過十四日而值閏者，各有決例。大約氣先到而節未到，先用其氣謂之「接氣」，節先到而氣未到，謂之「超神」。超神者，仍用其當 局之氣，而不用其節，待超過九日而方用其節，謂之「超神」。接氣者，必在閏月之前；超神者，須在閏月之後。閏月前，氣必先到；閏月後，節必先到。節先到 者，必先用其氣；節先到者，猶不用其節，超神、接氣之旨明矣。\n若 其年閏正、二、三、四月者，必閏大雪一氣之候；如閏五、六、七、八、九月者，必閏芒種一氣之候，所謂過猶不及者，不得中和之氣，而值閏也。總以甲己子午卯 酉為上元，寅申巳亥為中元，辰戌丑未為下元，此定例也。又云：「節與氣同為中和」，中節之前甲己子午卯酉者，謂之過，過則接氣；中節之後見甲己子午卯酉 者，謂之不及，不及則超神總以三十舊本月令三十三，刪去三字，值月而值閏者，不過陰陽消長之道也。\n九神主論章\n值符者，諸神之元首，九星之領袖。因名值符，其體屬火，其神所到之處，百惡消散，諸凶寂滅，至吉之神。所畏者，太白金星，忌入墓，吉處不吉，凶處更凶。天始於甲，地始於子，固謂萬匯之尊者，舉甲子而六甲在其中矣，故名之曰「值符」。\n螣蛇者，丁火之氣，其實屬陰土，兌納丁，其神性柔而口毒，專司驚恐、怪異、火妖蠱之事。位鎮巽方，又名「玉女」，遁為六丁，六甲之神，乃陰神之最靈者，舉丁卯而六丁在其中矣。\n太陰者，西方之陰金也。其神好陰匿、暗昧、欺蔽、妾婦之事。離納辛，配於西方，位鎮兌宮，兌為少女，陰陽至此而化育不成。自甲至癸，其數終，自子至酉，其數窮，故名之曰「太陰」。\n六合者，甲木之化氣也，東方之陰木也。其神性和平，專司婚姻、交易、媒勺、和合之事。乃六甲之妹，配於庚金，為妻懷庚之胎，歸妹於家，位鎮東方，震納庚，自甲至己其數六，故名之曰「六合」。\n勾陳者，中央之陽土也。其性頑，專司田土、詞訟之事，自甲至戊其數五，自子至辰其數亦五，艮納丙，坎納戊，配於東南。經云：知三避五，三五反複，凶頑之氣，不可趨位。鎮於艮，故名之曰「勾陳」。\n白虎者，庚金也。統轄西方之威，其神好殺，專司兵戈、殺伐、爭鬪、疾病、死喪、道路之事。已納庚金，巽為風，風從虎，位鎮於西方。自甲至庚，其數七，故名之曰「白虎」。\n朱雀者，南方之火神，統轄周天之野，專司文明之權，掌奏口舌、文書之職。得地則文書印信有喜，失時則有是非口舌撓亂之凶。位在丙，丙納艮，土旺相在離，在天為赤鳥之神，屬丙火，舉丙寅而六丙在其中矣。故名之曰「朱雀」。\n玄武者，水之精也。統轄北方之氣，其神好陰謀、賊害，專司盜賊、逃亡之事。水主黑色，得中央黃土而成元，故名之曰「元武」。\n九地者，坤土也。其性好靜，所主者，乃柔順虛恭之事，亦操生殺之權，半吉半凶之神，畏剋制，忌入墓，春夏則生，秋冬則殺，司君後之柄。坤納乙癸，自乙至癸其數九，故名之曰「九地」。舉乙醜而六乙在其中矣。\n九天者，乾金也。其體屬金，乾納甲壬，性剛而好動。所主者，名正言順之事，值其令而無阻，至吉之神。若得門、得奇，萬福咸集，即不得奇，亦不為凶，畏入墓而力屈。天始於甲，自甲至壬其數九，故名之曰「九天」。\n太常者，五行之化氣也。其神好歌飲，專司宴享、祭祀、衣帛、羔雁、酒食之事。此神隨天禽遍游諸方，遇火則從火，遇金則從金，遇水則從水，遇木則從木，遇土則從土，與五體相合，其性不常，故名之曰「太常」。與吉門並則吉，與凶門並則凶，主衣服、彩衣、孝服之變更也。\n二十四氣\n正月立春、雨水，二月驚蟄、春分，三月清明、榖雨，四月立夏、小滿，\n五月芒種、夏至，六月小暑、大暑，七月立秋、處暑，八月白露、秋分，\n九月寒露、霜降，十月立冬、小雪，十一月大雪、冬至，十二月小寒、大寒。\n天德吉日\n正丁二坤申日宮，三壬四辛同，五乾亥日六甲上，七癸八艮寅日逢，九丙十居乙，子巽巳日丑庚申。\n月德吉日\n正五九月居丙，二六十月在甲，三七十一月在壬，四八十二月在庚。\n五符法\n五符，吉神，屬火，謁貴。\n天曹，屬金，主詞訟。\n地符，半吉半凶，屬土，迫避。\n風伯、雷公，屬木，主驚恐。\n雨師，陽水，出行主陰雨。\n風雲，陰木，主半陰。\n唐符，屬金，求財吉。\n國印，屬金，主升遷。\n天官，屬木，主阻隔。\n地軸，陰土，主反複。\n天賊，陰水，主失盜。\n以上月將加正，順數至本日祿上起五符，如甲祿寅，即在寅上起五符，卯上即為天曹，辰上即為地符，巳上即為風伯，雷公在午，餘俱仿此。\n皇恩煞\n正五九月戌，二六十月丑，三七十一月辰，四八十二月未。\n月厭煞\n正月戌、二月酉、三月申、四月未、五月午、六月巳、七月辰、八月卯、九月寅、十月丑、十一月子、十二月亥。相衝即對不可用。\n洪範五行歌\n甲己子午九，乙庚丑未八，丙辛寅申七，丁壬卯酉六，戊癸辰戌五，巳亥四數終。\n渾天甲子歌納音所屬亦出洪範五行\n甲子乙丑海中金，丙寅丁卯爐中火，\n戊辰己巳大林木，庚午辛未路傍土，\n壬申癸酉劍鋒金，甲戌乙亥山頭火，\n丙子丁丑澗下水，戊寅己卯城頭土，\n庚辰辛巳白鑞金，壬午癸未楊柳木，\n甲申乙酉井泉水，丙戌丁亥屋上土，\n戊子己丑霹靂火，庚寅辛卯松柏木，\n壬辰癸巳長流水，甲午乙未砂中金，\n丙申丁酉山下火，戊戌己亥平地木，\n庚子辛丑壁上土，壬寅癸卯金箔金，\n甲辰乙巳覆燈火，丙午丁未天河水，\n戊申己酉大驛土，庚戌辛亥釵釧金，\n壬子癸丑桑柘木，甲寅乙卯大溪水，\n丙辰丁巳砂中土，戊午己未天上火，\n庚申辛酉石榴木，壬戌癸亥大海水。\n\n"
-  }
+  "_extraction_status": "卷6完成"
 }

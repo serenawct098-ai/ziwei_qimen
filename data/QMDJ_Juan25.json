@@ -1,1829 +1,1040 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "下卷·卷二十五",
-  "section": "卷二十五",
+  "juan": "下卷·卷25",
+  "section": "卷25",
   "entries": [
     {
-      "line_id": "QMDJ_Juan25_P000_S000",
+      "line_id": "QMDJ_Juan25_L000",
       "original_quote": "《卷二十五》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第334行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P001_S000",
+      "line_id": "QMDJ_Juan25_L001",
       "original_quote": "游門",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第335行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P002_S000",
-      "original_quote": "出兵攻敵常須游門。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan25_L002",
+      "original_quote": "出兵攻敵常須游門。正月天門在申，百死在酉；二月天門在酉，百死在戌；三月天門在戌，百死在亥；四月天門在亥，百死在子；五月天門在子，百死在醜；六月天門在丑，百死在寅；七月天門在寅，百死在卯；八月天門在卯，百死在辰；九月天門在辰，百死在巳；十月天門在巳，百死在午；十一月天門在午，百死在未；十二月天門在未，百死在申。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P002_S001",
-      "original_quote": "正月天門在申，百死在酉；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S002",
-      "original_quote": "二月天門在酉，百死在戌；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S003",
-      "original_quote": "三月天門在戌，百死在亥；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S004",
-      "original_quote": "四月天門在亥，百死在子；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S005",
-      "original_quote": "五月天門在子，百死在醜；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S006",
-      "original_quote": "六月天門在丑，百死在寅；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S007",
-      "original_quote": "七月天門在寅，百死在卯；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S008",
-      "original_quote": "八月天門在卯，百死在辰；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S009",
-      "original_quote": "九月天門在辰，百死在巳；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S010",
-      "original_quote": "十月天門在巳，百死在午；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S011",
-      "original_quote": "十一月天門在午，百死在未；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P002_S012",
-      "original_quote": "十二月天門在未，百死在申。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第336行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P003_S000",
+      "line_id": "QMDJ_Juan25_L003",
       "original_quote": "地兵法",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第337行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P004_S000",
+      "line_id": "QMDJ_Juan25_L004",
       "original_quote": "太公曰：「凡行軍向陣，勿犯地兵，將軍忌之，甲子旬地兵在寅，甲戌旬地兵在子，甲申旬地兵在戌，甲午旬地兵在申，甲辰旬地兵在午，甲寅旬地兵在辰地兵即六丙也」。",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第338行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P005_S000",
+      "line_id": "QMDJ_Juan25_L005",
       "original_quote": "黃旛虎尾",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第339行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P006_S000",
-      "original_quote": "凡戰宜背虎尾向黃旛吉，午戌歲黃旛在戌，虎尾在辰；",
-      "paragraph_index": 6,
+      "line_id": "QMDJ_Juan25_L006",
+      "original_quote": "凡戰宜背虎尾向黃旛吉，午戌歲黃旛在戌，虎尾在辰；子辰歲黃旛在辰，虎尾在戌；卯未歲黃旛在未，虎尾在醜；酉丑歲黃旛在丑，虎尾在未。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第340行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P006_S001",
-      "original_quote": "子辰歲黃旛在辰，虎尾在戌；",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第340行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P006_S002",
-      "original_quote": "卯未歲黃旛在未，虎尾在醜；",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第340行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P006_S003",
-      "original_quote": "酉丑歲黃旛在丑，虎尾在未。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第340行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P007_S000",
+      "line_id": "QMDJ_Juan25_L007",
       "original_quote": "雷公",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第341行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P008_S000",
-      "original_quote": "雷公者，六庚耳。",
-      "paragraph_index": 8,
+      "line_id": "QMDJ_Juan25_L008",
+      "original_quote": "雷公者，六庚耳。庚為天刑，又為百神所聚之方，故宜避之，不敢犯也。攝殺六律曰：「雷公將軍在午游庚，領十二日將友，風伯、雨師其所游之處，郡居響應而到，若出軍、布陣、安營，則雷公之所處，慎不可犯，犯之主敗軍，殺將也。甲子旬六庚在午，甲戌旬六庚在辰，甲申旬六庚在寅，甲午旬在子，甲辰旬在戌，甲寅旬在申」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第342行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P008_S001",
-      "original_quote": "庚為天刑，又為百神所聚之方，故宜避之，不敢犯也。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第342行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P008_S002",
-      "original_quote": "攝殺六律曰：「雷公將軍在午游庚，領十二日將友，風伯、雨師其所游之處，郡居響應而到，若出軍、布陣、安營，則雷公之所處，慎不可犯，犯之主敗軍，殺將也。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第342行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P008_S003",
-      "original_quote": "甲子旬六庚在午，甲戌旬六庚在辰，甲申旬六庚在寅，甲午旬在子，甲辰旬在戌，甲寅旬在申」。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第342行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P009_S000",
+      "line_id": "QMDJ_Juan25_L009",
       "original_quote": "立知井泉法",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第343行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P010_S000",
-      "original_quote": "屯兵山阜，被賊圍困，又無溪澗，無處汲水，急用磁碗覆地，將土壅碗口，明曉揭碗視之，底下有水珠，下有泉脈也。",
-      "paragraph_index": 10,
+      "line_id": "QMDJ_Juan25_L010",
+      "original_quote": "屯兵山阜，被賊圍困，又無溪澗，無處汲水，急用磁碗覆地，將土壅碗口，明曉揭碗視之，底下有水珠，下有泉脈也。掘地數尺，可以得水。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第344行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P010_S001",
-      "original_quote": "掘地數尺，可以得水。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第344行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P011_S000",
+      "line_id": "QMDJ_Juan25_L011",
       "original_quote": "五行相制負法",
-      "paragraph_index": 11,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第345行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P012_S000",
-      "original_quote": "此法至誠閉氣，吸東方生氣一口吹在手心，書字即行，不可回顧。",
-      "paragraph_index": 12,
+      "line_id": "QMDJ_Juan25_L012",
+      "original_quote": "此法至誠閉氣，吸東方生氣一口吹在手心，書字即行，不可回顧。見官書「天」字，求婚書「合」字，市賈書「利」字，出道書「通」字，博戲書「乾」字，夜行書「魁」字，入眾書「遁」字，入陣書「強」字，看病書「鬼」字，入罡書「罡」字，吃酒書「少」字，入山書「子」字，入水書「土」字或「龍」字，或「戊」字。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第346行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P012_S001",
-      "original_quote": "見官書「天」字，求婚書「合」字，市賈書「利」字，出道書「通」字，博戲書「乾」字，夜行書「魁」字，入眾書「遁」字，入陣書「強」字，看病書「鬼」字，入罡書「罡」字，吃酒書「少」字，入山書「子」字，入水書「土」字或「龍」字，或「戊」字。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第346行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P013_S000",
+      "line_id": "QMDJ_Juan25_L013",
       "original_quote": "三勝宮",
-      "paragraph_index": 13,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第347行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P014_S000",
-      "original_quote": "第一勝天乙宮即值符宮，上將居之，用兵而擊其衝，百戰百勝。",
-      "paragraph_index": 14,
+      "line_id": "QMDJ_Juan25_L014",
+      "original_quote": "第一勝天乙宮即值符宮，上將居之，用兵而擊其衝，百戰百勝。只要坐三向五，不可坐五向三，三為生氣，五為死氣，生謂坐生門，死為坐死門。若甲申庚見值符，則不可引兵居也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第348行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P014_S001",
-      "original_quote": "只要坐三向五，不可坐五向三，三為生氣，五為死氣，生謂坐生門，死為坐死門。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第348行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P014_S002",
-      "original_quote": "若甲申庚見值符，則不可引兵居也。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第348行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P015_S000",
+      "line_id": "QMDJ_Juan25_L015",
       "original_quote": "第二勝九天宮，上將居之，用兵擊其衝，則敵雖大，不敢當我鋒，而大勝矣。",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第349行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P016_S000",
+      "line_id": "QMDJ_Juan25_L016",
       "original_quote": "第三勝生門宮合三奇之吉宮，上將引兵從生門擊死門，百戰百勝。",
-      "paragraph_index": 16,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第350行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P017_S000",
+      "line_id": "QMDJ_Juan25_L017",
       "original_quote": "五不擊宮",
-      "paragraph_index": 17,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第351行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P018_S000",
-      "original_quote": "第一不擊天乙宮。",
-      "paragraph_index": 18,
+      "line_id": "QMDJ_Juan25_L018",
+      "original_quote": "第一不擊天乙宮。如甲申庚臨值符，則可衝擊矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第352行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P018_S001",
-      "original_quote": "如甲申庚臨值符，則可衝擊矣。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第352行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P019_S000",
+      "line_id": "QMDJ_Juan25_L019",
       "original_quote": "第二不擊九天宮。",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第353行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P020_S000",
+      "line_id": "QMDJ_Juan25_L020",
       "original_quote": "第三不擊生門宮。",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第354行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P021_S000",
+      "line_id": "QMDJ_Juan25_L021",
       "original_quote": "第四不擊九地宮。",
-      "paragraph_index": 21,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第355行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P022_S000",
+      "line_id": "QMDJ_Juan25_L022",
       "original_quote": "第五不擊玉女宮，臨陣傳令紀之，則萬舉萬全矣。",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第356行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P023_S000",
+      "line_id": "QMDJ_Juan25_L023",
       "original_quote": "天蓬咒：「天蓬天蓬，九元殺童，五丁都司，高力北翁，七政八靈，太上皓凶，長顱巨額，手把帝鐘，未梟三神，嚴駕夒龍，威劍神王，斬邪滅蹤，紫氣乘天，丹霞嚇衝，吞魔食鬼，橫身飲風，蒼舌綠齒，四目老翁，天丁力士，威南禦凶，天驟激戾，威北銜鋒，三十萬兵，衛我九重，闢尸千里，袪卻不祥，敢有小鬼，次來見形，钁天大斧，斬鬼五形，炎帝瀝血，北斗燃膏，四盟破骸，天猷滅數，神劍一下，萬鬼自消，急急如律令」。",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第357行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P024_S000",
+      "line_id": "QMDJ_Juan25_L024",
       "original_quote": "五陰五陽時",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第358行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P025_S000",
-      "original_quote": "《三元經》曰：「甲乙丙丁戊為五陽時，利為客，宜先舉兵、高旗、響鼓，耀武揚威，客兵大勝，所謂陽者，飛而不止也。",
-      "paragraph_index": 25,
+      "line_id": "QMDJ_Juan25_L025",
+      "original_quote": "《三元經》曰：「甲乙丙丁戊為五陽時，利為客，宜先舉兵、高旗、響鼓，耀武揚威，客兵大勝，所謂陽者，飛而不止也。己庚辛壬癸為五陰時，利為主，宜偃旗息鼓、銜枚靜聽，待客敵至後，則戰大勝矣，所謂得陰者，伏而不舉也」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第359行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P025_S001",
-      "original_quote": "己庚辛壬癸為五陰時，利為主，宜偃旗息鼓、銜枚靜聽，待客敵至後，則戰大勝矣，所謂得陰者，伏而不舉也」。",
-      "paragraph_index": 25,
+      "line_id": "QMDJ_Juan25_L026",
+      "original_quote": "凡奇門一時一換，謂不善必先知之。若天盤甲申庚加地盤月奇丙之方，防其衝營擊寨，夜間必要守備，每一更一令一籌，密傳若籌錯令差，便是奸細，所謂入金鄉，賊獨至也。即在入門之內，取路埋伏，以逸代勞。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第359行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P026_S000",
-      "original_quote": "凡奇門一時一換，謂不善必先知之。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第360行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P026_S001",
-      "original_quote": "若天盤甲申庚加地盤月奇丙之方，防其衝營擊寨，夜間必要守備，每一更一令一籌，密傳若籌錯令差，便是奸細，所謂入金鄉，賊獨至也。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第360行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P026_S002",
-      "original_quote": "即在入門之內，取路埋伏，以逸代勞。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第360行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P027_S000",
+      "line_id": "QMDJ_Juan25_L027",
       "original_quote": "德威之時",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第361行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P028_S000",
-      "original_quote": "葛洪曰：「六丙為威，六甲為德，利以為客，宜發號施令，入其國犬不吠馬不鳴，回車止輪，折衝萬里，不敢有聲。",
-      "paragraph_index": 28,
+      "line_id": "QMDJ_Juan25_L028",
+      "original_quote": "葛洪曰：「六丙為威，六甲為德，利以為客，宜發號施令，入其國犬不吠馬不鳴，回車止輪，折衝萬里，不敢有聲。兵來向者，還自滅形，賊必亡矣。天兵來助，敵人自恐。天兵扶行，敵人自驚。將兵征伐，為客大勝。若此時不利為主，惟宜固守屯營，以待天時」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P028_S001",
-      "original_quote": "兵來向者，還自滅形，賊必亡矣。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P028_S002",
-      "original_quote": "天兵來助，敵人自恐。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P028_S003",
-      "original_quote": "天兵扶行，敵人自驚。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P028_S004",
-      "original_quote": "將兵征伐，為客大勝。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P028_S005",
-      "original_quote": "若此時不利為主，惟宜固守屯營，以待天時」。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第362行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P029_S000",
+      "line_id": "QMDJ_Juan25_L029",
       "original_quote": "天輔之時",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第363行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P030_S000",
-      "original_quote": "《三元經》曰：「天輔之時，有罪無虞，斧鑽在前，天猶赦之」。",
-      "paragraph_index": 30,
+      "line_id": "QMDJ_Juan25_L030",
+      "original_quote": "《三元經》曰：「天輔之時，有罪無虞，斧鑽在前，天猶赦之」。謂甲己之日時下得己，乙庚、丙辛、丁壬、戊癸之日，時下得甲也。甲己日己巳時，乙庚日甲申時，丙辛日甲午時，丁壬日甲辰時，戊癸日甲寅時，是為天輔之時，此時有罪自釋。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第364行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P030_S001",
-      "original_quote": "謂甲己之日時下得己，乙庚、丙辛、丁壬、戊癸之日，時下得甲也。",
-      "paragraph_index": 30,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第364行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P030_S002",
-      "original_quote": "甲己日己巳時，乙庚日甲申時，丙辛日甲午時，丁壬日甲辰時，戊癸日甲寅時，是為天輔之時，此時有罪自釋。",
-      "paragraph_index": 30,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第364行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P031_S000",
+      "line_id": "QMDJ_Juan25_L031",
       "original_quote": "奇門飛鬥法即禹步",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第365行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P032_S000",
-      "original_quote": "凡有急事，不得奇門，用此亦妙。",
-      "paragraph_index": 32,
+      "line_id": "QMDJ_Juan25_L032",
+      "original_quote": "凡有急事，不得奇門，用此亦妙。凡飛斗，足步手揚，口誦咒曰：「天圓地步，六律九章，出行大吉，永保安康，掃除凶惡，削去災殃，人來追我，掩其兩目，馬來追我，折其四足，車來追我，斷其輪輔，所求遂意，咸願從心，吾奉九天玄女急急如律令敕。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第366行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P032_S001",
-      "original_quote": "凡飛斗，足步手揚，口誦咒曰：「天圓地步，六律九章，出行大吉，永保安康，掃除凶惡，削去災殃，人來追我，掩其兩目，馬來追我，折其四足，車來追我，斷其輪輔，所求遂意，咸願從心，吾奉九天玄女急急如律令敕。",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第366行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P033_S000",
+      "line_id": "QMDJ_Juan25_L033",
       "original_quote": "陽斗甲丙戊庚壬為六陽，貪巨祿文廉武破。",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第367行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P034_S000",
+      "line_id": "QMDJ_Juan25_L034",
       "original_quote": "○破○廉○文○貪",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第368行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P035_S000",
+      "line_id": "QMDJ_Juan25_L035",
       "original_quote": "○武○祿○巨",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第369行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P036_S000",
+      "line_id": "QMDJ_Juan25_L036",
       "original_quote": "陰斗乙丁己辛癸為六陰，魁勺雚行畢甫魒，俱七斗之諱。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第370行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P037_S000",
+      "line_id": "QMDJ_Juan25_L037",
       "original_quote": "○勺○雚○甫",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第371行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P038_S000",
+      "line_id": "QMDJ_Juan25_L038",
       "original_quote": "○魁○行○魓○魒",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第372行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P039_S000",
+      "line_id": "QMDJ_Juan25_L039",
       "original_quote": "真人閉六戊法",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第373行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P040_S000",
-      "original_quote": "凡出軍止宿，要安營下寨，避禍逃難，當用此法，鬼神不敢近也。",
-      "paragraph_index": 40,
+      "line_id": "QMDJ_Juan25_L040",
+      "original_quote": "凡出軍止宿，要安營下寨，避禍逃難，當用此法，鬼神不敢近也。其法於旬中六戊土，用刀從鬼門起左行畫地一周，次取中央土一斗，分置六戊之上，六處各置一升餘，乃置刀於原取土處，入中央咒曰：：「泰山之陽，恆山之陰，盜賊不起，虎狼不侵，城郭不完，閉以金關，千凶萬惡，莫之敢干，急急如律令敕」。咒畢，仍在中宿，勿令出入，明日啟行，拔刀散土而去，若不散土，其神不敢去也六戊即罡神。欲驗六戊之法，置犢牸於外，系母牛於內，終不敢入，欲令其神去一戊土，犢便從空上入矣。甲子旬戊辰，甲戌旬戊寅，甲申旬戊在子，甲午旬戊在戌，甲辰旬戊在申，甲寅旬戊在午。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第374行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P040_S001",
-      "original_quote": "其法於旬中六戊土，用刀從鬼門起左行畫地一周，次取中央土一斗，分置六戊之上，六處各置一升餘，乃置刀於原取土處，入中央咒曰：：「泰山之陽，恆山之陰，盜賊不起，虎狼不侵，城郭不完，閉以金關，千凶萬惡，莫之敢干，急急如律令敕」。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第374行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P040_S002",
-      "original_quote": "咒畢，仍在中宿，勿令出入，明日啟行，拔刀散土而去，若不散土，其神不敢去也六戊即罡神。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第374行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P040_S003",
-      "original_quote": "欲驗六戊之法，置犢牸於外，系母牛於內，終不敢入，欲令其神去一戊土，犢便從空上入矣。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第374行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P040_S004",
-      "original_quote": "甲子旬戊辰，甲戌旬戊寅，甲申旬戊在子，甲午旬戊在戌，甲辰旬戊在申，甲寅旬戊在午。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第374行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P041_S000",
+      "line_id": "QMDJ_Juan25_L041",
       "original_quote": "禹步法凡作事皆宜禹步",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第375行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P042_S000",
-      "original_quote": "初移一步，不在九步之數，然相因仍之一步七尺，合二丈一尺。",
-      "paragraph_index": 42,
+      "line_id": "QMDJ_Juan25_L042",
+      "original_quote": "初移一步，不在九步之數，然相因仍之一步七尺，合二丈一尺。故曰：見跡禹步，乃成攝濟之卦，正立右足以前，左足在後，次複前左足，次複前右足，以左足從右足並一禹步也。次複前右足，次前左足，並二禹步也。次複前左，次前右，次左右足並，三禹步也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第376行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P042_S001",
-      "original_quote": "故曰：見跡禹步，乃成攝濟之卦，正立右足以前，左足在後，次複前左足，次複前右足，以左足從右足並一禹步也。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第376行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P042_S002",
-      "original_quote": "次複前右足，次前左足，並二禹步也。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第376行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P042_S003",
-      "original_quote": "次複前左，次前右，次左右足並，三禹步也。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第376行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P043_S000",
+      "line_id": "QMDJ_Juan25_L043",
       "original_quote": "未濟禹跡",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第377行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P044_S000",
+      "line_id": "QMDJ_Juan25_L044",
       "original_quote": "芮坤右柱兌左心幹右",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第378行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P045_S000",
+      "line_id": "QMDJ_Juan25_L045",
       "original_quote": "英離左禽中左蓬坎左",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第379行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P046_S000",
+      "line_id": "QMDJ_Juan25_L046",
       "original_quote": "輔巽右衝震左任艮右",
-      "paragraph_index": 46,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第380行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P047_S000",
+      "line_id": "QMDJ_Juan25_L047",
       "original_quote": "既濟禹跡",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第381行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P048_S000",
+      "line_id": "QMDJ_Juan25_L048",
       "original_quote": "芮坤右柱兌左心幹右",
-      "paragraph_index": 48,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第378行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P049_S000",
+      "line_id": "QMDJ_Juan25_L049",
       "original_quote": "英離左禽中左蓬坎左",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第379行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P050_S000",
+      "line_id": "QMDJ_Juan25_L050",
       "original_quote": "輔巽右衝震左任艮右",
-      "paragraph_index": 50,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第380行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P051_S000",
+      "line_id": "QMDJ_Juan25_L051",
       "original_quote": "巽雙離只坤單步，震亦依依兌是雙，艮上獨行坎只立，天門歸去望天罡。",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第385行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P052_S000",
+      "line_id": "QMDJ_Juan25_L052",
       "original_quote": "坤只兌只雙幹雙",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第386行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P053_S000",
+      "line_id": "QMDJ_Juan25_L053",
       "original_quote": "離只中坎只",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第387行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P054_S000",
+      "line_id": "QMDJ_Juan25_L054",
       "original_quote": "巽雙震只艮雙只",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第388行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P055_S000",
+      "line_id": "QMDJ_Juan25_L055",
       "original_quote": "玉女返閉局",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第389行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P056_S000",
-      "original_quote": "經曰：「玉女返閉局者，在室中庭中六步，野外六十步，量入地多少，地之宜表，皆以六為數，先定數訖，便以左手執六算，各長一尺二寸，隨吸旺氣，叩齒十二通，默咒心下所謀之事，然後回身背旺氣」。",
-      "paragraph_index": 56,
+      "line_id": "QMDJ_Juan25_L056",
+      "original_quote": "經曰：「玉女返閉局者，在室中庭中六步，野外六十步，量入地多少，地之宜表，皆以六為數，先定數訖，便以左手執六算，各長一尺二寸，隨吸旺氣，叩齒十二通，默咒心下所謀之事，然後回身背旺氣」。神啟請曰：「維某年某月某日某時，啟天地父母、六甲、六丁、十二時神、青龍、蓬星、明堂、天上玉女、六戊之神，某好學長生之術，行不擇日，出不擇時，今欲游行某處為某事，欲賴大神庇佑，謹按天門，畫地敷局，出天門，入地戶，閉金關，乘玉女輅，謹請玉女、青龍、朱雀、白虎、玄武、勾陳、六合、六甲六丁十二時神，乘我而行，至某處為某事，左右巡防，隨行隨止，隨臥隨起，闢除盜賊，鬼魅消亡。君子見之喜樂倍常，小人見我歡喜皇皇，男兒女見我，共將侍酒漿；百惡鬼賊，當我者亡。今日禹步，上應天罡，玉女侍傍，下擊不祥，萬精厭伏，所向無殃，所值病瘥，所攻者達，所擊者破，所摧者傾，所求者得，所願者成，帝王、大臣、二千石長吏，見我者愛如赤子。今日請召玉女六神隨我而進」。凡一切出行用事，無吉方吉時者，可用此法，便畫八卦圖局，排定東西南北，在八干十二辰時神。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P056_S001",
-      "original_quote": "神啟請曰：「維某年某月某日某時，啟天地父母、六甲、六丁、十二時神、青龍、蓬星、明堂、天上玉女、六戊之神，某好學長生之術，行不擇日，出不擇時，今欲游行某處為某事，欲賴大神庇佑，謹按天門，畫地敷局，出天門，入地戶，閉金關，乘玉女輅，謹請玉女、青龍、朱雀、白虎、玄武、勾陳、六合、六甲六丁十二時神，乘我而行，至某處為某事，左右巡防，隨行隨止，隨臥隨起，闢除盜賊，鬼魅消亡。",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P056_S002",
-      "original_quote": "君子見之喜樂倍常，小人見我歡喜皇皇，男兒女見我，共將侍酒漿；",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P056_S003",
-      "original_quote": "百惡鬼賊，當我者亡。",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P056_S004",
-      "original_quote": "今日禹步，上應天罡，玉女侍傍，下擊不祥，萬精厭伏，所向無殃，所值病瘥，所攻者達，所擊者破，所摧者傾，所求者得，所願者成，帝王、大臣、二千石長吏，見我者愛如赤子。",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P056_S005",
-      "original_quote": "今日請召玉女六神隨我而進」。",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P056_S006",
-      "original_quote": "凡一切出行用事，無吉方吉時者，可用此法，便畫八卦圖局，排定東西南北，在八干十二辰時神。",
-      "paragraph_index": 56,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第390行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P057_S000",
+      "line_id": "QMDJ_Juan25_L057",
       "original_quote": "步鬥咒每移一步，持咒一句",
-      "paragraph_index": 57,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第391行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P058_S000",
+      "line_id": "QMDJ_Juan25_L058",
       "original_quote": "咒曰：「白氣混沌灌我形，禹步相催合登明，天回地轉步七星，躡罡履鬥齊九靈，亞指伏妖眾邪驚，眾災消滅我長生，我得長生，我得長生」。",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第392行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P059_S000",
+      "line_id": "QMDJ_Juan25_L059",
       "original_quote": "至心虔誠步星斗，畢即念后咒：「六甲九章，天圓地方，四時五行，青赤白黃，太乙為師，日月為光，禹步治道，蚩尤避兵，青龍扶轂，白虎伏行，熒惑前引，闢不祥兆，北斗誅伐，去降凶殃，五神從我，周游八方，當我者死，嫉我者亡，左社右稷，寇盜伏藏，行者有喜，留者有福，萬神護我，永除盜賊，急急如律令」。",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第393行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P060_S000",
+      "line_id": "QMDJ_Juan25_L060",
       "original_quote": "啟請四方神位",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第394行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P061_S000",
-      "original_quote": "「謹請東方功曹、太衝、天罡青帝大神、甲乙大神，降於局所，侍衛我身。",
-      "paragraph_index": 61,
+      "line_id": "QMDJ_Juan25_L061",
+      "original_quote": "「謹請東方功曹、太衝、天罡青帝大神、甲乙大神，降於局所，侍衛我身。南方太乙、勝光、小吉、赤帝大神，丙丁大神降於局所，侍衛我身。西方傳送、從魁、河魁、白帝大神，庚辛大神，降於局所，侍衛我身。北方登明、神后、大吉、黑帝大神，壬癸大神，降於局所，侍衛我身」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第395行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P061_S001",
-      "original_quote": "南方太乙、勝光、小吉、赤帝大神，丙丁大神降於局所，侍衛我身。",
-      "paragraph_index": 61,
+      "line_id": "QMDJ_Juan25_L062",
+      "original_quote": "既請四方神訖，便從今日日辰上下第一算。如子日，則於子上下第一算，丑上第二算，寅上下第三算，卯上下第四算，辰位上下第五算，巳位上下第六算。四仲日地戶不成，取初下第一算安辰上所衝，卻以衝命起，自然成門。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第395行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P061_S002",
-      "original_quote": "西方傳送、從魁、河魁、白帝大神，庚辛大神，降於局所，侍衛我身。",
-      "paragraph_index": 61,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第395行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P061_S003",
-      "original_quote": "北方登明、神后、大吉、黑帝大神，壬癸大神，降於局所，侍衛我身」。",
-      "paragraph_index": 61,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第395行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P062_S000",
-      "original_quote": "既請四方神訖，便從今日日辰上下第一算。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第396行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P062_S001",
-      "original_quote": "如子日，則於子上下第一算，丑上第二算，寅上下第三算，卯上下第四算，辰位上下第五算，巳位上下第六算。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第396行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P062_S002",
-      "original_quote": "四仲日地戶不成，取初下第一算安辰上所衝，卻以衝命起，自然成門。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第396行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P063_S000",
+      "line_id": "QMDJ_Juan25_L063",
       "original_quote": "五文術咒曰：「鼠行入穴入狗市」，便移於上算安戌上，大呼青龍下。",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第397行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P064_S000",
+      "line_id": "QMDJ_Juan25_L064",
       "original_quote": "又咒曰：「牛入兔園食甘美」，便移丑上第二算安卯上，大呼曰朱雀下。",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第398行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P065_S000",
+      "line_id": "QMDJ_Juan25_L065",
       "original_quote": "又咒曰：「猛虎耽耽來向蛇」，便移寅上第三算安巳上，大呼曰勾陳下。",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第399行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P066_S000",
+      "line_id": "QMDJ_Juan25_L066",
       "original_quote": "又咒曰：「兔入牛欄伏不起」，便移卯上第四算安丑上，大呼曰白虎下。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第400行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P067_S000",
+      "line_id": "QMDJ_Juan25_L067",
       "original_quote": "又咒曰：「龍入馬廄困留止」，便移辰上第五算安午上，大呼曰玄武下。",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第401行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P068_S000",
+      "line_id": "QMDJ_Juan25_L068",
       "original_quote": "又咒曰：「螣蛇婉轉來申里」，便移巳上第六算安申上，大呼曰六合下。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第402行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P069_S000",
+      "line_id": "QMDJ_Juan25_L069",
       "original_quote": "若午日則於午上下第一算，未上下第二算，申上下地三算，酉上下第四算，戌上下第五算，亥上下第六算，咒曰：「馬入龍泉飲井水」，便移午上第一算安辰上，大呼曰青龍下。",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第403行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P070_S000",
+      "line_id": "QMDJ_Juan25_L070",
       "original_quote": "又咒曰：「羊鳴易位入酉里」，便移未上第二算安酉上，大呼曰朱雀下。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第404行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P071_S000",
+      "line_id": "QMDJ_Juan25_L071",
       "original_quote": "又咒曰：「猿猴躍躍北奔亥」，便移申上第三算安亥上，大呼曰勾陳下。",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第405行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P072_S000",
+      "line_id": "QMDJ_Juan25_L072",
       "original_quote": "又咒曰：「鷄飛撲落羊欄里」，便移酉上第四算安未上，大呼曰白虎下。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第406行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P073_S000",
+      "line_id": "QMDJ_Juan25_L073",
       "original_quote": "又咒曰：「狗入鼠穴捕其子」，便移戌上第五算安子上，大呼曰玄武下。",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第407行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P074_S000",
+      "line_id": "QMDJ_Juan25_L074",
       "original_quote": "又咒曰：「豬入虎穴自取死」，便移亥上第六算安寅上，大呼曰六合下。",
-      "paragraph_index": 74,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第408行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P075_S000",
-      "original_quote": "喝算訖，先成者為天門，後成者為地戶。",
-      "paragraph_index": 75,
+      "line_id": "QMDJ_Juan25_L075",
+      "original_quote": "喝算訖，先成者為天門，後成者為地戶。不成者，將初算投之作第七算，命乃成於入之方位立執算。咒曰：「乾尊耀靈，坤順內營，二儀交泰，要合利貞，配天履地，永寧肅清，應感元黃，上衣下裳，巽離坤兌，翊賛扶囊，乾坎艮震，虎伏龍翔，今日行算，玉女侍傍，有急相助，常輔扶匡，追我者死，捕我者亡，牽牛織女，化成海江，急急如律令」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第409行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P075_S001",
-      "original_quote": "不成者，將初算投之作第七算，命乃成於入之方位立執算。",
-      "paragraph_index": 75,
+      "line_id": "QMDJ_Juan25_L076",
+      "original_quote": "玉女左行八乾四維，子日辰上行起，周而複始，乘玉女而去，去時有咒。當呼所在玉女，如在庚上，即咒曰：「庚上玉女，速來護我，毋令百鬼傷我，人莫見我，見我者以為束薪，獨開我門，而閉他入地戶，急急如律令」。即開門而去，慎勿反顧。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第409行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P075_S002",
-      "original_quote": "咒曰：「乾尊耀靈，坤順內營，二儀交泰，要合利貞，配天履地，永寧肅清，應感元黃，上衣下裳，巽離坤兌，翊賛扶囊，乾坎艮震，虎伏龍翔，今日行算，玉女侍傍，有急相助，常輔扶匡，追我者死，捕我者亡，牽牛織女，化成海江，急急如律令」。",
-      "paragraph_index": 75,
+      "line_id": "QMDJ_Juan25_L077",
+      "original_quote": "凡欲為百事遠行、見貴人、上官赴任者，出地戶入天門，乘玉女而行。咒曰：「天門天門，今日維良，玉女侍我，左右游傍，行來出入四方，日出六甲，不逢災殃，君子見之，喜樂煌煌，所求如意，萬事吉昌，急急如律令」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第409行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P076_S000",
-      "original_quote": "玉女左行八乾四維，子日辰上行起，周而複始，乘玉女而去，去時有咒。",
-      "paragraph_index": 76,
+      "line_id": "QMDJ_Juan25_L078",
+      "original_quote": "凡欲入陣、掩捕，即出天門入地戶，乘玉女而去。咒曰：「諾諾譯譯，行不擇日，反不擇時，隨斗所指，與人俱之，天地反複，中心所歌，皆得如意，使汝迷惑，以東為西，以南為北，有知我者，使汝迷不得見，急急如律令」。以莫閉戶老去，皆一心虔誠，三呵玉女。乘玉女咒曰：「玉女玉女，天神至靈，護我保我，與我傳我，行到某處，窈窈冥冥，莫睹其形，人不得聞其人，鬼不得聞其精，善我者福，惡我者殃，百邪鬼賊，當我者死，值我者亡，千萬人中，見我者喜，急急如律令奉行」。以刀畫地，撮禁諸惡，念咒先叩齒七通，以應北斗天罡，右手持刀畫地，咒曰：「四縱五橫，萬惡潛形，吾去千里者回，萬里者歸，呵我者死，叱我者亡，自受其殃，急急如律令」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第410行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P076_S001",
-      "original_quote": "當呼所在玉女，如在庚上，即咒曰：「庚上玉女，速來護我，毋令百鬼傷我，人莫見我，見我者以為束薪，獨開我門，而閉他入地戶，急急如律令」。",
-      "paragraph_index": 76,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第410行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P076_S002",
-      "original_quote": "即開門而去，慎勿反顧。",
-      "paragraph_index": 76,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第410行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P077_S000",
-      "original_quote": "凡欲為百事遠行、見貴人、上官赴任者，出地戶入天門，乘玉女而行。",
-      "paragraph_index": 77,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第411行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P077_S001",
-      "original_quote": "咒曰：「天門天門，今日維良，玉女侍我，左右游傍，行來出入四方，日出六甲，不逢災殃，君子見之，喜樂煌煌，所求如意，萬事吉昌，急急如律令」。",
-      "paragraph_index": 77,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第411行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P078_S000",
-      "original_quote": "凡欲入陣、掩捕，即出天門入地戶，乘玉女而去。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第412行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P078_S001",
-      "original_quote": "咒曰：「諾諾譯譯，行不擇日，反不擇時，隨斗所指，與人俱之，天地反複，中心所歌，皆得如意，使汝迷惑，以東為西，以南為北，有知我者，使汝迷不得見，急急如律令」。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第412行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P078_S002",
-      "original_quote": "以莫閉戶老去，皆一心虔誠，三呵玉女。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第412行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P078_S003",
-      "original_quote": "乘玉女咒曰：「玉女玉女，天神至靈，護我保我，與我傳我，行到某處，窈窈冥冥，莫睹其形，人不得聞其人，鬼不得聞其精，善我者福，惡我者殃，百邪鬼賊，當我者死，值我者亡，千萬人中，見我者喜，急急如律令奉行」。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第412行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P078_S004",
-      "original_quote": "以刀畫地，撮禁諸惡，念咒先叩齒七通，以應北斗天罡，右手持刀畫地，咒曰：「四縱五橫，萬惡潛形，吾去千里者回，萬里者歸，呵我者死，叱我者亡，自受其殃，急急如律令」。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第412行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P079_S000",
+      "line_id": "QMDJ_Juan25_L079",
       "original_quote": "十二局天門地戶返閉立成圖",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第413行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P080_S000",
+      "line_id": "QMDJ_Juan25_L080",
       "original_quote": "子日醜日寅日卯日辰日巳日午日未日申日酉日戌日亥日",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第414行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P081_T001",
+      "line_id": "QMDJ_Juan25_L081",
       "original_quote": "天門丙丙丙庚庚庚壬壬壬甲甲甲",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 81,
-      "table_data": {
-        "original_block": "天門　丙　丙　丙　庚　庚　庚　壬　壬　壬　甲　甲　甲"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第415行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P082_T001",
+      "line_id": "QMDJ_Juan25_L082",
       "original_quote": "地戶乙乙庚丁丁壬辛辛甲癸癸丙",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 82,
-      "table_data": {
-        "original_block": "地戶　乙　乙　庚　丁　丁　壬　辛　辛　甲　癸　癸　丙"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第416行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P083_T001",
+      "line_id": "QMDJ_Juan25_L083",
       "original_quote": "玉女庚辛乾壬癸艮甲乙巽丙丁坤",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 83,
-      "table_data": {
-        "original_block": "玉女　庚　辛　乾　壬　癸　艮　甲　乙　巽　丙　丁　坤"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第417行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落83"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P084_S000",
+      "line_id": "QMDJ_Juan25_L084",
       "original_quote": "此與三德方同",
-      "paragraph_index": 84,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第418行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落84"
       }
     },
     {
-      "line_id": "QMDJ_Juan25_P085_S000",
-      "original_quote": "圍然後入局，玉女術曰：「先畫地圖，用桑柴灰為之，可以隱匿逃亡，或有患難，隱遁人無見者，即不避歸忌、往亡、陷破，一切凶神惡煞，又可以市賈求利、進見長吏、報仇、攻惡，宜深保此局法，父子不傳之秘，毋輕易語人，以洩天機也。",
-      "paragraph_index": 85,
+      "line_id": "QMDJ_Juan25_L085",
+      "original_quote": "圍然後入局，玉女術曰：「先畫地圖，用桑柴灰為之，可以隱匿逃亡，或有患難，隱遁人無見者，即不避歸忌、往亡、陷破，一切凶神惡煞，又可以市賈求利、進見長吏、報仇、攻惡，宜深保此局法，父子不傳之秘，毋輕易語人，以洩天機也。布局時讀，左三右七，戴九履一，二四為肩，六八為足，畫地圖訖，即心下排定東西南北，布十二支辰，八乾四維之位」。假如，甲日便從甲地入局內，乙日便從乙地入局內，丙丁庚辛壬癸日俱仿此，惟戊日從乾坤方位上入局，己日便從艮巽方入局，手執六算祝四方，急急如律令。欲行千里法亦念此咒。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第419行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P085_S001",
-      "original_quote": "布局時讀，左三右七，戴九履一，二四為肩，六八為足，畫地圖訖，即心下排定東西南北，布十二支辰，八乾四維之位」。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第419行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P085_S002",
-      "original_quote": "假如，甲日便從甲地入局內，乙日便從乙地入局內，丙丁庚辛壬癸日俱仿此，惟戊日從乾坤方位上入局，己日便從艮巽方入局，手執六算祝四方，急急如律令。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第419行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan25_P085_S003",
-      "original_quote": "欲行千里法亦念此咒。",
-      "paragraph_index": 85,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十五",
-        "section": "卷二十五",
-        "line_ref": "第419行"
+        "juan": "下卷·卷25",
+        "section": "卷25",
+        "line_ref": "段落85"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan25",
-    "line_id_start": "QMDJ_Juan25_P000_S000",
-    "line_id_end": "QMDJ_Juan25_P085_S003",
-    "original_block": "《卷二十五》\n游門\n出兵攻敵常須游門。正月天門在申，百死在酉；二月天門在酉，百死在戌；三月天門在戌，百死在亥；四月天門在亥，百死在子；五月天門在子，百死在醜；六月天門 在丑，百死在寅；七月天門在寅，百死在卯；八月天門在卯，百死在辰；九月天門在辰，百死在巳；十月天門在巳，百死在午；十一月天門在午，百死在未；十二月 天門在未，百死在申。\n地兵法\n太公曰：「凡行軍向陣，勿犯地兵，將軍忌之，甲子旬地兵在寅，甲戌旬地兵在子，甲申旬地兵在戌，甲午旬地兵在申，甲辰旬地兵在午，甲寅旬地兵在辰地兵即六丙也」。\n黃旛虎尾\n凡戰宜背虎尾向黃旛吉，午戌歲黃旛在戌，虎尾在辰；子辰歲黃旛在辰，虎尾在戌；卯未歲黃旛在未，虎尾在醜；酉丑歲黃旛在丑，虎尾在未。\n雷公\n雷公者，六庚耳。庚為天刑，又為百神所聚之方，故宜避之，不敢犯也。攝殺六律曰：「雷公將軍在午游庚，領十二日將友，風伯、雨師其所游之處，郡居響應而到， 若出軍、布陣、安營，則雷公之所處，慎不可犯，犯之主敗軍，殺將也。甲子旬六庚在午，甲戌旬六庚在辰，甲申旬六庚在寅，甲午旬在子，甲辰旬在戌，甲寅旬在 申」。\n立知井泉法\n屯兵山阜，被賊圍困，又無溪澗，無處汲水，急用磁碗覆地，將土壅碗口，明曉揭碗視之，底下有水珠，下有泉脈也。掘地數尺，可以得水。\n五行相制負法\n此法至誠閉氣，吸東方生氣一口吹在手心，書字即行，不可回顧。見官書「天」字，求婚書「合」字，市賈書「利」字，出道書「通」字，博戲書「乾」字，夜行書 「魁」字，入眾書「遁」字，入陣書「強」字，看病書「鬼」字，入罡書「罡」字，吃酒書「少」字，入山書「子」字，入水書「土」字或「龍」字，或「戊」字。\n三勝宮\n第一勝天乙宮即值符宮，上將居之，用兵而擊其衝，百戰百勝。只要坐三向五，不可坐五向三，三為生氣，五為死氣，生謂坐生門，死為坐死門。若甲申庚見值符，則不可引兵居也。\n第二勝九天宮，上將居之，用兵擊其衝，則敵雖大，不敢當我鋒，而大勝矣。\n第三勝生門宮合三奇之吉宮，上將引兵從生門擊死門，百戰百勝。\n五不擊宮\n第一不擊天乙宮。如甲申庚臨值符，則可衝擊矣。\n第二不擊九天宮。\n第三不擊生門宮。\n第四不擊九地宮。\n第五不擊玉女宮，臨陣傳令紀之，則萬舉萬全矣。\n天蓬咒：「天蓬天蓬，九元殺童，五丁都司，高力北翁，七政八靈，太上皓凶，長顱巨額，手把帝鐘，未梟三神，嚴駕夒龍，威劍神王，斬邪滅蹤，紫氣乘天，丹霞嚇 衝，吞魔食鬼，橫身飲風，蒼舌綠齒，四目老翁，天丁力士，威南禦凶，天驟激戾，威北銜鋒，三十萬兵，衛我九重，闢尸千里，袪卻不祥，敢有小鬼，次來見形， 钁天大斧，斬鬼五形，炎帝瀝血，北斗燃膏，四盟破骸，天猷滅數，神劍一下，萬鬼自消，急急如律令」。\n五陰五陽時\n《三元經》曰：「甲乙丙丁戊為五陽時，利為客，宜先舉兵、高旗、響鼓，耀武揚威，客兵大勝，所謂陽者，飛而不止也。己庚辛壬癸為五陰時，利為主，宜偃旗息鼓、銜枚靜聽，待客敵至後，則戰大勝矣，所謂得陰者，伏而不舉也」。\n凡奇門一時一換，謂不善必先知之。若天盤甲申庚加地盤月奇丙之方，防其衝營擊寨，夜間必要守備，每一更一令一籌，密傳若籌錯令差，便是奸細，所謂入金鄉，賊獨至也。即在入門之內，取路埋伏，以逸代勞。\n德威之時\n葛洪曰：「六丙為威，六甲為德，利以為客，宜發號施令，入其國犬不吠馬不鳴，回車止輪，折衝萬里，不敢有聲。兵來向者，還自滅形，賊必亡矣。天兵來助，敵人自恐。天兵扶行，敵人自驚。將兵征伐，為客大勝。若此時不利為主，惟宜固守屯營，以待天時」。\n天輔之時\n《三元經》曰：「天輔之時，有罪無虞，斧鑽在前，天猶赦之」。謂甲己之日時下得己，乙庚、丙辛、丁壬、戊癸之日，時下得甲也。甲己日己巳時，乙庚日甲申時，丙辛日甲午時，丁壬日甲辰時，戊癸日甲寅時，是為天輔之時，此時有罪自釋。\n奇門飛鬥法即禹步\n凡有急事，不得奇門，用此亦妙。凡飛斗，足步手揚，口誦咒曰：「天圓地步，六律九章，出行大吉，永保安康，掃除凶惡，削去災殃，人來追我，掩其兩目，馬來追我，折其四足，車來追我，斷其輪輔，所求遂意，咸願從心，吾奉九天玄女急急如律令敕。\n陽斗甲丙戊庚壬為六陽，貪巨祿文廉武破。\n○破 ○廉 ○文 ○貪\n○武 ○祿 ○巨\n陰斗乙丁己辛癸為六陰，魁勺雚行畢甫魒，俱七斗之諱。\n○勺 ○雚 ○甫\n○魁 ○行 ○魓 ○魒\n真人閉六戊法\n凡 出軍止宿，要安營下寨，避禍逃難，當用此法，鬼神不敢近也。其法於旬中六戊土，用刀從鬼門起左行畫地一周，次取中央土一斗，分置六戊之上，六處各置一升 餘，乃置刀於原取土處，入中央咒曰：：「泰山之陽，恆山之陰，盜賊不起，虎狼不侵，城郭不完，閉以金關，千凶萬惡，莫之敢干，急急如律令敕」。咒畢，仍在 中宿，勿令出入，明日啟行，拔刀散土而去，若不散土，其神不敢去也六戊即罡神。欲驗六戊之法，置犢牸於外，系母牛於內，終不敢入，欲令其神去一戊土， 犢便從空上入矣。甲子旬戊辰，甲戌旬戊寅，甲申旬戊在子，甲午旬戊在戌，甲辰旬戊在申，甲寅旬戊在午。\n禹步法凡作事皆宜禹步\n初移一步，不在九步之數，然相因仍之一步七尺，合二丈一尺。故曰：見跡禹步，乃成攝濟之卦，正立右足以前，左足在後，次複前左足，次複前右足，以左足從右足並一禹步也。次複前右足，次前左足，並二禹步也。次複前左，次前右，次左右足並，三禹步也。\n未濟禹跡\n芮坤右 柱兌左 心幹右\n英離左 禽中左 蓬坎左\n輔巽右 衝震左 任艮右\n既濟禹跡\n芮坤右 柱兌左 心幹右\n英離左 禽中左 蓬坎左\n輔巽右 衝震左 任艮右\n巽雙離只坤單步，震亦依依兌是雙，艮上獨行坎只立，天門歸去望天罡。\n坤只 兌只雙 幹雙\n離只 中 坎只\n巽雙 震只 艮雙只\n玉女返閉局\n經曰：「玉女返閉局者，在室中庭中六步，野外六十步，量入地多少，地之宜表，皆以六為數，先定數訖，便以左手執六算，各長一尺二寸，隨吸旺氣，叩齒十二通， 默咒心下所謀之事，然後回身背旺氣」。神啟請曰：「維某年某月某日某時，啟天地父母、六甲、六丁、十二時神、青龍、蓬星、明堂、天上玉女、六戊之神，某好 學長生之術，行不擇日，出不擇時，今欲游行某處為某事，欲賴大神庇佑，謹按天門，畫地敷局，出天門，入地戶，閉金關，乘玉女輅，謹請玉女、青龍、朱 雀、白虎、玄武、勾陳、六合、六甲六丁十二時神，乘我而行，至某處為某事，左右巡防，隨行隨止，隨臥隨起，闢除盜賊，鬼魅消亡。君子見之喜樂倍常，小人見 我歡喜皇皇，男兒女見我，共將侍酒漿；百惡鬼賊，當我者亡。今日禹步，上應天罡，玉女侍傍，下擊不祥，萬精厭伏，所向無殃，所值病瘥，所攻者達， 所擊者破，所摧者傾，所求者得，所願者成，帝王、大臣、二千石長吏，見我者愛如赤子。今日請召玉女六神隨我而進」。凡一切出行用事，無吉方吉時者，可用此 法，便畫八卦圖局，排定東西南北，在八干十二辰時神。\n步鬥咒每移一步，持咒一句\n咒曰：「白氣混沌灌我形，禹步相催合登明，天回地轉步七星，躡罡履鬥齊九靈，亞指伏妖眾邪驚，眾災消滅我長生，我得長生，我得長生」。\n至心虔誠步星斗，畢即念后咒：「六甲九章，天圓地方，四時五行，青赤白黃，太乙為師，日月為光，禹步治道，蚩尤避兵，青龍扶轂，白虎伏行，熒惑前引，闢不 祥兆，北斗誅伐，去降凶殃，五神從我，周游八方，當我者死，嫉我者亡，左社右稷，寇盜伏藏，行者有喜，留者有福，萬神護我，永除盜賊，急急如律令」。\n啟請四方神位\n「謹請東方功曹、太衝、天罡青帝大神、甲乙大神，降於局所，侍衛我身。南方太乙、勝光、小吉、赤帝大神，丙丁大神降於局所，侍衛我身。西方傳送、從魁、河魁、白帝大神，庚辛大神，降於局所，侍衛我身。北方登明、神后、大吉、黑帝大神，壬癸大神，降於局所，侍衛我身」。\n既請四方神訖，便從今日日辰上下第一算。如子日，則於子上下第一算，丑上第二算，寅上下第三算，卯上下第四算，辰位上下第五算，巳位上下第六算。四仲日地戶不成，取初下第一算安辰上所衝，卻以衝命起，自然成門。\n五文術咒曰：「鼠行入穴入狗市」，便移於上算安戌上，大呼青龍下。\n又咒曰：「牛入兔園食甘美」，便移丑上第二算安卯上，大呼曰朱雀下。\n又咒曰：「猛虎耽耽來向蛇」，便移寅上第三算安巳上，大呼曰勾陳下。\n又咒曰：「兔入牛欄伏不起」，便移卯上第四算安丑上，大呼曰白虎下。\n又咒曰：「龍入馬廄困留止」，便移辰上第五算安午上，大呼曰玄武下。\n又咒曰：「螣蛇婉轉來申里」，便移巳上第六算安申上，大呼曰六合下。\n若午日則於午上下第一算，未上下第二算，申上下地三算，酉上下第四算，戌上下第五算，亥上下第六算，咒曰：「馬入龍泉飲井水」，便移午上第一算安辰上，大呼曰青龍下。\n又咒曰：「羊鳴易位入酉里」，便移未上第二算安酉上，大呼曰朱雀下。\n又咒曰：「猿猴躍躍北奔亥」，便移申上第三算安亥上，大呼曰勾陳下。\n又咒曰：「鷄飛撲落羊欄里」，便移酉上第四算安未上，大呼曰白虎下。\n又咒曰：「狗入鼠穴捕其子」，便移戌上第五算安子上，大呼曰玄武下。\n又咒曰：「豬入虎穴自取死」，便移亥上第六算安寅上，大呼曰六合下。\n喝算訖，先成者為天門，後成者為地戶。不成者，將初算投之作第七算，命乃成於入之方位立執算。咒曰：「乾尊耀靈，坤順內營，二儀交泰，要合利貞，配天履地， 永寧肅清，應感元黃，上衣下裳，巽離坤兌，翊賛扶囊，乾坎艮震，虎伏龍翔，今日行算，玉女侍傍，有急相助，常輔扶匡，追我者死，捕我者亡，牽牛織女，化成 海江，急急如律令」。\n玉女左行八乾四維，子日辰上行起，周而複始，乘玉女而去，去時有咒。當呼所在玉女，如在庚上，即咒曰：「庚上玉女，速來護我，毋令百鬼傷我，人莫見我，見我者以為束薪，獨開我門，而閉他入地戶，急急如律令」。即開門而去，慎勿反顧。\n凡欲為百事遠行、見貴人、上官赴任者，出地戶入天門，乘玉女而行。咒曰：「天門天門，今日維良，玉女侍我，左右游傍，行來出入四方，日出六甲，不逢災殃，君子見之，喜樂煌煌，所求如意，萬事吉昌，急急如律令」。\n凡欲入陣、掩捕，即出天門入地戶，乘玉女而去。咒曰：「諾諾譯譯，行不擇日，反不擇時，隨斗所指，與人俱之，天地反複，中心所歌，皆得如意，使汝迷惑，以東 為西，以南為北，有知我者，使汝迷不得見，急急如律令」。以莫閉戶老去，皆一心虔誠，三呵玉女。乘玉女咒曰：「玉女玉女，天神至靈，護我保我，與我傳我， 行到某處，窈窈冥冥，莫睹其形，人不得聞其人，鬼不得聞其精，善我者福，惡我者殃，百邪鬼賊，當我者死，值我者亡，千萬人中，見我者喜，急急如律令奉 行」。以刀畫地，撮禁諸惡，念咒先叩齒七通，以應北斗天罡，右手持刀畫地，咒曰：「四縱五橫，萬惡潛形，吾去千里者回，萬里者歸，呵我者死，叱我者亡，自 受其殃，急急如律令」。\n十二局天門地戶返閉立成圖\n子日醜日寅日卯日辰日巳日午日未日申日酉日戌日亥日\n天門　丙　丙　丙　庚　庚　庚　壬　壬　壬　甲　甲　甲\n地戶　乙　乙　庚　丁　丁　壬　辛　辛　甲　癸　癸　丙\n玉女　庚　辛　乾　壬　癸　艮　甲　乙　巽　丙　丁　坤\n此與三德方同\n圍然後入局，玉女術曰：「先畫地圖，用桑柴灰為之，可以隱匿逃亡，或有患難，隱遁人無見者，即不避歸忌、往亡、陷破，一切凶神惡煞，又可以市賈求利、進見長吏、報仇、攻惡，宜深保此局法，父子不傳之秘，毋輕易語人，以洩天機也。布局時讀，左三右七，戴九履一，二四為肩，六八為足，畫地圖訖，即心下排定東西南 北，布十二支辰，八乾四維之位」。假如，甲日便從甲地入局內，乙日便從乙地入局內，丙丁庚辛壬癸日俱仿此，惟戊日從乾坤方位上入局，己日便從艮巽方入局， 手執六算祝四方，急急如律令。欲行千里法亦念此咒。\n\n"
-  }
+  "_extraction_status": "卷25完成"
 }

@@ -1,1666 +1,1352 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "下卷·卷二十三",
-  "section": "卷二十三",
+  "juan": "下卷·卷23",
+  "section": "卷23",
   "entries": [
     {
-      "line_id": "QMDJ_Juan23_P000_S000",
+      "line_id": "QMDJ_Juan23_L000",
       "original_quote": "《卷二十三》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第147行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P001_S000",
+      "line_id": "QMDJ_Juan23_L001",
       "original_quote": "論十方星將生剋",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第148行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P002_S000",
+      "line_id": "QMDJ_Juan23_L002",
       "original_quote": "天元即是人時元，十二方位人坐邊，月將尋時依次定，貴人須審日乾傳。",
-      "paragraph_index": 2,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第149行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P003_S000",
+      "line_id": "QMDJ_Juan23_L003",
       "original_quote": "天元君父夫主師，尊先長上首高皮，貴神官祿心家主，群吏外財胸乳臍。",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第150行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P004_S000",
+      "line_id": "QMDJ_Juan23_L004",
       "original_quote": "月將親戚弟兄輩，內財妻子腹腰腓，下方卑幼臣民妾，孫足家中物些微。",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第151行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P005_S000",
+      "line_id": "QMDJ_Juan23_L005",
       "original_quote": "乾剋方為妻妾動，官財損折下卑疲，外邊取索多唇舌，人在家中防不怡。",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第152行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P006_S000",
+      "line_id": "QMDJ_Juan23_L006",
       "original_quote": "乾剋神為官祿動，官財兩得非常宜，外人取索多謀害，市不利官散不遲。",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第153行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P007_S000",
+      "line_id": "QMDJ_Juan23_L007",
       "original_quote": "乾剋將為財內動，求財多得妻多病，又知屋宇柱梁權，將本求財多利進。",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第154行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P008_S000",
+      "line_id": "QMDJ_Juan23_L008",
       "original_quote": "干生神位親來訪，又有外人送物廣，物色官府所用之，借來借去數中仿。",
-      "paragraph_index": 8,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第155行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P009_S000",
+      "line_id": "QMDJ_Juan23_L009",
       "original_quote": "干生月將內財興，人送物來依類分，內外弟兄和氣合，須知慈父愛兒孫。",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第156行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P010_S000",
+      "line_id": "QMDJ_Juan23_L010",
       "original_quote": "干生方位澤恩該，蔭子添孫奴婢財，占產始知多易育，非常寵遇自天來。",
-      "paragraph_index": 10,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第157行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P011_S000",
+      "line_id": "QMDJ_Juan23_L011",
       "original_quote": "神剋乾為官祿動，仕膺祿位望財無，常人官事得官物，喉病財來暗損失。",
-      "paragraph_index": 11,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第158行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P012_S000",
+      "line_id": "QMDJ_Juan23_L012",
       "original_quote": "神剋將為內賊生，勾連偸詐構攘深，損財卑幼當災疾，求望無成占病傾。",
-      "paragraph_index": 12,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第159行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P013_S000",
+      "line_id": "QMDJ_Juan23_L013",
       "original_quote": "神剋方為隔動興，求財遲得事遲成，主人怒發災奴僕，占病臍疼足跛行。",
-      "paragraph_index": 13,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第160行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P014_S000",
+      "line_id": "QMDJ_Juan23_L014",
       "original_quote": "神生乾有官超薦，人送物來官可見，祭祀以時享孝歆，尋人必定來見面。",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第161行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P015_S000",
+      "line_id": "QMDJ_Juan23_L015",
       "original_quote": "神生將為婚姻合，饋送來珍物最時，求望謀為皆遂意，行人必至莫生疑。",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第162行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P016_S000",
+      "line_id": "QMDJ_Juan23_L016",
       "original_quote": "神生方位隔神動，宛轉謀為始望成，和氣主翁恩下及，家奴盡力業生營。",
-      "paragraph_index": 16,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第163行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P017_S000",
+      "line_id": "QMDJ_Juan23_L017",
       "original_quote": "將剋乾為隔喜竝，歡忻喜事由天定，求財阻隔事難成，必待天祿方合並。",
-      "paragraph_index": 17,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第164行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P018_S000",
+      "line_id": "QMDJ_Juan23_L018",
       "original_quote": "將剋神為財動興，求財得利妻得病，求官難得疾難醫，出外物形終損應。",
-      "paragraph_index": 18,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第165行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P019_S000",
+      "line_id": "QMDJ_Juan23_L019",
       "original_quote": "將剋方為憂慮興，憂慮疾病足難行，幼災財僕多傷損，爭訟難贏宅不寧。",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第166行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P020_S000",
+      "line_id": "QMDJ_Juan23_L020",
       "original_quote": "將生乾是平星吉，內外和合妻正室，財產興隆兒孝親，須知人宅兩安並。",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第167行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P021_S000",
+      "line_id": "QMDJ_Juan23_L021",
       "original_quote": "將生神是和合星，百事皆祥和福臻，兒孝妻賢家宇泰，施財普濟路橋平。",
-      "paragraph_index": 21,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第168行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P022_S000",
+      "line_id": "QMDJ_Juan23_L022",
       "original_quote": "將生方是吉神課，財帛外來有親助，喜慶兒孫多秀拔，須知天庇家平和。",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第169行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P023_S000",
+      "line_id": "QMDJ_Juan23_L023",
       "original_quote": "方剋乾為官鬼動，官亨出外訟牽人，災憂口舌冤仇損，自艾遁逃干上刑。",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第170行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P024_S000",
+      "line_id": "QMDJ_Juan23_L024",
       "original_quote": "方剋神為官祿動，求官得祿必成名，傷神舉薦無提拔，刑獄連遭官府嗔。",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第171行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P025_S000",
+      "line_id": "QMDJ_Juan23_L025",
       "original_quote": "方剋將為外賊露，耗材妻妾生災毒，須知人欲出於家，失物因尋複得物。",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第172行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P026_S000",
+      "line_id": "QMDJ_Juan23_L026",
       "original_quote": "方生神是喜和星，宛轉謀為皆稱情，奴僕盡心忠益主，須知基旺屋更新。",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第173行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P027_S000",
+      "line_id": "QMDJ_Juan23_L027",
       "original_quote": "方生乾是忠孝星，父母君師皆喜忻，印綬擢拔多進益，須知祭祀福祥臻。",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第174行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P028_S000",
+      "line_id": "QMDJ_Juan23_L028",
       "original_quote": "方生乾是壬星得，地載吉祥喜事臨，和合婚姻謀望遂，家庭和氣業更新。",
-      "paragraph_index": 28,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第175行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P029_S000",
+      "line_id": "QMDJ_Juan23_L029",
       "original_quote": "上順下生天與慶，外人送物進財應，添丁百事皆和合，立至行人得產興。",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第176行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P030_S000",
+      "line_id": "QMDJ_Juan23_L030",
       "original_quote": "下順上生出行該，經商得利稱心懷，求官得舉蒙恩擢，喜信家中傳報來。",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第177行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P031_S000",
+      "line_id": "QMDJ_Juan23_L031",
       "original_quote": "上順剋時外剋內，外人構詐生謀害，頻爭財破上凌卑，足疾地基多退敗。",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第178行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P032_S000",
+      "line_id": "QMDJ_Juan23_L032",
       "original_quote": "下順剋尊內剋外，卑幼忤逆官司壞，勾連財失舌唇多，嘔吐病災無父母。",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第179行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P033_S000",
+      "line_id": "QMDJ_Juan23_L033",
       "original_quote": "干神比是近謀身，不犯親戚不累人，神將比為親屬好，謀為作事托宗親。",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第180行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P034_S000",
+      "line_id": "QMDJ_Juan23_L034",
       "original_quote": "將方比是為朋友，進退作為朋友成，干戈比為兄弟類，事謀不寔比肩行。",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第181行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P035_S000",
+      "line_id": "QMDJ_Juan23_L035",
       "original_quote": "全比親屬迭重連，卑逾尊兮邪奪正，上下混向無分別，大凶無吉災刑並。",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第182行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P036_S000",
+      "line_id": "QMDJ_Juan23_L036",
       "original_quote": "神與乾合為官合，士子科場榮擢廷，庸俗訟公官府累，謀望小事多難成。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第183行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P037_S000",
+      "line_id": "QMDJ_Juan23_L037",
       "original_quote": "神與將合為正合，婚姻成就事亨通，又多朋友親隣助，惟有病占秋複冬。",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第184行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P038_S000",
+      "line_id": "QMDJ_Juan23_L038",
       "original_quote": "將與方合為遙合，遠路來年婚就成，謀事遲成人病仰，以卑動長合相承。",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第185行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P039_S000",
+      "line_id": "QMDJ_Juan23_L039",
       "original_quote": "干與將合名為格，內外關防遲送迎，方與神合經年事，卑幼乾尊事晚成。",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第186行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P040_S000",
+      "line_id": "QMDJ_Juan23_L040",
       "original_quote": "方與乾合人謀己，門中有事就相爭，星奇方位門諸將，吉凶平穩隨時評。",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第187行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P041_S000",
+      "line_id": "QMDJ_Juan23_L041",
       "original_quote": "同朋為旺我生相，休是財官囚鬼將，死為父母分輕重，有氣大凶無小恙，",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第188行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P042_S000",
+      "line_id": "QMDJ_Juan23_L042",
       "original_quote": "大吉星旺固勝小，無氣不如小星暢，吉宿若逢時旺相，萬舉萬全功業尚，",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第189行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P043_S000",
+      "line_id": "QMDJ_Juan23_L043",
       "original_quote": "管甚身相竝定命，諸家不論惡星將，官符太歲盡歸承，壓煞擢凶靈顯真，",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第190行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P044_S000",
+      "line_id": "QMDJ_Juan23_L044",
       "original_quote": "作著流財財便發，作著空亡空裡興，若值休囚並廢棄，勸君不必進前升，",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第191行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P045_S000",
+      "line_id": "QMDJ_Juan23_L045",
       "original_quote": "愚今推演局卦數，變易隨時見道流，值符為綱使為目，詳演西山數人周，",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第192行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P046_S000",
+      "line_id": "QMDJ_Juan23_L046",
       "original_quote": "門為外卦宮為內，值使宰時正卦游，飛爻出現目今斷，伏爻藏隱詳後頭，",
-      "paragraph_index": 46,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第193行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P047_S000",
+      "line_id": "QMDJ_Juan23_L047",
       "original_quote": "反卦先天相對取，彼方之向敵占留，互察未來後代事，用占旺相與休囚，",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第194行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P048_S000",
+      "line_id": "QMDJ_Juan23_L048",
       "original_quote": "用爻被傷尋生救，絕處逢生一樣搜，二卷分明推斷類，請君一一熟詳求，",
-      "paragraph_index": 48,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第195行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P049_S000",
+      "line_id": "QMDJ_Juan23_L049",
       "original_quote": "泊宮本命六儀里，甲子行年本命頭，本命宮中起甲子，陰陽逆順一般周，",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第196行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P050_S000",
+      "line_id": "QMDJ_Juan23_L050",
       "original_quote": "命與行年隨宮斷，便知情性興亡籌，三易玩占周易主，啟蒙占法變之搜，",
-      "paragraph_index": 50,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第197行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P051_S000",
+      "line_id": "QMDJ_Juan23_L051",
       "original_quote": "參伍研幾惟在己，極深達用至誠求，若能念念時存此，方可循循達上俢。",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第198行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P052_S000",
+      "line_id": "QMDJ_Juan23_L052",
       "original_quote": "此篇歌訣是以奇門而演周易之卦也。",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第199行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P053_S000",
+      "line_id": "QMDJ_Juan23_L053",
       "original_quote": "奇門掌中金要訣",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第200行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P054_S000",
-      "original_quote": "奇門玄妙九宮邊。",
-      "paragraph_index": 54,
+      "line_id": "QMDJ_Juan23_L054",
+      "original_quote": "奇門玄妙九宮邊。即邊九掌訣也。遁至奇儀順逆傳。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第201行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P054_S001",
-      "original_quote": "即邊九掌訣也。",
-      "paragraph_index": 54,
+      "line_id": "QMDJ_Juan23_L055",
+      "original_quote": "陽遁順布六儀，甲子戊、甲戌己、甲申庚、甲午辛、甲辰壬、甲寅癸，逆布三奇，星奇丁、月奇丙、日奇乙。陰遁逆布六儀順布三奇也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第201行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P054_S002",
-      "original_quote": "遁至奇儀順逆傳。",
-      "paragraph_index": 54,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第201行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P055_S000",
-      "original_quote": "陽遁順布六儀，甲子戊、甲戌己、甲申庚、甲午辛、甲辰壬、甲寅癸，逆布三奇，星奇丁、月奇丙、日奇乙。",
-      "paragraph_index": 55,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第202行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P055_S001",
-      "original_quote": "陰遁逆布六儀順布三奇也。",
-      "paragraph_index": 55,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第202行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P056_S000",
+      "line_id": "QMDJ_Juan23_L056",
       "original_quote": "宮局星門隨甲換。",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第203行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P057_S000",
-      "original_quote": "假如陽遁二局，就在邊九宮坤二上起，甲子至某時止，甲旬符頭落在何宮？",
-      "paragraph_index": 57,
+      "line_id": "QMDJ_Juan23_L057",
+      "original_quote": "假如陽遁二局，就在邊九宮坤二上起，甲子至某時止，甲旬符頭落在何宮？就將此宮星門二處，星為值符，門為值使也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第204行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P057_S001",
-      "original_quote": "就將此宮星門二處，星為值符，門為值使也。",
-      "paragraph_index": 57,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第204行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P058_S000",
+      "line_id": "QMDJ_Juan23_L058",
       "original_quote": "日時須遁五子元。",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第205行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P059_S000",
+      "line_id": "QMDJ_Juan23_L059",
       "original_quote": "甲己還加甲，乙庚丙作初，丙辛生戊子，丁壬庚子居，戊癸何方落，壬子是真途。",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第206行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P060_S000",
+      "line_id": "QMDJ_Juan23_L060",
       "original_quote": "先將甲旬求符使。",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第207行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P061_S000",
+      "line_id": "QMDJ_Juan23_L061",
       "original_quote": "即前甲旬落在宮，星符、門使也。",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第208行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P062_S000",
+      "line_id": "QMDJ_Juan23_L062",
       "original_quote": "次覓時辰幾宮安。",
-      "paragraph_index": 62,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第209行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P063_S000",
+      "line_id": "QMDJ_Juan23_L063",
       "original_quote": "本時落宮在何宮，就以值門加之為使。",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第210行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P064_S000",
+      "line_id": "QMDJ_Juan23_L064",
       "original_quote": "再看時幹幾宮落。",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第211行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P065_S000",
-      "original_quote": "假如以甲子至某甲符頭，於邊九宮上算至甲宮止，所餘者就是奇也。",
-      "paragraph_index": 65,
+      "line_id": "QMDJ_Juan23_L065",
+      "original_quote": "假如以甲子至某甲符頭，於邊九宮上算至甲宮止，所餘者就是奇也。陽遁丙丁乙，陰遁乙丙丁，從上一宮甲子起戊、己、庚、辛、壬、癸，看本時幹落於何宮，即值符在此也。乙丙丁所在亦然。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第212行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P065_S001",
-      "original_quote": "陽遁丙丁乙，陰遁乙丙丁，從上一宮甲子起戊、己、庚、辛、壬、癸，看本時幹落於何宮，即值符在此也。",
-      "paragraph_index": 65,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第212行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P065_S002",
-      "original_quote": "乙丙丁所在亦然。",
-      "paragraph_index": 65,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第212行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P066_S000",
+      "line_id": "QMDJ_Juan23_L066",
       "original_quote": "宮數星門記的端。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第213行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P067_S000",
-      "original_quote": "須記明宮、星、門便成局矣。",
-      "paragraph_index": 67,
+      "line_id": "QMDJ_Juan23_L067",
+      "original_quote": "須記明宮、星、門便成局矣。八卦有定位，雖遇陰陽二遁亦不飛動，九星亦有定宮，須隨值符而飛者，看某局上起子至某甲符頭，即分星，又數至某時，即為門也，如甲子上起戊，至時幹上之類也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第214行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P067_S001",
-      "original_quote": "八卦有定位，雖遇陰陽二遁亦不飛動，九星亦有定宮，須隨值符而飛者，看某局上起子至某甲符頭，即分星，又數至某時，即為門也，如甲子上起戊，至時幹上之類也。",
-      "paragraph_index": 67,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第214行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P068_S000",
+      "line_id": "QMDJ_Juan23_L068",
       "original_quote": "便將符使九宮飛。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第215行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P069_S000",
+      "line_id": "QMDJ_Juan23_L069",
       "original_quote": "於掌上飛九宮方，知前奇門吉凶下落。",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第216行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P070_S000",
+      "line_id": "QMDJ_Juan23_L070",
       "original_quote": "休到二宮從二起。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第217行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P071_S000",
+      "line_id": "QMDJ_Juan23_L071",
       "original_quote": "如陽遁二局甲子日乙丑時，休門飛到坤二宮即住，便為值使門也。",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第218行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P072_S000",
+      "line_id": "QMDJ_Juan23_L072",
       "original_quote": "任駐三宮在三起。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第219行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P073_S000",
+      "line_id": "QMDJ_Juan23_L073",
       "original_quote": "任從三宮，即符，即三宮也。",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第220行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P074_S000",
+      "line_id": "QMDJ_Juan23_L074",
       "original_quote": "星奇門合是為奇。",
-      "paragraph_index": 74,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第221行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P075_S000",
+      "line_id": "QMDJ_Juan23_L075",
       "original_quote": "九星奇門俱要合，方可用也。",
-      "paragraph_index": 75,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第222行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P076_S000",
+      "line_id": "QMDJ_Juan23_L076",
       "original_quote": "八門干支相加地。",
-      "paragraph_index": 76,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第223行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P077_S000",
+      "line_id": "QMDJ_Juan23_L077",
       "original_quote": "八門支干加地盤，俱要相生方用。",
-      "paragraph_index": 77,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第224行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P078_S000",
-      "original_quote": "生剋休旺吉凶稽。",
-      "paragraph_index": 78,
+      "line_id": "QMDJ_Juan23_L078",
+      "original_quote": "生剋休旺吉凶稽。以休旺墓剋而推吉凶。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第225行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P078_S001",
-      "original_quote": "以休旺墓剋而推吉凶。",
-      "paragraph_index": 78,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第225行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P079_S000",
+      "line_id": "QMDJ_Juan23_L079",
       "original_quote": "此是神仙秘密訣，頗得千金不授伊。",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第226行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P080_S000",
+      "line_id": "QMDJ_Juan23_L080",
       "original_quote": "掌上飛九宮圖",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第227行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P081_S000",
+      "line_id": "QMDJ_Juan23_L081",
       "original_quote": "二○七○六○",
-      "paragraph_index": 81,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第228行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P082_S000",
+      "line_id": "QMDJ_Juan23_L082",
       "original_quote": "九○五○一○",
-      "paragraph_index": 82,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第229行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P083_S000",
+      "line_id": "QMDJ_Juan23_L083",
       "original_quote": "四○三○八○",
-      "paragraph_index": 83,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第230行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落83"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P084_S000",
+      "line_id": "QMDJ_Juan23_L084",
       "original_quote": "邊九宮飛掌圖",
-      "paragraph_index": 84,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第231行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落84"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P085_S000",
+      "line_id": "QMDJ_Juan23_L085",
       "original_quote": "野馬跳澗走，逢寅數豬狗，一局過一宮，不用亥子丑。",
-      "paragraph_index": 85,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第232行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落85"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P086_T001",
+      "line_id": "QMDJ_Juan23_L086",
       "original_quote": "兌七申艮八酉離九戌不用亥",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 86,
-      "table_data": {
-        "original_block": "兌七申　艮八酉　離九戌　不用亥"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第233行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落86"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P087_T001",
+      "line_id": "QMDJ_Juan23_L087",
       "original_quote": "乾六未不用子",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 87,
-      "table_data": {
-        "original_block": "乾六未　　　　　　　　　　　　　不用子"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第234行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落87"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P088_T001",
+      "line_id": "QMDJ_Juan23_L088",
       "original_quote": "中五午不用丑",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 88,
-      "table_data": {
-        "original_block": "中五午　　　　　　　　　　　　　不用丑"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第235行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落88"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P089_T001",
+      "line_id": "QMDJ_Juan23_L089",
       "original_quote": "巽四巳震三辰坤二卯坎一寅",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 89,
-      "table_data": {
-        "original_block": "巽四巳　震三辰　坤二卯　坎一寅"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第236行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落89"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P090_S000",
+      "line_id": "QMDJ_Juan23_L090",
       "original_quote": "超神接氣置閏訣",
-      "paragraph_index": 90,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第237行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落90"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P091_S000",
+      "line_id": "QMDJ_Juan23_L091",
       "original_quote": "閏奇自有玄妙訣。",
-      "paragraph_index": 91,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第238行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落91"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P092_S000",
+      "line_id": "QMDJ_Juan23_L092",
       "original_quote": "以時置閏。",
-      "paragraph_index": 92,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第239行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落92"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P093_S000",
+      "line_id": "QMDJ_Juan23_L093",
       "original_quote": "神仙不肯說分明。",
-      "paragraph_index": 93,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第240行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落93"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P094_S000",
+      "line_id": "QMDJ_Juan23_L094",
       "original_quote": "冬夏二至前起閏，凡一月節氣以三十日零五時二刻為准，以三十日分六局，以餘五時二刻置閏，遇芒種、大雪超過九日便當置閏，大概五日一元，一日十二時也。",
-      "paragraph_index": 94,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第241行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落94"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P095_S000",
+      "line_id": "QMDJ_Juan23_L095",
       "original_quote": "甲己二字號符頭。",
-      "paragraph_index": 95,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第242行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落95"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P096_S000",
-      "original_quote": "此甲己乃至要之訣也。",
-      "paragraph_index": 96,
+      "line_id": "QMDJ_Juan23_L096",
+      "original_quote": "此甲己乃至要之訣也。置閏以甲己二字為主，假如甲己之符先到，謂之超；甲己之符未到，謂之接；甲己與節同到，謂之正授。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第243行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落96"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P096_S001",
-      "original_quote": "置閏以甲己二字為主，假如甲己之符先到，謂之超；",
-      "paragraph_index": 96,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第243行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P096_S002",
-      "original_quote": "甲己之符未到，謂之接；",
-      "paragraph_index": 96,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第243行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P096_S003",
-      "original_quote": "甲己與節同到，謂之正授。",
-      "paragraph_index": 96,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第243行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P097_S000",
+      "line_id": "QMDJ_Juan23_L097",
       "original_quote": "子午卯酉上局設。",
-      "paragraph_index": 97,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第244行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落97"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P098_S000",
+      "line_id": "QMDJ_Juan23_L098",
       "original_quote": "子午卯酉為上局也。",
-      "paragraph_index": 98,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第245行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落98"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P099_S000",
+      "line_id": "QMDJ_Juan23_L099",
       "original_quote": "寅申巳亥中局求，辰戌丑未下局截。",
-      "paragraph_index": 99,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第246行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落99"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P100_S000",
+      "line_id": "QMDJ_Juan23_L100",
       "original_quote": "節通符，符遇節。",
-      "paragraph_index": 100,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第247行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落100"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P101_S000",
-      "original_quote": "符，即甲己符頭；",
-      "paragraph_index": 101,
+      "line_id": "QMDJ_Juan23_L101",
+      "original_quote": "符，即甲己符頭；節，即節氣也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第248行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落101"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P101_S001",
-      "original_quote": "節，即節氣也。",
-      "paragraph_index": 101,
+      "line_id": "QMDJ_Juan23_L102",
+      "original_quote": "萬兩黃金不輕說，節前遇符便是超，節後遇符便是接。超神接氣若能明，便是三山雲外客。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第248行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落102"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P102_S000",
-      "original_quote": "萬兩黃金不輕說，節前遇符便是超，節後遇符便是接。",
-      "paragraph_index": 102,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第249行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P102_S001",
-      "original_quote": "超神接氣若能明，便是三山雲外客。",
-      "paragraph_index": 102,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第249行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P103_S000",
+      "line_id": "QMDJ_Juan23_L103",
       "original_quote": "六甲利用",
-      "paragraph_index": 103,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第250行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落103"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P104_S000",
-      "original_quote": "經曰：「若有所用，百事皆向六甲所在之方，呼其神名，行六十步左轉入太陰中。",
-      "paragraph_index": 104,
+      "line_id": "QMDJ_Juan23_L104",
+      "original_quote": "經曰：「若有所用，百事皆向六甲所在之方，呼其神名，行六十步左轉入太陰中。又六丁名太陰，見貴人則喜悅，遇陣則勝」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第251行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落104"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P104_S001",
-      "original_quote": "又六丁名太陰，見貴人則喜悅，遇陣則勝」。",
-      "paragraph_index": 104,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第251行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P105_S000",
+      "line_id": "QMDJ_Juan23_L105",
       "original_quote": "甲子旬神名「王文卿」，登壇、拜將令、領授兵符者，元帥運籌命起兵，發儲糧者，皆向其方呼其神之名，而行六十步左轉入太陰中，則發握如神。",
-      "paragraph_index": 105,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第252行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落105"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P106_S000",
+      "line_id": "QMDJ_Juan23_L106",
       "original_quote": "甲戌旬神名「徐何」，利通伐山林、平治道途路、分決河道，得於自然，開路無損，皆向其方呼其神之名，行六十步左轉入太陰中，則得所願道路自通。",
-      "paragraph_index": 106,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第253行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落106"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P107_S000",
+      "line_id": "QMDJ_Juan23_L107",
       "original_quote": "甲申旬首名「蓋新」，若入山畋獵、捕捉虎狼蟲獸，皆向其方呼其神之名，而行六十步左轉入太陰中，蟲獸自然不動。",
-      "paragraph_index": 107,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第254行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落107"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P108_S000",
+      "line_id": "QMDJ_Juan23_L108",
       "original_quote": "甲午旬神名「靈光」，若安營、置陣、巡狩、戰鬪，向其方呼其神之名，行六十步左轉入太陰中，則必勝。",
-      "paragraph_index": 108,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第255行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落108"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P109_S000",
+      "line_id": "QMDJ_Juan23_L109",
       "original_quote": "甲辰旬神名「含章」，若求官、拜將、臨民、赴任，皆向其方呼其神之名，行六十步左轉入太陰中，則為官不敗悔。",
-      "paragraph_index": 109,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第256行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落109"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P110_S000",
+      "line_id": "QMDJ_Juan23_L110",
       "original_quote": "甲寅旬神名「監兵」，若揚兵、振武、教陣、蕩寇、行軍、征伐不道，皆向其方呼其神之名，行六十步左轉入太陰中，出行、安邊，賊自然不起。",
-      "paragraph_index": 110,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第257行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落110"
       }
     },
     {
-      "line_id": "QMDJ_Juan23_P111_S000",
-      "original_quote": "以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉。",
-      "paragraph_index": 111,
+      "line_id": "QMDJ_Juan23_L111",
+      "original_quote": "以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉。蓋六甲內管五行，而動靜無方，其五行而舍勝，有相生相剋之道，左手象天，右手法地，神靈好靜，故書五行相制，運化之道，無不兼該。若欲出兵，大將左手中用朱書「強」字，將手捏住，行六十步左轉入太陰，能欺弱制勝之道也。若見貴人、求官，及二千石令長，左手中書「天」字。若商賈、興販、和結交友、嫁娶、立契，則書「和」字。若入山、捕獵、畋獵，則書「獅」字。若部工居眾，則書「強」字。若過河、治水，則書「土」字或「戊」字。若波浪騰聲，舟楫將溺，尤忌八風、觸水龍、招搖、咸池之日，宜書「戊」字。若游山、入道，則書「龍」字，龍不敢動。值符臨其方，前行六十步左轉入太陰中，得此者天道亨，此五行制勝之妙用也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S001",
-      "original_quote": "蓋六甲內管五行，而動靜無方，其五行而舍勝，有相生相剋之道，左手象天，右手法地，神靈好靜，故書五行相制，運化之道，無不兼該。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S002",
-      "original_quote": "若欲出兵，大將左手中用朱書「強」字，將手捏住，行六十步左轉入太陰，能欺弱制勝之道也。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S003",
-      "original_quote": "若見貴人、求官，及二千石令長，左手中書「天」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S004",
-      "original_quote": "若商賈、興販、和結交友、嫁娶、立契，則書「和」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S005",
-      "original_quote": "若入山、捕獵、畋獵，則書「獅」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S006",
-      "original_quote": "若部工居眾，則書「強」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S007",
-      "original_quote": "若過河、治水，則書「土」字或「戊」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S008",
-      "original_quote": "若波浪騰聲，舟楫將溺，尤忌八風、觸水龍、招搖、咸池之日，宜書「戊」字。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S009",
-      "original_quote": "若游山、入道，則書「龍」字，龍不敢動。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan23_P111_S010",
-      "original_quote": "值符臨其方，前行六十步左轉入太陰中，得此者天道亨，此五行制勝之妙用也。",
-      "paragraph_index": 111,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十三",
-        "section": "卷二十三",
-        "line_ref": "第258行"
+        "juan": "下卷·卷23",
+        "section": "卷23",
+        "line_ref": "段落111"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan23",
-    "line_id_start": "QMDJ_Juan23_P000_S000",
-    "line_id_end": "QMDJ_Juan23_P111_S010",
-    "original_block": "《卷二十三》\n論十方星將生剋\n天元即是人時元，十二方位人坐邊，月將尋時依次定，貴人須審日乾傳。\n天元君父夫主師，尊先長上首高皮，貴神官祿心家主，群吏外財胸乳臍。\n月將親戚弟兄輩，內財妻子腹腰腓，下方卑幼臣民妾，孫足家中物些微。\n乾剋方為妻妾動，官財損折下卑疲，外邊取索多唇舌，人在家中防不怡。\n乾剋神為官祿動，官財兩得非常宜，外人取索多謀害，市不利官散不遲。\n乾剋將為財內動，求財多得妻多病，又知屋宇柱梁權，將本求財多利進。\n干生神位親來訪，又有外人送物廣，物色官府所用之，借來借去數中仿。\n干生月將內財興，人送物來依類分，內外弟兄和氣合，須知慈父愛兒孫。\n干生方位澤恩該，蔭子添孫奴婢財，占產始知多易育，非常寵遇自天來。\n神剋乾為官祿動，仕膺祿位望財無，常人官事得官物，喉病財來暗損失。\n神剋將為內賊生，勾連偸詐構攘深，損財卑幼當災疾，求望無成占病傾。\n神剋方為隔動興，求財遲得事遲成，主人怒發災奴僕，占病臍疼足跛行。\n神生乾有官超薦，人送物來官可見，祭祀以時享孝歆，尋人必定來見面。\n神生將為婚姻合，饋送來珍物最時，求望謀為皆遂意，行人必至莫生疑。\n神生方位隔神動，宛轉謀為始望成，和氣主翁恩下及，家奴盡力業生營。\n將剋乾為隔喜竝，歡忻喜事由天定，求財阻隔事難成，必待天祿方合並。\n將剋神為財動興，求財得利妻得病，求官難得疾難醫，出外物形終損應。\n將剋方為憂慮興，憂慮疾病足難行，幼災財僕多傷損，爭訟難贏宅不寧。\n將生乾是平星吉，內外和合妻正室，財產興隆兒孝親，須知人宅兩安並。\n將生神是和合星，百事皆祥和福臻，兒孝妻賢家宇泰，施財普濟路橋平。\n將生方是吉神課，財帛外來有親助，喜慶兒孫多秀拔，須知天庇家平和。\n方剋乾為官鬼動，官亨出外訟牽人，災憂口舌冤仇損，自艾遁逃干上刑。\n方剋神為官祿動，求官得祿必成名，傷神舉薦無提拔，刑獄連遭官府嗔。\n方剋將為外賊露，耗材妻妾生災毒，須知人欲出於家，失物因尋複得物。\n方生神是喜和星，宛轉謀為皆稱情，奴僕盡心忠益主，須知基旺屋更新。\n方生乾是忠孝星，父母君師皆喜忻，印綬擢拔多進益，須知祭祀福祥臻。\n方生乾是壬星得，地載吉祥喜事臨，和合婚姻謀望遂，家庭和氣業更新。\n上順下生天與慶，外人送物進財應，添丁百事皆和合，立至行人得產興。\n下順上生出行該，經商得利稱心懷，求官得舉蒙恩擢，喜信家中傳報來。\n上順剋時外剋內，外人構詐生謀害，頻爭財破上凌卑，足疾地基多退敗。\n下順剋尊內剋外，卑幼忤逆官司壞，勾連財失舌唇多，嘔吐病災無父母。\n干神比是近謀身，不犯親戚不累人，神將比為親屬好，謀為作事托宗親。\n將方比是為朋友，進退作為朋友成，干戈比為兄弟類，事謀不寔比肩行。\n全比親屬迭重連，卑逾尊兮邪奪正，上下混向無分別，大凶無吉災刑並。\n神與乾合為官合，士子科場榮擢廷，庸俗訟公官府累，謀望小事多難成。\n神與將合為正合，婚姻成就事亨通，又多朋友親隣助，惟有病占秋複冬。\n將與方合為遙合，遠路來年婚就成，謀事遲成人病仰，以卑動長合相承。\n干與將合名為格，內外關防遲送迎，方與神合經年事，卑幼乾尊事晚成。\n方與乾合人謀己，門中有事就相爭，星奇方位門諸將，吉凶平穩隨時評。\n同朋為旺我生相，休是財官囚鬼將，死為父母分輕重，有氣大凶無小恙，\n大吉星旺固勝小，無氣不如小星暢，吉宿若逢時旺相，萬舉萬全功業尚，\n管甚身相竝定命，諸家不論惡星將，官符太歲盡歸承，壓煞擢凶靈顯真，\n作著流財財便發，作著空亡空裡興，若值休囚並廢棄，勸君不必進前升，\n愚今推演局卦數，變易隨時見道流，值符為綱使為目，詳演西山數人周，\n門為外卦宮為內，值使宰時正卦游，飛爻出現目今斷，伏爻藏隱詳後頭，\n反卦先天相對取，彼方之向敵占留，互察未來後代事，用占旺相與休囚，\n用爻被傷尋生救，絕處逢生一樣搜，二卷分明推斷類，請君一一熟詳求，\n泊宮本命六儀里，甲子行年本命頭，本命宮中起甲子，陰陽逆順一般周，\n命與行年隨宮斷，便知情性興亡籌，三易玩占周易主，啟蒙占法變之搜，\n參伍研幾惟在己，極深達用至誠求，若能念念時存此，方可循循達上俢。\n此篇歌訣是以奇門而演周易之卦也。\n奇門掌中金要訣\n奇門玄妙九宮邊。即邊九掌訣也。遁至奇儀順逆傳。\n陽遁順布六儀，甲子戊、甲戌己、甲申庚、甲午辛、甲辰壬、甲寅癸，逆布三奇，星奇丁、月奇丙、日奇乙。陰遁逆布六儀順布三奇也。\n宮局星門隨甲換。\n假如陽遁二局，就在邊九宮坤二上起，甲子至某時止，甲旬符頭落在何宮？就將此宮星門二處，星為值符，門為值使也。\n日時須遁五子元。\n甲己還加甲，乙庚丙作初，丙辛生戊子，丁壬庚子居，戊癸何方落，壬子是真途。\n先將甲旬求符使。\n即前甲旬落在宮，星符、門使也。\n次覓時辰幾宮安。\n本時落宮在何宮，就以值門加之為使。\n再看時幹幾宮落。\n假如以甲子至某甲符頭，於邊九宮上算至甲宮止，所餘者就是奇也。陽遁丙丁乙，陰遁乙丙丁，從上一宮甲子起戊、己、庚、辛、壬、癸，看本時幹落於何宮，即值符在此也。乙丙丁所在亦然。\n宮數星門記的端。\n須記明宮、星、門便成局矣。八卦有定位，雖遇陰陽二遁亦不飛動，九星亦有定宮，須隨值符而飛者，看某局上起子至某甲符頭，即分星，又數至某時，即為門也，如甲子上起戊，至時幹上之類也。\n便將符使九宮飛。\n於掌上飛九宮方，知前奇門吉凶下落。\n休到二宮從二起。\n如陽遁二局甲子日乙丑時，休門飛到坤二宮即住，便為值使門也。\n任駐三宮在三起。\n任從三宮，即符，即三宮也。\n星奇門合是為奇。\n九星奇門俱要合，方可用也。\n八門干支相加地。\n八門支干加地盤，俱要相生方用。\n生剋休旺吉凶稽。以休旺墓剋而推吉凶。\n此是神仙秘密訣，頗得千金不授伊。\n掌上飛九宮圖\n二○ 七○ 六○\n九○ 五○ 一○\n四○ 三○ 八○\n邊九宮飛掌圖\n野馬跳澗走，逢寅數豬狗，一局過一宮，不用亥子丑。\n兌七申　艮八酉　離九戌　不用亥\n乾六未　　　　　　　　　　　　　不用子\n中五午　　　　　　　　　　　　　不用丑\n巽四巳　震三辰　坤二卯　坎一寅\n超神接氣置閏訣\n閏奇自有玄妙訣。\n以時置閏。\n神仙不肯說分明。\n冬夏二至前起閏，凡一月節氣以三十日零五時二刻為准，以三十日分六局，以餘五時二刻置閏，遇芒種、大雪超過九日便當置閏，大概五日一元，一日十二時也。\n甲己二字號符頭。\n此甲己乃至要之訣也。置閏以甲己二字為主，假如甲己之符先到，謂之超；甲己之符未到，謂之接；甲己與節同到，謂之正授。\n子午卯酉上局設。\n子午卯酉為上局也。\n寅申巳亥中局求，辰戌丑未下局截。\n節通符，符遇節。\n符，即甲己符頭；節，即節氣也。\n萬兩黃金不輕說，節前遇符便是超，節後遇符便是接。超神接氣若能明，便是三山雲外客。\n六甲利用\n經曰：「若有所用，百事皆向六甲所在之方，呼其神名，行六十步左轉入太陰中。又六丁名太陰，見貴人則喜悅，遇陣則勝」。\n甲子旬神名「王文卿」，登壇、拜將令、領授兵符者，元帥運籌命起兵，發儲糧者，皆向其方呼其神之名，而行六十步左轉入太陰中，則發握如神。\n甲戌旬神名「徐何」，利通伐山林、平治道途路、分決河道，得於自然，開路無損，皆向其方呼其神之名，行六十步左轉入太陰中，則得所願道路自通。\n甲申旬首名「蓋新」，若入山畋獵、捕捉虎狼蟲獸，皆向其方呼其神之名，而行六十步左轉入太陰中，蟲獸自然不動。\n甲午旬神名「靈光」，若安營、置陣、巡狩、戰鬪，向其方呼其神之名，行六十步左轉入太陰中，則必勝。\n甲辰旬神名「含章」，若求官、拜將、臨民、赴任，皆向其方呼其神之名，行六十步左轉入太陰中，則為官不敗悔。\n甲寅旬神名「監兵」，若揚兵、振武、教陣、蕩寇、行軍、征伐不道，皆向其方呼其神之名，行六十步左轉入太陰中，出行、安邊，賊自然不起。\n以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉。蓋六甲內管五行，而動靜無方，其五行而舍勝，有相生相剋之道，左手象天，右手法地，神靈好 靜，故書五行相制，運化之道，無不兼該。若欲出兵，大將左手中用朱書「強」字，將手捏住，行六十步左轉入太陰，能欺弱制勝之道也。若見貴人、求官，及二千 石令長，左手中書「天」字。若商賈、興販、和結交友、嫁娶、立契，則書「和」字。若入山、捕獵、畋獵，則書「獅」字。若部工居眾，則書「強」字。若過河、 治水，則書「土」字或「戊」字。若波浪騰聲，舟楫將溺，尤忌八風、觸水龍、招搖、咸池之日，宜書「戊」字。若游山、入道，則書「龍」字，龍不敢動。值符臨 其方，前行六十步左轉入太陰中，得此者天道亨，此五行制勝之妙用也。\n\n"
-  }
+  "_extraction_status": "卷23完成"
 }

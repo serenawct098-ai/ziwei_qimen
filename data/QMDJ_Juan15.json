@@ -1,1514 +1,1088 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "上卷·卷十五",
-  "section": "卷十五",
+  "juan": "上卷·卷15",
+  "section": "卷15",
   "entries": [
     {
-      "line_id": "QMDJ_Juan15_P000_S000",
+      "line_id": "QMDJ_Juan15_L000",
       "original_quote": "《卷十五》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1578行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P001_S000",
+      "line_id": "QMDJ_Juan15_L001",
       "original_quote": "三奇八門",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1579行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P002_S000",
+      "line_id": "QMDJ_Juan15_L002",
       "original_quote": "乙至六七自疑難，丙丁臨一不堪觀，柱心至九皆難用，也忌驚開門莫前，英景定知愁坎位，休逢二八是頭端，死生芮任禽三四，衝傷六七不虛言，杜輔要知同六七，若人會此透天關。",
-      "paragraph_index": 2,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1580行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P003_S000",
+      "line_id": "QMDJ_Juan15_L003",
       "original_quote": "門迫歌",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1581行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P004_S000",
+      "line_id": "QMDJ_Juan15_L004",
       "original_quote": "驚開三四休臨九，傷杜還歸二八宮，生死排來居第一，景門六七總相同，吉門被迫吉不就，凶門被迫禍重重。",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1582行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P005_S000",
+      "line_id": "QMDJ_Juan15_L005",
       "original_quote": "三奇入墓歌",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1583行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P006_S000",
+      "line_id": "QMDJ_Juan15_L006",
       "original_quote": "三奇入墓百不宜，乙丙臨干請避之，丁奇乙未臨艮土，諸般動作盡休休。",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1584行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P007_S000",
+      "line_id": "QMDJ_Juan15_L007",
       "original_quote": "奇門吉格",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第890行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P008_S000",
-      "original_quote": "「天遁」者，生門主興隆合丙奇，臨下六丁是也，此遁得月華之蔽，宜行兵、獻策、攝王侯之權，百事生旺。",
-      "paragraph_index": 8,
+      "line_id": "QMDJ_Juan15_L008",
+      "original_quote": "「天遁」者，生門主興隆合丙奇，臨下六丁是也，此遁得月華之蔽，宜行兵、獻策、攝王侯之權，百事生旺。又開門與六丙亦相同，宜祭禱天神。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1586行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P008_S001",
-      "original_quote": "又開門與六丙亦相同，宜祭禱天神。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1586行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P009_S000",
+      "line_id": "QMDJ_Juan15_L009",
       "original_quote": "「地遁」者，開門合乙奇，臨地下六己是也，此遁得日精之蔽，宜安葬、埋伏、出門、造屋一切皆吉。",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1587行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P010_S000",
-      "original_quote": "「人遁」者，休門與丁奇合太陰是也，此遁得星精之蔽，宜密探賊營、隱跡、謁貴、招賢、求親、經營、求將、對敵、盟誓，吉；",
-      "paragraph_index": 10,
+      "line_id": "QMDJ_Juan15_L010",
+      "original_quote": "「人遁」者，休門與丁奇合太陰是也，此遁得星精之蔽，宜密探賊營、隱跡、謁貴、招賢、求親、經營、求將、對敵、盟誓，吉；百事和集。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1588行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P010_S001",
-      "original_quote": "百事和集。",
-      "paragraph_index": 10,
+      "line_id": "QMDJ_Juan15_L011",
+      "original_quote": "「風遁」者，乙奇合休開生臨巽是也，又開丙臨巽亦是。此時風從西北方來，名「天罡風」，宜順風擊賊，以嘿吸風氣噴噀旌旄，或托異香令士卒沉聽音樂，得靈風順音爽帆之蔽，順風所助。如風從東來，名「雷門風」，若賊在東方不可與戰。風從東南來，名「大門風」，如賊在南方亦不可與戰。《參籌秘書》云：「開門乙奇臨巽，宜祭風伯，以火攻敵，戰立旌旗，以候風應」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1588行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P011_S000",
-      "original_quote": "「風遁」者，乙奇合休開生臨巽是也，又開丙臨巽亦是。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan15_L012",
+      "original_quote": "「云遁」者，乙合開休生，下臨六辛宮，又乙開臨坤亦是此遁，得雲精之蔽，宜藏形、蔽敵。如雲氣形、如婦人雙手雙足，主三日有喜，所臨處吉。白雲在外中有黑云，主有伏兵，形似雁行，主有大將出，所臨處吉。形如坐狗，有奇兵埋伏，云震片片，被風吹斷，主大敗。一云：乙休臨坤，利求雨澤、建立雲寨、制造軍器，以候雲應。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1589行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P011_S001",
-      "original_quote": "此時風從西北方來，名「天罡風」，宜順風擊賊，以嘿吸風氣噴噀旌旄，或托異香令士卒沉聽音樂，得靈風順音爽帆之蔽，順風所助。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan15_L013",
+      "original_quote": "「龍遁」者，休門與乙奇臨六甲於坎宮，臨六癸亦是。此時宜祭龍神、祈求雨澤、掩捕賊人、密計渡河、把守水口、設機伏謀、攻敵、量水面，得龍神助，又利水戰。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1589行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P011_S002",
-      "original_quote": "如風從東來，名「雷門風」，若賊在東方不可與戰。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan15_L014",
+      "original_quote": "「虎遁」者，乙奇合辛臨休門於艮宮，又辛儀合生臨艮亦是。此時宜招安亡命及戰用急攻，必勝；設伏游擊、藏兵、計渡要害、道路量險，用謀得虎之威。一云：生門丙奇合辛亦是，利守御，宜建立山寨，以候虎應。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1589行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P011_S003",
-      "original_quote": "風從東南來，名「大門風」，如賊在南方亦不可與戰。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan15_L015",
+      "original_quote": "「神遁」者，丙奇合九天臨生門，此時宜禱神靈、行神術、畫地布籌、禹罡、造壇、驅邪、命將、呼風召雨，及制伏鬼神魔魅，得天靈百神之蔽。一云：「修塑神像，神靈佑之」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1589行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P011_S004",
-      "original_quote": "《參籌秘書》云：「開門乙奇臨巽，宜祭風伯，以火攻敵，戰立旌旗，以候風應」。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan15_L016",
+      "original_quote": "「鬼遁」者，生門與丁奇、九地臨艮。又乙奇合九地於杜門亦是。此時宜哨探賊機、偷營劫寨、設偽為伏虛、驅神役鬼，得鬼神之蔽。一云：「開門、丁奇合九地亦是鬼遁」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1589行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P012_S000",
-      "original_quote": "「云遁」者，乙合開休生，下臨六辛宮，又乙開臨坤亦是此遁，得雲精之蔽，宜藏形、蔽敵。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1590行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P012_S001",
-      "original_quote": "如雲氣形、如婦人雙手雙足，主三日有喜，所臨處吉。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1590行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P012_S002",
-      "original_quote": "白雲在外中有黑云，主有伏兵，形似雁行，主有大將出，所臨處吉。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1590行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P012_S003",
-      "original_quote": "形如坐狗，有奇兵埋伏，云震片片，被風吹斷，主大敗。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1590行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P012_S004",
-      "original_quote": "一云：乙休臨坤，利求雨澤、建立雲寨、制造軍器，以候雲應。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1590行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P013_S000",
-      "original_quote": "「龍遁」者，休門與乙奇臨六甲於坎宮，臨六癸亦是。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1591行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P013_S001",
-      "original_quote": "此時宜祭龍神、祈求雨澤、掩捕賊人、密計渡河、把守水口、設機伏謀、攻敵、量水面，得龍神助，又利水戰。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1591行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P014_S000",
-      "original_quote": "「虎遁」者，乙奇合辛臨休門於艮宮，又辛儀合生臨艮亦是。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1592行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P014_S001",
-      "original_quote": "此時宜招安亡命及戰用急攻，必勝；",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1592行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P014_S002",
-      "original_quote": "設伏游擊、藏兵、計渡要害、道路量險，用謀得虎之威。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1592行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P014_S003",
-      "original_quote": "一云：生門丙奇合辛亦是，利守御，宜建立山寨，以候虎應。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1592行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P015_S000",
-      "original_quote": "「神遁」者，丙奇合九天臨生門，此時宜禱神靈、行神術、畫地布籌、禹罡、造壇、驅邪、命將、呼風召雨，及制伏鬼神魔魅，得天靈百神之蔽。",
-      "paragraph_index": 15,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1593行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P015_S001",
-      "original_quote": "一云：「修塑神像，神靈佑之」。",
-      "paragraph_index": 15,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1593行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P016_S000",
-      "original_quote": "「鬼遁」者，生門與丁奇、九地臨艮。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1594行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P016_S001",
-      "original_quote": "又乙奇合九地於杜門亦是。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1594行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P016_S002",
-      "original_quote": "此時宜哨探賊機、偷營劫寨、設偽為伏虛、驅神役鬼，得鬼神之蔽。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1594行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P016_S003",
-      "original_quote": "一云：「開門、丁奇合九地亦是鬼遁」。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1594行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P017_S000",
+      "line_id": "QMDJ_Juan15_L017",
       "original_quote": "三奇貴人升殿格",
-      "paragraph_index": 17,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1595行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P018_S000",
+      "line_id": "QMDJ_Juan15_L018",
       "original_quote": "乙奇臨震為「日出扶桑」，有祿之鄉，是貴人升於乙卯正殿。",
-      "paragraph_index": 18,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1596行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P019_S000",
+      "line_id": "QMDJ_Juan15_L019",
       "original_quote": "丙奇到離為「月照端門」，火旺之地，是貴人升於丙午正殿。",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1597行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P020_S000",
+      "line_id": "QMDJ_Juan15_L020",
       "original_quote": "丁奇臨兌為「丁見西方」，天之神位，是貴人升於丁酉本殿。",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1598行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P021_S000",
-      "original_quote": "「三奇上吉門格」乙丙丁三奇到，而無開休生三吉門者，不可用。",
-      "paragraph_index": 21,
+      "line_id": "QMDJ_Juan15_L021",
+      "original_quote": "「三奇上吉門格」乙丙丁三奇到，而無開休生三吉門者，不可用。如三吉門到，而無三奇者，尚可用。經云：「背生向死，百戰百勝」。總之三奇吉星、吉門俱到，又不犯格，方為萬全。若事在危急，諸星不到，須用背生向死之法。如敵勢尚緩，候三奇吉門俱到，斯為全美矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P021_S001",
-      "original_quote": "如三吉門到，而無三奇者，尚可用。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P021_S002",
-      "original_quote": "經云：「背生向死，百戰百勝」。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P021_S003",
-      "original_quote": "總之三奇吉星、吉門俱到，又不犯格，方為萬全。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P021_S004",
-      "original_quote": "若事在危急，諸星不到，須用背生向死之法。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P021_S005",
-      "original_quote": "如敵勢尚緩，候三奇吉門俱到，斯為全美矣。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1599行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P022_S000",
+      "line_id": "QMDJ_Juan15_L022",
       "original_quote": "「三奇專使格」甲己日乙奇，丙辛日丙奇，乙庚日丁奇，丁壬日乙奇，戊癸日丁奇也。",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1600行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P023_S000",
+      "line_id": "QMDJ_Juan15_L023",
       "original_quote": "以上皆吉，陰陽二遁同。",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1601行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P024_S000",
-      "original_quote": "「玉女守門格」甲己時在丙，乙庚時在辛，丙辛時在乙，丁壬時在己，戊癸時在壬。",
-      "paragraph_index": 24,
+      "line_id": "QMDJ_Juan15_L024",
+      "original_quote": "「玉女守門格」甲己時在丙，乙庚時在辛，丙辛時在乙，丁壬時在己，戊癸時在壬。一云：兌宮有丁辛者吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1602行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P024_S001",
-      "original_quote": "一云：兌宮有丁辛者吉。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1602行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P025_S000",
+      "line_id": "QMDJ_Juan15_L025",
       "original_quote": "「交泰格」乙奇加丁，乙奇加丙，遇之大吉。",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1603行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P026_S000",
+      "line_id": "QMDJ_Juan15_L026",
       "original_quote": "「天遇運昌氣格」六丁加六乙。",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1604行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P027_S000",
+      "line_id": "QMDJ_Juan15_L027",
       "original_quote": "「三奇利合格」六丁加六甲，六甲謂之符頭。",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1605行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P028_S000",
-      "original_quote": "「天輔時格」甲己日甲戌，乙庚日甲申，丙辛日甲午，丁壬日甲辰，戊癸日甲寅。",
-      "paragraph_index": 28,
+      "line_id": "QMDJ_Juan15_L028",
+      "original_quote": "「天輔時格」甲己日甲戌，乙庚日甲申，丙辛日甲午，丁壬日甲辰，戊癸日甲寅。行兵、戰鬪、上官、參謁、求財、遠行皆吉。有罪者，皆逢宥釋。甲己日甲子、己巳時亦是。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1606行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P028_S001",
-      "original_quote": "行兵、戰鬪、上官、參謁、求財、遠行皆吉。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1606行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P028_S002",
-      "original_quote": "有罪者，皆逢宥釋。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1606行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P028_S003",
-      "original_quote": "甲己日甲子、己巳時亦是。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1606行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P029_S000",
+      "line_id": "QMDJ_Juan15_L029",
       "original_quote": "「青龍回首格」天盤六戊，地盤六丙。",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1607行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P030_S000",
+      "line_id": "QMDJ_Juan15_L030",
       "original_quote": "「飛鳥跌穴」丙加戊。",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1608行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P031_S000",
+      "line_id": "QMDJ_Juan15_L031",
       "original_quote": "「雀含花格」丙加乙。",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1609行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P032_S000",
+      "line_id": "QMDJ_Juan15_L032",
       "original_quote": "「三奇得使格」乙加午甲午、戌甲戌二宮，丙奇加子甲子、申甲申二宮，丁奇加寅甲寅、辰甲辰。",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1610行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P033_S000",
+      "line_id": "QMDJ_Juan15_L033",
       "original_quote": "凶格",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第835行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P034_S000",
-      "original_quote": "「悖格」丙加值符，加丙及丙加歲月日時之上，俱為悖格，主蒞政綱紀紊亂。",
-      "paragraph_index": 34,
+      "line_id": "QMDJ_Juan15_L034",
+      "original_quote": "「悖格」丙加值符，加丙及丙加歲月日時之上，俱為悖格，主蒞政綱紀紊亂。丙加丙亦為悖，主見亂臣賊子。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1612行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P034_S001",
-      "original_quote": "丙加丙亦為悖，主見亂臣賊子。",
-      "paragraph_index": 34,
+      "line_id": "QMDJ_Juan15_L035",
+      "original_quote": "「天網四張」歌曰：「天網四張無路走，一二網低有路通」。如壬戌年九月癸未日癸丑時陰六局，休門與值符加時干癸於坎宮，日時二干俱加離宮，是為網高九尺。又曰：「天網四張不可當」。此時用事有災殃，若是有人強出者，立便身眠見血光。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1612行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P035_S000",
-      "original_quote": "「天網四張」歌曰：「天網四張無路走，一二網低有路通」。",
-      "paragraph_index": 35,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1613行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P035_S001",
-      "original_quote": "如壬戌年九月癸未日癸丑時陰六局，休門與值符加時干癸於坎宮，日時二干俱加離宮，是為網高九尺。",
-      "paragraph_index": 35,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1613行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P035_S002",
-      "original_quote": "又曰：「天網四張不可當」。",
-      "paragraph_index": 35,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1613行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P035_S003",
-      "original_quote": "此時用事有災殃，若是有人強出者，立便身眠見血光。",
-      "paragraph_index": 35,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1613行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P036_S000",
+      "line_id": "QMDJ_Juan15_L036",
       "original_quote": "「地網遮格」六壬加時干六癸，二網俱不宜出兵、出行，大凶。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1614行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P037_S000",
+      "line_id": "QMDJ_Juan15_L037",
       "original_quote": "「高格」即「天網四張」，天上六癸加五六七八九宮，大凶，不可用。",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1615行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P038_S000",
-      "original_quote": "「低格」天盤六癸加一二三四宮，即匍匐而出。",
-      "paragraph_index": 38,
+      "line_id": "QMDJ_Juan15_L038",
+      "original_quote": "「低格」天盤六癸加一二三四宮，即匍匐而出。經曰：「天網四張，百物自傷」。此時可舉百事，又神有高下必須知之。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1616行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P038_S001",
-      "original_quote": "經曰：「天網四張，百物自傷」。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1616行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P038_S002",
-      "original_quote": "此時可舉百事，又神有高下必須知之。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1616行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P039_S000",
+      "line_id": "QMDJ_Juan15_L039",
       "original_quote": "「伏宮格」天盤六庚加值符及地盤戊，主客俱不利，戰鬪兩傷。",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1617行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P040_S000",
+      "line_id": "QMDJ_Juan15_L040",
       "original_quote": "「飛宮格」直符加六庚，主客俱凶。",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1618行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P041_S000",
+      "line_id": "QMDJ_Juan15_L041",
       "original_quote": "「時墓格」丙戌墓干，壬辰墓巽，辛丑墓艮，乙未墓坤，戊戌墓干。",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1619行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P042_S000",
+      "line_id": "QMDJ_Juan15_L042",
       "original_quote": "「迫制和義格」門剋宮為迫，宮剋門為制，門生宮為和，宮生門為義。",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1620行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P043_S000",
+      "line_id": "QMDJ_Juan15_L043",
       "original_quote": "「二龍相比格」六甲加六乙，凶。",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1621行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P044_S000",
+      "line_id": "QMDJ_Juan15_L044",
       "original_quote": "「青龍受困格」六甲加六戊，危。",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1622行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P045_S000",
+      "line_id": "QMDJ_Juan15_L045",
       "original_quote": "「火披水地」丙丁入乙宮，萬事莫舉。",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1623行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P046_S000",
+      "line_id": "QMDJ_Juan15_L046",
       "original_quote": "「木入金鄉」乙奇臨六、七宮，萬事莫舉。",
-      "paragraph_index": 46,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1624行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P047_S000",
+      "line_id": "QMDJ_Juan15_L047",
       "original_quote": "「火臨金位」丙丁加干兌宮。",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1625行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P048_S000",
+      "line_id": "QMDJ_Juan15_L048",
       "original_quote": "「金劈木林」庚辛臨震巽宮。",
-      "paragraph_index": 48,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1626行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P049_S000",
+      "line_id": "QMDJ_Juan15_L049",
       "original_quote": "「木來剋土」乙奇臨坤艮宮。",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1627行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P050_S000",
+      "line_id": "QMDJ_Juan15_L050",
       "original_quote": "「伏干格」庚加日干。",
-      "paragraph_index": 50,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1628行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P051_S000",
+      "line_id": "QMDJ_Juan15_L051",
       "original_quote": "「飛干格」日干加庚。",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1629行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P052_S000",
+      "line_id": "QMDJ_Juan15_L052",
       "original_quote": "「伏吟格」本星伏本宮。",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1630行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P053_S000",
+      "line_id": "QMDJ_Juan15_L053",
       "original_quote": "「反吟格」星臨對宮。",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1631行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P054_S000",
+      "line_id": "QMDJ_Juan15_L054",
       "original_quote": "「奇墓格」乙到臨坤，丙奇臨干，丁奇臨艮。",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1632行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P055_S000",
+      "line_id": "QMDJ_Juan15_L055",
       "original_quote": "「六儀刑擊格」甲子戊直符加三宮，甲戌己值符加二宮，甲申庚加八宮，甲午辛加九宮，甲辰壬加四宮，甲寅癸值符加四宮。",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1633行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P056_S000",
+      "line_id": "QMDJ_Juan15_L056",
       "original_quote": "「六儀受制」休加離，傷杜加艮坤，景加干、兌，生死加坎，開、驚加震、巽。",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1634行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P057_S000",
+      "line_id": "QMDJ_Juan15_L057",
       "original_quote": "「五不遇時格」時干剋日干。",
-      "paragraph_index": 57,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1635行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P058_S000",
+      "line_id": "QMDJ_Juan15_L058",
       "original_quote": "「地羅占葬格」天盤壬加地盤壬",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1636行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P059_S000",
+      "line_id": "QMDJ_Juan15_L059",
       "original_quote": "「歲格」庚臨歲干。",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1637行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P060_S000",
+      "line_id": "QMDJ_Juan15_L060",
       "original_quote": "「月格」庚臨月干。",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1638行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P061_S000",
+      "line_id": "QMDJ_Juan15_L061",
       "original_quote": "「日格」庚臨日干。",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1639行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P062_S000",
-      "original_quote": "「時格」庚臨時干。",
-      "paragraph_index": 62,
+      "line_id": "QMDJ_Juan15_L062",
+      "original_quote": "「時格」庚臨時干。即庚年庚月庚日庚時。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1640行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P062_S001",
-      "original_quote": "即庚年庚月庚日庚時。",
-      "paragraph_index": 62,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1640行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P063_S000",
+      "line_id": "QMDJ_Juan15_L063",
       "original_quote": "「大格」庚臨六癸。",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1641行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P064_S000",
+      "line_id": "QMDJ_Juan15_L064",
       "original_quote": "「小格」庚臨六壬。",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1642行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P065_S000",
+      "line_id": "QMDJ_Juan15_L065",
       "original_quote": "「刑格」庚臨六己。",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1643行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P066_S000",
+      "line_id": "QMDJ_Juan15_L066",
       "original_quote": "「悖格」丙加時干。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1644行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P067_S000",
+      "line_id": "QMDJ_Juan15_L067",
       "original_quote": "「青龍逃走」乙加辛。",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1645行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P068_S000",
+      "line_id": "QMDJ_Juan15_L068",
       "original_quote": "「白虎猖狂」辛加乙。",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1646行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P069_S000",
+      "line_id": "QMDJ_Juan15_L069",
       "original_quote": "「螣蛇妖矯」癸加丁。",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1647行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P070_S000",
+      "line_id": "QMDJ_Juan15_L070",
       "original_quote": "「朱雀投江」丁加癸。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1648行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P071_S000",
+      "line_id": "QMDJ_Juan15_L071",
       "original_quote": "「熒惑入太白」丙加庚。",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1649行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P072_S000",
+      "line_id": "QMDJ_Juan15_L072",
       "original_quote": "「太白入熒惑」庚加丙。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1650行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P073_S000",
+      "line_id": "QMDJ_Juan15_L073",
       "original_quote": "十二宮神歌",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1651行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P074_S000",
+      "line_id": "QMDJ_Juan15_L074",
       "original_quote": "子在寶瓶青齊位，丑居磨蠍越揚州，寅中人馬幽燕地，卯位天蠍宋豫求，辰為天秤鄭兗分，巳為雙女楚荊丘，午周三河屬獅子，未居巨蟹秦雍留，申為魏益陰陽位，酉趙冀州方為金，戌星白羊魯徐郡，亥為雙魚衛並收。",
-      "paragraph_index": 74,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1652行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P075_S000",
+      "line_id": "QMDJ_Juan15_L075",
       "original_quote": "星宿過度訣",
-      "paragraph_index": 75,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1653行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P076_S000",
-      "original_quote": "氐二度過卯，尾三度過寅，斗四度過丑，女二度過子，危十三度過亥，奎二度過戌，胃四度過酉，畢七度過申，井九度過未，柳四度過午，張十五度過巳，軫十度過辰。",
-      "paragraph_index": 76,
+      "line_id": "QMDJ_Juan15_L076",
+      "original_quote": "氐二度過卯，尾三度過寅，斗四度過丑，女二度過子，危十三度過亥，奎二度過戌，胃四度過酉，畢七度過申，井九度過未，柳四度過午，張十五度過巳，軫十度過辰。周天共計三百六十五度二十五分五十杪，分布十二宮，每宮計三十度四十二分七十九杪。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1654行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P076_S001",
-      "original_quote": "周天共計三百六十五度二十五分五十杪，分布十二宮，每宮計三十度四十二分七十九杪。",
-      "paragraph_index": 76,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1654行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan15_P077_S000",
+      "line_id": "QMDJ_Juan15_L077",
       "original_quote": "十二宮分野",
-      "paragraph_index": 77,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1655行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P078_S000",
+      "line_id": "QMDJ_Juan15_L078",
       "original_quote": "子，元枵，危月燕十六度，虛日鼠九度，女土蝠十五度，齊、青州、梓州，京東路。",
-      "paragraph_index": 78,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1656行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P079_S000",
+      "line_id": "QMDJ_Juan15_L079",
       "original_quote": "丑，星紀，牛金牛七度，鬥水獬二十三度，吳、淮、南東路、泗水、江東、揚州、盧州、兩浙、福建。",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1657行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P080_S000",
+      "line_id": "QMDJ_Juan15_L080",
       "original_quote": "寅，析木，箕水豹九度，尾火虎十八度，燕、幽州、夔州、河北、河西。",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1658行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P081_S000",
+      "line_id": "QMDJ_Juan15_L081",
       "original_quote": "卯，大火，心月狐六度，房日兔五度，氐土貉十六度，宋、京畿、豫州、楚國、濟陰。",
-      "paragraph_index": 81,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1659行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P082_S000",
+      "line_id": "QMDJ_Juan15_L082",
       "original_quote": "辰，壽星，亢金龍九度，角木蛟十二度，鄭、龍慶府、兗州、東西路、泰山、陳留、山陰。",
-      "paragraph_index": 82,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1660行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P083_S000",
+      "line_id": "QMDJ_Juan15_L083",
       "original_quote": "巳，鶉尾，軫水蚓十八度半，翼火蛇二十度十杪，楚、荊、湖南路、湖北路、荊州、廣東西路。",
-      "paragraph_index": 83,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1661行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落83"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P084_S000",
+      "line_id": "QMDJ_Juan15_L084",
       "original_quote": "午，鶉火，張月鹿十八度，星日馬七度，柳土獐十四度、周、京西南路、三河、關西。",
-      "paragraph_index": 84,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1662行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落84"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P085_S000",
+      "line_id": "QMDJ_Juan15_L085",
       "original_quote": "未，鶉首，鬼金羊二度半，井木犴三十度，秦、雍州、陜西、永興軍、秦風路、四州。",
-      "paragraph_index": 85,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1663行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落85"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P086_S000",
+      "line_id": "QMDJ_Juan15_L086",
       "original_quote": "申，實沉，參水猿九度，觜火猴半度，晉、河北東路、代州、成都、孟州。",
-      "paragraph_index": 86,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1664行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落86"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P087_S000",
+      "line_id": "QMDJ_Juan15_L087",
       "original_quote": "酉，大梁，畢月烏十六度，昴日雞七度，胃土雉十四度，趙、冀州、河北東西路、真定。",
-      "paragraph_index": 87,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1665行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落87"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P088_S000",
+      "line_id": "QMDJ_Juan15_L088",
       "original_quote": "戌，降婁，婁金狗十二度，奎木狼十七度半，魯、徐州北路。",
-      "paragraph_index": 88,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1666行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落88"
       }
     },
     {
-      "line_id": "QMDJ_Juan15_P089_S000",
+      "line_id": "QMDJ_Juan15_L089",
       "original_quote": "亥，娵訾，璧水狳九度，室火豬十七度，危月燕十七度，衛、並州、太原、河東路。",
-      "paragraph_index": 89,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷十五",
-        "section": "卷十五",
-        "line_ref": "第1667行"
+        "juan": "上卷·卷15",
+        "section": "卷15",
+        "line_ref": "段落89"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan15",
-    "line_id_start": "QMDJ_Juan15_P000_S000",
-    "line_id_end": "QMDJ_Juan15_P089_S000",
-    "original_block": "《卷十五》\n三奇八門\n乙至六七自疑難，丙丁臨一不堪觀，柱心至九皆難用，也忌驚開門莫前，英景定知愁坎位，休逢二八是頭端，死生芮任禽三四，衝傷六七不虛言，杜輔要知同六七，若人會此透天關。\n門迫歌\n驚開三四休臨九，傷杜還歸二八宮，生死排來居第一，景門六七總相同，吉門被迫吉不就，凶門被迫禍重重。\n三奇入墓歌\n三奇入墓百不宜，乙丙臨干請避之，丁奇乙未臨艮土，諸般動作盡休休。\n奇門吉格\n「天遁」者，生門主興隆合丙奇，臨下六丁是也，此遁得月華之蔽，宜行兵、獻策、攝王侯之權，百事生旺。又開門與六丙亦相同，宜祭禱天神。\n「地遁」者，開門合乙奇，臨地下六己是也，此遁得日精之蔽，宜安葬、埋伏、出門、造屋一切皆吉。\n「人遁」者，休門與丁奇合太陰是也，此遁得星精之蔽，宜密探賊營、隱跡、謁貴、招賢、求親、經營、求將、對敵、盟誓，吉；百事和集。\n「風遁」者，乙奇合休開生臨巽是也，又開丙臨巽亦是。此時風從西北方來，名「天罡風」，宜順風擊賊，以嘿吸風氣噴噀旌旄，或托異香令士卒沉聽音樂，得靈風 順音爽帆之蔽，順風所助。如風從東來，名「雷門風」，若賊在東方不可與戰。風從東南來，名「大門風」，如賊在南方亦不可與戰。《參籌秘書》云：「開門乙奇 臨巽，宜祭風伯，以火攻敵，戰立旌旗，以候風應」。\n「云遁」者，乙合開休生，下臨六辛宮，又乙開臨坤亦是此遁，得雲精之蔽，宜藏形、蔽敵。如雲氣形、如婦人雙手雙足，主三日有喜，所臨處吉。白雲在外中有黑 云，主有伏兵，形似雁行，主有大將出，所臨處吉。形如坐狗，有奇兵埋伏，云震片片，被風吹斷，主大敗。一云：乙休臨坤，利求雨澤、建立雲寨、制造軍器，以 候雲應。\n「龍遁」者，休門與乙奇臨六甲於坎宮，臨六癸亦是。此時宜祭龍神、祈求雨澤、掩捕賊人、密計渡河、把守水口、設機伏謀、攻敵、量水面，得龍神助，又利水戰。\n「虎遁」者，乙奇合辛臨休門於艮宮，又辛儀合生臨艮亦是。此時宜招安亡命及戰用急攻，必勝；設伏游擊、藏兵、計渡要害、道路量險，用謀得虎之威。一云：生門丙奇合辛亦是，利守御，宜建立山寨，以候虎應。\n「神遁」者，丙奇合九天臨生門，此時宜禱神靈、行神術、畫地布籌、禹罡、造壇、驅邪、命將、呼風召雨，及制伏鬼神魔魅，得天靈百神之蔽。一云：「修塑神像，神靈佑之」。\n「鬼遁」者，生門與丁奇、九地臨艮。又乙奇合九地於杜門亦是。此時宜哨探賊機、偷營劫寨、設偽為伏虛、驅神役鬼，得鬼神之蔽。一云：「開門、丁奇合九地亦是鬼遁」。\n三奇貴人升殿格\n乙奇臨震為「日出扶桑」，有祿之鄉，是貴人升於乙卯正殿。\n丙奇到離為「月照端門」，火旺之地，是貴人升於丙午正殿。\n丁奇臨兌為「丁見西方」，天之神位，是貴人升於丁酉本殿。\n「三奇上吉門格」乙丙丁三奇到，而無開休生三吉門者，不可用。如三吉門到，而無三奇者，尚可用。經云：「背生向死，百戰百勝」。總之三奇吉星、吉門俱到，又不犯格，方為萬全。若事在危急，諸星不到，須用背生向死之法。如敵勢尚緩，候三奇吉門俱到，斯為全美矣。\n「三奇專使格」甲己日乙奇，丙辛日丙奇，乙庚日丁奇，丁壬日乙奇，戊癸日丁奇也。\n以上皆吉，陰陽二遁同。\n「玉女守門格」甲己時在丙，乙庚時在辛，丙辛時在乙，丁壬時在己，戊癸時在壬。一云：兌宮有丁辛者吉。\n「交泰格」乙奇加丁，乙奇加丙，遇之大吉。\n「天遇運昌氣格」六丁加六乙。\n「三奇利合格」六丁加六甲，六甲謂之符頭。\n「天輔時格」甲己日甲戌，乙庚日甲申，丙辛日甲午，丁壬日甲辰，戊癸日甲寅。行兵、戰鬪、上官、參謁、求財、遠行皆吉。有罪者，皆逢宥釋。甲己日甲子、己巳時亦是。\n「青龍回首格」天盤六戊，地盤六丙。\n「飛鳥跌穴」丙加戊。\n「雀含花格」丙加乙。\n「三奇得使格」乙加午甲午、戌甲戌二宮，丙奇加子甲子、申甲申二宮，丁奇加寅甲寅、辰甲辰。\n凶格\n「悖格」丙加值符，加丙及丙加歲月日時之上，俱為悖格，主蒞政綱紀紊亂。丙加丙亦為悖，主見亂臣賊子。\n「天網四張」歌曰：「天網四張無路走，一二網低有路通」。如壬戌年九月癸未日癸丑時陰六局，休門與值符加時干癸於坎宮，日時二干俱加離宮，是為網高九尺。又曰：「天網四張不可當」。此時用事有災殃，若是有人強出者，立便身眠見血光。\n「地網遮格」六壬加時干六癸，二網俱不宜出兵、出行，大凶。\n「高格」即「天網四張」，天上六癸加五六七八九宮，大凶，不可用。\n「低格」天盤六癸加一二三四宮，即匍匐而出。經曰：「天網四張，百物自傷」。此時可舉百事，又神有高下必須知之。\n「伏宮格」天盤六庚加值符及地盤戊，主客俱不利，戰鬪兩傷。\n「飛宮格」直符加六庚，主客俱凶。\n「時墓格」丙戌墓干，壬辰墓巽，辛丑墓艮，乙未墓坤，戊戌墓干。\n「迫制和義格」門剋宮為迫，宮剋門為制，門生宮為和，宮生門為義。\n「二龍相比格」六甲加六乙，凶。\n「青龍受困格」六甲加六戊，危。\n「火披水地」丙丁入乙宮，萬事莫舉。\n「木入金鄉」乙奇臨六、七宮，萬事莫舉。\n「火臨金位」丙丁加干兌宮。\n「金劈木林」庚辛臨震巽宮。\n「木來剋土」乙奇臨坤艮宮。\n「伏干格」庚加日干。\n「飛干格」日干加庚。\n「伏吟格」本星伏本宮。\n「反吟格」星臨對宮。\n「奇墓格」乙到臨坤，丙奇臨干，丁奇臨艮。\n「六儀刑擊格」甲子戊直符加三宮，甲戌己值符加二宮，甲申庚加八宮，甲午辛加九宮，甲辰壬加四宮，甲寅癸值符加四宮。\n「六儀受制」休加離，傷杜加艮坤，景加干、兌，生死加坎，開、驚加震、巽。\n「五不遇時格」時干剋日干。\n「地羅占葬格」天盤壬加地盤壬\n「歲格」庚臨歲干。\n「月格」庚臨月干。\n「日格」庚臨日干。\n「時格」庚臨時干。即庚年庚月庚日庚時。\n「大格」庚臨六癸。\n「小格」庚臨六壬。\n「刑格」庚臨六己。\n「悖格」丙加時干。\n「青龍逃走」乙加辛。\n「白虎猖狂」辛加乙。\n「螣蛇妖矯」癸加丁。\n「朱雀投江」丁加癸。\n「熒惑入太白」丙加庚。\n「太白入熒惑」庚加丙。\n十二宮神歌\n子在寶瓶青齊位，丑居磨蠍越揚州，寅中人馬幽燕地，卯位天蠍宋豫求，辰為天秤鄭兗分，巳為雙女楚荊丘，午周三河屬獅子，未居巨蟹秦雍留，申為魏益陰陽位，酉趙冀州方為金，戌星白羊魯徐郡，亥為雙魚衛並收。\n星宿過度訣\n氐二度過卯，尾三度過寅，斗四度過丑，女二度過子，危十三度過亥，奎二度過戌，胃四度過酉，畢七度過申，井九度過未，柳四度過午，張十五度過巳，軫十度過辰。周天共計三百六十五度二十五分五十杪，分布十二宮，每宮計三十度四十二分七十九杪。\n十二宮分野\n子，元枵，危月燕十六度，虛日鼠九度，女土蝠十五度，齊、青州、梓州，京東路。\n丑，星紀，牛金牛七度，鬥水獬二十三度，吳、淮、南東路、泗水、江東、揚州、盧州、兩浙、福建。\n寅，析木，箕水豹九度，尾火虎十八度，燕、幽州、夔州、河北、河西。\n卯，大火，心月狐六度，房日兔五度，氐土貉十六度，宋、京畿、豫州、楚國、濟陰。\n辰，壽星，亢金龍九度，角木蛟十二度，鄭、龍慶府、兗州、東西路、泰山、陳留、山陰。\n巳，鶉尾，軫水蚓十八度半，翼火蛇二十度十杪，楚、荊、湖南路、湖北路、荊州、廣東西路。\n午，鶉火，張月鹿十八度，星日馬七度，柳土獐十四度、周、京西南路、三河、關西。\n未，鶉首，鬼金羊二度半，井木犴三十度，秦、雍州、陜西、永興軍、秦風路、四州。\n申，實沉，參水猿九度，觜火猴半度，晉、河北東路、代州、成都、孟州。\n酉，大梁，畢月烏十六度，昴日雞七度，胃土雉十四度，趙、冀州、河北東西路、真定。\n戌，降婁，婁金狗十二度，奎木狼十七度半，魯、徐州北路。\n亥，娵訾，璧水狳九度，室火豬十七度，危月燕十七度，衛、並州、太原、河東路。\n\n"
-  }
+  "_extraction_status": "卷15完成"
 }

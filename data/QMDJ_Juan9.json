@@ -1,3266 +1,632 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "上卷·卷九",
-  "section": "卷九",
+  "juan": "上卷·卷9",
+  "section": "卷9",
   "entries": [
     {
-      "line_id": "QMDJ_Juan9_P000_S000",
+      "line_id": "QMDJ_Juan9_L000",
       "original_quote": "《卷九》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第945行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P001_S000",
+      "line_id": "QMDJ_Juan9_L001",
       "original_quote": "占失物",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第946行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P002_S000",
-      "original_quote": "以日幹落宮為失主，時幹落宮為失物，各以類推之。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan9_L002",
+      "original_quote": "以日幹落宮為失主，時幹落宮為失物，各以類推之。看時幹落宮乘旺相氣來生日幹落宮者，仍得。反吟者，亦得。落空亡、墓、絕之宮，不得。乾為金鎖、寶物、銅鐵、圓圈之物，又為帽纓、為馬。坎為水晶、珍珠、筆墨、毛發細軟之物，又為豬。艮為山、玉石、器皿、蹬靴之物，又為牛、犬、貓。震為車、船、木器、碧色衣服之物，又為驢、騾。巽為絲紬、緞布細軟之物，又為彩色細長成隊之物。離為文明圖書、手卷、字畫、印信、文卷、彩禽、暖衣之物，又為馬。坤為銅鐵、鼓磬、釜中空有聲、象牙之物，又為牛羊。兌為金銀、首飾、有口對衿之物，又為羊雞、飛禽。看其有氣，便為活生之物，無氣即為死囚廢舊之物。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P002_S001",
-      "original_quote": "看時幹落宮乘旺相氣來生日幹落宮者，仍得。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S002",
-      "original_quote": "反吟者，亦得。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S003",
-      "original_quote": "落空亡、墓、絕之宮，不得。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S004",
-      "original_quote": "乾為金鎖、寶物、銅鐵、圓圈之物，又為帽纓、為馬。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S005",
-      "original_quote": "坎為水晶、珍珠、筆墨、毛發細軟之物，又為豬。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S006",
-      "original_quote": "艮為山、玉石、器皿、蹬靴之物，又為牛、犬、貓。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S007",
-      "original_quote": "震為車、船、木器、碧色衣服之物，又為驢、騾。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S008",
-      "original_quote": "巽為絲紬、緞布細軟之物，又為彩色細長成隊之物。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S009",
-      "original_quote": "離為文明圖書、手卷、字畫、印信、文卷、彩禽、暖衣之物，又為馬。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S010",
-      "original_quote": "坤為銅鐵、鼓磬、釜中空有聲、象牙之物，又為牛羊。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S011",
-      "original_quote": "兌為金銀、首飾、有口對衿之物，又為羊雞、飛禽。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P002_S012",
-      "original_quote": "看其有氣，便為活生之物，無氣即為死囚廢舊之物。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第947行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P003_S000",
+      "line_id": "QMDJ_Juan9_L003",
       "original_quote": "占何人盜",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第948行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P004_S000",
-      "original_quote": "以蓬元為盜主，神乘旺相氣，又得奇門吉格者，乃是貴人為盜，不乘旺相氣，不得奇門吉格者，乃是小人為盜。",
-      "paragraph_index": 4,
+      "line_id": "QMDJ_Juan9_L004",
+      "original_quote": "以蓬元為盜主，神乘旺相氣，又得奇門吉格者，乃是貴人為盜，不乘旺相氣，不得奇門吉格者，乃是小人為盜。仍配卦以決之，乾為老陽，震為長、壯，坎為中男、始壯，艮為少男、童年，坤為老婦，巽為長女，離中女，兌少女。在內為親近之人，在外為他人。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第949行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P004_S001",
-      "original_quote": "仍配卦以決之，乾為老陽，震為長、壯，坎為中男、始壯，艮為少男、童年，坤為老婦，巽為長女，離中女，兌少女。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第949行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P004_S002",
-      "original_quote": "在內為親近之人，在外為他人。",
-      "paragraph_index": 4,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第949行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P005_S000",
+      "line_id": "QMDJ_Juan9_L005",
       "original_quote": "占捕盜賊",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第950行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P006_S000",
-      "original_quote": "劫人財物者，謂之盜；",
-      "paragraph_index": 6,
+      "line_id": "QMDJ_Juan9_L006",
+      "original_quote": "劫人財物者，謂之盜；殺人取財者，謂之賊。以天蓬為大賊，元武為小賊，勾陳為捕盜之人，杜門為捕獲之方，皆以天盤主之。勾陳落宮剋蓬元之落宮者，捕之必獲。若蓬元剋勾陳之宮，主賊旺，捕人不敢獲。蓬元與勾陳宮比和者，必捕人通同為盜。勾陳、蓬、元同宮，必捕人為盜。蓬、元宮生勾陳宮者，捕人受賄，縱之不捕。總以庚格主之，年格年獲，月格月獲，日格日獲，時格時獲，不格不獲，杜門有格必獲，否亦不獲。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P006_S001",
-      "original_quote": "殺人取財者，謂之賊。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S002",
-      "original_quote": "以天蓬為大賊，元武為小賊，勾陳為捕盜之人，杜門為捕獲之方，皆以天盤主之。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S003",
-      "original_quote": "勾陳落宮剋蓬元之落宮者，捕之必獲。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S004",
-      "original_quote": "若蓬元剋勾陳之宮，主賊旺，捕人不敢獲。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S005",
-      "original_quote": "蓬元與勾陳宮比和者，必捕人通同為盜。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S006",
-      "original_quote": "勾陳、蓬、元同宮，必捕人為盜。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S007",
-      "original_quote": "蓬、元宮生勾陳宮者，捕人受賄，縱之不捕。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P006_S008",
-      "original_quote": "總以庚格主之，年格年獲，月格月獲，日格日獲，時格時獲，不格不獲，杜門有格必獲，否亦不獲。",
-      "paragraph_index": 6,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第951行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P007_S000",
+      "line_id": "QMDJ_Juan9_L007",
       "original_quote": "開挖水道",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第952行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P008_S000",
-      "original_quote": "以開門主之。",
-      "paragraph_index": 8,
+      "line_id": "QMDJ_Juan9_L008",
+      "original_quote": "以開門主之。開門乘旺相氣而得三奇者，主開挖有益，順利無害。若開門返吟、入墓，不宜挑挖，倘值太白凶格及甲辰壬者，後必有大害。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第953行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P008_S001",
-      "original_quote": "開門乘旺相氣而得三奇者，主開挖有益，順利無害。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第953行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P008_S002",
-      "original_quote": "若開門返吟、入墓，不宜挑挖，倘值太白凶格及甲辰壬者，後必有大害。",
-      "paragraph_index": 8,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第953行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P009_S000",
+      "line_id": "QMDJ_Juan9_L009",
       "original_quote": "占河水消漲",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第954行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P010_S000",
-      "original_quote": "以天蓬、休門決之。",
-      "paragraph_index": 10,
+      "line_id": "QMDJ_Juan9_L010",
+      "original_quote": "以天蓬、休門決之。休門乘旺相氣而得三奇者，水雖漲不至泛濫。休門乘旺相氣而值庚格者，主河水壅塞，泛濫湧漲。再看有甲辰壬帶螣蛇，主孽龍舞水為害。休門落於二五八宮，水被土剋，主立消或無水。休門不乘庚格與甲辰壬者，水雖旺發，亦不出岸。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P010_S001",
-      "original_quote": "休門乘旺相氣而得三奇者，水雖漲不至泛濫。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P010_S002",
-      "original_quote": "休門乘旺相氣而值庚格者，主河水壅塞，泛濫湧漲。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P010_S003",
-      "original_quote": "再看有甲辰壬帶螣蛇，主孽龍舞水為害。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P010_S004",
-      "original_quote": "休門落於二五八宮，水被土剋，主立消或無水。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P010_S005",
-      "original_quote": "休門不乘庚格與甲辰壬者，水雖旺發，亦不出岸。",
-      "paragraph_index": 10,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第955行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P011_S000",
+      "line_id": "QMDJ_Juan9_L011",
       "original_quote": "占布種五穀",
-      "paragraph_index": 11,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第956行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P012_S000",
-      "original_quote": "以九星所乘之門以類推之。",
-      "paragraph_index": 12,
+      "line_id": "QMDJ_Juan9_L012",
+      "original_quote": "以九星所乘之門以類推之。乘旺相氣而得三奇吉門者，以開門、天心為麥田；傷門、天衝為稻穀；杜門、天輔為麥稷，又為棉花；景門、天英為高梁；休門、天蓬為豆田；死門、天芮為蕎麥，又為蒜。各門、各星乘旺相氣帶三奇吉格者，大收。乘旺相氣不得三奇吉格者，薄收。九星內有被剋，或值空亡、入墓，而得凶格者，歉收，不必種。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P012_S001",
-      "original_quote": "乘旺相氣而得三奇吉門者，以開門、天心為麥田；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S002",
-      "original_quote": "傷門、天衝為稻穀；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S003",
-      "original_quote": "杜門、天輔為麥稷，又為棉花；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S004",
-      "original_quote": "景門、天英為高梁；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S005",
-      "original_quote": "休門、天蓬為豆田；",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S006",
-      "original_quote": "死門、天芮為蕎麥，又為蒜。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S007",
-      "original_quote": "各門、各星乘旺相氣帶三奇吉格者，大收。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S008",
-      "original_quote": "乘旺相氣不得三奇吉格者，薄收。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P012_S009",
-      "original_quote": "九星內有被剋，或值空亡、入墓，而得凶格者，歉收，不必種。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第957行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P013_S000",
+      "line_id": "QMDJ_Juan9_L013",
       "original_quote": "占請客",
-      "paragraph_index": 13,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第958行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P014_S000",
-      "original_quote": "以值符為客，天乙為主。",
-      "paragraph_index": 14,
+      "line_id": "QMDJ_Juan9_L014",
+      "original_quote": "以值符為客，天乙為主。天乙所乘之宮來生值符之宮者，必來。時幹生日乾者，亦來。天盤星生地盤星者，亦來。反此不來。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第959行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P014_S001",
-      "original_quote": "天乙所乘之宮來生值符之宮者，必來。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第959行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P014_S002",
-      "original_quote": "時幹生日乾者，亦來。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第959行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P014_S003",
-      "original_quote": "天盤星生地盤星者，亦來。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第959行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P014_S004",
-      "original_quote": "反此不來。",
-      "paragraph_index": 14,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第959行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P015_S000",
+      "line_id": "QMDJ_Juan9_L015",
       "original_quote": "占選妃",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第960行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P016_S000",
-      "original_quote": "以值符為差官，歲乾為天子，柱星為室女。",
-      "paragraph_index": 16,
+      "line_id": "QMDJ_Juan9_L016",
+      "original_quote": "以值符為差官，歲乾為天子，柱星為室女。室女年命日乾為值符所生者，主差官看中，必選。天柱為值符所生者，亦選。若室女年命日乾所乘之宮，或天柱之落宮為值符所乘之宮，或天柱之落宮為值符所乘之宮來剋者，不選。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第961行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P016_S001",
-      "original_quote": "室女年命日乾為值符所生者，主差官看中，必選。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第961行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P016_S002",
-      "original_quote": "天柱為值符所生者，亦選。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第961行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P016_S003",
-      "original_quote": "若室女年命日乾所乘之宮，或天柱之落宮為值符所乘之宮，或天柱之落宮為值符所乘之宮來剋者，不選。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第961行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P017_S000",
+      "line_id": "QMDJ_Juan9_L017",
       "original_quote": "占選後如何",
-      "paragraph_index": 17,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第962行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P018_S000",
-      "original_quote": "以歲干所乘之宮與室女年命日乾之宮，來合天柱之落宮，看歲干之宮來生室女年命日乾並天柱之宮者，主上喜隆寵。",
-      "paragraph_index": 18,
+      "line_id": "QMDJ_Juan9_L018",
+      "original_quote": "以歲干所乘之宮與室女年命日乾之宮，來合天柱之落宮，看歲干之宮來生室女年命日乾並天柱之宮者，主上喜隆寵。若甲子戊之宮，依生年命日乾及天柱之宮者，主後有王妃貴人。剋年命、天柱宮者，主上不喜，僅充不陳。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第963行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P018_S001",
-      "original_quote": "若甲子戊之宮，依生年命日乾及天柱之宮者，主後有王妃貴人。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第963行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P018_S002",
-      "original_quote": "剋年命、天柱宮者，主上不喜，僅充不陳。",
-      "paragraph_index": 18,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第963行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P019_S000",
+      "line_id": "QMDJ_Juan9_L019",
       "original_quote": "朝覲引見",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第964行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P020_S000",
-      "original_quote": "以休門、歲干、年命日乾之落宮決之。",
-      "paragraph_index": 20,
+      "line_id": "QMDJ_Juan9_L020",
+      "original_quote": "以休門、歲干、年命日乾之落宮決之。歲乾為天子，日乾為引見之人，年命日幹得歲干來生，再有三奇相扶者，大吉。又有休門落宮得奇儀相乘者，主引見，天子必喜，而得隆寵。如歲乾不生命日乾之落宮，亦不相剋制，而休門得奇來生年命日乾之落宮者，亦吉。若歲干來剋年命日乾，再入空亡、墓廢，並休門不得奇儀吉格者，不利。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第965行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P020_S001",
-      "original_quote": "歲乾為天子，日乾為引見之人，年命日幹得歲干來生，再有三奇相扶者，大吉。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第965行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P020_S002",
-      "original_quote": "又有休門落宮得奇儀相乘者，主引見，天子必喜，而得隆寵。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第965行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P020_S003",
-      "original_quote": "如歲乾不生命日乾之落宮，亦不相剋制，而休門得奇來生年命日乾之落宮者，亦吉。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第965行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P020_S004",
-      "original_quote": "若歲干來剋年命日乾，再入空亡、墓廢，並休門不得奇儀吉格者，不利。",
-      "paragraph_index": 20,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第965行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P021_S000",
+      "line_id": "QMDJ_Juan9_L021",
       "original_quote": "占墳墓",
-      "paragraph_index": 21,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第966行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P022_S000",
-      "original_quote": "凡墳墓之地，死者居之，吉則招福，凶則招禍。",
-      "paragraph_index": 22,
+      "line_id": "QMDJ_Juan9_L022",
+      "original_quote": "凡墳墓之地，死者居之，吉則招福，凶則招禍。蓋祖先之靈魂守黃泉之下，安則子孫興旺，不安則子孫敗亡。若未葬之先占之，其法專責死門，並天地二盤之星決之。以死門落宮地盤之星為死者，死門天盤之星為主人，死門落宮乘三奇而與地盤之星相生、相合、不相剋制者，主死者安。地盤之星生天盤之星，天盤之星得三奇者，主存亡俱安，吉，後主興旺。若死門落宮與地盤之星相剋者，主存亡不安。地盤之星剋天盤之星，不得奇門護持者，主存亡俱凶。死門反吟者，遷之斯吉。死門落空亡者，主無地氣，家敗人亡。再以何干、何神、何格推之，吉星吉干生旺者，吉；凶神、凶格、凶干剋制者，凶。此天盤之星，疑上下二盤之星而言，應俟高明者訪焉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P022_S001",
-      "original_quote": "蓋祖先之靈魂守黃泉之下，安則子孫興旺，不安則子孫敗亡。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S002",
-      "original_quote": "若未葬之先占之，其法專責死門，並天地二盤之星決之。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S003",
-      "original_quote": "以死門落宮地盤之星為死者，死門天盤之星為主人，死門落宮乘三奇而與地盤之星相生、相合、不相剋制者，主死者安。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S004",
-      "original_quote": "地盤之星生天盤之星，天盤之星得三奇者，主存亡俱安，吉，後主興旺。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S005",
-      "original_quote": "若死門落宮與地盤之星相剋者，主存亡不安。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S006",
-      "original_quote": "地盤之星剋天盤之星，不得奇門護持者，主存亡俱凶。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S007",
-      "original_quote": "死門反吟者，遷之斯吉。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S008",
-      "original_quote": "死門落空亡者，主無地氣，家敗人亡。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S009",
-      "original_quote": "再以何干、何神、何格推之，吉星吉干生旺者，吉；",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S010",
-      "original_quote": "凶神、凶格、凶干剋制者，凶。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P022_S011",
-      "original_quote": "此天盤之星，疑上下二盤之星而言，應俟高明者訪焉。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第967行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P023_S000",
+      "line_id": "QMDJ_Juan9_L023",
       "original_quote": "占走失六畜",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第968行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P024_S000",
-      "original_quote": "驢、騾、車、船以傷門、天衝主之，牛、羊以死門主之。",
-      "paragraph_index": 24,
+      "line_id": "QMDJ_Juan9_L024",
+      "original_quote": "驢、騾、車、船以傷門、天衝主之，牛、羊以死門主之。看落天盤何宮？即往何方尋之。馬以干、兌宮所得之星主之，若得天蓬星，當於近水處尋之，如乘元武為人盜去，再看得之之日必逢庚格。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第969行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P024_S001",
-      "original_quote": "看落天盤何宮？",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第969行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P024_S002",
-      "original_quote": "即往何方尋之。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第969行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P024_S003",
-      "original_quote": "馬以干、兌宮所得之星主之，若得天蓬星，當於近水處尋之，如乘元武為人盜去，再看得之之日必逢庚格。",
-      "paragraph_index": 24,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第969行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P025_S000",
+      "line_id": "QMDJ_Juan9_L025",
       "original_quote": "占文武升遷",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第970行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P026_S000",
-      "original_quote": "法以開、杜二門主之，文官看開門，武官看杜門。",
-      "paragraph_index": 26,
+      "line_id": "QMDJ_Juan9_L026",
+      "original_quote": "法以開、杜二門主之，文官看開門，武官看杜門。二門乘三奇，再得旺相相生其年命日乾者，必升。太歲來生年命日乾者，必系天子特旨。值符來生者，上司保舉。月建來生日干年命及開門者，部臣保舉。開門再得旺相相生，升之必速；得門不得奇，亦升；得奇不得門，只加銜不升。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P026_S001",
-      "original_quote": "二門乘三奇，再得旺相相生其年命日乾者，必升。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S002",
-      "original_quote": "太歲來生年命日乾者，必系天子特旨。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S003",
-      "original_quote": "值符來生者，上司保舉。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S004",
-      "original_quote": "月建來生日干年命及開門者，部臣保舉。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S005",
-      "original_quote": "開門再得旺相相生，升之必速；",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S006",
-      "original_quote": "得門不得奇，亦升；",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P026_S007",
-      "original_quote": "得奇不得門，只加銜不升。",
-      "paragraph_index": 26,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第971行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P027_S000",
+      "line_id": "QMDJ_Juan9_L027",
       "original_quote": "占降調",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第972行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P028_S000",
-      "original_quote": "開門受剋，文官降調，杜門受剋，武官降調。",
-      "paragraph_index": 28,
+      "line_id": "QMDJ_Juan9_L028",
+      "original_quote": "開門受剋，文官降調，杜門受剋，武官降調。返吟主調任，空亡必革職，入墓不惟降調，仍招罪戾。太歲來剋，天子不喜。值符來剋，上司參劾。月乾來剋，部臣參劾。如見玄武為盜案，白虎為命案，朱雀印信，螣蛇罣誤，太陰罷職，六合、勾陳貪酷。若開杜二門乘旺相相生之宮，或得三奇吉格，雖參不妨。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P028_S001",
-      "original_quote": "返吟主調任，空亡必革職，入墓不惟降調，仍招罪戾。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P028_S002",
-      "original_quote": "太歲來剋，天子不喜。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P028_S003",
-      "original_quote": "值符來剋，上司參劾。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P028_S004",
-      "original_quote": "月乾來剋，部臣參劾。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P028_S005",
-      "original_quote": "如見玄武為盜案，白虎為命案，朱雀印信，螣蛇罣誤，太陰罷職，六合、勾陳貪酷。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P028_S006",
-      "original_quote": "若開杜二門乘旺相相生之宮，或得三奇吉格，雖參不妨。",
-      "paragraph_index": 28,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第973行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P029_S000",
+      "line_id": "QMDJ_Juan9_L029",
       "original_quote": "占求官",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第974行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P030_S000",
-      "original_quote": "以開門落宮與年命日乾宮決之。",
-      "paragraph_index": 30,
+      "line_id": "QMDJ_Juan9_L030",
+      "original_quote": "以開門落宮與年命日乾宮決之。開門落宮生年命日乾之宮，再得三奇吉門、吉格者，得官必速。不得三奇吉門、吉格者，得官必遲誤，反必不得。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第975行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P030_S001",
-      "original_quote": "開門落宮生年命日乾之宮，再得三奇吉門、吉格者，得官必速。",
-      "paragraph_index": 30,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第975行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P030_S002",
-      "original_quote": "不得三奇吉門、吉格者，得官必遲誤，反必不得。",
-      "paragraph_index": 30,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第975行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P031_S000",
+      "line_id": "QMDJ_Juan9_L031",
       "original_quote": "占出任何方",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第976行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P032_S000",
-      "original_quote": "以天盤開門之落宮決之。",
-      "paragraph_index": 32,
+      "line_id": "QMDJ_Juan9_L032",
+      "original_quote": "以天盤開門之落宮決之。開門落於內四宮，必近；落於外四宮，必遠。陽遁自坎至巽為內，自離至乾為外，陰遁反此。再以地盤所帶之乾分配九州島，甲齊、乙東夷、丙楚、丁南蠻、戊韓魏、己中州、庚秦、辛晉、壬燕、癸北狄、子齊、丑吳越、寅燕、卯宋、辰鄭邯戰、巳楚、午周、未秦、申晉、酉趙、戌魯、亥衛。見元武主民間多盜，白虎主鬪傷，朱雀主刁訟，螣蛇多怪異，太陰主奸淫，天乙青龍、六合乃禮義敦僕之俗，勾陳多爭田土之事。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P032_S001",
-      "original_quote": "開門落於內四宮，必近；",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P032_S002",
-      "original_quote": "落於外四宮，必遠。",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P032_S003",
-      "original_quote": "陽遁自坎至巽為內，自離至乾為外，陰遁反此。",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P032_S004",
-      "original_quote": "再以地盤所帶之乾分配九州島，甲齊、乙東夷、丙楚、丁南蠻、戊韓魏、己中州、庚秦、辛晉、壬燕、癸北狄、子齊、丑吳越、寅燕、卯宋、辰鄭邯戰、巳楚、午周、未秦、申晉、酉趙、戌魯、亥衛。",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P032_S005",
-      "original_quote": "見元武主民間多盜，白虎主鬪傷，朱雀主刁訟，螣蛇多怪異，太陰主奸淫，天乙青龍、六合乃禮義敦僕之俗，勾陳多爭田土之事。",
-      "paragraph_index": 32,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第977行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P033_S000",
+      "line_id": "QMDJ_Juan9_L033",
       "original_quote": "占童生應試",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第978行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P034_S000",
-      "original_quote": "以天輔星為試官，丁奇為文章，日乾為童生。",
-      "paragraph_index": 34,
+      "line_id": "QMDJ_Juan9_L034",
+      "original_quote": "以天輔星為試官，丁奇為文章，日乾為童生。丁奇得門來生年命日乾，合吉門、吉格而得天輔來生者，必高取。或年命日乾、丁奇合吉門、吉格，不得天輔來生者，亦取。丁奇、年命日乾不得吉門、吉格，而被天輔來生者，主文憲施恩，不在文章好歹，亦取。若返吟、伏吟、入庫，主錄舊文，不取。落空亡者，必不完篇。驚、傷二門主文卷扯割。休門乘凶神、凶格衝剋年命日乾者，主文章塗污。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P034_S001",
-      "original_quote": "丁奇得門來生年命日乾，合吉門、吉格而得天輔來生者，必高取。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S002",
-      "original_quote": "或年命日乾、丁奇合吉門、吉格，不得天輔來生者，亦取。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S003",
-      "original_quote": "丁奇、年命日乾不得吉門、吉格，而被天輔來生者，主文憲施恩，不在文章好歹，亦取。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S004",
-      "original_quote": "若返吟、伏吟、入庫，主錄舊文，不取。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S005",
-      "original_quote": "落空亡者，必不完篇。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S006",
-      "original_quote": "驚、傷二門主文卷扯割。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P034_S007",
-      "original_quote": "休門乘凶神、凶格衝剋年命日乾者，主文章塗污。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第979行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P035_S000",
+      "line_id": "QMDJ_Juan9_L035",
       "original_quote": "占歲考第",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第980行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P036_S000",
-      "original_quote": "以天輔星為試官，日乾為試子，丁奇為文章，看天輔來生丁奇及年命日乾，再合奇儀吉格乘三吉門者，上吉，主一等。",
-      "paragraph_index": 36,
+      "line_id": "QMDJ_Juan9_L036",
+      "original_quote": "以天輔星為試官，日乾為試子，丁奇為文章，看天輔來生丁奇及年命日乾，再合奇儀吉格乘三吉門者，上吉，主一等。若丁奇年命日幹落景門者，次吉，主二等。得門不得奇，得奇不得門，或與天輔比和者，三等。如丁奇落空亡之宮，年命日乾再得凶神、凶格，四等。倘被天輔來剋者，主劣等。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第981行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P036_S001",
-      "original_quote": "若丁奇年命日幹落景門者，次吉，主二等。",
-      "paragraph_index": 36,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第981行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P036_S002",
-      "original_quote": "得門不得奇，得奇不得門，或與天輔比和者，三等。",
-      "paragraph_index": 36,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第981行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P036_S003",
-      "original_quote": "如丁奇落空亡之宮，年命日乾再得凶神、凶格，四等。",
-      "paragraph_index": 36,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第981行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P036_S004",
-      "original_quote": "倘被天輔來剋者，主劣等。",
-      "paragraph_index": 36,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第981行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P037_S000",
+      "line_id": "QMDJ_Juan9_L037",
       "original_quote": "占科舉",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第982行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P038_S000",
-      "original_quote": "以值符為正主考，月乾為副主考，天乙、朱雀為文章、為廉官，景門、丁奇、日乾為士子。",
-      "paragraph_index": 38,
+      "line_id": "QMDJ_Juan9_L038",
+      "original_quote": "以值符為正主考，月乾為副主考，天乙、朱雀為文章、為廉官，景門、丁奇、日乾為士子。以值符落宮生日幹落宮，景門、丁奇落宮再合吉格者，必高中，月乾來生亦然。朱雀來生景門、丁奇，主廉官力薦，不生不薦。丁奇、景門落宮剋值符、月乾之宮者，文卷雖佳，主考不喜。剋朱雀之落宮，不薦。乘凶格者，文章差池。空亡、入墓，必犯格式。乘元武必錯訛字跡，不中。日幹落空亡之宮，得值符、月乾來生者，文章雖佳，榜上無名。值符、日乾、朱雀空亡，文卷不入主考之目。入墓者，亦不中。場後見天驛二馬及太衝者，不中，更不必候榜。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P038_S001",
-      "original_quote": "以值符落宮生日幹落宮，景門、丁奇落宮再合吉格者，必高中，月乾來生亦然。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S002",
-      "original_quote": "朱雀來生景門、丁奇，主廉官力薦，不生不薦。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S003",
-      "original_quote": "丁奇、景門落宮剋值符、月乾之宮者，文卷雖佳，主考不喜。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S004",
-      "original_quote": "剋朱雀之落宮，不薦。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S005",
-      "original_quote": "乘凶格者，文章差池。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S006",
-      "original_quote": "空亡、入墓，必犯格式。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S007",
-      "original_quote": "乘元武必錯訛字跡，不中。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S008",
-      "original_quote": "日幹落空亡之宮，得值符、月乾來生者，文章雖佳，榜上無名。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S009",
-      "original_quote": "值符、日乾、朱雀空亡，文卷不入主考之目。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S010",
-      "original_quote": "入墓者，亦不中。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P038_S011",
-      "original_quote": "場後見天驛二馬及太衝者，不中，更不必候榜。",
-      "paragraph_index": 38,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第983行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P039_S000",
+      "line_id": "QMDJ_Juan9_L039",
       "original_quote": "占殿試",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第984行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P040_S000",
-      "original_quote": "以景門、丁奇為文章。",
-      "paragraph_index": 40,
+      "line_id": "QMDJ_Juan9_L040",
+      "original_quote": "以景門、丁奇為文章。如歲干所乘之宮來生景門、丁奇之落宮，再得奇門吉格者，必中鼎甲。歲干落宮生景門、丁奇之宮，不得奇門吉格者，必中二甲。歲干落宮不生景門、丁奇之宮，自乘旺相，中三甲。歲乾不生景門、丁奇之宮，又返吟、入墓者，不中。或剋歲干之宮，又有凶神相並，不惟不中，且遭罪戾。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P040_S001",
-      "original_quote": "如歲干所乘之宮來生景門、丁奇之落宮，再得奇門吉格者，必中鼎甲。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P040_S002",
-      "original_quote": "歲干落宮生景門、丁奇之宮，不得奇門吉格者，必中二甲。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P040_S003",
-      "original_quote": "歲干落宮不生景門、丁奇之宮，自乘旺相，中三甲。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P040_S004",
-      "original_quote": "歲乾不生景門、丁奇之宮，又返吟、入墓者，不中。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P040_S005",
-      "original_quote": "或剋歲干之宮，又有凶神相並，不惟不中，且遭罪戾。",
-      "paragraph_index": 40,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第985行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P041_S000",
+      "line_id": "QMDJ_Juan9_L041",
       "original_quote": "占武科舉",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第986行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P042_S000",
-      "original_quote": "以天衝星為監試官，以日乾為試士，甲戌己為弓，甲申庚為矢，景門為策論，傷門為馬。",
-      "paragraph_index": 42,
+      "line_id": "QMDJ_Juan9_L042",
+      "original_quote": "以天衝星為監試官，以日乾為試士，甲戌己為弓，甲申庚為矢，景門為策論，傷門為馬。甲戌己、甲申庚、傷門各乘旺相之宮與日乾相生者，主外場合式；剋者，主外場阻隔，又以甲午辛為紅心，庚加辛宮主矢中紅心。庚落艮、乾，矢落四角。巽、震、坤、兌矢落兩旁。落空亡者，矢不中。庚落幾宮，計中幾矢。落年命日乾宮得天衝來生，更兼景門奇儀，有吉格者，必中；反此不中，武童仿此。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P042_S001",
-      "original_quote": "甲戌己、甲申庚、傷門各乘旺相之宮與日乾相生者，主外場合式；",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S002",
-      "original_quote": "剋者，主外場阻隔，又以甲午辛為紅心，庚加辛宮主矢中紅心。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S003",
-      "original_quote": "庚落艮、乾，矢落四角。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S004",
-      "original_quote": "巽、震、坤、兌矢落兩旁。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S005",
-      "original_quote": "落空亡者，矢不中。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S006",
-      "original_quote": "庚落幾宮，計中幾矢。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S007",
-      "original_quote": "落年命日乾宮得天衝來生，更兼景門奇儀，有吉格者，必中；",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P042_S008",
-      "original_quote": "反此不中，武童仿此。",
-      "paragraph_index": 42,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第987行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P043_S000",
+      "line_id": "QMDJ_Juan9_L043",
       "original_quote": "占人生貴賤",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第988行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S000",
-      "original_quote": "其法先明戴九履一，細尋接氣、超神，八門配合九宮，九宮要帶三奇，年月日時要旺相，八門九宮須推移。",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L044",
+      "original_quote": "其法先明戴九履一，細尋接氣、超神，八門配合九宮，九宮要帶三奇，年月日時要旺相，八門九宮須推移。離宮，頭面；乾、艮，兩足、肩、耳、左手；坤巽震，在右手筋；坎為陰腎；中為心、腹。年乾父母，月乾兄弟，日乾本身，時幹屬兒，推及妻妾。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S001",
-      "original_quote": "離宮，頭面；",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L045",
+      "original_quote": "但看乙奇之落宮，庚為夫，定不移。要詳細其強弱，即能決其榮枯。旺相得奇，且富且貴；死囚墓絕，極賤極貧。格局要分輕重，命運驗其得失，未布局先看孤虛旺相，即問口必辨天地乘時。太白入乾坤，父母早年淪沒；如若臨兄弟宮位，手足竟是讎敵，日奇被刑衝莊生嗟嘆，時干逢之鄧通無兒。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S002",
-      "original_quote": "乾、艮，兩足、肩、耳、左手；",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L046",
+      "original_quote": "生門產業要得門奇，成敗分於內外，生剋決其得失。生門、太白逢衝陷，背祖離鄉之客；被衝剋，售盡祖父舊園。生在外而身在內，必遷居而發富；身在外而生在內，縱有祖業亦難容；身生二宮俱在內，安享僕馬之福；身生俱在外宮，遠方創立之人。日值孤，時值虛，少年無倚；時落孤，日落虛，老後鰥獨。命被衝剋，乞食道路。日臨絕墓，難釋愁眉。財旺生官，蓋因飛鳥跌穴。鰲頭獨立，必得青龍返首。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S003",
-      "original_quote": "坤巽震，在右手筋；",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L047",
+      "original_quote": "天輔旺相得奇門，文明翰苑。天衝旺相得儀，威震邊疆。天禽位鎮中宮得奇門，百官元首。英星右弼合吉格，鼎鼐元勛。天柱直言諫議。天心入垣，醫藥最良。任為左輔，司農之職。天芮不可得地，得奇門曹董之流。蓬星位鎮北垣，得奇門叛君之賊。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S004",
-      "original_quote": "坎為陰腎；",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L048",
+      "original_quote": "開門有奇應，是文職。傷門得令，定系虎臣。生門得奇，石崇富足。景門合局，丹天文明。驚門入式，好辯之人。乾宮為開，白頭出仕。死門得奇，職在司刑。分布八門、星、神、奇、儀合局者，豪富豪貴；失局者，下等平人。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S005",
-      "original_quote": "中為心、腹。",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L049",
+      "original_quote": "開門、心星皆是金，稍有氣，醫卜星相；若值死囚，手藝辛勤。休門、天蓬同一木，稍有氣，兵弁役吏；值死囚，軍忤賊人。生門、天任是土宿，得地者，田地富足；若失時，佣工耕耘。傷門、天衝皆為木，稍有氣，兵役之首；值死休，馬後相奔。杜門、天輔亦是木，稍有氣乃是寒儒；值墓絕僧山道林。景門、天英是火宿，稍有氣，行行威烈之表全；失局，凡治勞碌之人。死門、天芮皆是土，稍有氣，趙衛家長；值墓空，孤窮之人。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P044_S006",
-      "original_quote": "年乾父母，月乾兄弟，日乾本身，時幹屬兒，推及妻妾。",
-      "paragraph_index": 44,
+      "line_id": "QMDJ_Juan9_L050",
+      "original_quote": "八門辨別旺相，再論九星，得天蓬星乘時，邊疆之將；失地，利軍卒賊人。天任得地，田土僕馬之富；受剋，農圃辛苦之人。天衝有氣者，武貴；背時，車船江湖之流。天輔為左樞，得氣者，文雅仕宦；失地，利僧道、畫工。天英火，司南離，乘權者，必主文明；背時者，貪暴昏庸。天芮本是黑星，得天時，性惡霸盜；失天時，牧隸佣工。七赤位鎮西垣，有氣者，舌辯當世；被衝剋，優伎樂工。天心原是六白得地者，才華國柱；若空墓，九流相尋。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第989行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan9_P045_S000",
-      "original_quote": "但看乙奇之落宮，庚為夫，定不移。",
-      "paragraph_index": 45,
+      "line_id": "QMDJ_Juan9_L051",
+      "original_quote": "青龍返首，鰲頭獨占。飛鳥跌穴，窩富而成名。青龍得光，邑長縣令。丁加戊，富家之名。白虎猖狂，凶頑之輩。青龍逃走，懦弱之人，更主因妻成敗，而且佗背佗身。朱雀投江，刀筆書吏。螣蛇夭矯，毒心小人；失時者，目盲耳瞶；乘氣者，火焚傷身。太白入熒惑者，進主先貧後富。熒入太白者，退主，家業蕭條。天以太白，太白天乙，多成多敗。太白同宮，兄弟雷攻。太白蓬星，妻室常病。蓬星太白，惟薄醜聲。大格者，萍跡四海。小格者，暫時清貧。年月日時四格即六親，而推去看是何宮？測驗而為悖戾，無禮相從，推及父母、兄弟、妻子賢否？可以詳明。辛為天獄、壬為天牢，主低下之品，更主抑鬱難伸。癸為天網，須看高低，高者，化為華蓋，可推貴格；低者，天網纏身，寂寂孤貧。且忌玉女守門，妻隨人行。乙丁妻妾，看是誰親誰疏，乙奇入墓，妻不生子；子乙同宮，另續相親；乙奇在上，妻妾協和；丁加乙上，辛幸。天心諸格，忌落空亡，吉者更吉，而苦者更苦。若臨墓絕之地，無告窮民。八門推來，最怕返吟，伏吟亦是凶神，五行配合斯理，取刑在乎一心，餘不盡言，同志者，識之。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S001",
-      "original_quote": "要詳細其強弱，即能決其榮枯。",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S002",
-      "original_quote": "旺相得奇，且富且貴；",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S003",
-      "original_quote": "死囚墓絕，極賤極貧。",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S004",
-      "original_quote": "格局要分輕重，命運驗其得失，未布局先看孤虛旺相，即問口必辨天地乘時。",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S005",
-      "original_quote": "太白入乾坤，父母早年淪沒；",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P045_S006",
-      "original_quote": "如若臨兄弟宮位，手足竟是讎敵，日奇被刑衝莊生嗟嘆，時干逢之鄧通無兒。",
-      "paragraph_index": 45,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第990行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S000",
-      "original_quote": "生門產業要得門奇，成敗分於內外，生剋決其得失。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S001",
-      "original_quote": "生門、太白逢衝陷，背祖離鄉之客；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S002",
-      "original_quote": "被衝剋，售盡祖父舊園。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S003",
-      "original_quote": "生在外而身在內，必遷居而發富；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S004",
-      "original_quote": "身在外而生在內，縱有祖業亦難容；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S005",
-      "original_quote": "身生二宮俱在內，安享僕馬之福；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S006",
-      "original_quote": "身生俱在外宮，遠方創立之人。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S007",
-      "original_quote": "日值孤，時值虛，少年無倚；",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S008",
-      "original_quote": "時落孤，日落虛，老後鰥獨。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S009",
-      "original_quote": "命被衝剋，乞食道路。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S010",
-      "original_quote": "日臨絕墓，難釋愁眉。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S011",
-      "original_quote": "財旺生官，蓋因飛鳥跌穴。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P046_S012",
-      "original_quote": "鰲頭獨立，必得青龍返首。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第991行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S000",
-      "original_quote": "天輔旺相得奇門，文明翰苑。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S001",
-      "original_quote": "天衝旺相得儀，威震邊疆。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S002",
-      "original_quote": "天禽位鎮中宮得奇門，百官元首。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S003",
-      "original_quote": "英星右弼合吉格，鼎鼐元勛。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S004",
-      "original_quote": "天柱直言諫議。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S005",
-      "original_quote": "天心入垣，醫藥最良。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S006",
-      "original_quote": "任為左輔，司農之職。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S007",
-      "original_quote": "天芮不可得地，得奇門曹董之流。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P047_S008",
-      "original_quote": "蓬星位鎮北垣，得奇門叛君之賊。",
-      "paragraph_index": 47,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第992行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S000",
-      "original_quote": "開門有奇應，是文職。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S001",
-      "original_quote": "傷門得令，定系虎臣。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S002",
-      "original_quote": "生門得奇，石崇富足。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S003",
-      "original_quote": "景門合局，丹天文明。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S004",
-      "original_quote": "驚門入式，好辯之人。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S005",
-      "original_quote": "乾宮為開，白頭出仕。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S006",
-      "original_quote": "死門得奇，職在司刑。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S007",
-      "original_quote": "分布八門、星、神、奇、儀合局者，豪富豪貴；",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P048_S008",
-      "original_quote": "失局者，下等平人。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第993行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S000",
-      "original_quote": "開門、心星皆是金，稍有氣，醫卜星相；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S001",
-      "original_quote": "若值死囚，手藝辛勤。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S002",
-      "original_quote": "休門、天蓬同一木，稍有氣，兵弁役吏；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S003",
-      "original_quote": "值死囚，軍忤賊人。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S004",
-      "original_quote": "生門、天任是土宿，得地者，田地富足；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S005",
-      "original_quote": "若失時，佣工耕耘。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S006",
-      "original_quote": "傷門、天衝皆為木，稍有氣，兵役之首；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S007",
-      "original_quote": "值死休，馬後相奔。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S008",
-      "original_quote": "杜門、天輔亦是木，稍有氣乃是寒儒；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S009",
-      "original_quote": "值墓絕僧山道林。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S010",
-      "original_quote": "景門、天英是火宿，稍有氣，行行威烈之表全；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S011",
-      "original_quote": "失局，凡治勞碌之人。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S012",
-      "original_quote": "死門、天芮皆是土，稍有氣，趙衛家長；",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P049_S013",
-      "original_quote": "值墓空，孤窮之人。",
-      "paragraph_index": 49,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第994行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S000",
-      "original_quote": "八門辨別旺相，再論九星，得天蓬星乘時，邊疆之將；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S001",
-      "original_quote": "失地，利軍卒賊人。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S002",
-      "original_quote": "天任得地，田土僕馬之富；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S003",
-      "original_quote": "受剋，農圃辛苦之人。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S004",
-      "original_quote": "天衝有氣者，武貴；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S005",
-      "original_quote": "背時，車船江湖之流。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S006",
-      "original_quote": "天輔為左樞，得氣者，文雅仕宦；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S007",
-      "original_quote": "失地，利僧道、畫工。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S008",
-      "original_quote": "天英火，司南離，乘權者，必主文明；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S009",
-      "original_quote": "背時者，貪暴昏庸。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S010",
-      "original_quote": "天芮本是黑星，得天時，性惡霸盜；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S011",
-      "original_quote": "失天時，牧隸佣工。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S012",
-      "original_quote": "七赤位鎮西垣，有氣者，舌辯當世；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S013",
-      "original_quote": "被衝剋，優伎樂工。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S014",
-      "original_quote": "天心原是六白得地者，才華國柱；",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P050_S015",
-      "original_quote": "若空墓，九流相尋。",
-      "paragraph_index": 50,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第995行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S000",
-      "original_quote": "青龍返首，鰲頭獨占。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S001",
-      "original_quote": "飛鳥跌穴，窩富而成名。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S002",
-      "original_quote": "青龍得光，邑長縣令。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S003",
-      "original_quote": "丁加戊，富家之名。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S004",
-      "original_quote": "白虎猖狂，凶頑之輩。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S005",
-      "original_quote": "青龍逃走，懦弱之人，更主因妻成敗，而且佗背佗身。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S006",
-      "original_quote": "朱雀投江，刀筆書吏。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S007",
-      "original_quote": "螣蛇夭矯，毒心小人；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S008",
-      "original_quote": "失時者，目盲耳瞶；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S009",
-      "original_quote": "乘氣者，火焚傷身。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S010",
-      "original_quote": "太白入熒惑者，進主先貧後富。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S011",
-      "original_quote": "熒入太白者，退主，家業蕭條。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S012",
-      "original_quote": "天以太白，太白天乙，多成多敗。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S013",
-      "original_quote": "太白同宮，兄弟雷攻。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S014",
-      "original_quote": "太白蓬星，妻室常病。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S015",
-      "original_quote": "蓬星太白，惟薄醜聲。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S016",
-      "original_quote": "大格者，萍跡四海。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S017",
-      "original_quote": "小格者，暫時清貧。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S018",
-      "original_quote": "年月日時四格即六親，而推去看是何宮？",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S019",
-      "original_quote": "測驗而為悖戾，無禮相從，推及父母、兄弟、妻子賢否？",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S020",
-      "original_quote": "可以詳明。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S021",
-      "original_quote": "辛為天獄、壬為天牢，主低下之品，更主抑鬱難伸。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S022",
-      "original_quote": "癸為天網，須看高低，高者，化為華蓋，可推貴格；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S023",
-      "original_quote": "低者，天網纏身，寂寂孤貧。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S024",
-      "original_quote": "且忌玉女守門，妻隨人行。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S025",
-      "original_quote": "乙丁妻妾，看是誰親誰疏，乙奇入墓，妻不生子；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S026",
-      "original_quote": "子乙同宮，另續相親；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S027",
-      "original_quote": "乙奇在上，妻妾協和；",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S028",
-      "original_quote": "丁加乙上，辛幸。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S029",
-      "original_quote": "天心諸格，忌落空亡，吉者更吉，而苦者更苦。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S030",
-      "original_quote": "若臨墓絕之地，無告窮民。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan9_P051_S031",
-      "original_quote": "八門推來，最怕返吟，伏吟亦是凶神，五行配合斯理，取刑在乎一心，餘不盡言，同志者，識之。",
-      "paragraph_index": 51,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "上卷·卷九",
-        "section": "卷九",
-        "line_ref": "第996行"
+        "juan": "上卷·卷9",
+        "section": "卷9",
+        "line_ref": "段落51"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan9",
-    "line_id_start": "QMDJ_Juan9_P000_S000",
-    "line_id_end": "QMDJ_Juan9_P051_S031",
-    "original_block": "《卷九》\n占失物\n以日幹落宮為失主，時幹落宮為失物，各以類推之。看時幹落宮乘旺相氣來生日幹落宮者，仍得。反吟者，亦得。落空亡、墓、絕之宮，不得。乾為金鎖、寶物、銅 鐵、圓圈之物，又為帽纓、為馬。坎為水晶、珍珠、筆墨、毛發細軟之物，又為豬。艮為山、玉石、器皿、蹬靴之物，又為牛、犬、貓。震為車、船、木器、碧色衣 服之物，又為驢、騾。巽為絲紬、緞布細軟之物，又為彩色細長成隊之物。離為文明圖書、手卷、字畫、印信、文卷、彩禽、暖衣之物，又為馬。坤為銅鐵、鼓磬、 釜中空有聲、象牙之物，又為牛羊。兌為金銀、首飾、有口對衿之物，又為羊雞、飛禽。看其有氣，便為活生之物，無氣即為死囚廢舊之物。\n占何人盜\n以蓬元為盜主，神乘旺相氣，又得奇門吉格者，乃是貴人為盜，不乘旺相氣，不得奇門吉格者，乃是小人為盜。仍配卦以決之，乾為老陽，震為長、壯，坎為中男、始壯，艮為少男、童年，坤為老婦，巽為長女，離中女，兌少女。在內為親近之人，在外為他人。\n占捕盜賊\n劫人財物者，謂之盜；殺人取財者，謂之賊。以天蓬為大賊，元武為小賊，勾陳為捕盜之人，杜門為捕獲之方，皆以天盤主之。勾陳落宮剋蓬元之落宮者，捕之必獲。 若蓬元剋勾陳之宮，主賊旺，捕人不敢獲。蓬元與勾陳宮比和者，必捕人通同為盜。勾陳、蓬、元同宮，必捕人為盜。蓬、元宮生勾陳宮者，捕人受賄，縱之不捕。 總以庚格主之，年格年獲，月格月獲，日格日獲，時格時獲，不格不獲，杜門有格必獲，否亦不獲。\n開挖水道\n以開門主之。開門乘旺相氣而得三奇者，主開挖有益，順利無害。若開門返吟、入墓，不宜挑挖，倘值太白凶格及甲辰壬者，後必有大害。\n占河水消漲\n以天蓬、休門決之。休門乘旺相氣而得三奇者，水雖漲不至泛濫。休門乘旺相氣而值庚格者，主河水壅塞，泛濫湧漲。再看有甲辰壬帶螣蛇，主孽龍舞水為害。休門落於二五八宮，水被土剋，主立消或無水。休門不乘庚格與甲辰壬者，水雖旺發，亦不出岸。\n占布種五穀\n以九星所乘之門以類推之。乘旺相氣而得三奇吉門者，以開門、天心為麥田；傷門、天衝為稻穀；杜門、天輔為麥稷，又為棉花；景門、天英為高梁；休門、天蓬為豆 田；死門、天芮為蕎麥，又為蒜。各門、各星乘旺相氣帶三奇吉格者，大收。乘旺相氣不得三奇吉格者，薄收。九星內有被剋，或值空亡、入墓，而得凶格者，歉 收，不必種。\n占請客\n以值符為客，天乙為主。天乙所乘之宮來生值符之宮者，必來。時幹生日乾者，亦來。天盤星生地盤星者，亦來。反此不來。\n占選妃\n以值符為差官，歲乾為天子，柱星為室女。室女年命日乾為值符所生者，主差官看中，必選。天柱為值符所生者，亦選。若室女年命日乾所乘之宮，或天柱之落宮為值符所乘之宮，或天柱之落宮為值符所乘之宮來剋者，不選。\n占選後如何\n以歲干所乘之宮與室女年命日乾之宮，來合天柱之落宮，看歲干之宮來生室女年命日乾並天柱之宮者，主上喜隆寵。若甲子戊之宮，依生年命日乾及天柱之宮者，主後有王妃貴人。剋年命、天柱宮者，主上不喜，僅充不陳。\n朝覲引見\n以休門、歲干、年命日乾之落宮決之。歲乾為天子，日乾為引見之人，年命日幹得歲干來生，再有三奇相扶者，大吉。又有休門落宮得奇儀相乘者，主引見，天子必 喜，而得隆寵。如歲乾不生命日乾之落宮，亦不相剋制，而休門得奇來生年命日乾之落宮者，亦吉。若歲干來剋年命日乾，再入空亡、墓廢，並休門不得奇儀吉格 者，不利。\n占墳墓\n凡墳墓之地，死者居之，吉則招福，凶則招禍。蓋祖先之靈魂守黃泉之下，安則子孫興旺，不安則子孫敗亡。若未葬之先占之，其法專責死門，並天地二盤之星決之。 以死門落宮地盤之星為死者，死門天盤之星為主人，死門落宮乘三奇而與地盤之星相生、相合、不相剋制者，主死者安。地盤之星生天盤之星，天盤之星得三奇者， 主存亡俱安，吉，後主興旺。若死門落宮與地盤之星相剋者，主存亡不安。地盤之星剋天盤之星，不得奇門護持者，主存亡俱凶。死門反吟者，遷之斯吉。死門落空 亡者，主無地氣，家敗人亡。再以何干、何神、何格推之，吉星吉干生旺者，吉；凶神、凶格、凶干剋制者，凶。此天盤之星，疑上下二盤之星而言，應俟高明者 訪焉。\n占走失六畜\n驢、騾、車、船以傷門、天衝主之，牛、羊以死門主之。看落天盤何宮？即往何方尋之。馬以干、兌宮所得之星主之，若得天蓬星，當於近水處尋之，如乘元武為人盜去，再看得之之日必逢庚格。\n占文武升遷\n法以開、杜二門主之，文官看開門，武官看杜門。二門乘三奇，再得旺相相生其年命日乾者，必升。太歲來生年命日乾者，必系天子特旨。值符來生者，上司保舉。月建來生日干年命及開門者，部臣保舉。開門再得旺相相生，升之必速；得門不得奇，亦升；得奇不得門，只加銜不升。\n占降調\n開門受剋，文官降調，杜門受剋，武官降調。返吟主調任，空亡必革職，入墓不惟降調，仍招罪戾。太歲來剋，天子不喜。值符來剋，上司參劾。月乾來剋，部臣參 劾。如見玄武為盜案，白虎為命案，朱雀印信，螣蛇罣誤，太陰罷職，六合、勾陳貪酷。若開杜二門乘旺相相生之宮，或得三奇吉格，雖參不妨。\n占求官\n以開門落宮與年命日乾宮決之。開門落宮生年命日乾之宮，再得三奇吉門、吉格者，得官必速。不得三奇吉門、吉格者，得官必遲誤，反必不得。\n占出任何方\n以天盤開門之落宮決之。開門落於內四宮，必近；落於外四宮，必遠。陽遁自坎至巽為內，自離至乾為外，陰遁反此。再以地盤所帶之乾分配九州島，甲齊、乙東夷、 丙楚、丁南蠻、戊韓魏、己中州、庚秦、辛晉、壬燕、癸北狄、子齊、丑吳越、寅燕、卯宋、辰鄭邯戰、巳楚、午周、未秦、申晉、酉趙、戌魯、亥衛。見元武主民 間多盜，白虎主鬪傷，朱雀主刁訟，螣蛇多怪異，太陰主奸淫，天乙青龍、六合乃禮義敦僕之俗，勾陳多爭田土之事。\n占童生應試\n以天輔星為試官，丁奇為文章，日乾為童生。丁奇得門來生年命日乾，合吉門、吉格而得天輔來生者，必高取。或年命日乾、丁奇合吉門、吉格，不得天輔來生者，亦 取。丁奇、年命日乾不得吉門、吉格，而被天輔來生者，主文憲施恩，不在文章好歹，亦取。若返吟、伏吟、入庫，主錄舊文，不取。落空亡者，必不完篇。驚、傷 二門主文卷扯割。休門乘凶神、凶格衝剋年命日乾者，主文章塗污。\n占歲考第\n以天輔星為試官，日乾為試子，丁奇為文章，看天輔來生丁奇及年命日乾，再合奇儀吉格乘三吉門者，上吉，主一等。若丁奇年命日幹落景門者，次吉，主二等。得門 不得奇，得奇不得門，或與天輔比和者，三等。如丁奇落空亡之宮，年命日乾再得凶神、凶格，四等。倘被天輔來剋者，主劣等。\n占科舉\n以值符為正主考，月乾為副主考，天乙、朱雀為文章、為廉官，景門、丁奇、日乾為士子。以值符落宮生日幹落宮，景門、丁奇落宮再合吉格者，必高中，月乾來生亦 然。朱雀來生景門、丁奇，主廉官力薦，不生不薦。丁奇、景門落宮剋值符、月乾之宮者，文卷雖佳，主考不喜。剋朱雀之落宮，不薦。乘凶格者，文章差池。空 亡、入墓，必犯格式。乘元武必錯訛字跡，不中。日幹落空亡之宮，得值符、月乾來生者，文章雖佳，榜上無名。值符、日乾、朱雀空亡，文卷不入主考之目。入墓 者，亦不中。場後見天驛二馬及太衝者，不中，更不必候榜。\n占殿試\n以景門、丁奇為文章。如歲干所乘之宮來生景門、丁奇之落宮，再得奇門吉格者，必中鼎甲。歲干落宮生景門、丁奇之宮，不得奇門吉格者，必中二甲。歲干落宮不生 景門、丁奇之宮，自乘旺相，中三甲。歲乾不生景門、丁奇之宮，又返吟、入墓者，不中。或剋歲干之宮，又有凶神相並，不惟不中，且遭罪戾。\n占武科舉\n以天衝星為監試官，以日乾為試士，甲戌己為弓，甲申庚為矢，景門為策論，傷門為馬。甲戌己、甲申庚、傷門各乘旺相之宮與日乾相生者，主外場合式；剋者，主外 場阻隔，又以甲午辛為紅心，庚加辛宮主矢中紅心。庚落艮、乾，矢落四角。巽、震、坤、兌矢落兩旁。落空亡者，矢不中。庚落幾宮，計中幾矢。落年命日乾宮得 天衝來生，更兼景門奇儀，有吉格者，必中；反此不中，武童仿此。\n占人生貴賤\n其法先明戴九履一，細尋接氣、超神，八門配合九宮，九宮要帶三奇，年月日時要旺相，八門九宮須推移。離宮，頭面；乾、艮，兩足、肩、耳、左手；坤巽震，在右手筋；坎為陰腎；中為心、腹。年乾父母，月乾兄弟，日乾本身，時幹屬兒，推及妻妾。\n但看乙奇之落宮，庚為夫，定不移。要詳細其強弱，即能決其榮枯。旺相得奇，且富且貴；死囚墓絕，極賤極貧。格局要分輕重，命運驗其得失，未布局先看孤虛旺 相，即問口必辨天地乘時。太白入乾坤，父母早年淪沒；如若臨兄弟宮位，手足竟是讎敵，日奇被刑衝莊生嗟嘆，時干逢之鄧通無兒。\n生門產業要得門奇，成敗分於內外，生剋決其得失。生門、太白逢衝陷，背祖離鄉之客；被衝剋，售盡祖父舊園。生在外而身在內，必遷居而發富；身在外而生在內， 縱有祖業亦難容；身生二宮俱在內，安享僕馬之福；身生俱在外宮，遠方創立之人。日值孤，時值虛，少年無倚；時落孤，日落虛，老後鰥獨。命被衝剋，乞食道 路。日臨絕墓，難釋愁眉。財旺生官，蓋因飛鳥跌穴。鰲頭獨立，必得青龍返首。\n天輔旺相得奇門，文明翰苑。天衝旺相得儀，威震邊疆。天禽位鎮中宮得奇門，百官元首。英星右弼合吉格，鼎鼐元勛。天柱直言諫議。天心入垣，醫藥最良。任為左輔，司農之職。天芮不可得地，得奇門曹董之流。蓬星位鎮北垣，得奇門叛君之賊。\n開門有奇應，是文職。傷門得令，定系虎臣。生門得奇，石崇富足。景門合局，丹天文明。驚門入式，好辯之人。乾宮為開，白頭出仕。死門得奇，職在司刑。分布八門、星、神、奇、儀合局者，豪富豪貴；失局者，下等平人。\n開門、心星皆是金，稍有氣，醫卜星相；若值死囚，手藝辛勤。休門、天蓬同一木，稍有氣，兵弁役吏；值死囚，軍忤賊人。生門、天任是土宿，得地者，田地富 足；若失時，佣工耕耘。傷門、天衝皆為木，稍有氣，兵役之首；值死休，馬後相奔。杜門、天輔亦是木，稍有氣乃是寒儒；值墓絕僧山道林。景門、天英是火宿，稍有氣，行行威烈之表全；失局，凡治勞碌之人。死門、天芮皆是土，稍有氣，趙衛家長；值墓空，孤窮之人。\n八門辨別旺相，再論九星，得天蓬星乘時，邊疆之將；失地，利軍卒賊人。天任得地，田土僕馬之富；受剋，農圃辛苦之人。天衝有氣者，武貴；背時，車船江湖之 流。天輔為左樞，得氣者，文雅仕宦；失地，利僧道、畫工。天英火，司南離，乘權者，必主文明；背時者，貪暴昏庸。天芮本是黑星，得天時，性惡霸盜；失天 時，牧隸佣工。七赤位鎮西垣，有氣者，舌辯當世；被衝剋，優伎樂工。天心原是六白得地者，才華國柱；若空墓，九流相尋。\n青龍返首，鰲頭獨占。飛鳥跌穴，窩富而成名。青龍得光，邑長縣令。丁加戊，富家之名。白虎猖狂，凶頑之輩。青龍逃走，懦弱之人，更主因妻成敗，而且佗背佗 身。朱雀投江，刀筆書吏。螣蛇夭矯，毒心小人；失時者，目盲耳瞶；乘氣者，火焚傷身。太白入熒惑者，進主先貧後富。熒入太白者，退主，家業蕭條。天以太 白，太白天乙，多成多敗。太白同宮，兄弟雷攻。太白蓬星，妻室常病。蓬星太白，惟薄醜聲。大格者，萍跡四海。小格者，暫時清貧。年月日時四格即六親，而推 去看是何宮？測驗而為悖戾，無禮相從，推及父母、兄弟、妻子賢否？可以詳明。辛為天獄、壬為天牢，主低下之品，更主抑鬱難伸。癸為天網，須看高低，高者，化為華蓋，可推貴格；低者，天網纏身，寂寂孤貧。且忌玉女守門，妻隨人行。乙丁妻妾，看是誰親誰疏，乙奇入墓，妻不生子；子乙同宮，另續相親；乙奇在上，妻妾協和；丁加乙上，辛幸。天心諸格，忌落空亡，吉者更吉，而苦者更苦。若臨墓絕之地，無告窮民。八門推來，最怕返吟，伏吟亦是凶神，五行配合斯理，取刑在乎一心，餘不盡言，同志者，識之。\n\t\n\t\n\n"
-  }
+  "_extraction_status": "卷9完成"
 }

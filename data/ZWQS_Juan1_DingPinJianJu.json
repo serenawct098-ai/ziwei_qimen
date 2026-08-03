@@ -7,6 +7,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L000",
       "original_quote": "定貧賤局",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -17,20 +18,22 @@
     },
     {
       "line_id": "ZWQS_Juan1_DingPinJianJu_L001",
-      "original_quote": "定貧賤局⽣不逢時命坐空亡逢廉貞是也｡",
+      "original_quote": "⽣不逢時命坐空亡逢廉貞是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
         "section": "定貧賤局",
-        "line_ref": "第1036行"
+        "line_ref": "第1037行"
       }
     },
     {
       "line_id": "ZWQS_Juan1_DingPinJianJu_L002",
       "original_quote": "祿逢兩殺祿坐空亡⼜逢空劫殺星是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -43,6 +46,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L003",
       "original_quote": "⾺落空亡⾺既落亡雖祿沖會無⽤主奔波｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -55,6 +59,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L004",
       "original_quote": "⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -67,6 +72,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L005",
       "original_quote": "財與囚仇武貞同守⾝命是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -79,6 +85,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L006",
       "original_quote": "⼀⽣孤貧謂破守命星陷地是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -91,6 +98,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L007",
       "original_quote": "君⼦在野謂四殺守⾝命⽽⾔臨陷地是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -103,6 +111,7 @@
       "line_id": "ZWQS_Juan1_DingPinJianJu_L008",
       "original_quote": "兩重華蓋謂祿存化祿坐命遇空劫是也｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -112,11 +121,5 @@
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷一",
-    "section": "定貧賤局",
-    "line_id_start": "ZWQS_Juan1_DingPinJianJu_L000",
-    "line_id_end": "ZWQS_Juan1_DingPinJianJu_L008"
-  }
+  "_extraction_status": "定貧賤局完成"
 }

@@ -5,94 +5,82 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L000",
-      "original_quote": "定小兒生時",
+      "original_quote": "申年太歲併小限到申宮入廟化吉",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第63行"
+        "line_ref": "第196行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L001",
-      "original_quote": "定小兒生時訣子午卯酉單頂門，或偏左邊二三分，寅申巳亥亦單頂，偏居右去始為真，辰戌丑未是雙頂，胞胎受定正時辰。",
+      "original_quote": "廉偵破軍紫微甲庚癸生人發福，巨門甲庚癸生人發福，天機丁甲癸生人發福，庚生人亦發財發福。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第63行"
+        "line_ref": "第197行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L002",
-      "original_quote": "又子午卯酉面向天，寅申巳亥側身眠，辰戌丑未臉伏地，臨盆當試用心堅。",
+      "original_quote": "申年太歲併小限到申宮不入廟化凶",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第65行"
+        "line_ref": "第199行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L003",
-      "original_quote": "論人生時安命吉凶凡男女生在寅午戌申子辰六陽時，安命在此六宮者吉。",
+      "original_quote": "天機乙戊生人災晦，巨門丁生人不宜，廉貞丙壬生人有災，天同甲庚生人災禍，貪狼癸丙生人有災禍。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第68行"
+        "line_ref": "第200行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L004",
-      "original_quote": "生在巳酉丑亥卯未六陰時，安命在此六宮者吉。",
+      "original_quote": "申年太歲所值吉凶星",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第69行"
+        "line_ref": "第202行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L005",
-      "original_quote": "反此則少遂。",
+      "original_quote": "紫微太陽廉貞天府巨門七殺文昌武曲祿存，便斷其年人財利益，喜事重重。若遇天機天同天梁天相太陰破軍忌星，便斷其年人財散失，官非孝服，本身災病。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "定小兒生時",
-        "line_ref": "第69行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L006",
-      "original_quote": "論人生時要審的確如人生子亥二時最難定，準要仔細推祥，如子時有十刻，上午刻屬昨夜亥時，下午刻屬今日子時，如天氣陰雨之際，必須羅經以定真確時候，若差訛則命不準矣。",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第71行"
+        "line_ref": "第203行"
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷三",
-    "section": "定小兒生時",
-    "line_id_start": "ZWQS_Juan3_DingXiaoErShengShi_L000",
-    "line_id_end": "ZWQS_Juan3_DingXiaoErShengShi_L006"
-  }
+  "_extraction_status": "定小兒生時完成"
 }

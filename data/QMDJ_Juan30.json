@@ -1,2916 +1,2348 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "下卷·卷三十",
-  "section": "卷三十",
+  "juan": "下卷·卷30",
+  "section": "卷30",
   "entries": [
     {
-      "line_id": "QMDJ_Juan30_P000_S000",
+      "line_id": "QMDJ_Juan30_L000",
       "original_quote": "《卷三十》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第734行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P001_S000",
+      "line_id": "QMDJ_Juan30_L001",
       "original_quote": "奇門地盤圖",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第735行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P002_S000",
-      "original_quote": "此陽遁一局，先以左邊掌訣，甲子戊起一坎，順飛六儀，逆布三奇，即知某為值符，某為值使矣，諸照此而推之。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan30_L002",
+      "original_quote": "此陽遁一局，先以左邊掌訣，甲子戊起一坎，順飛六儀，逆布三奇，即知某為值符，某為值使矣，諸照此而推之。其圖如左：",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第736行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P002_S001",
-      "original_quote": "其圖如左：",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第736行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P003_S000",
+      "line_id": "QMDJ_Juan30_L003",
       "original_quote": "甲寅癸丁丙乙",
-      "paragraph_index": 3,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第737行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P004_S000",
+      "line_id": "QMDJ_Juan30_L004",
       "original_quote": "乾六兌七艮八離九",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第738行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P005_S000",
+      "line_id": "QMDJ_Juan30_L005",
       "original_quote": "天心、開天柱、驚天任、生天英、景",
-      "paragraph_index": 5,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第739行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P006_S000",
+      "line_id": "QMDJ_Juan30_L006",
       "original_quote": "天禽星寄於",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第740行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P007_S000",
+      "line_id": "QMDJ_Juan30_L007",
       "original_quote": "坤宮甲辰壬",
-      "paragraph_index": 7,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第741行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P008_S000",
+      "line_id": "QMDJ_Juan30_L008",
       "original_quote": "甲午辛甲申庚甲戌己甲子戊",
-      "paragraph_index": 8,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第742行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P009_S000",
+      "line_id": "QMDJ_Juan30_L009",
       "original_quote": "巽四震三坤二坎一",
-      "paragraph_index": 9,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第743行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P010_S000",
+      "line_id": "QMDJ_Juan30_L010",
       "original_quote": "天輔杜天衝、傷天芮、死天蓬、休",
-      "paragraph_index": 10,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第744行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P011_S000",
-      "original_quote": "此地盤一定不易者也。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan30_L011",
+      "original_quote": "此地盤一定不易者也。所謂地主靜也，五日換一元。天盤則時時不同，所謂天主動也。如乙丑時則以休門加天盤坤為值使，以值符天蓬星甲子戊加離九為值符，諸照此例。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第745行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P011_S001",
-      "original_quote": "所謂地主靜也，五日換一元。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第745行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P011_S002",
-      "original_quote": "天盤則時時不同，所謂天主動也。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第745行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P011_S003",
-      "original_quote": "如乙丑時則以休門加天盤坤為值使，以值符天蓬星甲子戊加離九為值符，諸照此例。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第745行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P012_S000",
+      "line_id": "QMDJ_Juan30_L012",
       "original_quote": "歌曰：「戊子乾宮亥為庚，戊寅坎艮丑壬辰，戊午生門同甲卯，四宮戊戌二九申，上有戊辰庚酉辛，一飛盤過一回新，二十四盤方上起，門從方上定金鳴，所泊若差時一位，就將方位東方神，此是九星真秘訣，消凶納吉萬全亨」。",
-      "paragraph_index": 12,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第746行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P013_S000",
+      "line_id": "QMDJ_Juan30_L013",
       "original_quote": "歌曰：「一盤西去兩盤東，二至精微在此中，一二卻從天上落，八九順從地下通，二九伏從丁九丙，乙丙山山盡起風，三四過去重三九，一盤起去一盤宮，此方即是真神女，九九移來路上同，非是賢人莫妄語，怕將機巧亂研窮」。",
-      "paragraph_index": 13,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第747行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P014_S000",
+      "line_id": "QMDJ_Juan30_L014",
       "original_quote": "以子加直使，陽遁順，陰遁逆，玉女時上落在何宮是也。",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第748行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P015_S000",
+      "line_id": "QMDJ_Juan30_L015",
       "original_quote": "此是陽遁上元甲己日乙亥時，值使在三宮，故休門杜坤，取子加卯順行，看亥落何宮，即知亥時在艮景門上，左足先二步華蓋，豹向豹尾而去，人鬼不見形。",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第749行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P016_S000",
-      "original_quote": "其法照飛宮，指陰陽二遁。",
-      "paragraph_index": 16,
+      "line_id": "QMDJ_Juan30_L016",
+      "original_quote": "其法照飛宮，指陰陽二遁。如冬至上元甲己日甲子時，則知九天在休門，九地在離；夏至上元甲己日甲子時，九地在休門，九天在離，餘仿此而推之。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第750行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P016_S001",
-      "original_quote": "如冬至上元甲己日甲子時，則知九天在休門，九地在離；",
-      "paragraph_index": 16,
+      "line_id": "QMDJ_Juan30_L017",
+      "original_quote": "歌曰：「赤道白道與黃道，不避千年騐不到，餘此六道是吉神，配合奇門遁真好」。法分二遁隱避之訣，必分道，遁道之中赤、白、黃三道，尤宜謹避。不然雖合三奇吉門，亦遁不通，難免十患。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第750行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P016_S002",
-      "original_quote": "夏至上元甲己日甲子時，九地在休門，九天在離，餘仿此而推之。",
-      "paragraph_index": 16,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第750行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P017_S000",
-      "original_quote": "歌曰：「赤道白道與黃道，不避千年騐不到，餘此六道是吉神，配合奇門遁真好」。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P017_S001",
-      "original_quote": "法分二遁隱避之訣，必分道，遁道之中赤、白、黃三道，尤宜謹避。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P017_S002",
-      "original_quote": "不然雖合三奇吉門，亦遁不通，難免十患。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第751行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P018_S000",
+      "line_id": "QMDJ_Juan30_L018",
       "original_quote": "此即甲乙丙丁戊陽時，神居天上要君知也，陰時仿此。",
-      "paragraph_index": 18,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第752行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P019_S000",
+      "line_id": "QMDJ_Juan30_L019",
       "original_quote": "諸葛武侯行兵遁甲金函玉鏡",
-      "paragraph_index": 19,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第753行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P020_S000",
+      "line_id": "QMDJ_Juan30_L020",
       "original_quote": "諸葛武侯行兵遁甲金函玉鏡圖序",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第754行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P021_S000",
-      "original_quote": "金函玉鏡者，蜀時諸葛孔明所著也。",
-      "paragraph_index": 21,
+      "line_id": "QMDJ_Juan30_L021",
+      "original_quote": "金函玉鏡者，蜀時諸葛孔明所著也。當漢末時因黃巾之亂，天下豪傑並起，而曹氏父子、孫權、周瑜諸將，皆稱召用兵過於孫吳者也，獨孔明與蜀主往往行兵遇敵，縱橫吳魏間，以正維奇兵而獲勝者何？蓋此乃出於金函玉鏡之書，是書始自上古聖皇軒轅氏破蚩尤不勝，齋戒上感九天玄女，傳授驅役六丁玉女之神，諸遁甲旬內逐日遁時，書為八門定以吉凶，分內外勝負集為秘書一編傳於世間，而孔明得之於龍門山岩穴之間，孔明行師出陣用以取勝，魏吳諸將咸稱其神焉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第755行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P021_S001",
-      "original_quote": "當漢末時因黃巾之亂，天下豪傑並起，而曹氏父子、孫權、周瑜諸將，皆稱召用兵過於孫吳者也，獨孔明與蜀主往往行兵遇敵，縱橫吳魏間，以正維奇兵而獲勝者何？",
-      "paragraph_index": 21,
+      "line_id": "QMDJ_Juan30_L022",
+      "original_quote": "孔明奇其書可以傳世，厥後自畫圖局六十甲子日，每日十二時，全圖局俱載，九星所值，各門吉凶成敗，以備行兵擇選用之者，其應如響，名之曰金函玉鏡圖，其書指畫詳明，別為一家，不與遁甲諸書相似，所稱神異，不可測度者也。孔明有云，是書在兵興之日則為行軍，其歷代作日用選擇出行必不可無者甚矣，流傳於世歷代，知兵之將帥，此秘而寶之，其傳者寡矣。余學兵二十年，凡武經韜略七寶新書，六旨金鏡，青囊索書，諸家兵法悉得觀覽，獨孫氏與是圖，相為體用，誠國家之書籍，而無毫髮差誤，實世之寶焉。餘雖武人不文獨得是圖之微奧，不敢擅秘，以故今出終南山黃岩老人，夙朝本朝大將狄青家藏本繕圖式，命史端撫抄錄用，廣其傳以俟後世，明哲忠謀之士用兵之際，得以觀閱闡助武功，以見餘之不秘昔賢之傳也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第755行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P021_S002",
-      "original_quote": "蓋此乃出於金函玉鏡之書，是書始自上古聖皇軒轅氏破蚩尤不勝，齋戒上感九天玄女，傳授驅役六丁玉女之神，諸遁甲旬內逐日遁時，書為八門定以吉凶，分內外勝負集為秘書一編傳於世間，而孔明得之於龍門山岩穴之間，孔明行師出陣用以取勝，魏吳諸將咸稱其神焉。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第755行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P022_S000",
-      "original_quote": "孔明奇其書可以傳世，厥後自畫圖局六十甲子日，每日十二時，全圖局俱載，九星所值，各門吉凶成敗，以備行兵擇選用之者，其應如響，名之曰金函玉鏡圖，其書指畫詳明，別為一家，不與遁甲諸書相似，所稱神異，不可測度者也。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P022_S001",
-      "original_quote": "孔明有云，是書在兵興之日則為行軍，其歷代作日用選擇出行必不可無者甚矣，流傳於世歷代，知兵之將帥，此秘而寶之，其傳者寡矣。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P022_S002",
-      "original_quote": "余學兵二十年，凡武經韜略七寶新書，六旨金鏡，青囊索書，諸家兵法悉得觀覽，獨孫氏與是圖，相為體用，誠國家之書籍，而無毫髮差誤，實世之寶焉。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P022_S003",
-      "original_quote": "餘雖武人不文獨得是圖之微奧，不敢擅秘，以故今出終南山黃岩老人，夙朝本朝大將狄青家藏本繕圖式，命史端撫抄錄用，廣其傳以俟後世，明哲忠謀之士用兵之際，得以觀閱闡助武功，以見餘之不秘昔賢之傳也。",
-      "paragraph_index": 22,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第756行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P023_S000",
+      "line_id": "QMDJ_Juan30_L023",
       "original_quote": "《諸葛武侯行兵遁甲金函玉鏡卷一》",
-      "paragraph_index": 23,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第758行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P024_S000",
+      "line_id": "QMDJ_Juan30_L024",
       "original_quote": "九星落局法",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第759行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P025_S000",
+      "line_id": "QMDJ_Juan30_L025",
       "original_quote": "冬至後陽遁順行九宮起例一日一宮完，即至上日甲戌，餘例仿此",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第760行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P026_S000",
+      "line_id": "QMDJ_Juan30_L026",
       "original_quote": "甲子為頭起艮，甲戌飛入宮字，猿猴翻入水晶宮坎，甲馬坤中不動，曾見龍生震地，再看虎嘯生風巽，九星殿上顯奇功，太乙臨之法用。",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第761行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P027_S000",
+      "line_id": "QMDJ_Juan30_L027",
       "original_quote": "假如，甲子日艮上起太乙，離上攝提，坎上軒轅，坤上招搖，震上天符，巽上青龍，中宮咸池，乾上太陰，兌上天乙，此九星順行九宮之法也。",
-      "paragraph_index": 27,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第762行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P028_S000",
+      "line_id": "QMDJ_Juan30_L028",
       "original_quote": "夏至後陰遁逆行九宮起例",
-      "paragraph_index": 28,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第763行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P029_S000",
+      "line_id": "QMDJ_Juan30_L029",
       "original_quote": "甲子為頭起坤，甲戌飛入坎宮，猿猴馬上笑欣欣離，甲馬山中直進艮，龍臨金位顯位能兌，虎向乾方坐鎮，九宮太乙逆行，仔細推求有應。",
-      "paragraph_index": 29,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第764行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P030_S000",
+      "line_id": "QMDJ_Juan30_L030",
       "original_quote": "假如，甲子日坤上起太乙，坎上攝提，離上軒轅，艮上招搖，兌上天符，乾上青龍，中宮咸池，巽上太陰，震上天乙，此九星逆行九宮之法也。",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第765行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P031_S000",
+      "line_id": "QMDJ_Juan30_L031",
       "original_quote": "九星神名次序起例",
-      "paragraph_index": 31,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第766行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P032_S000",
+      "line_id": "QMDJ_Juan30_L032",
       "original_quote": "一太乙吉、二攝提凶、三軒轅平、四招搖平、五天符凶、六青龍吉、七咸池凶、八太陰吉、九天乙吉。",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第767行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P033_S000",
+      "line_id": "QMDJ_Juan30_L033",
       "original_quote": "冬至後陽遁八門起例",
-      "paragraph_index": 33,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第768行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P034_S000",
-      "original_quote": "陽乾順布八門，甲丙戊庚壬為陽；",
-      "paragraph_index": 34,
+      "line_id": "QMDJ_Juan30_L034",
+      "original_quote": "陽乾順布八門，甲丙戊庚壬為陽；陰乾逆布八門，乙丁己辛癸為陰。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第769行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P034_S001",
-      "original_quote": "陰乾逆布八門，乙丁己辛癸為陰。",
-      "paragraph_index": 34,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第769行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P035_S000",
+      "line_id": "QMDJ_Juan30_L035",
       "original_quote": "甲戊壬子坎為休，丁辛乙卯向坤游，庚甲戊午居震位，癸丁辛酉巽方求，庚丙鼠入金鄉去幹，己癸兔居水澤幽兌，壬丙馬行山上路艮，乙己雞與火為儔離。",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第770行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落36"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P036_S000",
+      "line_id": "QMDJ_Juan30_L036",
       "original_quote": "假如，甲子日陽順休生開，乙丑日陰逆休生開，丙寅日又順休生開，陰遁起例仿此。",
-      "paragraph_index": 36,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第771行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落37"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P037_S000",
+      "line_id": "QMDJ_Juan30_L037",
       "original_quote": "夏至後陰遁八門起例",
-      "paragraph_index": 37,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第772行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落38"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P038_S000",
+      "line_id": "QMDJ_Juan30_L038",
       "original_quote": "甲戊壬子居離，丁辛乙卯艮連，戊寅甲馬兌宮先，丁癸辛酉乾健，赤白鼠游巽位丙庚，黑黃兔走東邊癸己，丙壬騎馬到坤門，乙己雞飛坎畔。",
-      "paragraph_index": 38,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第773行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落39"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P039_S000",
+      "line_id": "QMDJ_Juan30_L039",
       "original_quote": "假如，甲子、戊子、壬子俱從離上起休門，每宮三日一換，陽順陰逆，起法如前。",
-      "paragraph_index": 39,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第774行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落40"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P040_S000",
+      "line_id": "QMDJ_Juan30_L040",
       "original_quote": "飛宮掌訣起例",
-      "paragraph_index": 40,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第775行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落41"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P041_S000",
+      "line_id": "QMDJ_Juan30_L041",
       "original_quote": "掌訣圖、八門圖",
-      "paragraph_index": 41,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第776行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落42"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P042_S000",
+      "line_id": "QMDJ_Juan30_L042",
       "original_quote": "坤二死兌七驚乾六開",
-      "paragraph_index": 42,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第777行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落43"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P043_S000",
+      "line_id": "QMDJ_Juan30_L043",
       "original_quote": "離九景中五坎一休",
-      "paragraph_index": 43,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第778行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落44"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P044_S000",
+      "line_id": "QMDJ_Juan30_L044",
       "original_quote": "巽四杜震三傷艮八生",
-      "paragraph_index": 44,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第779行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落45"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P045_S000",
+      "line_id": "QMDJ_Juan30_L045",
       "original_quote": "起休門訣",
-      "paragraph_index": 45,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第780行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落46"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P046_S000",
-      "original_quote": "如冬至後陽遁順起，甲戊壬子坎為休，是休門，在坎一，生門在艮八，數至開門在乾六。",
-      "paragraph_index": 46,
+      "line_id": "QMDJ_Juan30_L046",
+      "original_quote": "如冬至後陽遁順起，甲戊壬子坎為休，是休門，在坎一，生門在艮八，數至開門在乾六。乙丑日休門還在坎，生門轉乾，數至開門在艮。丙寅日休門亦在坎，生門又轉在艮，開門又在乾，此陽順陰逆也。如丁辛乙卯向坤游，則休門移於坤二矣。此三日一換也，餘類推。夏至後甲戊壬子居離九，系逆起亦問此義。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落47"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P046_S001",
-      "original_quote": "乙丑日休門還在坎，生門轉乾，數至開門在艮。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P046_S002",
-      "original_quote": "丙寅日休門亦在坎，生門又轉在艮，開門又在乾，此陽順陰逆也。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P046_S003",
-      "original_quote": "如丁辛乙卯向坤游，則休門移於坤二矣。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P046_S004",
-      "original_quote": "此三日一換也，餘類推。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P046_S005",
-      "original_quote": "夏至後甲戊壬子居離九，系逆起亦問此義。",
-      "paragraph_index": 46,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第781行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P047_S000",
+      "line_id": "QMDJ_Juan30_L047",
       "original_quote": "九星起飛宮訣",
-      "paragraph_index": 47,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第782行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落48"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P048_S000",
-      "original_quote": "如冬至後陽遁順行，甲子為頭起艮，從艮八上起太乙，順行離九攝提，轉坎一上軒轅，坤二招搖，震三天符，巽四青龍，中五咸池，乾六太陰，兌七天乙，此九星順行也。",
-      "paragraph_index": 48,
+      "line_id": "QMDJ_Juan30_L048",
+      "original_quote": "如冬至後陽遁順行，甲子為頭起艮，從艮八上起太乙，順行離九攝提，轉坎一上軒轅，坤二招搖，震三天符，巽四青龍，中五咸池，乾六太陰，兌七天乙，此九星順行也。一日一換，如甲子日太乙在艮，乙丑日太乙在離九，丙寅日太乙在坎一，丁卯日太乙在坤二，餘類推。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第783行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落49"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P048_S001",
-      "original_quote": "一日一換，如甲子日太乙在艮，乙丑日太乙在離九，丙寅日太乙在坎一，丁卯日太乙在坤二，餘類推。",
-      "paragraph_index": 48,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第783行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P049_S000",
+      "line_id": "QMDJ_Juan30_L049",
       "original_quote": "如夏至後陰遁逆行，甲子為頭起坤，是從坤二上起太乙逆行坎一是也。",
-      "paragraph_index": 49,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第784行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落50"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P050_S000",
+      "line_id": "QMDJ_Juan30_L050",
       "original_quote": "九星吉凶歌",
-      "paragraph_index": 50,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第785行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落51"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P051_S000",
+      "line_id": "QMDJ_Juan30_L051",
       "original_quote": "一、太乙水神",
-      "paragraph_index": 51,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第786行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落52"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P052_S000",
+      "line_id": "QMDJ_Juan30_L052",
       "original_quote": "逢著皂衣人求謁，訪謁婚姻皆大吉。",
-      "paragraph_index": 52,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第787行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落53"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P053_S000",
+      "line_id": "QMDJ_Juan30_L053",
       "original_quote": "門中見太乙，星曜號貪狼，博奕錢財眾，婚姻大吉昌，出門無阻滯，參謁見賢良。",
-      "paragraph_index": 53,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第788行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落54"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P054_S000",
+      "line_id": "QMDJ_Juan30_L054",
       "original_quote": "二、攝提土神",
-      "paragraph_index": 54,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第789行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落55"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P055_S000",
+      "line_id": "QMDJ_Juan30_L055",
       "original_quote": "遇死門大凶，逢老婦悲啼，再逢牛犁耕田，不吉。",
-      "paragraph_index": 55,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第790行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落56"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P056_S000",
+      "line_id": "QMDJ_Juan30_L056",
       "original_quote": "遠行遭羈絆，耕地損牛犁，相生又問可，相剋見災危，死門並相見，老婦哭悲啼，求財並嫁娶，萬事不相宜，主隱匿藏道，言動則傷身。",
-      "paragraph_index": 56,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第791行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落57"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P057_S000",
+      "line_id": "QMDJ_Juan30_L057",
       "original_quote": "三、軒轅木神",
-      "paragraph_index": 57,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第792行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落58"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P058_S000",
+      "line_id": "QMDJ_Juan30_L058",
       "original_quote": "路遇宜見於十五里外。",
-      "paragraph_index": 58,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第793行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落59"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P059_S000",
+      "line_id": "QMDJ_Juan30_L059",
       "original_quote": "出入遇軒轅，作事必牽纏，相生災侵慢，相剋必憂煎，遠行逢迍遰，博奕定輸錢，九天玄女法，句句不虛傳。",
-      "paragraph_index": 59,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第794行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落60"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P060_S000",
+      "line_id": "QMDJ_Juan30_L060",
       "original_quote": "四、招搖木神",
-      "paragraph_index": 60,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第795行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落61"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P061_S000",
+      "line_id": "QMDJ_Juan30_L061",
       "original_quote": "逢二親人，又見婦人口舌，怪夢驚恐，鄰家釜鳴，屋響不吉。",
-      "paragraph_index": 61,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第796行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落62"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P062_S000",
+      "line_id": "QMDJ_Juan30_L062",
       "original_quote": "招搖號木星，當門百事成，相剋行人阻，陰人口舌迎，怪夢多驚恐，屋響釜自鳴，陰陽消息用，作事不容情。",
-      "paragraph_index": 62,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第797行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落63"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P063_S000",
+      "line_id": "QMDJ_Juan30_L063",
       "original_quote": "五、天符土神",
-      "paragraph_index": 63,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第798行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落64"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P064_S000",
+      "line_id": "QMDJ_Juan30_L064",
       "original_quote": "五鬼是天符，當門陰女謀，相剋無好事，言客在程遲，走失難得見，吊客惹成孤，此星當門值，切忌有災途，交戰出兵，迎鋒出陣，軍糧則利。",
-      "paragraph_index": 64,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第799行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落65"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P065_S000",
+      "line_id": "QMDJ_Juan30_L065",
       "original_quote": "六、青龍金神",
-      "paragraph_index": 65,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第800行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落66"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P066_S000",
+      "line_id": "QMDJ_Juan30_L066",
       "original_quote": "路逢醫人或是酒仙，今博奕於道中。",
-      "paragraph_index": 66,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第801行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落67"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P067_S000",
+      "line_id": "QMDJ_Juan30_L067",
       "original_quote": "門內見青龍，求財喜重重，每逢茶酒食，博奕定見贏，相生錢財旺，休言剋破刑，接貴安營寨，萬事喜和同。",
-      "paragraph_index": 67,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第802行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落68"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P068_S000",
+      "line_id": "QMDJ_Juan30_L068",
       "original_quote": "七、咸池金神",
-      "paragraph_index": 68,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第803行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落69"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P069_S000",
+      "line_id": "QMDJ_Juan30_L069",
       "original_quote": "不可行軍破敵。",
-      "paragraph_index": 69,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第804行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落70"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P070_S000",
+      "line_id": "QMDJ_Juan30_L070",
       "original_quote": "五將號咸池，當門事不宜，相生皆無破，相剋有災危，博奕相輸脫，求財空手歸，神仙真妙訣，愚人要與知，軍事虛驚退，反複逆風吹。",
-      "paragraph_index": 70,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第805行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落71"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P071_S000",
+      "line_id": "QMDJ_Juan30_L071",
       "original_quote": "八、太陰土神",
-      "paragraph_index": 71,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第806行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落72"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P072_S000",
+      "line_id": "QMDJ_Juan30_L072",
       "original_quote": "行六七里，見有小兒牽羊至，求財成就吉。",
-      "paragraph_index": 72,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第807行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落73"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P073_S000",
+      "line_id": "QMDJ_Juan30_L073",
       "original_quote": "當門見太陰，百禍不能侵，方行六七里，知交有覓尋，妙法牢收取，回軍引馬前，有伏兵截路，慎不可輕行。",
-      "paragraph_index": 73,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第808行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落74"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P074_S000",
+      "line_id": "QMDJ_Juan30_L074",
       "original_quote": "九、天乙火神",
-      "paragraph_index": 74,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第809行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落75"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P075_S000",
+      "line_id": "QMDJ_Juan30_L075",
       "original_quote": "行三十里見一婦人著五六色，遇抱小兒，百事吉。",
-      "paragraph_index": 75,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第810行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落76"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P076_S000",
+      "line_id": "QMDJ_Juan30_L076",
       "original_quote": "門迎天乙星，相生百事成，動用皆和順，茶酒自相迎，求婚行嫁娶，相會天自成，出軍交兵陣，一見定勝贏。",
-      "paragraph_index": 76,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第811行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落77"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P077_S000",
+      "line_id": "QMDJ_Juan30_L077",
       "original_quote": "八門吉凶歌",
-      "paragraph_index": 77,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第812行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落78"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P078_S000",
+      "line_id": "QMDJ_Juan30_L078",
       "original_quote": "休門水神貪狼",
-      "paragraph_index": 78,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第813行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落79"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P079_S000",
+      "line_id": "QMDJ_Juan30_L079",
       "original_quote": "求公乾私遇休門，求財參謁貴人欽，欲速同行吉相助，出入嫁娶五福臨，休門己見百般食，出入經行得恁強，但求休門門見路，更逢吉利和衷腸。",
-      "paragraph_index": 79,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第814行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落80"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P080_S000",
+      "line_id": "QMDJ_Juan30_L080",
       "original_quote": "生門土神左輔",
-      "paragraph_index": 80,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第815行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落81"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P081_S000",
+      "line_id": "QMDJ_Juan30_L081",
       "original_quote": "此門爭財見官訟兆，嫁娶避走，二十里見飛鳥來迎之，大吉。",
-      "paragraph_index": 81,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第816行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落82"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P082_S000",
+      "line_id": "QMDJ_Juan30_L082",
       "original_quote": "但凡出入遇生門，吉曜臨之萬事成，若有凶神相隔輟，求財所得利稱心，生門已見好經營，百事流通得稱情，此門出入逢歡喜，但求經營喜氣生。",
-      "paragraph_index": 82,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第817行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落83"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P083_S000",
+      "line_id": "QMDJ_Juan30_L083",
       "original_quote": "傷門木神祿存",
-      "paragraph_index": 83,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第818行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落84"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P084_S000",
+      "line_id": "QMDJ_Juan30_L084",
       "original_quote": "此門出行必見精怪嚇、喧事、扭洩、血傷。",
-      "paragraph_index": 84,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第819行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落85"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P085_S000",
+      "line_id": "QMDJ_Juan30_L085",
       "original_quote": "出入求財如遇傷，更逢吉曜亦難當，跟前人惹疼病禍，自身須防有災殃，傷門往往是非傳，若出門來有禍僽，採捕稱心雖是好，其餘不得不憂煎。",
-      "paragraph_index": 85,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第820行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落86"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P086_S000",
+      "line_id": "QMDJ_Juan30_L086",
       "original_quote": "杜門木神文曲",
-      "paragraph_index": 86,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第821行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落87"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P087_S000",
+      "line_id": "QMDJ_Juan30_L087",
       "original_quote": "此門宜出行、謁貴、求財，或遇避者，剋難吉。",
-      "paragraph_index": 87,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第822行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落88"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P088_S000",
+      "line_id": "QMDJ_Juan30_L088",
       "original_quote": "杜門公用各施行，亦見門中有吉星，茶酒自然留客住，忻歡百事喜相成，杜門曾見好經營，出入從來未稱情，若然逃遁如避難，即是元木也不成。",
-      "paragraph_index": 88,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第823行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落89"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P089_S000",
+      "line_id": "QMDJ_Juan30_L089",
       "original_quote": "景門火神廉貞",
-      "paragraph_index": 89,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第824行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落90"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P090_S000",
+      "line_id": "QMDJ_Juan30_L090",
       "original_quote": "此門出行見貴、博戲、爭逐、捕獵，行四十里，必見喜樂聲。",
-      "paragraph_index": 90,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第825行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落91"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P091_S000",
+      "line_id": "QMDJ_Juan30_L091",
       "original_quote": "遠行出入景門中，無剋無生平吉凶，若值星辰方位惡，心頭作事亦難通，景門出入且宜良，玩賞嬉中第一強，採獵捕魚人少得，無憂無喜見安康。",
-      "paragraph_index": 91,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第826行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落92"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P092_S000",
+      "line_id": "QMDJ_Juan30_L092",
       "original_quote": "死門土神巨門",
-      "paragraph_index": 92,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第827行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落93"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P093_S000",
+      "line_id": "QMDJ_Juan30_L093",
       "original_quote": "此門宜出獵、張捕、殺生，千死一生，行二十里，路旁必見死傷應之。",
-      "paragraph_index": 93,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第828行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落94"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P094_S000",
+      "line_id": "QMDJ_Juan30_L094",
       "original_quote": "參謁求謀入死門，吉神刻剝不堪論，若不自身作橫事，其人必定見傷痕，死門不可東西去，大抵為名事莫言，死傷求哀為不利，聖人怎肯教胡傳。",
-      "paragraph_index": 94,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第829行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落95"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P095_S000",
+      "line_id": "QMDJ_Juan30_L095",
       "original_quote": "驚門金神破軍",
-      "paragraph_index": 95,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第830行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落96"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P096_S000",
+      "line_id": "QMDJ_Juan30_L096",
       "original_quote": "此門不宜出行、上官，諸事不吉，行六七里，必見驚怪、犬物騐方。",
-      "paragraph_index": 96,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第831行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落97"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P097_S000",
+      "line_id": "QMDJ_Juan30_L097",
       "original_quote": "尋求走失出驚門，逃人財物盡都存，更得吉星變刑剋，在失逃人自失魂，驚門一定有虛驚，出入如逢百不成，百般美事休更說，往往居家不稱情。",
-      "paragraph_index": 97,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第832行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落98"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P098_S000",
+      "line_id": "QMDJ_Juan30_L098",
       "original_quote": "開門金神武曲",
-      "paragraph_index": 98,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第833行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落99"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P099_S000",
+      "line_id": "QMDJ_Juan30_L099",
       "original_quote": "此門宜上官、見貴、出入、求財、回避，三十里必見婦人或穿顏色衣人以應之。",
-      "paragraph_index": 99,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第834行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落100"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P100_S000",
+      "line_id": "QMDJ_Juan30_L100",
       "original_quote": "開門出入最為良，萬事亨通大吉昌，出入求財定見喜，八方幹事一齊強，求財出入遇開門，自有欣歡百事成，更值吉星當位照，相逢酒食笑忻忻。",
-      "paragraph_index": 100,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第835行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落101"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P101_S000",
+      "line_id": "QMDJ_Juan30_L101",
       "original_quote": "九星飛宮斷例",
-      "paragraph_index": 101,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第836行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落102"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P102_S000",
+      "line_id": "QMDJ_Juan30_L102",
       "original_quote": "太乙雖名凶惡星，兵亡將敗至憂驚，札寨安營須大忌，倘逢吉曜轉凶星。",
-      "paragraph_index": 102,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第837行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落103"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P103_S000",
+      "line_id": "QMDJ_Juan30_L103",
       "original_quote": "青龍臨處利求財，出入逢之事必諧，布陣行軍百勝吉，修營嫁娶福齊來。",
-      "paragraph_index": 103,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第838行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落104"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P104_S000",
+      "line_id": "QMDJ_Juan30_L104",
       "original_quote": "太陰本是水之精，出入無阻坦蕩行，若遇陰人尤大吉，行兵百事盡歡欣。",
-      "paragraph_index": 104,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第839行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落105"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P105_S000",
+      "line_id": "QMDJ_Juan30_L105",
       "original_quote": "天乙偏宜見貴人，用事求謀總遂心，更出此方無所慮，身名必定得天恩。",
-      "paragraph_index": 105,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第840行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落106"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P106_S000",
+      "line_id": "QMDJ_Juan30_L106",
       "original_quote": "招搖如遇入中宮，知者將軍莫交鋒，無論王侯共宰相，徒勞心力不成功。",
-      "paragraph_index": 106,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第841行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落107"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P107_S000",
+      "line_id": "QMDJ_Juan30_L107",
       "original_quote": "天符方上恐邅迍，避忌此宮大不寧，倘能用力禳酧過，不然五鬼不容情。",
-      "paragraph_index": 107,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第842行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落108"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P108_S000",
+      "line_id": "QMDJ_Juan30_L108",
       "original_quote": "軒轅遇著最艱難，百事謀為遂傷殘，出入定當防有火，暗損明傷定不還。",
-      "paragraph_index": 108,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第843行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落109"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P109_S000",
+      "line_id": "QMDJ_Juan30_L109",
       "original_quote": "咸池惡煞凶神隨，蛇虎重重遭困圍，此方遠近宜穿井，其它用事恐傷悲。",
-      "paragraph_index": 109,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第844行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落110"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P110_S000",
+      "line_id": "QMDJ_Juan30_L110",
       "original_quote": "攝提方上主多災，腳腿多憂坎坷災，若此行路定無吉，兵家切忌去艱來。",
-      "paragraph_index": 110,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第845行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落111"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P111_S000",
+      "line_id": "QMDJ_Juan30_L111",
       "original_quote": "八門遇九星斷例",
-      "paragraph_index": 111,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第846行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落112"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P112_S000",
+      "line_id": "QMDJ_Juan30_L112",
       "original_quote": "休門若獲遇青龍，凡事謀為盡亨通，覓利求財興百倍，出軍排陣定摧鋒；",
-      "paragraph_index": 112,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第847行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落113"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P113_S000",
+      "line_id": "QMDJ_Juan30_L113",
       "original_quote": "休門太乙百事興，相爭戰鬪旺雄兵，起營立寨終須勝，見貴參官喜相逢；",
-      "paragraph_index": 113,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第848行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落114"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P114_S000",
+      "line_id": "QMDJ_Juan30_L114",
       "original_quote": "休門若遇天乙星，出入求財大快亨，多遇貴人憐憂喜，邀迎酒食得人欽。",
-      "paragraph_index": 114,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第849行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落115"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P115_S000",
+      "line_id": "QMDJ_Juan30_L115",
       "original_quote": "生門最喜見青龍，謁貴謀為百事通，經商定獲千倍利，出入無憂展笑容；",
-      "paragraph_index": 115,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第850行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落116"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P116_S000",
+      "line_id": "QMDJ_Juan30_L116",
       "original_quote": "生門太乙福德多，所求稱意任張羅，覓利求財期百倍，出入行軍無滯過；",
-      "paragraph_index": 116,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第851行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落117"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P117_S000",
+      "line_id": "QMDJ_Juan30_L117",
       "original_quote": "生門若遇天乙星，出入定無鬪爭迎，布陣排兵皆得勝，萬事從心大亨貞。",
-      "paragraph_index": 117,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第852行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落118"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P118_S000",
+      "line_id": "QMDJ_Juan30_L118",
       "original_quote": "開門若得遇青龍，覓利重逢得裕豐，謁貴參官多見愛，求謀出入定無空；",
-      "paragraph_index": 118,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第853行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落119"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P119_S000",
+      "line_id": "QMDJ_Juan30_L119",
       "original_quote": "開門若合太乙星，雖時劫寨好偷營，出戰行兵無不勝，只有開門用安寧；",
-      "paragraph_index": 119,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第854行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落120"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P120_S000",
+      "line_id": "QMDJ_Juan30_L120",
       "original_quote": "開門如遇天乙星，出軍行陣莫懷猜，求望經營多得利，參官偏得貴人財。",
-      "paragraph_index": 120,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第855行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落121"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P121_S000",
+      "line_id": "QMDJ_Juan30_L121",
       "original_quote": "八門吉凶隨事行，不但生休與開門，節氣若排十干上，悉心詳究自分明。",
-      "paragraph_index": 121,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第856行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落122"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P122_S000",
+      "line_id": "QMDJ_Juan30_L122",
       "original_quote": "十干日凶時一名五不遇時",
-      "paragraph_index": 122,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第857行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落123"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P123_S000",
-      "original_quote": "六壬遁甲專征伐云：五不遇時，陰陽交會，干天庭，時幹剋日乾，動必有災。",
-      "paragraph_index": 123,
+      "line_id": "QMDJ_Juan30_L123",
+      "original_quote": "六壬遁甲專征伐云：五不遇時，陰陽交會，干天庭，時幹剋日乾，動必有災。公歌曰：五不遇時豈知難，定為時幹剋日乾，縱有奇門皆不利，損其日月不堪觀，遁甲三奇乙丙丁，若合開休生三吉，門倘忌五不遇時，凡興兵、除授、上官、遠行、造作，百事不利，切宜避忌。假如，甲日午未時，時幹庚辛金剋日乾，中甲，餘仿此。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第858行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落124"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P123_S001",
-      "original_quote": "公歌曰：五不遇時豈知難，定為時幹剋日乾，縱有奇門皆不利，損其日月不堪觀，遁甲三奇乙丙丁，若合開休生三吉，門倘忌五不遇時，凡興兵、除授、上官、遠行、造作，百事不利，切宜避忌。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第858行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P123_S002",
-      "original_quote": "假如，甲日午未時，時幹庚辛金剋日乾，中甲，餘仿此。",
-      "paragraph_index": 123,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第858行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P124_S000",
+      "line_id": "QMDJ_Juan30_L124",
       "original_quote": "八門所宜",
-      "paragraph_index": 124,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第859行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落125"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P125_S000",
+      "line_id": "QMDJ_Juan30_L125",
       "original_quote": "休門宜出貴人留，杜門藏身可免憂，景門求財多獲利，傷門索債必得收，生門嫁娶遠行吉，驚門遇喜未必周，死門捕捉並魚獵，開門順利徧九州島。",
-      "paragraph_index": 125,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第860行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落126"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P126_S000",
+      "line_id": "QMDJ_Juan30_L126",
       "original_quote": "九星吉凶所宜",
-      "paragraph_index": 126,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第861行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落127"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P127_S000",
+      "line_id": "QMDJ_Juan30_L127",
       "original_quote": "太乙凡為百事通，攝提到處便為凶，招搖出入多風雨，軒轅鬪毆血光逢，咸池臨處多官事，太陰取用暗財充，天符射獵打圍吉，青龍財喜兩重重，天乙所求百事遂，九星吉凶妙無窮。",
-      "paragraph_index": 127,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第862行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落128"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P128_S000",
+      "line_id": "QMDJ_Juan30_L128",
       "original_quote": "《諸葛武侯行兵遁甲金函玉鏡卷六》",
-      "paragraph_index": 128,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第865行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落131"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P129_S000",
+      "line_id": "QMDJ_Juan30_L129",
       "original_quote": "起青龍訣不論冬至、夏至皆順數",
-      "paragraph_index": 129,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第866行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落132"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P130_S000",
+      "line_id": "QMDJ_Juan30_L130",
       "original_quote": "子午青龍起在申，卯酉之日又到寅，寅申須從子上起，巳亥到午不須論，惟有辰戌歸辰位，醜未反逆戌上尋。",
-      "paragraph_index": 130,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第867行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落133"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P131_S000",
+      "line_id": "QMDJ_Juan30_L131",
       "original_quote": "如甲子日從申上起青龍，酉上起明堂順數之例。",
-      "paragraph_index": 131,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第868行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落134"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P132_S000",
+      "line_id": "QMDJ_Juan30_L132",
       "original_quote": "申青龍酉明堂戌天刑亥朱雀",
-      "paragraph_index": 132,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第869行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落135"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P133_T001",
+      "line_id": "QMDJ_Juan30_L133",
       "original_quote": "未勾陳子金匱",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 133,
-      "table_data": {
-        "original_block": "未勾陳　　　　　　　　　　子金匱"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第870行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落136"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P134_T001",
+      "line_id": "QMDJ_Juan30_L134",
       "original_quote": "午司命丑天德",
-      "tag": [
-        "table_type"
-      ],
-      "paragraph_index": 134,
-      "table_data": {
-        "original_block": "午司命　　　　　　　　　　丑天德"
-      },
+      "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第871行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落137"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P135_S000",
+      "line_id": "QMDJ_Juan30_L135",
       "original_quote": "巳玄武辰天牢卯玉堂寅白虎",
-      "paragraph_index": 135,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第872行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落138"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P136_S000",
-      "original_quote": "本日如遇時上有青龍、明堂、金匱、天德、玉堂、司命為黃道時。",
-      "paragraph_index": 136,
+      "line_id": "QMDJ_Juan30_L136",
+      "original_quote": "本日如遇時上有青龍、明堂、金匱、天德、玉堂、司命為黃道時。如遇時上有天刑、朱雀、白虎、天牢、玄武、勾陳為黑道時。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第873行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落139"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P136_S001",
-      "original_quote": "如遇時上有天刑、朱雀、白虎、天牢、玄武、勾陳為黑道時。",
-      "paragraph_index": 136,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第873行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P137_S000",
+      "line_id": "QMDJ_Juan30_L137",
       "original_quote": "起天乙貴人本時遇貴人，逢凶化吉",
-      "paragraph_index": 137,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第874行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落140"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P138_S000",
+      "line_id": "QMDJ_Juan30_L138",
       "original_quote": "甲戊兼牛羊，乙己鼠猴鄉，丙丁豬雞位，壬癸兔蛇藏，庚辛逢馬虎，此是貴人方。",
-      "paragraph_index": 138,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第875行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落141"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P139_S000",
+      "line_id": "QMDJ_Juan30_L139",
       "original_quote": "起截路空亡訣時遇空亡，吉凶不成",
-      "paragraph_index": 139,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第876行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落142"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P140_S000",
+      "line_id": "QMDJ_Juan30_L140",
       "original_quote": "甲己在坤乙庚離，丙辛巽位卻相宜，丁壬震宮名截路，戊癸乾坎空亡時。",
-      "paragraph_index": 140,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第877行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落143"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P141_S000",
+      "line_id": "QMDJ_Juan30_L141",
       "original_quote": "起喜神訣時內遇喜神，諸事順利",
-      "paragraph_index": 141,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第878行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落144"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P142_S000",
+      "line_id": "QMDJ_Juan30_L142",
       "original_quote": "甲己在艮乙庚干，丙辛坤位喜神安，丁壬遠向離宮坐，戊癸原來在巽間。",
-      "paragraph_index": 142,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第879行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落145"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P143_S000",
+      "line_id": "QMDJ_Juan30_L143",
       "original_quote": "五不遇時實時幹剋日乾",
-      "paragraph_index": 143,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第880行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落146"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P144_S000",
+      "line_id": "QMDJ_Juan30_L144",
       "original_quote": "甲乙日忌庚辛時，丙丁日忌壬癸時，戊己日忌甲乙時，庚辛日忌丙丁時，壬癸日忌戊己時。",
-      "paragraph_index": 144,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第881行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落147"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P145_S000",
+      "line_id": "QMDJ_Juan30_L145",
       "original_quote": "如甲日庚午、辛未時，已日庚辰、辛巳時之類，餘仿此。",
-      "paragraph_index": 145,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第882行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落148"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P146_S000",
+      "line_id": "QMDJ_Juan30_L146",
       "original_quote": "五行生剋例",
-      "paragraph_index": 146,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第883行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落149"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P147_S000",
-      "original_quote": "東方甲乙木，南方丙丁火，西方庚辛金，北方壬癸水，中央戊己土。",
-      "paragraph_index": 147,
+      "line_id": "QMDJ_Juan30_L147",
+      "original_quote": "東方甲乙木，南方丙丁火，西方庚辛金，北方壬癸水，中央戊己土。甲乙木剋戊己土，戊己土剋壬癸水，壬癸水剋丙丁火，丙丁火剋庚辛金，庚辛金剋甲乙木。甲乙木生丙丁火，丙丁火生戊己土，戊己土生庚辛金，庚辛金生壬癸水，壬癸水生甲乙木。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第884行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落150"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P147_S001",
-      "original_quote": "甲乙木剋戊己土，戊己土剋壬癸水，壬癸水剋丙丁火，丙丁火剋庚辛金，庚辛金剋甲乙木。",
-      "paragraph_index": 147,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第884行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P147_S002",
-      "original_quote": "甲乙木生丙丁火，丙丁火生戊己土，戊己土生庚辛金，庚辛金生壬癸水，壬癸水生甲乙木。",
-      "paragraph_index": 147,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第884行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P148_S000",
+      "line_id": "QMDJ_Juan30_L148",
       "original_quote": "地支屬五行例",
-      "paragraph_index": 148,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第885行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落151"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P149_S000",
+      "line_id": "QMDJ_Juan30_L149",
       "original_quote": "北方亥子水，東方寅卯木，南方巳午火，西方申酉金，四隅辰戌丑未土。",
-      "paragraph_index": 149,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第886行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落152"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P150_S000",
+      "line_id": "QMDJ_Juan30_L150",
       "original_quote": "年上起月歌",
-      "paragraph_index": 150,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第887行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落153"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P151_S000",
+      "line_id": "QMDJ_Juan30_L151",
       "original_quote": "甲己之年丙作首，乙庚之歲戊為頭，丙辛並向庚寅起，丁壬壬寅順行流，若言戊癸何方發，甲寅之上好追求。",
-      "paragraph_index": 151,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第888行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落154"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P152_S000",
+      "line_id": "QMDJ_Juan30_L152",
       "original_quote": "日上起時歌",
-      "paragraph_index": 152,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第889行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落155"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P153_S000",
+      "line_id": "QMDJ_Juan30_L153",
       "original_quote": "甲己還生甲，乙庚丙作初，丙辛從戊起，丁壬庚子居，戊癸推壬子，此法定無訛。",
-      "paragraph_index": 153,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第890行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落156"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P154_S000",
+      "line_id": "QMDJ_Juan30_L154",
       "original_quote": "時上起青龍明堂歌",
-      "paragraph_index": 154,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第891行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落157"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P155_S000",
+      "line_id": "QMDJ_Juan30_L155",
       "original_quote": "寅申須加子，卯酉卻起寅，辰戌龍位上，巳亥午上尋，子午尋申位，醜未戌上親。",
-      "paragraph_index": 155,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第892行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落158"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P156_S000",
+      "line_id": "QMDJ_Juan30_L156",
       "original_quote": "青龍明堂與天刑，朱雀金匱天德神，白虎玉堂天牢黑，玄武司命及勾陳。",
-      "paragraph_index": 156,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第893行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落159"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P157_S000",
+      "line_id": "QMDJ_Juan30_L157",
       "original_quote": "超神接氣",
-      "paragraph_index": 157,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第17行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落160"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P158_S000",
-      "original_quote": "如遇冬至、夏至，以甲日換順逆，如甲在冬至前七日，仍依夏至後逆行，冬至後三日亦必逆行，須到第四逢之甲，方用冬至後順行之例，名曰「超神」，謂中氣已到，六甲一旬十日，超過中氣也。",
-      "paragraph_index": 158,
+      "line_id": "QMDJ_Juan30_L158",
+      "original_quote": "如遇冬至、夏至，以甲日換順逆，如甲在冬至前七日，仍依夏至後逆行，冬至後三日亦必逆行，須到第四逢之甲，方用冬至後順行之例，名曰「超神」，謂中氣已到，六甲一旬十日，超過中氣也。如甲子日在冬至前四日，即依冬至後順行，名曰「接氣」，謂中氣未到，六甲旬頭先到，迎接中氣也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第895行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落161"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P158_S001",
-      "original_quote": "如甲子日在冬至前四日，即依冬至後順行，名曰「接氣」，謂中氣未到，六甲旬頭先到，迎接中氣也。",
-      "paragraph_index": 158,
+      "line_id": "QMDJ_Juan30_L159",
+      "original_quote": "每見布圖局，看以六十花甲，一日繪一圖局，填注八門九星，陽順陰逆，按圖索之，一目了然。未免繁絮，餘在軍營總以二至陰陽二周順逆一百二十圖局，會歸於兩儀之中，按三日移門九星遁甲，陰逆陽順，朱圈別之，魚珠不混，繪圖小折，隨處可佩，所謂短衣匹馬，便捷之至，故附編末聊助同志者便覽云。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第895行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落162"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P159_S000",
-      "original_quote": "每見布圖局，看以六十花甲，一日繪一圖局，填注八門九星，陽順陰逆，按圖索之，一目了然。",
-      "paragraph_index": 159,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第896行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P159_S001",
-      "original_quote": "未免繁絮，餘在軍營總以二至陰陽二周順逆一百二十圖局，會歸於兩儀之中，按三日移門九星遁甲，陰逆陽順，朱圈別之，魚珠不混，繪圖小折，隨處可佩，所謂短衣匹馬，便捷之至，故附編末聊助同志者便覽云。",
-      "paragraph_index": 159,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第896行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P160_S000",
+      "line_id": "QMDJ_Juan30_L160",
       "original_quote": "斐晉公金鎖玉環遁甲出行要訣",
-      "paragraph_index": 160,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第897行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落163"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P161_S000",
-      "original_quote": "天干，甲己九、乙庚八、丙辛七、丁壬六、戊癸五。",
-      "paragraph_index": 161,
+      "line_id": "QMDJ_Juan30_L161",
+      "original_quote": "天干，甲己九、乙庚八、丙辛七、丁壬六、戊癸五。地支，子午九、丑未八、寅申七、卯酉六、辰戌五、巳亥四。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第898行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落164"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P161_S001",
-      "original_quote": "地支，子午九、丑未八、寅申七、卯酉六、辰戌五、巳亥四。",
-      "paragraph_index": 161,
+      "line_id": "QMDJ_Juan30_L162",
+      "original_quote": "假如，甲子日出行，甲與子皆九數，二九得一十八數，或卯時六數，共得二十四數，課吉。或午時九數，共得一十七數，課凶；餘仿此。日論干支，時祇論地支，不論天干。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第898行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落165"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P162_S000",
-      "original_quote": "假如，甲子日出行，甲與子皆九數，二九得一十八數，或卯時六數，共得二十四數，課吉。",
-      "paragraph_index": 162,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第899行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P162_S001",
-      "original_quote": "或午時九數，共得一十七數，課凶；",
-      "paragraph_index": 162,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第899行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P162_S002",
-      "original_quote": "餘仿此。",
-      "paragraph_index": 162,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第270行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P162_S003",
-      "original_quote": "日論干支，時祇論地支，不論天干。",
-      "paragraph_index": 162,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第899行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P163_S000",
+      "line_id": "QMDJ_Juan30_L163",
       "original_quote": "各數備考",
-      "paragraph_index": 163,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第900行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落166"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P164_S000",
+      "line_id": "QMDJ_Juan30_L164",
       "original_quote": "十三數吉",
-      "paragraph_index": 164,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第901行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落167"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P165_S000",
-      "original_quote": "十三遁甲見陰陽，西北乾宮老婦娘，手執棉布將小女，此時有應主亨昌。",
-      "paragraph_index": 165,
+      "line_id": "QMDJ_Juan30_L165",
+      "original_quote": "十三遁甲見陰陽，西北乾宮老婦娘，手執棉布將小女，此時有應主亨昌。作事出門，推合陰陽，營謀嫁娶，起造營昌，子孫官貴，祿遇時良。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第902行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落168"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P165_S001",
-      "original_quote": "作事出門，推合陰陽，營謀嫁娶，起造營昌，子孫官貴，祿遇時良。",
-      "paragraph_index": 165,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第902行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P166_S000",
+      "line_id": "QMDJ_Juan30_L166",
       "original_quote": "十四數凶",
-      "paragraph_index": 166,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第903行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落169"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P167_S000",
-      "original_quote": "遁甲俱十四，東北有人至，白馬或青驢，弓箭身穿紫。",
-      "paragraph_index": 167,
+      "line_id": "QMDJ_Juan30_L167",
+      "original_quote": "遁甲俱十四，東北有人至，白馬或青驢，弓箭身穿紫。有人著紫，或是皂衣，前有大坑，後有白虎，凶惡相及，不宜嫁娶，休去遠行，凡事難遇。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第904行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落170"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P167_S001",
-      "original_quote": "有人著紫，或是皂衣，前有大坑，後有白虎，凶惡相及，不宜嫁娶，休去遠行，凡事難遇。",
-      "paragraph_index": 167,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第904行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P168_S000",
+      "line_id": "QMDJ_Juan30_L168",
       "original_quote": "十五數吉",
-      "paragraph_index": 168,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第905行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落171"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P169_S000",
-      "original_quote": "南方有少女，牽牛抱嬰孩，東方車與馬，更有男趕來。",
-      "paragraph_index": 169,
+      "line_id": "QMDJ_Juan30_L169",
+      "original_quote": "南方有少女，牽牛抱嬰孩，東方車與馬，更有男趕來。日月在前，光明麗天，駟馬時從，千事皆好，非但殯葬，亦宜修造。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第906行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落172"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P169_S001",
-      "original_quote": "日月在前，光明麗天，駟馬時從，千事皆好，非但殯葬，亦宜修造。",
-      "paragraph_index": 169,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第906行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P170_S000",
+      "line_id": "QMDJ_Juan30_L170",
       "original_quote": "十六數吉如有婦人到，主大升官得委缺",
-      "paragraph_index": 170,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第907行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落173"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P171_S000",
-      "original_quote": "東北有禽蜚，西北白色衣，老人持杖橛，脫卻西黃衣。",
-      "paragraph_index": 171,
+      "line_id": "QMDJ_Juan30_L171",
+      "original_quote": "東北有禽蜚，西北白色衣，老人持杖橛，脫卻西黃衣。出遇財珍，兼逢酒食，營謀起造，必遇貴人，交易婚姻，得宜獲福。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第908行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落174"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P171_S001",
-      "original_quote": "出遇財珍，兼逢酒食，營謀起造，必遇貴人，交易婚姻，得宜獲福。",
-      "paragraph_index": 171,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第908行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P172_S000",
+      "line_id": "QMDJ_Juan30_L172",
       "original_quote": "十七數凶",
-      "paragraph_index": 172,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第909行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落175"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P173_S000",
-      "original_quote": "西北風雨雲，西方孝服子，兩個駕車人，十七必逢是。",
-      "paragraph_index": 173,
+      "line_id": "QMDJ_Juan30_L173",
+      "original_quote": "西北風雨雲，西方孝服子，兩個駕車人，十七必逢是。死尸在前，病符在後，營謀嫁娶，所求災咎，若遇此時，不獲良久。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第910行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落176"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P173_S001",
-      "original_quote": "死尸在前，病符在後，營謀嫁娶，所求災咎，若遇此時，不獲良久。",
-      "paragraph_index": 173,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第910行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P174_S000",
+      "line_id": "QMDJ_Juan30_L174",
       "original_quote": "十八數吉",
-      "paragraph_index": 174,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第911行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落177"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P175_S000",
-      "original_quote": "南方有少婦，犬子或青驢，東方忽見行，剋應必無疑。",
-      "paragraph_index": 175,
+      "line_id": "QMDJ_Juan30_L175",
+      "original_quote": "南方有少婦，犬子或青驢，東方忽見行，剋應必無疑。不宜嫁娶，萬事吉昌，若遇此時，必要升官。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第912行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落178"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P175_S001",
-      "original_quote": "不宜嫁娶，萬事吉昌，若遇此時，必要升官。",
-      "paragraph_index": 175,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第912行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P176_S000",
+      "line_id": "QMDJ_Juan30_L176",
       "original_quote": "十九數凶",
-      "paragraph_index": 176,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第913行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落179"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P177_S000",
-      "original_quote": "鴉鵲並弓弩，銅鐵東方舞，更有著白衣，西方喚驢狗。",
-      "paragraph_index": 177,
+      "line_id": "QMDJ_Juan30_L177",
+      "original_quote": "鴉鵲並弓弩，銅鐵東方舞，更有著白衣，西方喚驢狗。俱是凶兆，不是吉祥，故難動用，守靜為良。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第914行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落180"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P177_S001",
-      "original_quote": "俱是凶兆，不是吉祥，故難動用，守靜為良。",
-      "paragraph_index": 177,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第914行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P178_S000",
+      "line_id": "QMDJ_Juan30_L178",
       "original_quote": "二十數凶",
-      "paragraph_index": 178,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第915行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落181"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P179_S000",
-      "original_quote": "北方有人驢，乾坤僧道尼，屠趕豬羊去，諸凶必應之。",
-      "paragraph_index": 179,
+      "line_id": "QMDJ_Juan30_L179",
+      "original_quote": "北方有人驢，乾坤僧道尼，屠趕豬羊去，諸凶必應之。前有津梁，後有豬羊，若遇此時，萬事俱殃。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第916行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落182"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P179_S001",
-      "original_quote": "前有津梁，後有豬羊，若遇此時，萬事俱殃。",
-      "paragraph_index": 179,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第916行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P180_S000",
+      "line_id": "QMDJ_Juan30_L180",
       "original_quote": "二十一數吉",
-      "paragraph_index": 180,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第917行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落183"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P181_S000",
-      "original_quote": "東方有孝子，更與婦人逢，老人持杖板，西北應乾宮。",
-      "paragraph_index": 181,
+      "line_id": "QMDJ_Juan30_L181",
+      "original_quote": "東方有孝子，更與婦人逢，老人持杖板，西北應乾宮。此時所游，青雲上蓋，百事吉昌，不敢移改。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第918行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落184"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P181_S001",
-      "original_quote": "此時所游，青雲上蓋，百事吉昌，不敢移改。",
-      "paragraph_index": 181,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第918行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P182_S000",
+      "line_id": "QMDJ_Juan30_L182",
       "original_quote": "二十二數吉",
-      "paragraph_index": 182,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第919行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落185"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P183_S000",
-      "original_quote": "求乞持杖子，西方鼓笛聲，坤兌應更奇，提籠有婦人。",
-      "paragraph_index": 183,
+      "line_id": "QMDJ_Juan30_L183",
+      "original_quote": "求乞持杖子，西方鼓笛聲，坤兌應更奇，提籠有婦人。乘車駕馬，攜酒相看，萬事皆吉，必遇平安。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第920行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落186"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P183_S001",
-      "original_quote": "乘車駕馬，攜酒相看，萬事皆吉，必遇平安。",
-      "paragraph_index": 183,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第920行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P184_S000",
+      "line_id": "QMDJ_Juan30_L184",
       "original_quote": "二十三數凶",
-      "paragraph_index": 184,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第921行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落187"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P185_S000",
-      "original_quote": "男婦攜寶劍，南方執鐵瓶，文字並豬羊，毀罵病迎門。",
-      "paragraph_index": 185,
+      "line_id": "QMDJ_Juan30_L185",
+      "original_quote": "男婦攜寶劍，南方執鐵瓶，文字並豬羊，毀罵病迎門。萬事重迭，難於遠行，動則遇侵，靜則安寧。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第922行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落188"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P185_S001",
-      "original_quote": "萬事重迭，難於遠行，動則遇侵，靜則安寧。",
-      "paragraph_index": 185,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第922行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P186_S000",
+      "line_id": "QMDJ_Juan30_L186",
       "original_quote": "二十四數吉",
-      "paragraph_index": 186,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第923行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落189"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P187_S000",
-      "original_quote": "南方送福仙，少女手執錢，兌宮羊又至，物色黑青纏。",
-      "paragraph_index": 187,
+      "line_id": "QMDJ_Juan30_L187",
+      "original_quote": "南方送福仙，少女手執錢，兌宮羊又至，物色黑青纏。飛鳥在前，玉士在後，行見長官，嫁娶無咎。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第924行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落190"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P187_S001",
-      "original_quote": "飛鳥在前，玉士在後，行見長官，嫁娶無咎。",
-      "paragraph_index": 187,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第924行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P188_S000",
+      "line_id": "QMDJ_Juan30_L188",
       "original_quote": "二十五數吉",
-      "paragraph_index": 188,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第925行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落191"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P189_S000",
-      "original_quote": "驢子共猿猻，南方有婦人，西方老人至，剋應最為靈。",
-      "paragraph_index": 189,
+      "line_id": "QMDJ_Juan30_L189",
+      "original_quote": "驢子共猿猻，南方有婦人，西方老人至，剋應最為靈。見四足物，百事稱心，出逢長者，更遇知音。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第926行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落192"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P189_S001",
-      "original_quote": "見四足物，百事稱心，出逢長者，更遇知音。",
-      "paragraph_index": 189,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第926行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P190_S000",
+      "line_id": "QMDJ_Juan30_L190",
       "original_quote": "二十六數吉",
-      "paragraph_index": 190,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第927行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落193"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P191_S000",
-      "original_quote": "北方公文行，南方小兒啼，子孫封官祿，大吉不須疑。",
-      "paragraph_index": 191,
+      "line_id": "QMDJ_Juan30_L191",
+      "original_quote": "北方公文行，南方小兒啼，子孫封官祿，大吉不須疑。以上諸時，此時最吉，但試其事，萬無一失。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第928行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落194"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P191_S001",
-      "original_quote": "以上諸時，此時最吉，但試其事，萬無一失。",
-      "paragraph_index": 191,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第928行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P192_S000",
+      "line_id": "QMDJ_Juan30_L192",
       "original_quote": "二十七數凶",
-      "paragraph_index": 192,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第929行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落195"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P193_S000",
-      "original_quote": "白馬共紫驢，西方一騎出，東方逢覺人，寇纓來應必。",
-      "paragraph_index": 193,
+      "line_id": "QMDJ_Juan30_L193",
+      "original_quote": "白馬共紫驢，西方一騎出，東方逢覺人，寇纓來應必。以上諸數，此數最惡，先賢詳看，明應不錯。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第930行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落196"
       }
     },
     {
-      "line_id": "QMDJ_Juan30_P193_S001",
-      "original_quote": "以上諸數，此數最惡，先賢詳看，明應不錯。",
-      "paragraph_index": 193,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第930行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan30_P194_S000",
+      "line_id": "QMDJ_Juan30_L194",
       "original_quote": "每日出行，欲占吉凶，如法起數，趨吉避凶，百發百中，其妙無窮，人能用此，喜氣衝衝。",
-      "paragraph_index": 194,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷三十",
-        "section": "卷三十",
-        "line_ref": "第931行"
+        "juan": "下卷·卷30",
+        "section": "卷30",
+        "line_ref": "段落197"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan30",
-    "line_id_start": "QMDJ_Juan30_P000_S000",
-    "line_id_end": "QMDJ_Juan30_P194_S000",
-    "original_block": "《卷三十》\n奇門地盤圖\n此陽遁一局，先以左邊掌訣，甲子戊起一坎，順飛六儀，逆布三奇，即知某為值符，某為值使矣，諸照此而推之。其圖如左：\n甲寅癸 丁 丙 乙\n乾六 兌七 艮八 離九\n天心、開 天柱、驚 天任、生 天英、景\n天禽星寄於\n坤宮甲辰壬\n甲午辛 甲申庚 甲戌己 甲子戊\n巽四 震三 坤二 坎一\n天輔杜 天衝、傷 天芮、死 天蓬、休\n此地盤一定不易者也。所謂地主靜也，五日換一元。天盤則時時不同，所謂天主動也。如乙丑時則以休門加天盤坤為值使，以值符天蓬星甲子戊加離九為值符，諸照此例。\n歌曰：「戊子乾宮亥為庚，戊寅坎艮丑壬辰，戊午生門同甲卯，四宮戊戌二九申，上有戊辰庚酉辛，一飛盤過一回新，二十四盤方上起，門從方上定金鳴，所泊若差時一位，就將方位東方神，此是九星真秘訣，消凶納吉萬全亨」。\n歌曰：「一盤西去兩盤東，二至精微在此中，一二卻從天上落，八九順從地下通，二九伏從丁九丙，乙丙山山盡起風，三四過去重三九，一盤起去一盤宮，此方即是真神女，九九移來路上同，非是賢人莫妄語，怕將機巧亂研窮」。\n以子加直使，陽遁順，陰遁逆，玉女時上落在何宮是也。\n此是陽遁上元甲己日乙亥時，值使在三宮，故休門杜坤，取子加卯順行，看亥落何宮，即知亥時在艮景門上，左足先二步華蓋，豹向豹尾而去，人鬼不見形。\n其法照飛宮，指陰陽二遁。如冬至上元甲己日甲子時，則知九天在休門，九地在離；夏至上元甲己日甲子時，九地在休門，九天在離，餘仿此而推之。\n歌曰：「赤道白道與黃道，不避千年騐不到，餘此六道是吉神，配合奇門遁真好」。法分二遁隱避之訣，必分道，遁道之中赤、白、黃三道，尤宜謹避。不然雖合三奇吉門，亦遁不通，難免十患。\n此即甲乙丙丁戊陽時，神居天上要君知也，陰時仿此。\n諸葛武侯行兵遁甲金函玉鏡\n諸葛武侯行兵遁甲金函玉鏡圖序\n金 函玉鏡者，蜀時諸葛孔明所著也。當漢末時因黃巾之亂，天下豪傑並起，而曹氏父子、孫權、周瑜諸將，皆稱召用兵過於孫吳者也，獨孔明與蜀主往往行兵遇敵，縱 橫吳魏間，以正維奇兵而獲勝者何？蓋此乃出於金函玉鏡之書，是書始自上古聖皇軒轅氏破蚩尤不勝，齋戒上感九天玄女，傳授驅役六丁玉女之神，諸遁甲旬內逐日 遁時，書為八門定以吉凶，分內外勝負集為秘書一編傳於世間，而孔明得之於龍門山岩穴之間，孔明行師出陣用以取勝，魏吳諸將咸稱其神焉。\n孔明奇其書可以傳世，厥後自畫圖局六十甲子日，每日十二時，全圖局俱載，九星所值，各門吉凶成敗，以備行兵擇選用之者，其應如響，名之曰金函玉鏡圖，其書指 畫詳明，別為一家，不與遁甲諸書相似，所稱神異，不可測度者也。孔明有云，是書在兵興之日則為行軍，其歷代作日用選擇出行必不可無者甚矣，流傳於世歷代， 知兵之將帥，此秘而寶之，其傳者寡矣。余學兵二十年，凡武經韜略七寶新書，六旨金鏡，青囊索書，諸家兵法悉得觀覽，獨孫氏與是圖，相為體用，誠國家之書 籍，而無毫髮差誤，實世之寶焉。餘雖武人不文獨得是圖之微奧，不敢擅秘，以故今出終南山黃岩老人，夙朝本朝大將狄青家藏本繕圖式，命史端撫抄錄用，廣其傳 以俟後世，明哲忠謀之士用兵之際，得以觀閱闡助武功，以見餘之不秘昔賢之傳也。\n\n《諸葛武侯行兵遁甲金函玉鏡卷一》\n九星落局法\n冬至後陽遁順行九宮起例一日一宮完，即至上日甲戌，餘例仿此\n甲子為頭起艮，甲戌飛入宮字，猿猴翻入水晶宮坎，甲馬坤中不動，曾見龍生震地，再看虎嘯生風巽，九星殿上顯奇功，太乙臨之法用。\n假如，甲子日艮上起太乙，離上攝提，坎上軒轅，坤上招搖，震上天符，巽上青龍，中宮咸池，乾上太陰，兌上天乙，此九星順行九宮之法也。\n夏至後陰遁逆行九宮起例\n甲子為頭起坤，甲戌飛入坎宮，猿猴馬上笑欣欣離，甲馬山中直進艮，龍臨金位顯位能兌，虎向乾方坐鎮，九宮太乙逆行，仔細推求有應。\n假如，甲子日坤上起太乙，坎上攝提，離上軒轅，艮上招搖，兌上天符，乾上青龍，中宮咸池，巽上太陰，震上天乙，此九星逆行九宮之法也。\n九星神名次序起例\n一太乙吉、二攝提凶、三軒轅平、四招搖平、五天符凶、六青龍吉、七咸池凶、八太陰吉、九天乙吉。\n冬至後陽遁八門起例\n陽乾順布八門，甲丙戊庚壬為陽；陰乾逆布八門，乙丁己辛癸為陰。\n甲戊壬子坎為休，丁辛乙卯向坤游，庚甲戊午居震位，癸丁辛酉巽方求，庚丙鼠入金鄉去幹，己癸兔居水澤幽兌，壬丙馬行山上路艮，乙己雞與火為儔離。\n假如，甲子日陽順休生開，乙丑日陰逆休生開，丙寅日又順休生開，陰遁起例仿此。\n夏至後陰遁八門起例\n甲戊壬子居離，丁辛乙卯艮連，戊寅甲馬兌宮先，丁癸辛酉乾健，赤白鼠游巽位丙庚，黑黃兔走東邊癸己，丙壬騎馬到坤門，乙己雞飛坎畔。\n假如，甲子、戊子、壬子俱從離上起休門，每宮三日一換，陽順陰逆，起法如前。\n飛宮掌訣起例\n掌訣圖、八門圖\n坤二死 兌七驚 乾六開\n離九景 中五 坎一休\n巽四杜 震三傷 艮八生\n起休門訣\n如冬至後陽遁順起，甲戊壬子坎為休，是休門，在坎一，生門在艮八，數至開門在乾六。乙丑日休門還在坎，生門轉乾，數至開門在艮。丙寅日休門亦在坎，生門又轉 在艮，開門又在乾，此陽順陰逆也。如丁辛乙卯向坤游，則休門移於坤二矣。此三日一換也，餘類推。夏至後甲戊壬子居離九，系逆起亦問此義。\n九星起飛宮訣\n如冬至後陽遁順行，甲子為頭起艮，從艮八上起太乙，順行離九攝提，轉坎一上軒轅，坤二招搖，震三天符，巽四青龍，中五咸池，乾六太陰，兌七天乙，此九星順行也。一日一換，如甲子日太乙在艮，乙丑日太乙在離九，丙寅日太乙在坎一，丁卯日太乙在坤二，餘類推。\n如夏至後陰遁逆行，甲子為頭起坤，是從坤二上起太乙逆行坎一是也。\n九星吉凶歌\n一、太乙水神\n逢著皂衣人求謁，訪謁婚姻皆大吉。\n門中見太乙，星曜號貪狼，博奕錢財眾，婚姻大吉昌，出門無阻滯，參謁見賢良。\n二、攝提土神\n遇死門大凶，逢老婦悲啼，再逢牛犁耕田，不吉。\n遠行遭羈絆，耕地損牛犁，相生又問可，相剋見災危，死門並相見，老婦哭悲啼，求財並嫁娶，萬事不相宜，主隱匿藏道，言動則傷身。\n三、軒轅木神\n路遇宜見於十五里外。\n出入遇軒轅，作事必牽纏，相生災侵慢，相剋必憂煎，遠行逢迍遰，博奕定輸錢，九天玄女法，句句不虛傳。\n四、招搖木神\n逢二親人，又見婦人口舌，怪夢驚恐，鄰家釜鳴，屋響不吉。\n招搖號木星，當門百事成，相剋行人阻，陰人口舌迎，怪夢多驚恐，屋響釜自鳴，陰陽消息用，作事不容情。\n五、天符土神\n五鬼是天符，當門陰女謀，相剋無好事，言客在程遲，走失難得見，吊客惹成孤，此星當門值，切忌有災途，交戰出兵，迎鋒出陣，軍糧則利。\n六、青龍金神\n路逢醫人或是酒仙，今博奕於道中。\n門內見青龍，求財喜重重，每逢茶酒食，博奕定見贏，相生錢財旺，休言剋破刑，接貴安營寨，萬事喜和同。\n七、咸池金神\n不可行軍破敵。\n五將號咸池，當門事不宜，相生皆無破，相剋有災危，博奕相輸脫，求財空手歸，神仙真妙訣，愚人要與知，軍事虛驚退，反複逆風吹。\n八、太陰土神\n行六七里，見有小兒牽羊至，求財成就吉。\n當門見太陰，百禍不能侵，方行六七里，知交有覓尋，妙法牢收取，回軍引馬前，有伏兵截路，慎不可輕行。\n九、天乙火神\n行三十里見一婦人著五六色，遇抱小兒，百事吉。\n門迎天乙星，相生百事成，動用皆和順，茶酒自相迎，求婚行嫁娶，相會天自成，出軍交兵陣，一見定勝贏。\n八門吉凶歌\n休門水神貪狼\n求公乾私遇休門，求財參謁貴人欽，欲速同行吉相助，出入嫁娶五福臨，休門己見百般食，出入經行得恁強，但求休門門見路，更逢吉利和衷腸。\n生門土神左輔\n此門爭財見官訟兆，嫁娶避走，二十里見飛鳥來迎之，大吉。\n但凡出入遇生門，吉曜臨之萬事成，若有凶神相隔輟，求財所得利稱心，生門已見好經營，百事流通得稱情，此門出入逢歡喜，但求經營喜氣生。\n傷門木神祿存\n此門出行必見精怪嚇、喧事、扭洩、血傷。\n出入求財如遇傷，更逢吉曜亦難當，跟前人惹疼病禍，自身須防有災殃，傷門往往是非傳，若出門來有禍僽，採捕稱心雖是好，其餘不得不憂煎。\n杜門木神文曲\n此門宜出行、謁貴、求財，或遇避者，剋難吉。\n杜門公用各施行，亦見門中有吉星，茶酒自然留客住，忻歡百事喜相成，杜門曾見好經營，出入從來未稱情，若然逃遁如避難，即是元木也不成。\n景門火神廉貞\n此門出行見貴、博戲、爭逐、捕獵，行四十里，必見喜樂聲。\n遠行出入景門中，無剋無生平吉凶，若值星辰方位惡，心頭作事亦難通，景門出入且宜良，玩賞嬉中第一強，採獵捕魚人少得，無憂無喜見安康。\n死門土神巨門\n此門宜出獵、張捕、殺生，千死一生，行二十里，路旁必見死傷應之。\n參謁求謀入死門，吉神刻剝不堪論，若不自身作橫事，其人必定見傷痕，死門不可東西去，大抵為名事莫言，死傷求哀為不利，聖人怎肯教胡傳。\n驚門金神破軍\n此門不宜出行、上官，諸事不吉，行六七里，必見驚怪、犬物騐方。\n尋求走失出驚門，逃人財物盡都存，更得吉星變刑剋，在失逃人自失魂，驚門一定有虛驚，出入如逢百不成，百般美事休更說，往往居家不稱情。\n開門金神武曲\n此門宜上官、見貴、出入、求財、回避，三十里必見婦人或穿顏色衣人以應之。\n開門出入最為良，萬事亨通大吉昌，出入求財定見喜，八方幹事一齊強，求財出入遇開門，自有欣歡百事成，更值吉星當位照，相逢酒食笑忻忻。\n九星飛宮斷例\n太乙雖名凶惡星，兵亡將敗至憂驚，札寨安營須大忌，倘逢吉曜轉凶星。\n青龍臨處利求財，出入逢之事必諧，布陣行軍百勝吉，修營嫁娶福齊來。\n太陰本是水之精，出入無阻坦蕩行，若遇陰人尤大吉，行兵百事盡歡欣。\n天乙偏宜見貴人，用事求謀總遂心，更出此方無所慮，身名必定得天恩。\n招搖如遇入中宮，知者將軍莫交鋒，無論王侯共宰相，徒勞心力不成功。\n天符方上恐邅迍，避忌此宮大不寧，倘能用力禳酧過，不然五鬼不容情。\n軒轅遇著最艱難，百事謀為遂傷殘，出入定當防有火，暗損明傷定不還。\n咸池惡煞凶神隨，蛇虎重重遭困圍，此方遠近宜穿井，其它用事恐傷悲。\n攝提方上主多災，腳腿多憂坎坷災，若此行路定無吉，兵家切忌去艱來。\n八門遇九星斷例\n休門若獲遇青龍，凡事謀為盡亨通，覓利求財興百倍，出軍排陣定摧鋒；\n休門太乙百事興，相爭戰鬪旺雄兵，起營立寨終須勝，見貴參官喜相逢；\n休門若遇天乙星，出入求財大快亨，多遇貴人憐憂喜，邀迎酒食得人欽。\n生門最喜見青龍，謁貴謀為百事通，經商定獲千倍利，出入無憂展笑容；\n生門太乙福德多，所求稱意任張羅，覓利求財期百倍，出入行軍無滯過；\n生門若遇天乙星，出入定無鬪爭迎，布陣排兵皆得勝，萬事從心大亨貞。\n開門若得遇青龍，覓利重逢得裕豐，謁貴參官多見愛，求謀出入定無空；\n開門若合太乙星，雖時劫寨好偷營，出戰行兵無不勝，只有開門用安寧；\n開門如遇天乙星，出軍行陣莫懷猜，求望經營多得利，參官偏得貴人財。\n八門吉凶隨事行，不但生休與開門，節氣若排十干上，悉心詳究自分明。\n十干日凶時一名五不遇時\n六 壬遁甲專征伐云：五不遇時，陰陽交會，干天庭，時幹剋日乾，動必有災。公歌曰：五不遇時豈知難，定為時幹剋日乾，縱有奇門皆不利，損其日月不堪觀，遁甲三 奇乙丙丁，若合開休生三吉，門倘忌五不遇時，凡興兵、除授、上官、遠行、造作，百事不利，切宜避忌。假如，甲日午未時，時幹庚辛金剋日乾，中甲，餘仿此。\n八門所宜\n休門宜出貴人留，杜門藏身可免憂，景門求財多獲利，傷門索債必得收，生門嫁娶遠行吉，驚門遇喜未必周，死門捕捉並魚獵，開門順利徧九州島。\n九星吉凶所宜\n太乙凡為百事通，攝提到處便為凶，招搖出入多風雨，軒轅鬪毆血光逢，咸池臨處多官事，太陰取用暗財充，天符射獵打圍吉，青龍財喜兩重重，天乙所求百事遂，九星吉凶妙無窮。\n\n\n《諸葛武侯行兵遁甲金函玉鏡卷六》\n起青龍訣不論冬至、夏至皆順數\n子午青龍起在申，卯酉之日又到寅，寅申須從子上起，巳亥到午不須論，惟有辰戌歸辰位，醜未反逆戌上尋。\n如甲子日從申上起青龍，酉上起明堂順數之例。\n申青龍酉明堂戌天刑亥朱雀\n未勾陳　　　　　　　　　　子金匱\n午司命　　　　　　　　　　丑天德\n巳玄武辰天牢卯玉堂寅白虎\n本日如遇時上有青龍、明堂、金匱、天德、玉堂、司命為黃道時。如遇時上有天刑、朱雀、白虎、天牢、玄武、勾陳為黑道時。\n起天乙貴人本時遇貴人，逢凶化吉\n甲戊兼牛羊，乙己鼠猴鄉，丙丁豬雞位，壬癸兔蛇藏，庚辛逢馬虎，此是貴人方。\n起截路空亡訣時遇空亡，吉凶不成\n甲己在坤乙庚離，丙辛巽位卻相宜，丁壬震宮名截路，戊癸乾坎空亡時。\n起喜神訣時內遇喜神，諸事順利\n甲己在艮乙庚干，丙辛坤位喜神安，丁壬遠向離宮坐，戊癸原來在巽間。\n五不遇時實時幹剋日乾\n甲乙日忌庚辛時，丙丁日忌壬癸時，戊己日忌甲乙時，庚辛日忌丙丁時，壬癸日忌戊己時。\n如甲日庚午、辛未時，已日庚辰、辛巳時之類，餘仿此。\n五行生剋例\n東方甲乙木，南方丙丁火，西方庚辛金，北方壬癸水，中央戊己土。甲乙木剋戊己土，戊己土剋壬癸水，壬癸水剋丙丁火，丙丁火剋庚辛金，庚辛金剋甲乙木。甲乙木生丙丁火，丙丁火生戊己土，戊己土生庚辛金，庚辛金生壬癸水，壬癸水生甲乙木。\n地支屬五行例\n北方亥子水，東方寅卯木，南方巳午火，西方申酉金，四隅辰戌丑未土。\n年上起月歌\n甲己之年丙作首，乙庚之歲戊為頭，丙辛並向庚寅起，丁壬壬寅順行流，若言戊癸何方發，甲寅之上好追求。\n日上起時歌\n甲己還生甲，乙庚丙作初，丙辛從戊起，丁壬庚子居，戊癸推壬子，此法定無訛。\n時上起青龍明堂歌\n寅申須加子，卯酉卻起寅，辰戌龍位上，巳亥午上尋，子午尋申位，醜未戌上親。\n青龍明堂與天刑，朱雀金匱天德神，白虎玉堂天牢黑，玄武司命及勾陳。\n超神接氣\n如 遇冬至、夏至，以甲日換順逆，如甲在冬至前七日，仍依夏至後逆行，冬至後三日亦必逆行，須到第四逢之甲，方用冬至後順行之例，名曰「超神」，謂中氣已到， 六甲一旬十日，超過中氣也。如甲子日在冬至前四日，即依冬至後順行，名曰「接氣」，謂中氣未到，六甲旬頭先到，迎接中氣也。\n每 見布圖局，看以六十花甲，一日繪一圖局，填注八門九星，陽順陰逆，按圖索之，一目了然。未免繁絮，餘在軍營總以二至陰陽二周順逆一百二十圖局，會歸於兩儀 之中，按三日移門九星遁甲，陰逆陽順，朱圈別之，魚珠不混，繪圖小折，隨處可佩，所謂短衣匹馬，便捷之至，故附編末聊助同志者便覽云。\n斐晉公金鎖玉環遁甲出行要訣\n天干，甲己九、乙庚八、丙辛七、丁壬六、戊癸五。地支，子午九、丑未八、寅申七、卯酉六、辰戌五、巳亥四。\n假如，甲子日出行，甲與子皆九數，二九得一十八數，或卯時六數，共得二十四數，課吉。或午時九數，共得一十七數，課凶；餘仿此。日論干支，時祇論地支，不論天干。\n各數備考\n十三數吉\n十三遁甲見陰陽，西北乾宮老婦娘，手執棉布將小女，此時有應主亨昌。作事出門，推合陰陽，營謀嫁娶，起造營昌，子孫官貴，祿遇時良。\n十四數凶\n遁甲俱十四，東北有人至，白馬或青驢，弓箭身穿紫。有人著紫，或是皂衣，前有大坑，後有白虎，凶惡相及，不宜嫁娶，休去遠行，凡事難遇。\n十五數吉\n南方有少女，牽牛抱嬰孩，東方車與馬，更有男趕來。日月在前，光明麗天，駟馬時從，千事皆好，非但殯葬，亦宜修造。\n十六數吉如有婦人到，主大升官得委缺\n東北有禽蜚，西北白色衣，老人持杖橛，脫卻西黃衣。出遇財珍，兼逢酒食，營謀起造，必遇貴人，交易婚姻，得宜獲福。\n十七數凶\n西北風雨雲，西方孝服子，兩個駕車人，十七必逢是。死尸在前，病符在後，營謀嫁娶，所求災咎，若遇此時，不獲良久。\n十八數吉\n南方有少婦，犬子或青驢，東方忽見行，剋應必無疑。不宜嫁娶，萬事吉昌，若遇此時，必要升官。\n十九數凶\n鴉鵲並弓弩，銅鐵東方舞，更有著白衣，西方喚驢狗。俱是凶兆，不是吉祥，故難動用，守靜為良。\n二十數凶\n北方有人驢，乾坤僧道尼，屠趕豬羊去，諸凶必應之。前有津梁，後有豬羊，若遇此時，萬事俱殃。\n二十一數吉\n東方有孝子，更與婦人逢，老人持杖板，西北應乾宮。此時所游，青雲上蓋，百事吉昌，不敢移改。\n二十二數吉\n求乞持杖子，西方鼓笛聲，坤兌應更奇，提籠有婦人。乘車駕馬，攜酒相看，萬事皆吉，必遇平安。\n二十三數凶\n男婦攜寶劍，南方執鐵瓶，文字並豬羊，毀罵病迎門。萬事重迭，難於遠行，動則遇侵，靜則安寧。\n二十四數吉\n南方送福仙，少女手執錢，兌宮羊又至，物色黑青纏。飛鳥在前，玉士在後，行見長官，嫁娶無咎。\n二十五數吉\n驢子共猿猻，南方有婦人，西方老人至，剋應最為靈。見四足物，百事稱心，出逢長者，更遇知音。\n二十六數吉\n北方公文行，南方小兒啼，子孫封官祿，大吉不須疑。以上諸時，此時最吉，但試其事，萬無一失。\n二十七數凶\n白馬共紫驢，西方一騎出，東方逢覺人，寇纓來應必。以上諸數，此數最惡，先賢詳看，明應不錯。\n每日出行，欲占吉凶，如法起數，趨吉避凶，百發百中，其妙無窮，人能用此，喜氣衝衝。\n"
-  }
+  "_extraction_status": "卷30完成"
 }

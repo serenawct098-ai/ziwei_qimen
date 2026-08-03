@@ -1,32 +1,34 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷二",
-  "section": "安截路空亡訣",
+  "section": "安流時訣",
   "entries": [
     {
-      "line_id": "ZWQS_Juan2_AnJielu_L000",
+      "line_id": "ZWQS_Juan2_AnLiushi_000",
       "original_quote": "安截路空亡訣論本生年",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安截路空亡訣",
+        "section": "安流時訣",
         "line_ref": "第119行"
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AnJielu_L001",
+      "line_id": "ZWQS_Juan2_AnLiushi_001",
       "original_quote": "甲己申酉宮，乙庚午未宮，丙辛辰巳宮，丁壬寅卯宮，戊癸子丑宮。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安截路空亡訣",
+        "section": "安流時訣",
         "line_ref": "第120行"
       }
     }
   ],
-  "_extraction_status": "安截路空亡訣完成"
+  "_extraction_status": "安流時訣完成"
 }

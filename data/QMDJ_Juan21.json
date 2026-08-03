@@ -1,2078 +1,452 @@
 {
   "text": "奇門遁甲秘笈大全",
-  "juan": "下卷·卷二十一",
-  "section": "卷二十一",
+  "juan": "下卷·卷21",
+  "section": "卷21",
   "entries": [
     {
-      "line_id": "QMDJ_Juan21_P000_S000",
+      "line_id": "QMDJ_Juan21_L000",
       "original_quote": "《卷二十一》",
+      "tag": [],
       "paragraph_index": 0,
-      "tag": [],
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第2行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "標題"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P001_S000",
+      "line_id": "QMDJ_Juan21_L001",
       "original_quote": "論主客",
-      "paragraph_index": 1,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第3行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落1"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P002_S000",
-      "original_quote": "太公曰：「凡主客動靜不定，變化莫測」。",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan21_L002",
+      "original_quote": "太公曰：「凡主客動靜不定，變化莫測」。故主客不定之象，或以先動為客，後動為主；或以動為客，靜為主；或以先聲為客，或以天盤為客，地盤為主。諸事總有用訣，成敗勝負皆貴乎主賓之緊要也。如出兵動眾，以我為客，至彼地為主；或賊巢及賊所侵之城郭為主；或以陽為客，陰為主；或反客為主，反主為客。若選將、求賢、招兵買馬、干謁、訪友之類，是我為客彼他、彼人為主。如有人來求我，或通知我而我未知，是彼為客我為主。如在對陣，或不在對敵，再分主客也。或此時交鋒若利客，宜先耀武揚威，放炮吶喊；若利主，惟宜偃旗旗息鼓，禁聲而敵，埋伏取勝。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落2"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P002_S001",
-      "original_quote": "故主客不定之象，或以先動為客，後動為主；",
-      "paragraph_index": 2,
+      "line_id": "QMDJ_Juan21_L003",
+      "original_quote": "凡發兵，須看賊巢遠近。如發兵時交戰，或不同時交鋒，不可以先動為客，待臨敵取主客，到時而用之可也。如此時主客不利，只宜固守，倘若急迫，或被圍困，宜以計勝。或運籌、閉六戊、或乘天馬，或書符、念咒等類亦可。如國事、都省府縣鄉事、家宅、官訟、墳塋、求謀、名利、婚姻、行人、失脫、逃走、捕捉，即以地盤為主人，天盤為客人。人事是多，不能細述，大天盤諸星生合地盤為上，地盤生合天盤次之。如客生主，為稱意美滿，進益多端；主生客，為耗散遲延；主客皆和，行藏皆遂；主剋客，乃半實半虛，自敗虛花，事為不果；客剋主，則戰敗無成，求吉招凶。故善用奇門者，先分主客，然後再明占法。如此時利主，我即為主；此時利客，我即為客。或以進為客，不進為主，在我一心，不可執一，為客為主任我可也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落3"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P002_S002",
-      "original_quote": "或以動為客，靜為主；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S003",
-      "original_quote": "或以先聲為客，或以天盤為客，地盤為主。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S004",
-      "original_quote": "諸事總有用訣，成敗勝負皆貴乎主賓之緊要也。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S005",
-      "original_quote": "如出兵動眾，以我為客，至彼地為主；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S006",
-      "original_quote": "或賊巢及賊所侵之城郭為主；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S007",
-      "original_quote": "或以陽為客，陰為主；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S008",
-      "original_quote": "或反客為主，反主為客。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S009",
-      "original_quote": "若選將、求賢、招兵買馬、干謁、訪友之類，是我為客彼他、彼人為主。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S010",
-      "original_quote": "如有人來求我，或通知我而我未知，是彼為客我為主。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S011",
-      "original_quote": "如在對陣，或不在對敵，再分主客也。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S012",
-      "original_quote": "或此時交鋒若利客，宜先耀武揚威，放炮吶喊；",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P002_S013",
-      "original_quote": "若利主，惟宜偃旗旗息鼓，禁聲而敵，埋伏取勝。",
-      "paragraph_index": 2,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S000",
-      "original_quote": "凡發兵，須看賊巢遠近。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S001",
-      "original_quote": "如發兵時交戰，或不同時交鋒，不可以先動為客，待臨敵取主客，到時而用之可也。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S002",
-      "original_quote": "如此時主客不利，只宜固守，倘若急迫，或被圍困，宜以計勝。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S003",
-      "original_quote": "或運籌、閉六戊、或乘天馬，或書符、念咒等類亦可。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S004",
-      "original_quote": "如國事、都省府縣鄉事、家宅、官訟、墳塋、求謀、名利、婚姻、行人、失脫、逃走、捕捉，即以地盤為主人，天盤為客人。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S005",
-      "original_quote": "人事是多，不能細述，大天盤諸星生合地盤為上，地盤生合天盤次之。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S006",
-      "original_quote": "如客生主，為稱意美滿，進益多端；",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S007",
-      "original_quote": "主生客，為耗散遲延；",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S008",
-      "original_quote": "主客皆和，行藏皆遂；",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S009",
-      "original_quote": "主剋客，乃半實半虛，自敗虛花，事為不果；",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S010",
-      "original_quote": "客剋主，則戰敗無成，求吉招凶。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S011",
-      "original_quote": "故善用奇門者，先分主客，然後再明占法。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S012",
-      "original_quote": "如此時利主，我即為主；",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S013",
-      "original_quote": "此時利客，我即為客。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P003_S014",
-      "original_quote": "或以進為客，不進為主，在我一心，不可執一，為客為主任我可也。",
-      "paragraph_index": 3,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第5行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P004_S000",
+      "line_id": "QMDJ_Juan21_L004",
       "original_quote": "總法天機前篇",
-      "paragraph_index": 4,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第6行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落4"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P005_S000",
-      "original_quote": "凡布演奇門，先觀天象，後察細微，總在我一心之所用，不可不知也。",
-      "paragraph_index": 5,
+      "line_id": "QMDJ_Juan21_L005",
+      "original_quote": "凡布演奇門，先觀天象，後察細微，總在我一心之所用，不可不知也。如天盤九星、奇儀、八門屬金，加於地盤諸星上，木是金水為客來傷，主戰利為客，行兵先舉，放炮吶喊，士卒精強，百戰百勝。凡求謀、請謁、交易等事，破敗驚憂，客舍暗昧，遭逢盜賊小人，惟行人即至。若金旺木衰，其凶尤甚。如天盤金星在衰、墓、死、絕之時加於木，無氣之金不能剋木；若木在生旺之時，則木星為吉；如木亦衰、墓、絕之時，而凶終不能免矣。如天盤木星加於地盤火星上，是為木能生火，戰利為主，諸為一切等事，皆如心意。如有重木臨生旺之宮，謂之貪生之木，壓火無光，火漸自滅。若木臨退氣之宮或木少，多是枯木生火，大利主兵。如天盤土加於地盤金，是客來生主。若系土旺或有重土，雖曰生金，而土重埋金，必有暗兵埋伏，或英雄失志，或忠烈受屈。如天盤木加地盤金，乃主傷其客，宜偃旗息皷，禁聲而敵，大勝。凡有謀為，事多破敗，有始無終。惟求名顯達，官事得失，出行吉。如天盤金加地盤土，乃主生客，宜耀武揚威，徵兵奏凱，客兵大勝。凡事謀為，始終皆耗，勞碌勞力，得援安妥。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落5"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P005_S001",
-      "original_quote": "如天盤九星、奇儀、八門屬金，加於地盤諸星上，木是金水為客來傷，主戰利為客，行兵先舉，放炮吶喊，士卒精強，百戰百勝。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S002",
-      "original_quote": "凡求謀、請謁、交易等事，破敗驚憂，客舍暗昧，遭逢盜賊小人，惟行人即至。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S003",
-      "original_quote": "若金旺木衰，其凶尤甚。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S004",
-      "original_quote": "如天盤金星在衰、墓、死、絕之時加於木，無氣之金不能剋木；",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S005",
-      "original_quote": "若木在生旺之時，則木星為吉；",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S006",
-      "original_quote": "如木亦衰、墓、絕之時，而凶終不能免矣。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S007",
-      "original_quote": "如天盤木星加於地盤火星上，是為木能生火，戰利為主，諸為一切等事，皆如心意。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S008",
-      "original_quote": "如有重木臨生旺之宮，謂之貪生之木，壓火無光，火漸自滅。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S009",
-      "original_quote": "若木臨退氣之宮或木少，多是枯木生火，大利主兵。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S010",
-      "original_quote": "如天盤土加於地盤金，是客來生主。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S011",
-      "original_quote": "若系土旺或有重土，雖曰生金，而土重埋金，必有暗兵埋伏，或英雄失志，或忠烈受屈。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S012",
-      "original_quote": "如天盤木加地盤金，乃主傷其客，宜偃旗息皷，禁聲而敵，大勝。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S013",
-      "original_quote": "凡有謀為，事多破敗，有始無終。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S014",
-      "original_quote": "惟求名顯達，官事得失，出行吉。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S015",
-      "original_quote": "如天盤金加地盤土，乃主生客，宜耀武揚威，徵兵奏凱，客兵大勝。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P005_S016",
-      "original_quote": "凡事謀為，始終皆耗，勞碌勞力，得援安妥。",
-      "paragraph_index": 5,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P006_S000",
+      "line_id": "QMDJ_Juan21_L006",
       "original_quote": "作用妙法後篇",
-      "paragraph_index": 6,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第8行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落6"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P007_S000",
-      "original_quote": "妙用之法，全在年月日時四天干。",
-      "paragraph_index": 7,
+      "line_id": "QMDJ_Juan21_L007",
+      "original_quote": "妙用之法，全在年月日時四天干。詳臨九宮，合為吉凶等格，則知聖君、賢臣、孝子、慈孫、父母、妻妾、奴婢、戚鄰諸事，成敗可推詳之矣。年乾為君、為父母，月干為臣宰、為伯叔，日乾為兄弟、朋友，時幹為妻妾、子女、士卒、奴婢。如天盤年乾合吉格，門生宮，或上下相合者，主國泰民安，君臣父子，福壽康寧。若年乾合凶格，或被衝剋，主四海兵戈，身心不寧，骨肉刑傷，災厄憂驚。若月乾得天盤相生，或合吉格，有忠臣烈士，輔國安民，加官封爵，萬事稱心。若合凶格又被剋制，有奸臣專權，休官罷職，六親參商，貧苦奔波。若日幹得天盤八門生合吉格，主兄弟和睦，貴喜臨門，身安友助，求謀遂心。若日乾貝剋合凶格，主兄弟刑傷，六親不和，身困招穴。若時幹得天盤生合吉格，主妻子賢能，士卒精強，奴婢得力；倘合凶格又被衝剋，主子女刑傷，父子不和，兵卒自亂，奴婢欺主。凡六庚加於年、月、日、時幹上，或年、月、日、時干加臨六庚上，須看六庚加於何人干上，則知某人之吉凶，吉格尤吉，合凶格尤凶，骨肉不和，己身危困。假如陽遁三局，甲己日起丁卯時，時幹在九宮離上開門，遁甲子戊、天衝一同臨宮，驚門與庚在坤二宮，如己日為飛幹格，主兄弟不和，朋友反目，身招災困。又如陽遁九局乙庚日起丙子時，得青龍返首吉格，主貴喜盈門，身安友助，求謀遂心。若看年乾、月乾、時幹，須另起，不可即以此為准，恐吉凶不驗也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落7"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P007_S001",
-      "original_quote": "詳臨九宮，合為吉凶等格，則知聖君、賢臣、孝子、慈孫、父母、妻妾、奴婢、戚鄰諸事，成敗可推詳之矣。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S002",
-      "original_quote": "年乾為君、為父母，月干為臣宰、為伯叔，日乾為兄弟、朋友，時幹為妻妾、子女、士卒、奴婢。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S003",
-      "original_quote": "如天盤年乾合吉格，門生宮，或上下相合者，主國泰民安，君臣父子，福壽康寧。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S004",
-      "original_quote": "若年乾合凶格，或被衝剋，主四海兵戈，身心不寧，骨肉刑傷，災厄憂驚。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S005",
-      "original_quote": "若月乾得天盤相生，或合吉格，有忠臣烈士，輔國安民，加官封爵，萬事稱心。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S006",
-      "original_quote": "若合凶格又被剋制，有奸臣專權，休官罷職，六親參商，貧苦奔波。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S007",
-      "original_quote": "若日幹得天盤八門生合吉格，主兄弟和睦，貴喜臨門，身安友助，求謀遂心。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S008",
-      "original_quote": "若日乾貝剋合凶格，主兄弟刑傷，六親不和，身困招穴。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S009",
-      "original_quote": "若時幹得天盤生合吉格，主妻子賢能，士卒精強，奴婢得力；",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S010",
-      "original_quote": "倘合凶格又被衝剋，主子女刑傷，父子不和，兵卒自亂，奴婢欺主。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S011",
-      "original_quote": "凡六庚加於年、月、日、時幹上，或年、月、日、時干加臨六庚上，須看六庚加於何人干上，則知某人之吉凶，吉格尤吉，合凶格尤凶，骨肉不和，己身危困。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S012",
-      "original_quote": "假如陽遁三局，甲己日起丁卯時，時幹在九宮離上開門，遁甲子戊、天衝一同臨宮，驚門與庚在坤二宮，如己日為飛幹格，主兄弟不和，朋友反目，身招災困。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S013",
-      "original_quote": "又如陽遁九局乙庚日起丙子時，得青龍返首吉格，主貴喜盈門，身安友助，求謀遂心。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P007_S014",
-      "original_quote": "若看年乾、月乾、時幹，須另起，不可即以此為准，恐吉凶不驗也。",
-      "paragraph_index": 7,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P008_S000",
+      "line_id": "QMDJ_Juan21_L008",
       "original_quote": "臨機變用",
-      "paragraph_index": 8,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第10行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落8"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P009_S000",
-      "original_quote": "人為萬物之靈，感通諸事之應，在我一時之動靜，取其人、事、器、物，以推兵家勝負，人生得失，物之成敗，就於出師。",
-      "paragraph_index": 9,
+      "line_id": "QMDJ_Juan21_L009",
+      "original_quote": "人為萬物之靈，感通諸事之應，在我一時之動靜，取其人、事、器、物，以推兵家勝負，人生得失，物之成敗，就於出師。或以動眾發馬立營，或為人事之得失離合，或器物之所得之日時為始，逐日查算。利於何日時交鋒得勝，何日時賊來，何方日時埋伏於何處，何日時成功奏凱。如欲知人之壽夭窮通，則取本命年月日時演布，而妻財子祿從可知矣。凡物之破損、成敗、久暫，以所得之日時，或方見之時，以及物長短、方圓，按五行所屬，配合遁甲，則物器破損、被盜可預知矣。如軍營，凡有一見一聞，或遇移倒、斜蹲、錯落、金鼓等項，或聽言語善惡，或見旗鼓破損，或鳥獸來從何方，但一見一聞，怪異之事，俱可為吉凶之兆；或聽人言語幾聲幾字，或金皷不時亂鳴幾聲，或樂器不時遠近響動幾聲。凡事物遇目一見皆可取，占卜之應在吾心一動，活潑變通，切記不可取其一，又取其二，以致吉凶無所定也。如取某件，或吉凶不准，再取別物占之又不准，是心未定，所以吉凶無驗也。如遇一字、一點、一物、一聲、一人、一獸，即為子時，二為醜，三為寅。如甲己日遁起甲子時，若數有十三即作第一次丙子時，若數多皆逢子時，即為第三次、第四次、五次、戊子、庚子、壬子，再數過多，五子用盡，即作為乙丑、丁丑、己丑、辛丑、癸丑；如此千時萬時，皆仿此。若出師須詳看領軍官及大小頭目本命，天子合吉凶等格。或可於征伐，或利於埋伏，或利於衝鋒，或利於接應，總視其人利於行事者，斟酌行之，則大小三軍皆無悟矣。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落9"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P009_S001",
-      "original_quote": "或以動眾發馬立營，或為人事之得失離合，或器物之所得之日時為始，逐日查算。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S002",
-      "original_quote": "利於何日時交鋒得勝，何日時賊來，何方日時埋伏於何處，何日時成功奏凱。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S003",
-      "original_quote": "如欲知人之壽夭窮通，則取本命年月日時演布，而妻財子祿從可知矣。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S004",
-      "original_quote": "凡物之破損、成敗、久暫，以所得之日時，或方見之時，以及物長短、方圓，按五行所屬，配合遁甲，則物器破損、被盜可預知矣。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S005",
-      "original_quote": "如軍營，凡有一見一聞，或遇移倒、斜蹲、錯落、金鼓等項，或聽言語善惡，或見旗鼓破損，或鳥獸來從何方，但一見一聞，怪異之事，俱可為吉凶之兆；",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S006",
-      "original_quote": "或聽人言語幾聲幾字，或金皷不時亂鳴幾聲，或樂器不時遠近響動幾聲。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S007",
-      "original_quote": "凡事物遇目一見皆可取，占卜之應在吾心一動，活潑變通，切記不可取其一，又取其二，以致吉凶無所定也。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S008",
-      "original_quote": "如取某件，或吉凶不准，再取別物占之又不准，是心未定，所以吉凶無驗也。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S009",
-      "original_quote": "如遇一字、一點、一物、一聲、一人、一獸，即為子時，二為醜，三為寅。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S010",
-      "original_quote": "如甲己日遁起甲子時，若數有十三即作第一次丙子時，若數多皆逢子時，即為第三次、第四次、五次、戊子、庚子、壬子，再數過多，五子用盡，即作為乙丑、丁丑、己丑、辛丑、癸丑；",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S011",
-      "original_quote": "如此千時萬時，皆仿此。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S012",
-      "original_quote": "若出師須詳看領軍官及大小頭目本命，天子合吉凶等格。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P009_S013",
-      "original_quote": "或可於征伐，或利於埋伏，或利於衝鋒，或利於接應，總視其人利於行事者，斟酌行之，則大小三軍皆無悟矣。",
-      "paragraph_index": 9,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P010_S000",
+      "line_id": "QMDJ_Juan21_L010",
       "original_quote": "遁甲神機賦",
-      "paragraph_index": 10,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第12行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落10"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P011_S000",
-      "original_quote": "兩儀主使三才攸，分步咒攝乎鬼神，存局通乎妙旨前，修刪簡靈文，裁整諸經要理原。",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan21_L011",
+      "original_quote": "兩儀主使三才攸，分步咒攝乎鬼神，存局通乎妙旨前，修刪簡靈文，裁整諸經要理原。夫甲加丙兮龍回首，丙加甲兮鳥跌穴，回首則喜悅易遂，跌穴則顯灼易成，身殘毀兮；乙遇辛而龍逃走，財虛耗兮，辛遇乙而虎猖狂；癸見丁兮螣蛇躍蹻，丁見癸兮朱雀投江；生臨丙戊，天遁用兵；開乙臨己，地遁安墳；休丁遇太陰，人遁安營；伏乾格，庚臨日乾，飛幹格；日乾臨庚，庚臨直符，伏乾格之名；直符臨庚，飛宮格之說；大格，庚臨六癸；刑格，庚臨六己，按格所向既凶，百事營為不善。時剋日乾，乃五不遇而災生。丙奇臨時幹，名為悖逆而禍起。三奇得使，衆善皆臻。六儀擊刑，百凶俱集。太白入熒賊即來，火入金鄉賊即去，地羅遮障不宜前，天網四張無走路，直符宮同天乙位而取。如逢急難宜從直符方而行，二至順逆妙理玄微，陽符左為前數，陰符右為前尋，陽遁從冬至前一十二氣，直符後一為九天，後二為九地，前三為六合，前二為太陰，陰遁從夏至前一十二氣，直符前一為九天，前二為九地，前五為六合，前七為太陰，太陰潛形而隱遁，六合遁身而謀議，九天之上揚威武，九地之下匿兵馬，天地備兮難量，神機妙兮莫測，學者欲臨事，有謀存心，斯賦無惑。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落11"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P011_S001",
-      "original_quote": "夫甲加丙兮龍回首，丙加甲兮鳥跌穴，回首則喜悅易遂，跌穴則顯灼易成，身殘毀兮；",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan21_L012",
+      "original_quote": "是書謂之選宅三白之法，出自都天撼龍經八十一論。太乙、紫微、九總、八卦者，天地之骨髓，星斗之樞機，八卦互變而及乎無窮，五行推移而應乎無盡。以九星為之九總，以八門為之八卦，上可以補天地不全之化，下可以助君王不及之功，扶危助吉，發瑞生祥。同游一十二分之經圖，又殊配二十八宿之格局。是此書者，正天地之紀綱，明陰陽之經緯，幽探賾隱，顯達通玄。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落12"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P011_S002",
-      "original_quote": "乙遇辛而龍逃走，財虛耗兮，辛遇乙而虎猖狂；",
-      "paragraph_index": 11,
+      "line_id": "QMDJ_Juan21_L013",
+      "original_quote": "試看八卦門庭，配列九宮蹊向，推遷六甲，驅使六儀，天乙值符俾之運局，太乙值使使之指揮，奇以六儀，遇以八節，上下招搖，內外表應，三盤運局，八卦皆通。值其吉則萬事堪為，值其凶則一分莫舉。其一曰「都天九卦」，其二曰「入地三元」，其三曰「行軍三奇」，其四曰「選宅三白」，其五曰「遁形太白之書」，其六曰「八山撼龍之訣」，其七曰「轉山移水九字符經」，其八曰「建國安邦萬年金鏡」，其九曰「元宮」，獲福救貧，生仙產聖，變禍福如反掌，使貧富似等閒，倘三迭之遇奇門，若蛟龍之得雲雨，見六合之逢格局，如狼虎之產羽翼，忌取休囚，防其刑擊。如得奇星來到，必須吉位開門，位位皆宜，門門皆吉，只要合得其要，仍須各論其時，干神不囚，支神不剋，神藏煞沒，方知萬事皆和。反吟、伏吟定是千殃數集，奇逢旺相，是為富貴之謀；門逢開休，方協英雄之應；遇青龍返首，為甲乙之妙詳；值白虎猖狂，見庚辛之凶禍；若值螣蛇妖蹻，知壬癸之崢嶸；倘逢朱雀投江，管丙丁之妖怪；飛鳥跌穴，便云百事皆祥；貴人登壇，管取九宮皆慶；通元機而天地皆轉，得妙用則觸事咸亨。若為文武官僚修造，職位皆增，或與良民庶士遷塋，扶危作福，建州府而民安物泰，興縣鎮而富足租平，立宮室而福集人依，作廟宇而鬼安神妥。橋梁、船驛、井、竈、路途，或諸餘行事，在選擇周詳，或有太歲將軍，盡在拱手，任是九良七煞莫敢當頭，不問諸家運氣，不超不開，犯著空亡禁殺，但求此局卻要有奇，可保千年，皆招百福，最堪動土、破土、埋宗葬祖，務有奇星到坐，門戶得開。有青龍山者，必求反首青龍；有白虎者，大忌其猖狂之白虎；有元武者，遠其妖矯螣蛇；有朱雀者，怕其投江朱雀。如斯迎避，用意配求，值飛鳥跌穴，則有異鳥遺雕，彩禽墜羽，棄其亡鳥，鶴鷺返以鱔魚，仙鶴來鳴，彩鸞下集，四仲俱吉者吉；兩頭破壞者，凶；貴人登壇，必有旌旗相乘，雷電風雲，印蠻文書，金章紫綬。得青龍返首之日時者，當有玉鱗伏藏，金魚落穴，螣蛇蜃化，馬驟雷轟，火焰金銀，旛花結彩，來應其時，在助其吉。各有剋應，合取山頭，萬無一失之虞，動有十全之吉，分其頭緒，布其提綱，俱列千端，俢明萬事。非但謀猷之逢吉，乃天地之獻祥，助國安邦，濟民利物，得之者，宜什襲於玉匱金縢，真所謂至聖皇家之重寶也。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落13"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P011_S003",
-      "original_quote": "癸見丁兮螣蛇躍蹻，丁見癸兮朱雀投江；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S004",
-      "original_quote": "生臨丙戊，天遁用兵；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S005",
-      "original_quote": "開乙臨己，地遁安墳；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S006",
-      "original_quote": "休丁遇太陰，人遁安營；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S007",
-      "original_quote": "伏乾格，庚臨日乾，飛幹格；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S008",
-      "original_quote": "日乾臨庚，庚臨直符，伏乾格之名；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S009",
-      "original_quote": "直符臨庚，飛宮格之說；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S010",
-      "original_quote": "大格，庚臨六癸；",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S011",
-      "original_quote": "刑格，庚臨六己，按格所向既凶，百事營為不善。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S012",
-      "original_quote": "時剋日乾，乃五不遇而災生。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S013",
-      "original_quote": "丙奇臨時幹，名為悖逆而禍起。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S014",
-      "original_quote": "三奇得使，衆善皆臻。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S015",
-      "original_quote": "六儀擊刑，百凶俱集。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S016",
-      "original_quote": "太白入熒賊即來，火入金鄉賊即去，地羅遮障不宜前，天網四張無走路，直符宮同天乙位而取。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P011_S017",
-      "original_quote": "如逢急難宜從直符方而行，二至順逆妙理玄微，陽符左為前數，陰符右為前尋，陽遁從冬至前一十二氣，直符後一為九天，後二為九地，前三為六合，前二為太陰，陰遁從夏至前一十二氣，直符前一為九天，前二為九地，前五為六合，前七為太陰，太陰潛形而隱遁，六合遁身而謀議，九天之上揚威武，九地之下匿兵馬，天地備兮難量，神機妙兮莫測，學者欲臨事，有謀存心，斯賦無惑。",
-      "paragraph_index": 11,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P012_S000",
-      "original_quote": "是書謂之選宅三白之法，出自都天撼龍經八十一論。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P012_S001",
-      "original_quote": "太乙、紫微、九總、八卦者，天地之骨髓，星斗之樞機，八卦互變而及乎無窮，五行推移而應乎無盡。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P012_S002",
-      "original_quote": "以九星為之九總，以八門為之八卦，上可以補天地不全之化，下可以助君王不及之功，扶危助吉，發瑞生祥。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P012_S003",
-      "original_quote": "同游一十二分之經圖，又殊配二十八宿之格局。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P012_S004",
-      "original_quote": "是此書者，正天地之紀綱，明陰陽之經緯，幽探賾隱，顯達通玄。",
-      "paragraph_index": 12,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S000",
-      "original_quote": "試看八卦門庭，配列九宮蹊向，推遷六甲，驅使六儀，天乙值符俾之運局，太乙值使使之指揮，奇以六儀，遇以八節，上下招搖，內外表應，三盤運局，八卦皆通。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S001",
-      "original_quote": "值其吉則萬事堪為，值其凶則一分莫舉。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S002",
-      "original_quote": "其一曰「都天九卦」，其二曰「入地三元」，其三曰「行軍三奇」，其四曰「選宅三白」，其五曰「遁形太白之書」，其六曰「八山撼龍之訣」，其七曰「轉山移水九字符經」，其八曰「建國安邦萬年金鏡」，其九曰「元宮」，獲福救貧，生仙產聖，變禍福如反掌，使貧富似等閒，倘三迭之遇奇門，若蛟龍之得雲雨，見六合之逢格局，如狼虎之產羽翼，忌取休囚，防其刑擊。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S003",
-      "original_quote": "如得奇星來到，必須吉位開門，位位皆宜，門門皆吉，只要合得其要，仍須各論其時，干神不囚，支神不剋，神藏煞沒，方知萬事皆和。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S004",
-      "original_quote": "反吟、伏吟定是千殃數集，奇逢旺相，是為富貴之謀；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S005",
-      "original_quote": "門逢開休，方協英雄之應；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S006",
-      "original_quote": "遇青龍返首，為甲乙之妙詳；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S007",
-      "original_quote": "值白虎猖狂，見庚辛之凶禍；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S008",
-      "original_quote": "若值螣蛇妖蹻，知壬癸之崢嶸；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S009",
-      "original_quote": "倘逢朱雀投江，管丙丁之妖怪；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S010",
-      "original_quote": "飛鳥跌穴，便云百事皆祥；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S011",
-      "original_quote": "貴人登壇，管取九宮皆慶；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S012",
-      "original_quote": "通元機而天地皆轉，得妙用則觸事咸亨。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S013",
-      "original_quote": "若為文武官僚修造，職位皆增，或與良民庶士遷塋，扶危作福，建州府而民安物泰，興縣鎮而富足租平，立宮室而福集人依，作廟宇而鬼安神妥。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S014",
-      "original_quote": "橋梁、船驛、井、竈、路途，或諸餘行事，在選擇周詳，或有太歲將軍，盡在拱手，任是九良七煞莫敢當頭，不問諸家運氣，不超不開，犯著空亡禁殺，但求此局卻要有奇，可保千年，皆招百福，最堪動土、破土、埋宗葬祖，務有奇星到坐，門戶得開。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S015",
-      "original_quote": "有青龍山者，必求反首青龍；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S016",
-      "original_quote": "有白虎者，大忌其猖狂之白虎；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S017",
-      "original_quote": "有元武者，遠其妖矯螣蛇；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S018",
-      "original_quote": "有朱雀者，怕其投江朱雀。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S019",
-      "original_quote": "如斯迎避，用意配求，值飛鳥跌穴，則有異鳥遺雕，彩禽墜羽，棄其亡鳥，鶴鷺返以鱔魚，仙鶴來鳴，彩鸞下集，四仲俱吉者吉；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S020",
-      "original_quote": "兩頭破壞者，凶；",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S021",
-      "original_quote": "貴人登壇，必有旌旗相乘，雷電風雲，印蠻文書，金章紫綬。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S022",
-      "original_quote": "得青龍返首之日時者，當有玉鱗伏藏，金魚落穴，螣蛇蜃化，馬驟雷轟，火焰金銀，旛花結彩，來應其時，在助其吉。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S023",
-      "original_quote": "各有剋應，合取山頭，萬無一失之虞，動有十全之吉，分其頭緒，布其提綱，俱列千端，俢明萬事。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P013_S024",
-      "original_quote": "非但謀猷之逢吉，乃天地之獻祥，助國安邦，濟民利物，得之者，宜什襲於玉匱金縢，真所謂至聖皇家之重寶也。",
-      "paragraph_index": 13,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P014_S000",
+      "line_id": "QMDJ_Juan21_L014",
       "original_quote": "正超接閏歌",
-      "paragraph_index": 14,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第16行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落14"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P015_S000",
+      "line_id": "QMDJ_Juan21_L015",
       "original_quote": "甲己居仲上元逢，孟住中位季下宗，五日一元周二遁，十時一甲用皆同，陰陽二遁原洪造，節氣未來符先訣，遲時交節奇未來，超神接氣通元奧，四仲未來節先來，值符仍將本局裁，雖然新節已交氣，奈何四仲來胚胎，四仲先來節後至，超用本來之節氣，有時超越遇旬餘，所以積餘成閏位，二至之前有閏奇，此時積累迭成之，陽極陰終無後飫，節因此立閏其餘。",
-      "paragraph_index": 15,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第17行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落15"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P016_S000",
+      "line_id": "QMDJ_Juan21_L016",
       "original_quote": "九遁歌",
-      "paragraph_index": 16,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第18行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落16"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P017_S000",
-      "original_quote": "奇門九遁少人知，秘在仙經甚奧微，丙合生門居丁上，便為天遁月光輝。",
-      "paragraph_index": 17,
+      "line_id": "QMDJ_Juan21_L017",
+      "original_quote": "奇門九遁少人知，秘在仙經甚奧微，丙合生門居丁上，便為天遁月光輝。乙合開門臨六己，地遁日精能蔽之。丁共休門合太陰，人遁星精藉照臨。丙合生門合九天，神靈所蔽有威權。丁合休門臨九地，伏兵鬼遁能潛避。乙合休門臨坎水，即是蛟龍得雲雨。辛儀合生臨艮出，猛虎神威淨八蠻，虎狂位遇丁景制，叱吒生風上將壇。龍逃亦藉丁和景，一躍雷門震羽輪。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落17"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P017_S001",
-      "original_quote": "乙合開門臨六己，地遁日精能蔽之。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S002",
-      "original_quote": "丁共休門合太陰，人遁星精藉照臨。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S003",
-      "original_quote": "丙合生門合九天，神靈所蔽有威權。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S004",
-      "original_quote": "丁合休門臨九地，伏兵鬼遁能潛避。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S005",
-      "original_quote": "乙合休門臨坎水，即是蛟龍得雲雨。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S006",
-      "original_quote": "辛儀合生臨艮出，猛虎神威淨八蠻，虎狂位遇丁景制，叱吒生風上將壇。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P017_S007",
-      "original_quote": "龍逃亦藉丁和景，一躍雷門震羽輪。",
-      "paragraph_index": 17,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P018_S000",
+      "line_id": "QMDJ_Juan21_L018",
       "original_quote": "天遁",
-      "paragraph_index": 18,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落18"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P019_S000",
-      "original_quote": "凡丙奇臨生門下合六丁，不犯奇墓刑者，得月精所蔽，內應其心，外主其身，其氣上升於首，其質下注於心，名曰「元珠」，能聽而修者，升天。",
-      "paragraph_index": 19,
+      "line_id": "QMDJ_Juan21_L019",
+      "original_quote": "凡丙奇臨生門下合六丁，不犯奇墓刑者，得月精所蔽，內應其心，外主其身，其氣上升於首，其質下注於心，名曰「元珠」，能聽而修者，升天。若有事時呼玉女神名，曰丁卯而岀之，其神護之，咒曰：「丁卯玉女，護我佑我，毋令有鬼傷我，視我者瞽，惡我者反受其殃」。咒畢行之，慎勿反顧。其方可以稱王侯之權，利朝君王、謝蒼穹、禮求福，及利征戰，使敵自伏，上書獻策、求官進職、修身隱跡、剪惡除凶、市賈岀行，百事俱吉。婚姻、入宅，來往此方，大吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第21行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落19"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P019_S001",
-      "original_quote": "若有事時呼玉女神名，曰丁卯而岀之，其神護之，咒曰：「丁卯玉女，護我佑我，毋令有鬼傷我，視我者瞽，惡我者反受其殃」。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第21行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P019_S002",
-      "original_quote": "咒畢行之，慎勿反顧。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第21行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P019_S003",
-      "original_quote": "其方可以稱王侯之權，利朝君王、謝蒼穹、禮求福，及利征戰，使敵自伏，上書獻策、求官進職、修身隱跡、剪惡除凶、市賈岀行，百事俱吉。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第21行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P019_S004",
-      "original_quote": "婚姻、入宅，來往此方，大吉。",
-      "paragraph_index": 19,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第21行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P020_S000",
+      "line_id": "QMDJ_Juan21_L020",
       "original_quote": "地遁",
-      "paragraph_index": 20,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落20"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P021_S000",
-      "original_quote": "凡乙奇與開門合，下臨六己，得日精所蔽，其氣黃，內應其脾，外應其形，任呼應用，又名黃婆金公。",
-      "paragraph_index": 21,
+      "line_id": "QMDJ_Juan21_L021",
+      "original_quote": "凡乙奇與開門合，下臨六己，得日精所蔽，其氣黃，內應其脾，外應其形，任呼應用，又名黃婆金公。能修之者，南宮列仙，有事時呼本旬玉女，依前法咒之，大護其驗。出紫庭，蓋己為地戶，得日精蓋之，其方可以藏兵伏將、扎寨、安營、建府、造倉、築垣牆、安墳、開壙、修道求仙、逃亡絕跡，出陣攻城，全師捷勝，百事大吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第23行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落21"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P021_S001",
-      "original_quote": "能修之者，南宮列仙，有事時呼本旬玉女，依前法咒之，大護其驗。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第23行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P021_S002",
-      "original_quote": "出紫庭，蓋己為地戶，得日精蓋之，其方可以藏兵伏將、扎寨、安營、建府、造倉、築垣牆、安墳、開壙、修道求仙、逃亡絕跡，出陣攻城，全師捷勝，百事大吉。",
-      "paragraph_index": 21,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第23行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P022_S000",
+      "line_id": "QMDJ_Juan21_L022",
       "original_quote": "人遁",
-      "paragraph_index": 22,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第13行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落22"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P023_S000",
-      "original_quote": "凡丁奇與休門合，下臨太陰之位，得星精所蔽，其氣青黑，內應於腎，外主耳目，名曰「還陽丹」。",
-      "paragraph_index": 23,
+      "line_id": "QMDJ_Juan21_L023",
+      "original_quote": "凡丁奇與休門合，下臨太陰之位，得星精所蔽，其氣青黑，內應於腎，外主耳目，名曰「還陽丹」。修之者，駐世長年，有事出門，呼本旬玉女，如前法咒之，其方可以擇賢人、求猛將、說敵和仇，三年竝吉，又宜獻策謀、結婚姻、添進人口、和合、交易利市十倍，若藏伏、獻策、上書俱吉。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第25行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落23"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P023_S001",
-      "original_quote": "修之者，駐世長年，有事出門，呼本旬玉女，如前法咒之，其方可以擇賢人、求猛將、說敵和仇，三年竝吉，又宜獻策謀、結婚姻、添進人口、和合、交易利市十倍，若藏伏、獻策、上書俱吉。",
-      "paragraph_index": 23,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第25行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P024_S000",
+      "line_id": "QMDJ_Juan21_L024",
       "original_quote": "神遁",
-      "paragraph_index": 24,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第26行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落24"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P025_S000",
+      "line_id": "QMDJ_Juan21_L025",
       "original_quote": "凡丙奇與生門，下臨九天之位，得神靈所蔽，其方可以祭神明、用聖術、畫地立籌、步罡、造壇場、刻鬼神、攝魔魅，自有威伏，更利攻虛、陰謀密計最玄妙，開路、塞河、修塑神像、裱褙神畫，以候神候。",
-      "paragraph_index": 25,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第27行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落25"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P026_S000",
+      "line_id": "QMDJ_Juan21_L026",
       "original_quote": "鬼遁",
-      "paragraph_index": 26,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第19行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落26"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P027_S000",
-      "original_quote": "凡丁奇下臨九地與休門合。",
-      "paragraph_index": 27,
+      "line_id": "QMDJ_Juan21_L027",
+      "original_quote": "凡丁奇下臨九地與休門合。得鬼神隱匿之蔽，其方可以探機、偷營、設伏攻虛、密伺動靜、詭詐文書、薦孤、拔寡，以候鬼應。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第29行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落27"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P027_S001",
-      "original_quote": "得鬼神隱匿之蔽，其方可以探機、偷營、設伏攻虛、密伺動靜、詭詐文書、薦孤、拔寡，以候鬼應。",
-      "paragraph_index": 27,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第29行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P028_S000",
+      "line_id": "QMDJ_Juan21_L028",
       "original_quote": "風遁",
-      "paragraph_index": 28,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第30行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落28"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P029_S000",
-      "original_quote": "凡丙奇與開門合，下臨巽宮，不犯墓迫，得靈奇順風爽帆之蔽。",
-      "paragraph_index": 29,
+      "line_id": "QMDJ_Juan21_L029",
+      "original_quote": "凡丙奇與開門合，下臨巽宮，不犯墓迫，得靈奇順風爽帆之蔽。又辛儀與休門，下臨六乙，其方可以默吸風雲、噴噀旗旐，音遙普遍，或托異遁，令眾軍士沉吟聽音。又丙奇與開門臨坤宮，更宜禱祭風伯雨師、同敵壘、立旌旗，以候風應。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第31行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落29"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P029_S001",
-      "original_quote": "又辛儀與休門，下臨六乙，其方可以默吸風雲、噴噀旗旐，音遙普遍，或托異遁，令眾軍士沉吟聽音。",
-      "paragraph_index": 29,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第31行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P029_S002",
-      "original_quote": "又丙奇與開門臨坤宮，更宜禱祭風伯雨師、同敵壘、立旌旗，以候風應。",
-      "paragraph_index": 29,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第31行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P030_S000",
+      "line_id": "QMDJ_Juan21_L030",
       "original_quote": "云遁",
-      "paragraph_index": 30,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第32行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落30"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P031_S000",
-      "original_quote": "凡乙奇與開門合，下臨坤宮，不犯墓迫，得雲之蔽。",
-      "paragraph_index": 31,
+      "line_id": "QMDJ_Juan21_L031",
+      "original_quote": "凡乙奇與開門合，下臨坤宮，不犯墓迫，得雲之蔽。又曰：「乙奇與開門合，下臨六辛，其方可以默吸風雲、噴噀甲胄、音搖普遍，或托射雕為名，令士卒仰望，更宜求雨澤、利農稼、建營寨、造軍器，以候雲應」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第33行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落31"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P031_S001",
-      "original_quote": "又曰：「乙奇與開門合，下臨六辛，其方可以默吸風雲、噴噀甲胄、音搖普遍，或托射雕為名，令士卒仰望，更宜求雨澤、利農稼、建營寨、造軍器，以候雲應」。",
-      "paragraph_index": 31,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第33行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P032_S000",
+      "line_id": "QMDJ_Juan21_L032",
       "original_quote": "龍遁",
-      "paragraph_index": 32,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第34行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落32"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P033_S000",
-      "original_quote": "凡乙奇與休門合，下臨六癸，或坎宮得龍之蔽。",
-      "paragraph_index": 33,
+      "line_id": "QMDJ_Juan21_L033",
+      "original_quote": "凡乙奇與休門合，下臨六癸，或坎宮得龍之蔽。其方可以祭龍神、祈雨澤、水戰演敵、計量江面、把守河渡、教習水戰、密運機謀、移舟轉向、下船、開江、造置水櫃、祭禱鬼神、填堤、塞河、修橋、穿井，以候龍應」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第35行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落33"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P033_S001",
-      "original_quote": "其方可以祭龍神、祈雨澤、水戰演敵、計量江面、把守河渡、教習水戰、密運機謀、移舟轉向、下船、開江、造置水櫃、祭禱鬼神、填堤、塞河、修橋、穿井，以候龍應」。",
-      "paragraph_index": 33,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第35行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P034_S000",
+      "line_id": "QMDJ_Juan21_L034",
       "original_quote": "《武備志》作休門與乙奇臨六甲為龍遁。",
-      "paragraph_index": 34,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第36行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落34"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P035_S000",
+      "line_id": "QMDJ_Juan21_L035",
       "original_quote": "虎遁",
-      "paragraph_index": 35,
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第37行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落35"
       }
     },
     {
-      "line_id": "QMDJ_Juan21_P036_S000",
-      "original_quote": "凡乙奇與生門臨六辛，得虎之蔽。",
-      "paragraph_index": 36,
+      "line_id": "QMDJ_Juan21_L036",
+      "original_quote": "凡乙奇與生門臨六辛，得虎之蔽。一云：「辛儀合生臨艮，其方可以招安逆黨、設伏邀擊、計度要害、據險守御、建立山寨、措置關隘、防險修鑿，以候虎應」。",
       "tag": [],
+      "paragraph_index": 0,
       "_source": {
         "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第38行"
-      }
-    },
-    {
-      "line_id": "QMDJ_Juan21_P036_S001",
-      "original_quote": "一云：「辛儀合生臨艮，其方可以招安逆黨、設伏邀擊、計度要害、據險守御、建立山寨、措置關隘、防險修鑿，以候虎應」。",
-      "paragraph_index": 36,
-      "tag": [],
-      "_source": {
-        "text": "奇門遁甲秘笈大全",
-        "juan": "下卷·卷二十一",
-        "section": "卷二十一",
-        "line_ref": "第38行"
+        "juan": "下卷·卷21",
+        "section": "卷21",
+        "line_ref": "段落36"
       }
     }
   ],
-  "_source": {
-    "text": "奇門遁甲秘笈大全",
-    "juan": "Juan21",
-    "line_id_start": "QMDJ_Juan21_P000_S000",
-    "line_id_end": "QMDJ_Juan21_P036_S001",
-    "original_block": "《卷二十一》\n論主客\n太公曰：「凡主客動靜不定，變化莫測」。故主客不定之象，或以先動為客，後動為主；或以動為客，靜為主；或以先聲為客，或以天盤為客，地盤為主。諸事總有用 訣，成敗勝負皆貴乎主賓之緊要也。如出兵動眾，以我為客，至彼地為主；或賊巢及賊所侵之城郭為主；或以陽為客，陰為主；或反客為主，反主為客。若選將、求 賢、招兵買馬、干謁、訪友之類，是我為客彼他、彼人為主。如有人來求我，或通知我而我未知，是彼為客我為主。如在對陣，或不在對敵，再分主客也。或此時交 鋒若利客，宜先耀武揚威，放炮吶喊；若利主，惟宜偃旗旗息鼓，禁聲而敵，埋伏取勝。\n凡發兵，須看賊巢遠近。如發兵時交戰，或不同時交鋒，不可以先動為客，待臨敵取主客，到時而用之可也。如此時主客不利，只宜固守，倘若急迫，或被圍困，宜以 計勝。或運籌、閉六戊、或乘天馬，或書符、念咒等類亦可。如國事、都省府縣鄉事、家宅、官訟、墳塋、求謀、名利、婚姻、行人、失脫、逃走、捕捉，即以地盤 為主人，天盤為客人。人事是多，不能細述，大天盤諸星生合地盤為上，地盤生合天盤次之。如客生主，為稱意美滿，進益多端；主生客，為耗散遲延；主客皆和， 行藏皆遂；主剋客，乃半實半虛，自敗虛花，事為不果；客剋主，則戰敗無成，求吉招凶。故善用奇門者，先分主客，然後再明占法。如此時利主，我即為主；此時 利客，我即為客。或以進為客，不進為主，在我一心，不可執一，為客為主任我可也。\n總法天機前篇\n凡布演奇門，先觀天象，後察細微，總在我一心之所用，不可不知也。如天盤九星、奇儀、八門屬金，加於地盤諸星上，木是金水為客來傷，主戰利為客，行兵先舉， 放炮吶喊，士卒精強，百戰百勝。凡求謀、請謁、交易等事，破敗驚憂，客舍暗昧，遭逢盜賊小人，惟行人即至。若金旺木衰，其凶尤甚。如天盤金星在衰、墓、 死、絕之時加於木，無氣之金不能剋木；若木在生旺之時，則木星為吉；如木亦衰、墓、絕之時，而凶終不能免矣。如天盤木星加於地盤火星上，是為木能生火，戰 利為主，諸為一切等事，皆如心意。如有重木臨生旺之宮，謂之貪生之木，壓火無光，火漸自滅。若木臨退氣之宮或木少，多是枯木生火，大利主兵。如天盤土加於 地盤金，是客來生主。若系土旺或有重土，雖曰生金，而土重埋金，必有暗兵埋伏，或英雄失志，或忠烈受屈。如天盤木加地盤金，乃主傷其客，宜偃旗息皷，禁聲 而敵，大勝。凡有謀為，事多破敗，有始無終。惟求名顯達，官事得失，出行吉。如天盤金加地盤土，乃主生客，宜耀武揚威，徵兵奏凱，客兵大勝。凡事謀為，始 終皆耗，勞碌勞力，得援安妥。\n作用妙法後篇\n妙用之法，全在年月日時四天干。詳臨九宮，合為吉凶等格，則知聖君、賢臣、孝子、慈孫、父母、妻妾、奴婢、戚鄰諸事，成敗可推詳之矣。年乾為君、為父母，月 干為臣宰、為伯叔，日乾為兄弟、朋友，時幹為妻妾、子女、士卒、奴婢。如天盤年乾合吉格，門生宮，或上下相合者，主國泰民安，君臣父子，福壽康寧。若年乾 合凶格，或被衝剋，主四海兵戈，身心不寧，骨肉刑傷，災厄憂驚。若月乾得天盤相生，或合吉格，有忠臣烈士，輔國安民，加官封爵，萬事稱心。若合凶格又被剋 制，有奸臣專權，休官罷職，六親參商，貧苦奔波。若日幹得天盤八門生合吉格，主兄弟和睦，貴喜臨門，身安友助，求謀遂心。若日乾貝剋合凶格，主兄弟刑傷， 六親不和，身困招穴。若時幹得天盤生合吉格，主妻子賢能，士卒精強，奴婢得力；倘合凶格又被衝剋，主子女刑傷，父子不和，兵卒自亂，奴婢欺主。凡六庚加於 年、月、日、時幹上，或年、月、日、時干加臨六庚上，須看六庚加於何人干上，則知某人之吉凶，吉格尤吉，合凶格尤凶，骨肉不和，己身危困。假如陽遁三局， 甲己日起丁卯時，時幹在九宮離上開門，遁甲子戊、天衝一同臨宮，驚門與庚在坤二宮，如己日為飛幹格，主兄弟不和，朋友反目，身招災困。又如陽遁九局乙庚日 起丙子時，得青龍返首吉格，主貴喜盈門，身安友助，求謀遂心。若看年乾、月乾、時幹，須另起，不可即以此為准，恐吉凶不驗也。\n臨機變用\n人為萬物之靈，感通諸事之應，在我一時之動靜，取其人、事、器、物，以推兵家勝負，人生得失，物之成敗，就於出師。或以動眾發馬立營，或為人事之得失離合， 或器物之所得之日時為始，逐日查算。利於何日時交鋒得勝，何日時賊來，何方日時埋伏於何處，何日時成功奏凱。如欲知人之壽夭窮通，則取本命年月日時演布， 而妻財子祿從可知矣。凡物之破損、成敗、久暫，以所得之日時，或方見之時，以及物長短、方圓，按五行所屬，配合遁甲，則物器破損、被盜可預知矣。如軍營， 凡有一見一聞，或遇移倒、斜蹲、錯落、金鼓等項，或聽言語善惡，或見旗鼓破損，或鳥獸來從何方，但一見一聞，怪異之事，俱可為吉凶之兆；或聽人言語幾聲幾 字，或金皷不時亂鳴幾聲，或樂器不時遠近響動幾聲。凡事物遇目一見皆可取，占卜之應在吾心一動，活潑變通，切記不可取其一，又取其二，以致吉凶無所定也。 如取某件，或吉凶不准，再取別物占之又不准，是心未定，所以吉凶無驗也。如遇一字、一點、一物、一聲、一人、一獸，即為子時，二為醜，三為寅。如甲己日遁 起甲子時，若數有十三即作第一次丙子時，若數多皆逢子時，即為第三次、第四次、五次、戊子、庚子、壬子，再數過多，五子用盡，即作為乙丑、丁丑、己丑、辛 丑、癸丑；如此千時萬時，皆仿此。若出師須詳看領軍官及大小頭目本命，天子合吉凶等格。或可於征伐，或利於埋伏，或利於衝鋒，或利於接應，總視其人利於行 事者，斟酌行之，則大小三軍皆無悟矣。\n遁甲神機賦\n兩儀主使三才攸，分步咒攝乎鬼神，存局通乎妙旨前，修刪簡靈文，裁整諸經要理原。夫甲加丙兮龍回首，丙加甲兮鳥跌穴，回首則喜悅易遂，跌穴則顯灼易成，身殘 毀兮；乙遇辛而龍逃走，財虛耗兮，辛遇乙而虎猖狂；癸見丁兮螣蛇躍蹻，丁見癸兮朱雀投江；生臨丙戊，天遁用兵；開乙臨己，地遁安墳；休丁遇太陰，人遁安 營；伏乾格，庚臨日乾，飛幹格；日乾臨庚，庚臨直符，伏乾格之名；直符臨庚，飛宮格之說；大格，庚臨六癸；刑格，庚臨六己，按格所向既凶，百事營為不善。 時剋日乾，乃五不遇而災生。丙奇臨時幹，名為悖逆而禍起。三奇得使，衆善皆臻。六儀擊刑，百凶俱集。太白入熒賊即來，火入金鄉賊即去，地羅遮障不宜前，天 網四張無走路，直符宮同天乙位而取。如逢急難宜從直符方而行，二至順逆妙理玄微，陽符左為前數，陰符右為前尋，陽遁從冬至前一十二氣，直符後一為九天，後 二為九地，前三為六合，前二為太陰，陰遁從夏至前一十二氣，直符前一為九天，前二為九地，前五為六合，前七為太陰，太陰潛形而隱遁，六合遁身而謀議，九天 之上揚威武，九地之下匿兵馬，天地備兮難量，神機妙兮莫測，學者欲臨事，有謀存心，斯賦無惑。\n是書謂之選宅三白之法，出自都天撼龍經八十一論。太乙、紫微、九總、八卦者，天地之骨髓，星斗之樞機，八卦互變而及乎無窮，五行推移而應乎無盡。以九星為 之九總，以八門為之八卦，上可以補天地不全之化，下可以助君王不及之功，扶危助吉，發瑞生祥。同游一十二分之經圖，又殊配二十八宿之格局。是此書者，正天 地之紀綱，明陰陽之經緯，幽探賾隱，顯達通玄。\n試看八卦門庭，配列九宮蹊向，推遷六甲，驅使六儀，天乙值符俾之運局，太乙值使使之指揮，奇以六儀，遇以八節，上下招搖，內外表應，三盤運局，八卦皆通。 值其吉則萬事堪為，值其凶則一分莫舉。其一曰「都天九卦」，其二曰「入地三元」，其三曰「行軍三奇」，其四曰「選宅三白」，其五曰「遁形太白之書」，其六 曰「八山撼龍之訣」，其七曰「轉山移水九字符經」，其八曰「建國安邦萬年金鏡」，其九曰「元宮」，獲福救貧，生仙產聖，變禍福如反掌，使貧富似等閒，倘三 迭之遇奇門，若蛟龍之得雲雨，見六合之逢格局，如狼虎之產羽翼，忌取休囚，防其刑擊。如得奇星來到，必須吉位開門，位位皆宜，門門皆吉，只要合得其要，仍 須各論其時，干神不囚，支神不剋，神藏煞沒，方知萬事皆和。反吟、伏吟定是千殃數集，奇逢旺相，是為富貴之謀；門逢開休，方協英雄之應；遇青龍返首，為甲 乙之妙詳；值白虎猖狂，見庚辛之凶禍；若值螣蛇妖蹻，知壬癸之崢嶸；倘逢朱雀投江，管丙丁之妖怪；飛鳥跌穴，便云百事皆祥；貴人登壇，管取九宮皆慶；通元 機而天地皆轉，得妙用則觸事咸亨。若為文武官僚修造，職位皆增，或與良民庶士遷塋，扶危作福，建州府而民安物泰，興縣鎮而富足租平，立宮室而福集人依，作 廟宇而鬼安神妥。橋梁、船驛、井、竈、路途，或諸餘行事，在選擇周詳，或有太歲將軍，盡在拱手，任是九良七煞莫敢當頭，不問諸家運氣，不超不開，犯著空亡 禁殺，但求此局卻要有奇，可保千年，皆招百福，最堪動土、破土、埋宗葬祖，務有奇星到坐，門戶得開。有青龍山者，必求反首青龍；有白虎者，大忌其猖狂之白 虎；有元武者，遠其妖矯螣蛇；有朱雀者，怕其投江朱雀。如斯迎避，用意配求，值飛鳥跌穴，則有異鳥遺雕，彩禽墜羽，棄其亡鳥，鶴鷺返以鱔魚，仙鶴來鳴，彩 鸞下集，四仲俱吉者吉；兩頭破壞者，凶；貴人登壇，必有旌旗相乘，雷電風雲，印蠻文書，金章紫綬。得青龍返首之日時者，當有玉鱗伏藏，金魚落穴，螣蛇蜃 化，馬驟雷轟，火焰金銀，旛花結彩，來應其時，在助其吉。各有剋應，合取山頭，萬無一失之虞，動有十全之吉，分其頭緒，布其提綱，俱列千端，俢明萬事。非 但謀猷之逢吉，乃天地之獻祥，助國安邦，濟民利物，得之者，宜什襲於玉匱金縢，真所謂至聖皇家之重寶也。\n正超接閏歌\n甲己居仲上元逢，孟住中位季下宗，五日一元周二遁，十時一甲用皆同，陰陽二遁原洪造，節氣未來符先訣，遲時交節奇未來，超神接氣通元奧，四仲未來節先來，值 符仍將本局裁，雖然新節已交氣，奈何四仲來胚胎，四仲先來節後至，超用本來之節氣，有時超越遇旬餘，所以積餘成閏位，二至之前有閏奇，此時積累迭成之，陽 極陰終無後飫，節因此立閏其餘。\n九遁歌\n奇門九遁少人知，秘在仙經甚奧微，丙合生門居丁上，便為天遁月光輝。乙合開門臨六己，地遁日精能蔽之。丁共休門合太陰，人遁星精藉照臨。丙合生門合九天，神 靈所蔽有威權。丁合休門臨九地，伏兵鬼遁能潛避。乙合休門臨坎水，即是蛟龍得雲雨。辛儀合生臨艮出，猛虎神威淨八蠻，虎狂位遇丁景制，叱吒生風上將壇。龍 逃亦藉丁和景，一躍雷門震羽輪。\n天遁\n凡丙奇臨生門下合六丁，不犯奇墓刑者，得月精所蔽，內應其心，外主其身，其氣上升於首，其質下注於心，名曰「元珠」，能聽而修者，升天。若有事時呼玉女神 名，曰丁卯而岀之，其神護之，咒曰：「丁卯玉女，護我佑我，毋令有鬼傷我，視我者瞽，惡我者反受其殃」。咒畢行之，慎勿反顧。其方可以稱王侯之權，利朝君 王、謝蒼穹、禮求福，及利征戰，使敵自伏，上書獻策、求官進職、修身隱跡、剪惡除凶、市賈岀行，百事俱吉。婚姻、入宅，來往此方，大吉。\n地遁\n凡乙奇與開門合，下臨六己，得日精所蔽，其氣黃，內應其脾，外應其形，任呼應用，又名黃婆金公。能修之者，南宮列仙，有事時呼本旬玉女，依前法咒之，大護其 驗。出紫庭，蓋己為地戶，得日精蓋之，其方可以藏兵伏將、扎寨、安營、建府、造倉、築垣牆、安墳、開壙、修道求仙、逃亡絕跡，出陣攻城，全師捷勝，百事大 吉。\n人遁\n凡丁奇與休門合，下臨太陰之位，得星精所蔽，其氣青黑，內應於腎，外主耳目，名曰「還陽丹」。修之者，駐世長年，有事出門，呼本旬玉女，如前法咒之，其方可 以擇賢人、求猛將、說敵和仇，三年竝吉，又宜獻策謀、結婚姻、添進人口、和合、交易利市十倍，若藏伏、獻策、上書俱吉。\n神遁\n凡丙奇與生門，下臨九天之位，得神靈所蔽，其方可以祭神明、用聖術、畫地立籌、步罡、造壇場、刻鬼神、攝魔魅，自有威伏，更利攻虛、陰謀密計最玄妙，開路、塞河、修塑神像、裱褙神畫，以候神候。\n鬼遁\n凡丁奇下臨九地與休門合。得鬼神隱匿之蔽，其方可以探機、偷營、設伏攻虛、密伺動靜、詭詐文書、薦孤、拔寡，以候鬼應。\n風遁\n凡丙奇與開門合，下臨巽宮，不犯墓迫，得靈奇順風爽帆之蔽。又辛儀與休門，下臨六乙，其方可以默吸風雲、噴噀旗旐，音遙普遍，或托異遁，令眾軍士沉吟聽音。又丙奇與開門臨坤宮，更宜禱祭風伯雨師、同敵壘、立旌旗，以候風應。\n云遁\n凡乙奇與開門合，下臨坤宮，不犯墓迫，得雲之蔽。又曰：「乙奇與開門合，下臨六辛，其方可以默吸風雲、噴噀甲胄、音搖普遍，或托射雕為名，令士卒仰望，更宜求雨澤、利農稼、建營寨、造軍器，以候雲應」。\n龍遁\n凡乙奇與休門合，下臨六癸，或坎宮得龍之蔽。其方可以祭龍神、祈雨澤、水戰演敵、計量江面、把守河渡、教習水戰、密運機謀、移舟轉向、下船、開江、造置水櫃、祭禱鬼神、填堤、塞河、修橋、穿井，以候龍應」。\n《武備志》作休門與乙奇臨六甲為龍遁。\n虎遁\n凡乙奇與生門臨六辛，得虎之蔽。一云：「辛儀合生臨艮，其方可以招安逆黨、設伏邀擊、計度要害、據險守御、建立山寨、措置關隘、防險修鑿，以候虎應」。\n\n"
-  }
+  "_extraction_status": "卷21完成"
 }

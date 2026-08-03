@@ -7,6 +7,7 @@
       "line_id": "ZWQS_Juan1_TaiweiFu_L000",
       "original_quote": "太微賦",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -17,20 +18,35 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L001",
-      "original_quote": "太微賦⽃數⾄⽞⾄微,理旨難明,雖設問於各篇之中,猶有⾔⽽未盡,⾄如星之分野,各有所屬,壽天賢愚,富貴貧賤,不可⼀概論議｡",
+      "original_quote": "⽃數⾄⽞⾄微,理旨難明,雖設問於各篇之中,猶有⾔⽽未盡,⾄",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
         "section": "太微賦",
-        "line_ref": "第2行"
+        "line_ref": "第3行"
       }
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L002",
-      "original_quote": "其星分佈⼀⼗⼆垣,數定乎三⼗六位,入廟為奇,失度為虛,⼤抵以⾝命為福德之本,加以根源為窮通之資｡",
+      "original_quote": "如星之分野,各有所屬,壽天賢愚,富貴貧賤,不可⼀概論議｡",
       "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第4行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L003",
+      "original_quote": "其星分佈⼀⼗⼆垣,數定乎三⼗六位,入廟為奇,失度為虛,⼤抵",
+      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -40,9 +56,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L003",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L004",
+      "original_quote": "以⾝命為福德之本,加以根源為窮通之資｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第6行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L005",
       "original_quote": "星有同躔,數有分定,須明其⽣剋之要,必詳乎得垣失度之分｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -52,9 +82,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L004",
-      "original_quote": "觀乎紫微舍躔,司⼀天儀之象,率列宿⽽成垣,⼟星苟居其垣,若可移動,⾦星專司財庫,最怕空亡｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L006",
+      "original_quote": "觀乎紫微舍躔,司⼀天儀之象,率列宿⽽成垣,⼟星苟居其垣,若",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -64,9 +95,23 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L005",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L007",
+      "original_quote": "可移動,⾦星專司財庫,最怕空亡｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第9行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L008",
       "original_quote": "帝星動則列宿奔馳,貪守空⽽財源不聚｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -76,9 +121,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L006",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L009",
       "original_quote": "各司其職,不可參差｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -88,9 +134,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L007",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L010",
       "original_quote": "苟或不察其機,更忘其變,則數之造化遠矣｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -100,9 +147,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L008",
-      "original_quote": "例⽇祿逢沖破,吉處藏凶｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L011",
+      "original_quote": "例⽇",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -112,9 +160,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L009",
-      "original_quote": "⾺遇空亡,終⾝奔走｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L012",
+      "original_quote": "祿逢沖破,吉處藏凶｡⾺遇空亡,終⾝奔走｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -124,57 +173,36 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L010",
-      "original_quote": "⽣逢敗地,發也虛花｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L011",
-      "original_quote": "絕處逢⽣,⽣花不敗｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L012",
-      "original_quote": "星臨廟旺,再觀⽣剋之機｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第16行"
-      }
-    },
-    {
       "line_id": "ZWQS_Juan1_TaiweiFu_L013",
-      "original_quote": "命坐強宮,細察制化之理｡",
+      "original_quote": "⽣逢敗地,發也虛花｡絕處逢⽣,⽣花不敗｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
         "section": "太微賦",
-        "line_ref": "第16行"
+        "line_ref": "第15行"
       }
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L014",
+      "original_quote": "星臨廟旺,再觀⽣剋之機｡命坐強宮,細察制化之理｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第16行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L015",
       "original_quote": "⽇⽉最嫌反背,祿⾺最喜交馳｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -184,21 +212,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L015",
-      "original_quote": "倘居空亡,得失最為要緊｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第18行"
-      }
-    },
-    {
       "line_id": "ZWQS_Juan1_TaiweiFu_L016",
-      "original_quote": "若逢敗地,扶持⼤有奇功｡",
+      "original_quote": "倘居空亡,得失最為要緊｡若逢敗地,扶持⼤有奇功｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -211,6 +228,7 @@
       "line_id": "ZWQS_Juan1_TaiweiFu_L017",
       "original_quote": "紫微天府全依輔弼之功,七殺破軍專依⽺鈴之虐｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -221,8 +239,9 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L018",
-      "original_quote": "諸星吉,逢凶也吉｡",
+      "original_quote": "諸星吉,逢凶也吉｡諸星凶,逢凶也凶｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -233,20 +252,9 @@
     },
     {
       "line_id": "ZWQS_Juan1_TaiweiFu_L019",
-      "original_quote": "諸星凶,逢凶也凶｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第20行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L020",
       "original_quote": "輔弼夾帝為上品,桃花犯主為⾄淫｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -256,9 +264,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L021",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L020",
       "original_quote": "君⾂慶會,材善經邦｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -268,9 +277,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L022",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L021",
       "original_quote": "魁鉞同⾏,位居台輔｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -280,9 +290,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L023",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L022",
       "original_quote": "祿⽂拱命,貴⽽且賢｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -292,9 +303,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L024",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L023",
       "original_quote": "⽇⽉夾財,不權則富｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -304,9 +316,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L025",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L024",
       "original_quote": "⾺頭帶劍,鎮衛邊疆｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -316,9 +329,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L026",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L025",
       "original_quote": "刑求夾印,刑杖惟司｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -328,9 +342,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L027",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L026",
       "original_quote": "善蔭朝綱,仁慈之長｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -340,9 +355,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L028",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L027",
       "original_quote": "貴入貴鄉,逢之富貴｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -352,9 +368,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L029",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L028",
       "original_quote": "財居財位,遇者富奢｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -364,9 +381,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L030",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L029",
       "original_quote": "太陽居午,謂之⽇麗中天,有專權之貴,敵國之富｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -376,9 +394,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L031",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L030",
       "original_quote": "太陰居⼦,號⽈⽔澄桂萼,得清要之職,忠諫之材｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -388,33 +407,23 @@
       }
     },
     {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L031",
+      "original_quote": "紫微輔弼同宮,⼀呼百諾居上品｡⽂耗居寅卯,謂之眾⽔朝東｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第33行"
+      }
+    },
+    {
       "line_id": "ZWQS_Juan1_TaiweiFu_L032",
-      "original_quote": "紫微輔弼同宮,⼀呼百諾居上品｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第33行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L033",
-      "original_quote": "⽂耗居寅卯,謂之眾⽔朝東｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第33行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L034",
       "original_quote": "⽇⽉守不如照合,蔭福聚不怕凶危｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -424,57 +433,36 @@
       }
     },
     {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L033",
+      "original_quote": "貪居亥⼦,名為犯⽔桃花｡刑遇貪狼,號⽈風流綵杖｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第35行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L034",
+      "original_quote": "七殺廉貞同位,路上埋屍｡破軍暗曜同鄉,⽔中作塚｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第36行"
+      }
+    },
+    {
       "line_id": "ZWQS_Juan1_TaiweiFu_L035",
-      "original_quote": "貪居亥⼦,名為犯⽔桃花｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第35行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L036",
-      "original_quote": "刑遇貪狼,號⽈風流綵杖｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第35行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L037",
-      "original_quote": "七殺廉貞同位,路上埋屍｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第36行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L038",
-      "original_quote": "破軍暗曜同鄉,⽔中作塚｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第36行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L039",
       "original_quote": "祿居奴僕縱有官也奔馳,帝遇凶徒雖獲吉⽽無道｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -484,9 +472,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L040",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L036",
       "original_quote": "帝坐⾦⾞則⽇⾦轝捧櫛,福安⽂曜謂之⽟袖天香｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -496,9 +485,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L041",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L037",
       "original_quote": "太陽會⽂昌於官祿,皇殿朝班,富貴全美｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -508,9 +498,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L042",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L038",
       "original_quote": "太陰會⽂曲於妻宮,蟾宮折桂,⽂章全盛｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -520,9 +511,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L043",
-      "original_quote": "祿存守於⽥財,堆⾦積⽟｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L039",
+      "original_quote": "祿存守於⽥財,堆⾦積⽟｡財蔭坐於遷移,巨商⾼賈｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -532,21 +524,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L044",
-      "original_quote": "財蔭坐於遷移,巨商⾼賈｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L040",
+      "original_quote": "耗居祿位,沿途乞食｡貪會旺宮,終⾝鼠竊｡",
       "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第41行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L045",
-      "original_quote": "耗居祿位,沿途乞食｡",
-      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -556,21 +537,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L046",
-      "original_quote": "貪會旺宮,終⾝鼠竊｡",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L041",
+      "original_quote": "殺居絕地,天年天似顏回｡貪坐⽣鄉,壽考永如彭祖｡",
       "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第42行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L047",
-      "original_quote": "殺居絕地,天年天似顏回｡",
-      "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -580,21 +550,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L048",
-      "original_quote": "貪坐⽣鄉,壽考永如彭祖｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第43行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L049",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L042",
       "original_quote": "忌暗同居⾝命疾厄,沉困尪贏,凶星會於⽗⺟遷移,刑傷破祖｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -604,9 +563,10 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L050",
+      "line_id": "ZWQS_Juan1_TaiweiFu_L043",
       "original_quote": "刑殺同廉貞於官祿,枷扭難逃,官符加刑殺於遷移,離鄉遭配｡",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
@@ -616,131 +576,109 @@
       }
     },
     {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L044",
+      "original_quote": "善福居空位,天竺⽣涯｡輔弼單守命宮,離宗庶出｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第46行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L045",
+      "original_quote": "七殺臨於⾝命加惡殺,必定死亡｡鈴⽺合於命宮遇⽩虎,須當刑戮｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第47行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L046",
+      "original_quote": "官府發於吉曜,流殺怕逢破軍｡⽺陀憑太歲以引⾏,病符官符皆作",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第48行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L047",
+      "original_quote": "禍｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第49行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L048",
+      "original_quote": "奏書博⼠與流祿,盡作吉祥｡⼒⼠將軍同⻘⿓,顯其權勢｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第50行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L049",
+      "original_quote": "童⼦限如⽔上泡漚,老⼈限似風中燃燭｡遇殺無制乃流年最忌,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第51行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_TaiweiFu_L050",
+      "original_quote": "⼈⽣榮辱限元必有休咎,處世孤貧數中逢乎駁雜,學⾄此誠⽞微矣｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "太微賦",
+        "line_ref": "第52行"
+      }
+    },
+    {
       "line_id": "ZWQS_Juan1_TaiweiFu_L051",
-      "original_quote": "善福居空位,天竺⽣涯｡",
+      "original_quote": "形性賦",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
         "section": "太微賦",
-        "line_ref": "第46行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L052",
-      "original_quote": "輔弼單守命宮,離宗庶出｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第46行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L053",
-      "original_quote": "七殺臨於⾝命加惡殺,必定死亡｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第47行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L054",
-      "original_quote": "鈴⽺合於命宮遇⽩虎,須當刑戮｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第47行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L055",
-      "original_quote": "官府發於吉曜,流殺怕逢破軍｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第48行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L056",
-      "original_quote": "⽺陀憑太歲以引⾏,病符官符皆作禍｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第48行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L057",
-      "original_quote": "奏書博⼠與流祿,盡作吉祥｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第50行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L058",
-      "original_quote": "⼒⼠將軍同⻘⿓,顯其權勢｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第50行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L059",
-      "original_quote": "童⼦限如⽔上泡漚,老⼈限似風中燃燭｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第51行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan1_TaiweiFu_L060",
-      "original_quote": "遇殺無制乃流年最忌,⼈⽣榮辱限元必有休咎,處世孤貧數中逢乎駁雜,學⾄此誠⽞微矣｡",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷一",
-        "section": "太微賦",
-        "line_ref": "第51行"
+        "line_ref": "第53行"
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷一",
-    "section": "太微賦",
-    "line_id_start": "ZWQS_Juan1_TaiweiFu_L000",
-    "line_id_end": "ZWQS_Juan1_TaiweiFu_L060"
-  }
+  "_extraction_status": "太微賦完成"
 }

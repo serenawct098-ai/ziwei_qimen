@@ -5,94 +5,82 @@
   "entries": [
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L000",
-      "original_quote": "論小兒命",
+      "original_quote": "午年太歲併小限到午宮入廟化吉",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第57行"
+        "line_ref": "第178行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L001",
-      "original_quote": "論小兒命小兒博士力士上短下長，青龍將軍腮小頭圓。",
+      "original_quote": "紫微太陽武曲天同天梁廉貞七殺破軍丁己甲癸生人進財遂心。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第57行"
+        "line_ref": "第179行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L002",
-      "original_quote": "大耗鼻仰唇縮，死符病符聲高性雄。",
+      "original_quote": "午年太歲併小限到午宮不入廟化凶",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第58行"
+        "line_ref": "第181行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L003",
-      "original_quote": "官府奏書逢惡曜落地無聲，白虎太歲遇七殺幼弱遭傷。",
+      "original_quote": "貪狼在丙午壬癸生人破財官災口舌。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第58行"
+        "line_ref": "第182行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L004",
-      "original_quote": "須分生剋制化之垣，更看時祿衰敗之地，後觀關殺方知壽夭窮通。",
+      "original_quote": "午年太歲所值吉凶星",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第58行"
+        "line_ref": "第184行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L005",
-      "original_quote": "小兒初生，命中星辰廟旺，大小二限未行，斷其災少，易養，父母無剋。",
+      "original_quote": "紫微天府天機太陽武曲廉貞天相巨門天梁破軍祿存，便斷其年人財興旺，婚姻喜事重重。若值太陰貪狼天同羊陀忌星，便斷其年人財破敗，官災口舌孝服，本身災厄可免。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "論小兒命",
-        "line_ref": "第60行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErMing_L006",
-      "original_quote": "若命坐惡殺及纏陷弱之地，大小二限未行，斷其災多，難養，刑剋父母。",
-      "tag": [],
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒命",
-        "line_ref": "第60行"
+        "line_ref": "第185行"
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷三",
-    "section": "論小兒命",
-    "line_id_start": "ZWQS_Juan3_LunXiaoErMing_L000",
-    "line_id_end": "ZWQS_Juan3_LunXiaoErMing_L006"
-  }
+  "_extraction_status": "論小兒命完成"
 }

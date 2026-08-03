@@ -1,32 +1,125 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷三",
-  "section": "論人生時要審的確",
+  "section": "論人生時身宮吉凶",
   "entries": [
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L000",
-      "original_quote": "論人生時要審的確",
+      "original_quote": "貪狼武曲在辰壬癸生人災晦，天同巨門丁庚生人災晦，廉貞壬癸生人主災晦至重，太陰太陽天機甲乙戊己生人災晦。",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論人生時要審的確",
-        "line_ref": "第71行"
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第164行"
       }
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L001",
-      "original_quote": "如人生子亥二時最難定，準要仔細推祥，如子時有十刻，上午刻屬昨夜亥時，下午刻屬今日子時，如天氣陰雨之際，必須羅經以定真確時候，若差訛則命不準矣。",
+      "original_quote": "辰年太歲所值吉凶星",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論人生時要審的確",
-        "line_ref": "第72行"
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第166行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L002",
+      "original_quote": "太陽天機天梁七殺貪狼文昌左輔右弼，便斷其年財祿大進益，家道更興隆，添丁進口，婚姻喜慶重重。若遇紫微天同廉貞天府太陰巨門天相破軍忌宿，便斷其年破財孝服，官災口舌。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第167行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L003",
+      "original_quote": "巳年太歲併小限到巳宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第169行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L004",
+      "original_quote": "紫微天府天同巨門天相天梁破軍丙戊辛人發福，太陰天機丁壬辛丙生人破財，貪狼甲戊生人平平。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第170行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L005",
+      "original_quote": "巳年太歲併小限到巳宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第172行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L006",
+      "original_quote": "巨門貪狼癸丙生人口舌災晦，太陰破軍災晦多端。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第173行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L007",
+      "original_quote": "巳年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第175行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunRenShengShiShen_L008",
+      "original_quote": "紫微太陽天同天府天梁祿存，便斷其年人財稱意，喜事重重。若遇武曲廉貞太陰貪狼巨門天相破軍忌星，便斷其年人財損失，官災口舌，本身病患，減半論之。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時身宮吉凶",
+        "line_ref": "第176行"
       }
     }
   ],
-  "_extraction_status": "論人生時要審的確完成"
+  "_extraction_status": "論人生時身宮吉凶完成"
 }

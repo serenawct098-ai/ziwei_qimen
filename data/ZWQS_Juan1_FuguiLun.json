@@ -1,50 +1,216 @@
 {
   "text": "紫微斗數全書",
   "juan": "卷一",
-  "section": "⼗⼆宮諸星得地富貴論",
+  "section": "十二宮諸星得地富貴論",
   "entries": [
     {
       "line_id": "ZWQS_Juan1_FuguiLun_L000",
       "original_quote": "⼗⼆宮諸星得地富貴論",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
-        "section": "⼗⼆宮諸星得地富貴論",
+        "section": "十二宮諸星得地富貴論",
         "line_ref": "第972行"
       }
     },
     {
       "line_id": "ZWQS_Juan1_FuguiLun_L001",
-      "original_quote": "⼗⼆宮諸星得地富貴論⼦宮得地太陰星,殺破昌貪⽂曲明,丑未紫破朝⽇⽉,未貞梁丑福非輕,寅宮最喜逢陽巨,七殺天同梁⽂清,卯上巨機為貴格,武曲守卯福豐盈,辰戌機梁非⼩補,成宮天府累千⾦,已亥天機天相貴,午宮紫府梁俱榮,亥興,申宮貞巨陰殺美,酉成亥上太陰停,卯辰已午陽正照,紫府巨宿已亥宮天府天梁吉,⼦宮機宿亦中平,七殺⼦午逢左右,⽂曲加之格最清,廉坐中宮逢輔弼,更兼化吉禍尤興｡",
+      "original_quote": "⼦宮得地太陰星,殺破昌貪⽂曲明,丑未紫破朝⽇⽉,未貞梁丑福",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
-        "section": "⼗⼆宮諸星得地富貴論",
-        "line_ref": "第972行"
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第973行"
       }
     },
     {
       "line_id": "ZWQS_Juan1_FuguiLun_L002",
-      "original_quote": "武曲已亥逢,六甲帥邊庭,貪狼居卯,遇火作公卿,天機坐卯貴,寅⽉六丁榮,巨卯逢左右,六⼄立邊庭,巨坐寅申位,偏喜甲庚⽣,⼆宮逢七殺,左右會昌星,辰戍遇三宿,必主位公卿｡",
+      "original_quote": "非輕,",
       "tag": [],
+      "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷一",
-        "section": "⼗⼆宮諸星得地富貴論",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第974行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L003",
+      "original_quote": "寅宮最喜逢陽巨,七殺天同梁⽂清,卯上巨機為貴格,武曲守卯福",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第975行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L004",
+      "original_quote": "豐盈,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第976行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L005",
+      "original_quote": "辰戌機梁非⼩補,成宮天府累千⾦,已亥天機天相貴,午宮紫府梁",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第977行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L006",
+      "original_quote": "俱榮,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第978行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L007",
+      "original_quote": "亥興,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第979行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L008",
+      "original_quote": "申宮貞巨陰殺美,酉成亥上太陰停,卯辰已午陽正照,紫府巨宿已",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第980行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L009",
+      "original_quote": "亥宮天府天梁吉,⼦宮機宿亦中平,七殺⼦午逢左右,⽂曲加之格",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第981行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L010",
+      "original_quote": "最清,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第982行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L011",
+      "original_quote": "廉坐中宮逢輔弼,更兼化吉禍尤興｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第983行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L012",
+      "original_quote": "武曲已亥逢,六甲帥邊庭,貪狼居卯,遇火作公卿,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
         "line_ref": "第984行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L013",
+      "original_quote": "天機坐卯貴,寅⽉六丁榮,巨卯逢左右,六⼄立邊庭,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第985行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L014",
+      "original_quote": "巨坐寅申位,偏喜甲庚⽣,⼆宮逢七殺,左右會昌星,",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第986行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan1_FuguiLun_L015",
+      "original_quote": "辰戍遇三宿,必主位公卿｡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷一",
+        "section": "十二宮諸星得地富貴論",
+        "line_ref": "第987行"
       }
     }
   ],
-  "_source": {
-    "text": "紫微斗數全書",
-    "juan": "卷一",
-    "section": "⼗⼆宮諸星得地富貴論",
-    "line_id_start": "ZWQS_Juan1_FuguiLun_L000",
-    "line_id_end": "ZWQS_Juan1_FuguiLun_L002"
-  }
+  "_extraction_status": "十二宮諸星得地富貴論完成"
 }
