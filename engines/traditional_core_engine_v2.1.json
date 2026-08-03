@@ -2360,7 +2360,15 @@
         "自化科": "宮干化科之星即本宮坐星 → 自化科",
         "自化忌": "宮干化忌之星即本宮坐星 → 自化忌（漏氣/自我耗損，凶象）"
       },
-      "formula": "FOR each palace p: gan=PalaceGan[p]; FOR (kind,star) in sihua_matrix[gan]: IF star in stars_in_palace[p] THEN mark 自化{kind} on p",
+      "special_cases": {
+        "double_taboo_logic": {
+          "name": "重忌（生年忌 + 自化忌同星重疊）",
+          "condition": "IF (Star has BirthYearJi) AND (PalaceGan of Palace P makes Star transform to Ji)",
+          "judgment": "生年忌與自化忌同星重疊於同一宮位，主該宮位能量極度耗損或糾纏，凶象加重，且具備『不可逆』或『自我糾結』之特徵。於解讀時需特別標註為『重忌』，權重提升。",
+          "tag": ["non_classical", "logic_extension"]
+        }
+      },
+      "formula": "FOR each palace p: gan=PalaceGan[p]; FOR (kind,star) in sihua_matrix[gan]: IF star in stars_in_palace[p] THEN { mark 自化{kind} on p; IF kind == '忌' AND star has BirthYearJi THEN mark '重忌' on p }",
       "assertion": "自化判定只比對「本宮宮干四化星」與「本宮坐星」；不得跨宮誤判",
       "note": "本判定完全建基於南派三合《全書》之宮干（五虎遁）與四化（sihua_matrix）；屬三合盤可選用之宮干引動輔助層，不取飛星派互飛、宮位延伸象意等異派技法"
     }
@@ -2457,6 +2465,7 @@
     "天傷天使 19_tianshang_tianshi 固定宮法：天傷=交友宮、天使=疾厄宮",
     "截路空亡/旬空 20_jielu_kongwang_xunkong",
     "自化邏輯 21_zihua_self_transformation",
+    "重忌特例邏輯：生年忌與自化忌同星重疊之加重判斷規則",
     "早晚子時：晚子時(23:00-23:59) lunar_day+=1，時支恆=子(idx0)",
     "體用分層：南派為體、北派四化為用；體用並列 0.5:0.5；不擴充 12 宮宮干互飛，僅保留五層四化+自化"
   ],

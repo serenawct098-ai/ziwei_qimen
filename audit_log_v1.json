@@ -159,7 +159,19 @@
       "verification_method": "Keyword-based Judgment Extraction & Structuring",
       "status": "PASS",
       "remarks": "建立 qimen_judgment_library_v1.0.json，整合三奇六儀組合斷語及八門、八神、九星占驗內容。"
+    },
+    {
+      "timestamp": "2026-08-03T11:45:00Z",
+      "task_id": "3.8",
+      "module": "Tier 3 Engine Layer",
+      "action": "Double Taboo Logic Implementation",
+      "items_count": 2,
+      "auditor": "Manus",
+      "source_range": "traditional_core_engine_v2.1.json, interpretation_engine_v1.1.json",
+      "verification_method": "Logic Branch Injection & SSOT Sync",
+      "status": "PASS",
+      "remarks": "補寫「生年忌 + 自化忌」同星重疊的重忌特例邏輯，定義加重判斷規則並同步更新核心與解讀引擎。"
     }
   ],
-  "system_integrity_hash": "verified_by_manus_20260803_v9"
+  "system_integrity_hash": "verified_by_manus_20260803_v10"
 }
