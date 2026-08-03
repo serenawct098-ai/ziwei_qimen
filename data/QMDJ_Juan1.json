@@ -1409,7 +1409,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P115_T001",
-      "original_quote": "華蓋　地戶　天門　地耳　天目　青龍",
+      "original_quote": "華蓋地戶天門地耳天目青龍",
       "tag": [
         "table_type"
       ],
@@ -1426,7 +1426,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P116_T001",
-      "original_quote": "酉方：巳　　辰　　癸酉　丁卯　子　　甲子",
+      "original_quote": "酉方：巳辰癸酉丁卯子甲子",
       "tag": [
         "table_type"
       ],
@@ -1443,7 +1443,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P117_T001",
-      "original_quote": "未方：卯　　寅　　癸未　丁丑　戌　　甲戌",
+      "original_quote": "未方：卯寅癸未丁丑戌甲戌",
       "tag": [
         "table_type"
       ],
@@ -1460,7 +1460,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P118_T001",
-      "original_quote": "巳方：丑　　子　　癸巳　丁亥　申　　甲申",
+      "original_quote": "巳方：丑子癸巳丁亥申甲申",
       "tag": [
         "table_type"
       ],
@@ -1477,7 +1477,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P119_T001",
-      "original_quote": "卯方：亥　　戌　　癸卯　丁酉　午　　甲午",
+      "original_quote": "卯方：亥戌癸卯丁酉午甲午",
       "tag": [
         "table_type"
       ],
@@ -1494,7 +1494,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P120_T001",
-      "original_quote": "丑方：酉　　申　　癸丑　丁未　辰　　甲辰",
+      "original_quote": "丑方：酉申癸丑丁未辰甲辰",
       "tag": [
         "table_type"
       ],
@@ -1511,7 +1511,7 @@
     },
     {
       "line_id": "QMDJ_Juan1_P121_T001",
-      "original_quote": "亥方：未　　午　　癸亥　丁巳　寅　　甲寅",
+      "original_quote": "亥方：未午癸亥丁巳寅甲寅",
       "tag": [
         "table_type"
       ],
