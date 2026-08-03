@@ -730,6 +730,7 @@
       }
     },
     "sihua_matrix": {
+    "_source_consolidated": "ZWQS_Juan1_Consolidated.json",
       "_doc": "南派三合星曜派十干四化完整表；庚干依用戶指定鎖定文墨天機 App 標準（太陽祿、武曲權、天同科、天相忌）。全量硬編碼，嚴禁 LLM 推導。",
       "_lineage": "甲乙丙丁戊己辛壬癸 九干悉依《紫微斗數全書》四化歌訣；庚干因歷代分歧（《全書》三合主流作天同化科／太陰化忌；亦有天相化忌一說），本 SSOT 依用戶指定鎖定文墨天機標準：太陽化祿、武曲化權、天同化科、天相化忌。",
       "_locked_version": "庚干鎖定文墨天機標準：太陽化祿、武曲化權、天同化科、天相化忌。",
@@ -782,7 +783,9 @@
         "化忌": "天相",
         "gan_idx": 6,
         "_note": "庚干鎖定文墨天機App：（陽武同相）",
-        "tag": ["non_classical"],
+        "tag": [
+          "non_classical"
+        ],
         "tag_reason": "歷代分歧鎖定值，依「陽武同相」為唯一採用版本"
       },
       "辛": {
@@ -808,6 +811,7 @@
       }
     },
     "star_strength_table": {
+    "_source_consolidated": "ZWQS_Juan1_Consolidated.json",
       "_doc": "14主星×12宮地支 廟旺利陷。格式：[子,丑,寅,卯,辰,巳,午,未,申,酉,戌,亥]",
       "紫微": {
         "子": "旺",
@@ -2365,7 +2369,10 @@
           "name": "重忌（生年忌 + 自化忌同星重疊）",
           "condition": "IF (Star has BirthYearJi) AND (PalaceGan of Palace P makes Star transform to Ji)",
           "judgment": "生年忌與自化忌同星重疊於同一宮位，主該宮位能量極度耗損或糾纏，凶象加重，且具備『不可逆』或『自我糾結』之特徵。於解讀時需特別標註為『重忌』，權重提升。",
-          "tag": ["non_classical", "logic_extension"]
+          "tag": [
+            "non_classical",
+            "logic_extension"
+          ]
         }
       },
       "formula": "FOR each palace p: gan=PalaceGan[p]; FOR (kind,star) in sihua_matrix[gan]: IF star in stars_in_palace[p] THEN { mark 自化{kind} on p; IF kind == '忌' AND star has BirthYearJi THEN mark '重忌' on p }",

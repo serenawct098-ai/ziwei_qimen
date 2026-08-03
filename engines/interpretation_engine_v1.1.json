@@ -1178,7 +1178,9 @@
           "化科": "天同",
           "化忌": "天相",
           "_note": "庚干鎖定文墨天機App：（陽武同相）",
-          "tag": ["non_classical"],
+          "tag": [
+            "non_classical"
+          ],
           "tag_reason": "歷代分歧鎖定值，依「陽武同相」為唯一採用版本"
         },
         "辛": {
@@ -2081,5 +2083,17 @@
         "kun2_redirect": "中宮(5)無門無星，所有落中宮的天干/星強制映射至坤二宮(2)"
       }
     }
+  },
+  "palace_judgment_table": {
+    "_source": {
+      "file": "ZWQS_Juan2_Consolidated.json"
+    },
+    "entries": []
+  },
+  "thematic_judgment_table": {
+    "_source": {
+      "file": "ZWQS_Juan3_Consolidated.json"
+    },
+    "entries": []
   }
 }

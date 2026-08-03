@@ -1,6 +1,7 @@
 {
   "module": "qimen_judgment_library",
   "version": "1.0",
+  "_source_consolidated": "QMDJ_XiaJuan_Consolidated.json",
   "last_updated": "2026-08-03",
   "description": "奇門遁甲吉凶組合斷語庫，包含三奇六儀組合、八門占驗、八神賦性等。數據源自《奇門遁甲秘笈大全》。",
   "combinations": [

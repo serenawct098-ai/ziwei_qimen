@@ -196,6 +196,7 @@
       ]
     },
     "pattern_definition_table": {
+    "_consolidated_source": "ZWQS_Juan1_PatternText.json",
       "紫府同宮格": {
         "source_pattern_id": "zifutonggong",
         "trigger": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
@@ -474,7 +475,10 @@
         "source_pattern_id": "wuqushoucai",
         "trigger": "武曲守財帛且廟旺",
         "grade": "B",
-        "tag": ["_custom", "non_classical"],
+        "tag": [
+          "_custom",
+          "non_classical"
+        ],
         "tag_reason": "《全書》原文僅載『武曲乃財帛宮主』，『武曲守財格』為後世整理之格局名稱，非原文既有標題。",
         "classical_meaning": "善守財、精於理財、重實利。",
         "break_conditions": [
@@ -487,7 +491,10 @@
         "source_pattern_id": "lianfutonggong",
         "trigger": "廉貞與天府同宮",
         "grade": "B",
-        "tag": ["_custom", "non_classical"],
+        "tag": [
+          "_custom",
+          "non_classical"
+        ],
         "tag_reason": "『廉府同宮』雖見於原文各宮論斷，但作為獨立格局名稱屬後世命名。",
         "classical_meaning": "權祿相資，宜仕宜商。",
         "break_conditions": [

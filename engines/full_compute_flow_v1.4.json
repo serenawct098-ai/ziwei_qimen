@@ -753,6 +753,7 @@
       "op_id": "OP11",
       "phase": "階段三：時家奇門遁甲引擎",
       "step_name": "查表鎖定局數與陰陽遁",
+      "_source": {"file": "QMDJ_ShangJuan_Consolidated.json"},
       "dependencies": [
         "OP01.current_jieqi",
         "OP01.current_dun_type",
