@@ -1,0 +1,6328 @@
+{
+  "module": "palace_judgment_library",
+  "version": "1.0",
+  "last_updated": "2026-08-03",
+  "description": "紫微斗數十二宮論斷數據庫，包含各宮位星曜組合之吉凶斷語。數據源自《紫微斗數全書》卷二、卷三。",
+  "palaces": {
+    "命宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunMingGong.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L001",
+          "original_quote": "紫微土，南北斗化帝座，為官祿主。紫微面紫色或白青，腰背肥滿，為人忠厚老成，謙恭耿直，其威制七殺降火鈴。若與府相左右日月昌曲三合嘉會極急，食祿千鍾巨富大貴。與祿存同奇特，不入廟無左右為孤君，亦清閑僧道。與破軍同為胥吏。與羊陀火鈴沖合吉多亦發財，常庶人吉。女命會吉清秀旺夫益子。",
+          "line_ref": "第508行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L002",
+          "original_quote": "子宮喜丁己庚生人貴格，壬癸生人不耐久。",
+          "line_ref": "第510行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L003",
+          "original_quote": "午宮入廟喜甲丁己生人財官格，丙戊生人成敗帶疾。",
+          "line_ref": "第511行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L004",
+          "original_quote": "卯酉宮貪狼同度，乙辛甲庚生人貴不耐久。",
+          "line_ref": "第512行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L005",
+          "original_quote": "寅申宮旺地與天府同度，甲庚丁己生人財官格。",
+          "line_ref": "第513行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L006",
+          "original_quote": "巳亥宮旺地與七殺同度，乙戊生人財官格。",
+          "line_ref": "第514行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L007",
+          "original_quote": "辰戌宮得地與天相同度，乙己甲庚癸生人財官格。",
+          "line_ref": "第515行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L008",
+          "original_quote": "丑未宮入廟與破軍同度，乙己甲庚丁壬生人財官格。",
+          "line_ref": "第516行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L009",
+          "original_quote": "紫微入男命吉凶訣：",
+          "line_ref": "第518行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L010",
+          "original_quote": "紫微天中第一星，命身相遇福財興，若逢相佐宮中會，富貴雙全播令名。",
+          "line_ref": "第519行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L011",
+          "original_quote": "紫微守命最為良，二殺逢之壽不長，羊陀火鈴來相會，只好空門禮梵王。",
+          "line_ref": "第520行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L012",
+          "original_quote": "紫微辰戌遇破軍，富而不貴有虛名，若逢貪狼在卯酉，為臣失義不相應。",
+          "line_ref": "第521行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L013",
+          "original_quote": "火鈴羊陀來相會，七殺同宮多不貴，欺人孤獨更刑傷，若是空門為吉利。",
+          "line_ref": "第522行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L014",
+          "original_quote": "紫微入女命吉凶訣：",
+          "line_ref": "第524行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L015",
+          "original_quote": "紫微女命守身宮，天府尊星同到宮，更得吉星同主照，金冠封贈福滔滔。",
+          "line_ref": "第525行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L016",
+          "original_quote": "紫微女命守夫宮，三方吉拱便為榮，若逢殺破來沖破，衣祿盈餘淫巧容。",
+          "line_ref": "第526行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L017",
+          "original_quote": "紫微入限吉凶訣：",
+          "line_ref": "第528行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L018",
+          "original_quote": "紫微垣內吉星臨，二限相逢福祿興，常人得遇多財富，官員逢之職位陞。",
+          "line_ref": "第529行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L019",
+          "original_quote": "紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷。",
+          "line_ref": "第530行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L020",
+          "original_quote": "天機屬木，南斗化善星，為兄弟主。入廟身長肥胖，性急心慈，機謀多變。與天梁會合善談兵，乙丙丁生人遇之入廟化吉，得左右昌曲魁鉞太陰湊合，坐於巳酉丑亥卯未宮，權祿不小，文武皆大貴極品。加巨門羊陀火鈴忌，巳酉丑亥為下局，孤窮，縱有財官貴顯亦不耐久，只宜經商巧藝之輩耳。女命入廟性剛有權柄，持家助夫益子。天梁太陰巨門見羊陀火鈴忌沖合財帛，淫賤偏房娼婢，否則傷夫剋子。",
+          "line_ref": "第532行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L021",
+          "original_quote": "子午宮入廟，丁己癸甲庚壬生人財官格。",
+          "line_ref": "第534行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L022",
+          "original_quote": "卯酉宮旺地與巨門同度，乙辛戊癸生人財官格。",
+          "line_ref": "第535行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L023",
+          "original_quote": "寅申宮得地與太陰同度，丁己癸甲庚壬生人財官格。",
+          "line_ref": "第536行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L024",
+          "original_quote": "巳亥宮和平，丙壬戊生人合局不耐久。",
+          "line_ref": "第537行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L025",
+          "original_quote": "辰戌宮利益與天梁同度，壬庚丁生人為福。",
+          "line_ref": "第538行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L026",
+          "original_quote": "丑未宮陷地，丙戊丁壬生人財官格，乙壬生人祿合格。",
+          "line_ref": "第539行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L027",
+          "original_quote": "天機入男命吉凶訣：",
+          "line_ref": "第541行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L028",
+          "original_quote": "機月天梁合太陽，常人富足置田庄，官員得遇科權祿，職位高遷面帝王。",
+          "line_ref": "第542行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L029",
+          "original_quote": "天機化忌落閑宮，縱有財官亦不榮，退盡家財兼壽夭，飄蓬僧道住山中。",
+          "line_ref": "第543行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L030",
+          "original_quote": "天機入女命吉凶訣：",
+          "line_ref": "第545行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L031",
+          "original_quote": "天機女命吉星扶，作事操持過丈夫，權祿宮中逢守照，榮膺誥命貴無倫。",
+          "line_ref": "第546行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L032",
+          "original_quote": "天機星與太陰同，女命逢之淫巧容，衣祿豐饒終不美，為娼為妾主淫風。",
+          "line_ref": "第547行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L033",
+          "original_quote": "天機入限吉凶訣：",
+          "line_ref": "第549行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L034",
+          "original_quote": "男女二限值天機，科權祿逢大有為，出入經營多遇貴，發財發福少人知。",
+          "line_ref": "第550行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L035",
+          "original_quote": "天機照限不安寧，家事紛紛外事多，更遇羊陀併巨暗，須知此歲入南柯。",
+          "line_ref": "第551行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L036",
+          "original_quote": "太陽火，南北斗化貴，為官祿主。太陽入廟形貌堂堂，雄壯面方圓滿，夜生陷日生廟旺，心慈面紫色，好濟施。若會左右昌曲魁鉞太陰祿存守照官祿，財官昭著，極品之論，文武皆宜之。身逢吉聚貴人門下客，否則公卿走卒，六庚生人命坐卯宮，第一廟所，六壬次之。命在亥，申生人下局，否則夭壽貧窮，雖發不耐久。廟旺終身富貴，陷地雖化權祿也凶，官祿亦不顯，先勤終懶，成敗不一，出外離祖可吉。與羊陀沖破又陷下局，橫發橫破不耐久，若經商巧藝，辛苦勞力而禍輕延生矣，加凶殺帶疾，化忌目疾。女命入廟旺夫益子，若陷地又見羊陀火鈴忌劫，貧賤殘疾，亦為貞潔之婦，僧道亦清潔。",
+          "line_ref": "第553行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L037",
+          "original_quote": "子宮陷午宮旺，丁己生人財官格，壬丙戊生人悔吝。",
+          "line_ref": "第555行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L038",
+          "original_quote": "卯宮廟酉宮和平，乙辛生人財官格，甲庚生人困。",
+          "line_ref": "第556行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L039",
+          "original_quote": "寅宮旺申宮得地與巨門同度，丁己甲庚生人財官格。",
+          "line_ref": "第557行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L040",
+          "original_quote": "巳宮旺財官格。亥宮陷逢殺孤寡貧窮。",
+          "line_ref": "第558行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L041",
+          "original_quote": "辰宮旺財官格。戌宮陷反背孤寡。",
+          "line_ref": "第559行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L042",
+          "original_quote": "丑宮陷未宮得地與太陰同度，加吉星財官格。",
+          "line_ref": "第560行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L043",
+          "original_quote": "太陽入男命吉凶訣：",
+          "line_ref": "第562行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L044",
+          "original_quote": "命裡逢陽福壽濃，更兼權祿兩相逢，魁昌左右來相湊，富貴雙全比石崇。",
+          "line_ref": "第563行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L045",
+          "original_quote": "日月丑未命中逢，三方無化福難豐，更有吉星終不美，若逢殺湊一生窮。",
+          "line_ref": "第564行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L046",
+          "original_quote": "失陷太陽居反背，化忌逢之多蹇昧，又遭橫事破家財，命強化祿也無益。",
+          "line_ref": "第565行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L047",
+          "original_quote": "太陽入女命吉凶訣：",
+          "line_ref": "第567行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L048",
+          "original_quote": "太陽正照婦人身，姿貌殊常性格貞，更得吉星同主照，金冠封贈作夫人。",
+          "line_ref": "第568行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L049",
+          "original_quote": "太陽安命有奇能，陷地須防惡殺凌，作事沈吟多進退，辛勤度日免家傾。",
+          "line_ref": "第569行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L050",
+          "original_quote": "太陽反照主心忙，衣祿平常壽不長，剋過良人還剋子，只宜蔭下作偏房。",
+          "line_ref": "第570行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L051",
+          "original_quote": "太陽入限吉凶訣：",
+          "line_ref": "第572行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L052",
+          "original_quote": "二限偏宜見太陽，添財進業福非常，婚姻和合添嗣續，仕者高遷坐廟堂。",
+          "line_ref": "第573行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L053",
+          "original_quote": "太陽守限有多般，陷地須防惡殺侵，加忌逢凶多阻滯，橫事破財家伶仃。",
+          "line_ref": "第574行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L054",
+          "original_quote": "武曲金，北斗化財，為財帛主。武曲性剛果決，心直無毒，形小聲高而量大，有毛髮之異。最喜甲己生人福厚，入廟與昌曲同行，則出將入相，武職最旺，文人多學多能。會貪遇火化吉為上格，丙丁庚辛壬癸中格斷。與府相梁月祿馬會主貴，西北生人為福，東南生人平常。陷地巧藝之人及僧道，更遇廉貞破軍羊忌空劫沖破下局，破家敗祖。女命入廟權貴，陷地值殺孤單，刑夫剋子兼且不正。",
+          "line_ref": "第576行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L055",
+          "original_quote": "子午宮旺地，與天府同度，丁己庚生人財官格。",
+          "line_ref": "第578行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L056",
+          "original_quote": "卯酉宮利益，與七殺同度，乙辛生人財官格。",
+          "line_ref": "第579行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L057",
+          "original_quote": "寅申宮得地，與天相同度，丁己甲庚生人財官格。",
+          "line_ref": "第580行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L058",
+          "original_quote": "巳亥宮和平，與破軍同度，壬戊生人財官格。",
+          "line_ref": "第581行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L059",
+          "original_quote": "辰戌宮入廟，甲乙生人財官格。",
+          "line_ref": "第582行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L060",
+          "original_quote": "丑未宮入廟，與貪狼同度，戊辛生人大貴財官格。",
+          "line_ref": "第583行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L061",
+          "original_quote": "武曲入男命吉凶訣：",
+          "line_ref": "第585行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L062",
+          "original_quote": "武曲守命化為權，吉曜來臨福壽全，志氣崢嶸多出眾，超凡入聖向人前。",
+          "line_ref": "第586行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L063",
+          "original_quote": "武曲之星守命宮，吉星守照始榮昌，若加耗殺來沖破，任是財多畢竟空。",
+          "line_ref": "第587行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L064",
+          "original_quote": "武曲入女命吉凶訣：",
+          "line_ref": "第589行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L065",
+          "original_quote": "女人武曲命中逢，天府加之志氣雄，左右祿存相逢聚，富貴雙全美無窮。",
+          "line_ref": "第590行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L066",
+          "original_quote": "將星一宿最剛強，女命逢之性異常，衣祿滔滔終有破，不然壽夭或凶亡。",
+          "line_ref": "第591行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L067",
+          "original_quote": "武曲入限吉凶訣：",
+          "line_ref": "第593行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L068",
+          "original_quote": "大小二限逢武曲，若還入廟主財興，更加文昌臨左右，福祿雙全得稱心。",
+          "line_ref": "第594行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L069",
+          "original_quote": "武曲臨限化權星，最利求謀事有成，更遇吉星同會合，文人名顯庶人興。",
+          "line_ref": "第595行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L070",
+          "original_quote": "武曲之星主官非，公吏逢之刑杖來，常庶遇之還負債，官員值此有驚懷。",
+          "line_ref": "第596行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L071",
+          "original_quote": "天同水，南斗化福，為福德主。天同入廟肥滿清明，仁慈耿直。與天梁左右嘉會丙生人於巳亥酉宮安命，財官雙美，福非小可，未宮次之，午宮陷，丁生人宜之。若在亥地庚生人下局，更遇羊陀火鈴忌沖合，則孤單破相目疾。",
+          "line_ref": "第598行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L072",
+          "original_quote": "女命會吉星作命婦，旺夫益子極賢能，若居巳亥雖美而淫。",
+          "line_ref": "第599行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L073",
+          "original_quote": "子宮旺地午宮陷，丁己癸辛生人財官格。",
+          "line_ref": "第601行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L074",
+          "original_quote": "卯酉宮和平，乙丙辛生人財官格。",
+          "line_ref": "第602行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L075",
+          "original_quote": "寅宮利申宮旺，與天梁同度，乙甲丁生人福厚。",
+          "line_ref": "第603行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L076",
+          "original_quote": "巳亥宮入廟，壬丙戊生人財官格。",
+          "line_ref": "第604行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L077",
+          "original_quote": "辰戌宮和平，丙丁生人利達，庚癸生人福不耐久。",
+          "line_ref": "第605行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L078",
+          "original_quote": "丑未宮不得地，與巨門同度，乙壬甲辛庚生人財官格。",
+          "line_ref": "第606行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L079",
+          "original_quote": "天同入男命吉凶訣：",
+          "line_ref": "第608行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L080",
+          "original_quote": "天同坐命性溫良，福祿悠悠壽更長，若是福人居廟旺，定教食祿譽傳揚。",
+          "line_ref": "第609行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L081",
+          "original_quote": "天同若與吉星逢，性格聰明百事通，男子定然食天祿，女人樂守繡房中。",
+          "line_ref": "第610行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L082",
+          "original_quote": "天同守命落閑宮，火鈴殺湊更為凶，天機梁月來相會，只好空門度歲終。",
+          "line_ref": "第611行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L083",
+          "original_quote": "天同入女命吉凶訣：",
+          "line_ref": "第613行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L084",
+          "original_quote": "天同守命婦人身，性格聰明伶俐人，昌曲更來相會處，悠悠財祿自天伸。",
+          "line_ref": "第614行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L085",
+          "original_quote": "天同若與太陰同，女命逢之淫巧容，衣祿雖豐終不美，偏房侍妾與人通。",
+          "line_ref": "第615行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L086",
+          "original_quote": "天同入限吉凶訣：",
+          "line_ref": "第617行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L087",
+          "original_quote": "人生二限值天同，喜氣盈門萬事榮，財祿增添宜創造，從今家道得豐榮。",
+          "line_ref": "第618行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L088",
+          "original_quote": "流年二限值天同，陷地須防惡殺沖，作事美中終不足，惟防官災及家傾。",
+          "line_ref": "第619行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L089",
+          "original_quote": "廉貞屬火，北斗化次桃花殺、囚星，為官祿主。為人身長體壯，眼露神光，眉毛中大剋骨亦露，性硬浮蕩，好忿爭。入廟武職貴，遇府相左右有科權祿存同宮富貴。逢昌曲七殺立武功。與擎羊同是非日有。破軍火鈴同，狗悻狼心。巳亥陷宮棄祖孤單，巧藝僧道軍旅之流。六甲生人命坐寅申者上格，丁己生人次之。六丙生人命坐子午卯酉，橫發橫破不耐久。六甲生人命坐四墓宮，財官格，若丙戊生人招非有成敗。若與昌曲忌星同在巳亥宮，六丙生人有禍，六甲生人亦不宜也。未申生人命居未申宮，化祿逢吉富貴必矣。若在諸宮逢羊陀火鈴化忌沖破，主殘疾。女命三合吉拱主封贈，雖惡殺沖破不為下局，若入廟逢化祿剛烈機巧，清秀，旺夫益子。僧道加吉拱，有師號，此星最喜天相同宮能化其惡。",
+          "line_ref": "第621行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L090",
+          "original_quote": "子午宮和平，與天相同度，丁己甲生人財官格。",
+          "line_ref": "第623行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L091",
+          "original_quote": "卯酉宮和平，與破軍同度，乙辛癸生人吉。",
+          "line_ref": "第624行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L092",
+          "original_quote": "寅宮和平，甲庚己生人貴格。申宮入廟甲庚戊生人貴格，丙生人次之。",
+          "line_ref": "第625行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L093",
+          "original_quote": "巳亥宮陷地，甲己丙戊生人福不耐久。",
+          "line_ref": "第626行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L094",
+          "original_quote": "辰戌宮利益，與天府同度，甲庚生人財官格。",
+          "line_ref": "第627行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L095",
+          "original_quote": "丑未宮利益，與七殺同度，加吉星財官格。",
+          "line_ref": "第628行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L096",
+          "original_quote": "廉貞入男命吉凶訣：",
+          "line_ref": "第630行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L097",
+          "original_quote": "廉貞守命亦非常，賦性巍巍志氣強，格故鼎新官大貴，為官清顯姓名香。",
+          "line_ref": "第631行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L098",
+          "original_quote": "廉貞坐命落閑宮，貪破羊火忌相逢，縱有財官也不美，平生何以得從容。",
+          "line_ref": "第632行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L099",
+          "original_quote": "廉貞落陷入閑宮，吉曜相逢也有凶，腰足災殘難脫厄，更加惡殺命該終。",
+          "line_ref": "第633行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L100",
+          "original_quote": "廉貞入女命吉凶訣：",
+          "line_ref": "第635行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L101",
+          "original_quote": "女人身命值廉貞，內政清廉格局新，諸吉拱照無殺破，定教封贈在青春。",
+          "line_ref": "第636行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L102",
+          "original_quote": "廉貞貪破曲相逢，陀火交加極賤庸，定主刑夫併剋子，只好偏房娼婢容。",
+          "line_ref": "第637行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L103",
+          "original_quote": "廉貞入限吉凶訣：",
+          "line_ref": "第639行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L104",
+          "original_quote": "廉貞入限旺宮臨，喜逢吉曜福駢臻，財物自然多蓄積，任人得意位高陞。",
+          "line_ref": "第640行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L105",
+          "original_quote": "大小二限遇廉貞，更有天刑忌刃侵，膿血刑災難脫逃，破軍貪殺赴幽冥。",
+          "line_ref": "第641行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L106",
+          "original_quote": "天府土，南斗化令星，為財帛主。為人面方圓，容紅齒白，心性溫和，聰明俊秀，博學機變，能解一切災厄。喜紫微昌曲左右祿存魁鉞權祿，居廟旺必中高第。羊陀火鈴會合好詐。命坐寅午戌亥卯未，六己生人貴格。若居巳酉丑宮，乙丙戊辛生人，文武財官格，如亥卯未辰酉宮安命者，甲庚生人不貴，先大後小，有始無終。女命清白機巧，旺夫益子，遇紫微左右同垣極美，作命婦論。",
+          "line_ref": "第643行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L107",
+          "original_quote": "子午宮與武曲同度，丁己癸生人為福，財官格。",
+          "line_ref": "第645行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L108",
+          "original_quote": "卯宮入廟，酉宮旺地，乙丙辛生人財官格。",
+          "line_ref": "第646行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L109",
+          "original_quote": "寅宮入廟，申宮得地，與紫微同度，丁己生人財官格。",
+          "line_ref": "第647行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L110",
+          "original_quote": "巳亥宮得地，乙丙戊辛生人財官格。",
+          "line_ref": "第648行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L111",
+          "original_quote": "辰戌宮入廟，與廉貞同度，甲庚壬生人財官格。",
+          "line_ref": "第649行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L112",
+          "original_quote": "丑未宮入廟加吉星財官格。",
+          "line_ref": "第650行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L113",
+          "original_quote": "天府入男命吉凶訣：",
+          "line_ref": "第652行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L114",
+          "original_quote": "天府之星守命宮，加之權祿喜相逢，魁昌左右來相會，附鳳攀龍上九重。",
+          "line_ref": "第653行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L115",
+          "original_quote": "火鈴羊陀三方會，為人奸詐多勞碌，空劫同垣不為佳，只宜空門享福人。",
+          "line_ref": "第654行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L116",
+          "original_quote": "天府入女命吉凶訣：",
+          "line_ref": "第656行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L117",
+          "original_quote": "女人天府命身宮，性格聰明花樣容，更得紫微三合照，金冠霞佩受皇封。",
+          "line_ref": "第657行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L118",
+          "original_quote": "火鈴羊陀來沖會，性格庸常多蹇昧，六親相背子難招，只好空門為尼計。",
+          "line_ref": "第658行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L119",
+          "original_quote": "天府入限吉凶訣：",
+          "line_ref": "第660行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L120",
+          "original_quote": "限臨天府能司祿，士庶逢之多發福，添財進喜永無災，且也潤身也潤屋。",
+          "line_ref": "第661行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L121",
+          "original_quote": "南斗尊星入限來，所為謀事稱心懷，若還又化科權祿，指日欣然展大材。",
+          "line_ref": "第662行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L122",
+          "original_quote": "太陰水，南北斗化富，為母宿，又為妻星，為田宅主。太陰居命面方圓，心性溫和，清秀耿直聰明，花酒文章，博學橫立功名。身若逢之則隨娘繼拜，陷地化吉科權祿，反以凶論，出外離祖則吉。更遇羊陀火鈴，酒色邪淫，下賤夭折。最喜六壬戊生人，在亥卯未宮立命合局，乙庚戊生人居亥宮立命上格，六丁生人次之，六乙生人合格，六丁六戊生人，化科權祿吉。女命會太陽入廟，封贈夫人，若陷地傷夫剋子，妾妓之流。",
+          "line_ref": "第664行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L123",
+          "original_quote": "子丑寅宮入廟，丁戊生人財官格。",
+          "line_ref": "第666行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L124",
+          "original_quote": "卯辰巳宮陷地，乙壬戊生人孤寡不耐久。",
+          "line_ref": "第667行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L125",
+          "original_quote": "午宮陷未申宮利益，丁庚甲入生人財官格。",
+          "line_ref": "第668行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L126",
+          "original_quote": "酉戌亥宮入廟，丙丁生人財官格，吉星眾大貴。",
+          "line_ref": "第669行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L127",
+          "original_quote": "太陰入男命吉凶訣：",
+          "line_ref": "第671行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L128",
+          "original_quote": "太陰原是水之精，身命逢之福自生，酉戌亥垣為得地，光輝揚顯姓名亨。",
+          "line_ref": "第672行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L129",
+          "original_quote": "太陰入廟化權星，清秀聰明貴無倫，稟性溫良恭儉讓，為官清顯列朝綱。",
+          "line_ref": "第673行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L130",
+          "original_quote": "寅上機昌曲月逢，縱然吉拱不豐隆，男為僕從女為妓，加殺沖殺到老窮。",
+          "line_ref": "第674行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L131",
+          "original_quote": "太陰陷地惡星中，陀火相逢定困窮，此命只宜僧與道，空門出入得從容。",
+          "line_ref": "第675行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L132",
+          "original_quote": "太陰入女命吉凶訣：",
+          "line_ref": "第677行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L133",
+          "original_quote": "月會同陽在命宮，三方吉拱必盈豐，不見凶殺來沖會，富貴雙全保到終。",
+          "line_ref": "第678行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L134",
+          "original_quote": "太陰陷在命和身，不喜三方惡殺侵，剋害夫君又夭壽，更虛血氣少精神。",
+          "line_ref": "第679行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L135",
+          "original_quote": "太陰入限吉凶訣：",
+          "line_ref": "第681行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L136",
+          "original_quote": "太陰星曜限中逢，財祿豐盈百事通，嫁娶迎親添嗣續，常人得此旺門風。",
+          "line_ref": "第682行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L137",
+          "original_quote": "二限偏宜見太陰，添屋進財福非輕，火鈴若也來相湊，未免官災病患臨。",
+          "line_ref": "第683行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L138",
+          "original_quote": "限至太陰居反背，不喜羊陀三方會，火鈴二限最為凶，若不官災多破悔。",
+          "line_ref": "第684行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L139",
+          "original_quote": "貪狼屬木，化桃花殺。貪狼入廟長聳肥胖，陷宮形小聲高而量大，性格不常，心多計較，作事急速不耐靜，作巧反拙，好賭博花酒。陷地加羊陀化忌，則孤貧破相殘疾，斑痕疤痣。入廟多居武藝之中，遇火鈴喜戊己生人合局，不喜六癸生人，不耐久長。女命平常，若居陷地傷夫剋子且不正，大多為娼婢，僧道亦不清潔。",
+          "line_ref": "第686行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L140",
+          "original_quote": "子午宮旺地，丁己生人福厚，丙戊庚生寅申人下局。",
+          "line_ref": "第688行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L141",
+          "original_quote": "卯酉宮利益，與紫微同度，見火星貴，乙辛己生人宜之，財官格。",
+          "line_ref": "第689行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L142",
+          "original_quote": "寅申宮和平，庚生人財官格。",
+          "line_ref": "第690行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L143",
+          "original_quote": "巳亥宮陷地，與廉貞同度，丙戊壬生人為福不耐久。",
+          "line_ref": "第691行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L144",
+          "original_quote": "辰戌宮入廟，戊己生人財官格。",
+          "line_ref": "第692行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L145",
+          "original_quote": "丑未宮入廟，與武曲同度，見火星，戊己庚生人貴格。",
+          "line_ref": "第693行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L146",
+          "original_quote": "貪狼入男命吉凶訣：",
+          "line_ref": "第695行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L147",
+          "original_quote": "四墓宮中福氣濃，提兵指日立邊功，火星拱會誠為貴，名震諸夷定有封。",
+          "line_ref": "第696行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L148",
+          "original_quote": "貪狼守命擎羊逢，陀殺交加必困窮，武破廉貞同殺劫，百藝防身度歲終。",
+          "line_ref": "第697行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L149",
+          "original_quote": "四墓貪狼廟旺宮，加臨左右富財翁，若然再化科權祿，文武才能顯大功。",
+          "line_ref": "第698行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L150",
+          "original_quote": "貪狼入女命吉凶訣：",
+          "line_ref": "第700行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L151",
+          "original_quote": "四墓宮中多吉利，更逢左右方為貴，祿財豐富旺夫君，性格剛強多志氣。",
+          "line_ref": "第701行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L152",
+          "original_quote": "貪狼陷地女非祥，衣食雖豐也不良，剋害良人並男女，又教衾枕守孤孀。",
+          "line_ref": "第702行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L153",
+          "original_quote": "貪狼入限吉凶訣：",
+          "line_ref": "第704行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L154",
+          "original_quote": "北斗貪狼入限來，若還入廟事和諧，科權仕路多成就，必主當年發橫財。",
+          "line_ref": "第705行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L155",
+          "original_quote": "貪狼主限四墓臨，更喜人生四墓生，若見火星多橫發，自然富貴冠鄉鄰。",
+          "line_ref": "第706行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L156",
+          "original_quote": "限至貪狼陷不良，只宜節慾息災傷，賭蕩風流去財寶，吉曜三方可免災。",
+          "line_ref": "第707行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L157",
+          "original_quote": "女限貪狼事不良，宜懷六甲免災殃，若無吉曜來相會，須知一命入黃泉。",
+          "line_ref": "第708行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L158",
+          "original_quote": "巨門水，北斗化暗，主是非。入廟身長肥胖敦厚清秀，不入廟五短瘦小，作事進退，多疑且多學少精，與人寡合，多是多非，奔波勞碌。喜左右祿存六癸六辛生人，命坐子卯合局。六庚六丁生人，辰戌安命卻不富貴。子午宮安命，丙戊生人孤寡夭折。六甲生人居卯宮雖入廟，與擎羊同度破局平常論。身命居子午宮為石中隱玉格，更會科權祿，終身福厚，會羊陀火鈴化忌，若不夭折，男盜女娼。",
+          "line_ref": "第710行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L159",
+          "original_quote": "女命入廟，六癸六辛生人享福，陷地傷夫剋子，丁人遇極淫，此星在女命多有瑕玷。",
+          "line_ref": "第711行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L160",
+          "original_quote": "子午宮旺地，丁己癸辛生人福厚，丙戊生人主困。",
+          "line_ref": "第713行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L161",
+          "original_quote": "卯酉宮入廟，與天機同度，乙辛己丙生人財官格，丁戊生人有成敗。",
+          "line_ref": "第714行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L162",
+          "original_quote": "寅申宮入廟，與太陽同度，庚癸辛生人財官格。",
+          "line_ref": "第715行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L163",
+          "original_quote": "巳亥旺宮單守，癸辛丙生人財官格。",
+          "line_ref": "第716行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L164",
+          "original_quote": "辰戌宮和平，癸辛生人主貴，丁生人困。",
+          "line_ref": "第717行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L165",
+          "original_quote": "丑未宮不得地，癸辛丙生人財官格。",
+          "line_ref": "第718行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L166",
+          "original_quote": "巨門入男命吉凶訣：",
+          "line_ref": "第720行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L167",
+          "original_quote": "巨門子午二宮逢，局中得遇以為榮，三合化吉科權祿，官高極品衣紫袍。",
+          "line_ref": "第721行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L168",
+          "original_quote": "此星化暗不宜逢，更會殺星愈肆凶，唇齒有傷兼性猛，若然入廟可和平。",
+          "line_ref": "第722行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L169",
+          "original_quote": "巨門守命遇擎羊，火鈴逢之事不祥，為人性急多顛倒，百事茫茫亂主張。",
+          "line_ref": "第723行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L170",
+          "original_quote": "巨門入女命吉凶訣：",
+          "line_ref": "第725行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L171",
+          "original_quote": "巨門旺地多生吉，左右加臨壽更長，女人得此誠為貴，簾捲珍珠坐繡房。",
+          "line_ref": "第726行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L172",
+          "original_quote": "巨門命陷主淫娼，侍女偏房免災殃，相貌清奇多近寵，不然壽夭或凶亡。",
+          "line_ref": "第727行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L173",
+          "original_quote": "巨門入限吉凶訣：",
+          "line_ref": "第729行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L174",
+          "original_quote": "巨門主限化權星，最喜求謀萬事成，雖有官災並口舌，逢凶化吉得安寧。",
+          "line_ref": "第730行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L175",
+          "original_quote": "巨門入限動人愁，若遇喪門事不周，士庶逢之多惹訟，居官失職有丁憂。",
+          "line_ref": "第731行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L176",
+          "original_quote": "巨門限陷最乖張，無事官非鬧一場，哭泣喪禍終不免，破財嘔氣受悽涼。",
+          "line_ref": "第732行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L177",
+          "original_quote": "天相水，南斗化印，為官祿主。為人相貌敦厚持重，清白好酒食，衣祿豐足。紫府左右昌曲日月嘉會，財官雙美，位至三公。與武破羊陀同行則為巧藝，更加火鈴巨機，則傷刑不善終，天相又能化廉貞之惡。",
+          "line_ref": "第734行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L178",
+          "original_quote": "女命入廟性溫和，衣祿遂心，僧道屯吉。",
+          "line_ref": "第735行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L179",
+          "original_quote": "子午宮入廟，與廉貞同度，丁己癸甲生人財官格。",
+          "line_ref": "第737行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L180",
+          "original_quote": "卯酉宮陷地，乙辛生人吉。甲庚生人主困。",
+          "line_ref": "第738行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L181",
+          "original_quote": "辰戌宮得地，與紫微同度，財官格。",
+          "line_ref": "第739行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L182",
+          "original_quote": "丑宮入廟未宮得地，加吉星財官格。",
+          "line_ref": "第740行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L183",
+          "original_quote": "寅申宮入廟，與武曲同度，丁甲庚生人財官格。",
+          "line_ref": "第741行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L184",
+          "original_quote": "巳亥宮得地，丙戊壬生人為福。",
+          "line_ref": "第742行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L185",
+          "original_quote": "天相入男命吉凶訣：",
+          "line_ref": "第744行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L186",
+          "original_quote": "天相星辰貴等倫，照守身命喜無垠，為官必主居元宰，三合相逢福不輕。",
+          "line_ref": "第745行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L187",
+          "original_quote": "天相吉星為命主，必定斯人多克己，財官祿主旺家資，權壓當時誰不美。",
+          "line_ref": "第746行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L188",
+          "original_quote": "天相之星武破同，羊陀火鈴更為凶，或作技術經商輩，若在空門享福隆。",
+          "line_ref": "第747行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L189",
+          "original_quote": "天相入女命吉凶訣：",
+          "line_ref": "第749行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L190",
+          "original_quote": "女人之命天相星，性格聰明百事寧，衣祿豐盈財帛足，旺夫貴子顯門庭。",
+          "line_ref": "第750行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L191",
+          "original_quote": "破軍七殺來相會，羊陀火鈴最所忌，孤刑剋害六親無，只可偏房與侍婢。",
+          "line_ref": "第751行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L192",
+          "original_quote": "天相入限吉凶訣：",
+          "line_ref": "第753行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L193",
+          "original_quote": "天相之星敢主財，照臨二限悉無災，動作謀為皆遂意，悠游享福自然來。",
+          "line_ref": "第754行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L194",
+          "original_quote": "天相之星有幾般，三方不喜惡星纏，羊陀空劫重相會，口舌官災禍亦連。",
+          "line_ref": "第755行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L195",
+          "original_quote": "限臨天相遇擎羊，作禍興殃不可當，更有火鈴諸殺湊，須教一命入泉鄉。",
+          "line_ref": "第756行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L196",
+          "original_quote": "天梁屬土，南斗化蔭，主壽星。厚重清秀，聰明耿直，心無私曲好濟施，有壽。與天機同行居翰苑，善談兵。左右昌曲嘉會，則出將入相。要入廟方富貴，陷地遇火羊破局，則下賤孤寡夭折。逢天機耗殺清閑，僧道受制誥，六壬生人，亥卯未宮安命者，富貴雙全。",
+          "line_ref": "第758行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L197",
+          "original_quote": "女命有男子之志，入廟富貴，陷地加殺傷夫剋子又淫賤。",
+          "line_ref": "第759行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L198",
+          "original_quote": "子午宮入廟，丁己癸生人福厚財格。",
+          "line_ref": "第761行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L199",
+          "original_quote": "卯宮入廟酉宮得地，與太陽同度，乙壬辛生人財官格。",
+          "line_ref": "第762行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L200",
+          "original_quote": "辰戌宮入廟，與天機同度，丁己壬庚生人財官格。",
+          "line_ref": "第763行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L201",
+          "original_quote": "丑未宮入廟，壬乙生人財官格，六戊生人大貴。",
+          "line_ref": "第764行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L202",
+          "original_quote": "寅宮入廟申宮陷地，與天同同度，丁己甲庚生人財官格。",
+          "line_ref": "第765行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L203",
+          "original_quote": "天梁入男命吉凶訣：",
+          "line_ref": "第767行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L204",
+          "original_quote": "天梁之曜數中強，形神穩重性溫良，左右昌曲來會合，管教富貴列朝綱。",
+          "line_ref": "第768行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L205",
+          "original_quote": "天梁星宿壽星逢，機日文昌左右同，子午寅申為入廟，官資清顯至三公。",
+          "line_ref": "第769行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L206",
+          "original_quote": "天梁遇火落閑宮，陀殺重逢更是凶，孤刑帶疾破家財，空門技藝可營工。",
+          "line_ref": "第770行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L207",
+          "original_quote": "辰戌機梁非小補，破軍卯酉不為良，女人得此為孤獨，剋夫刑子守空房。",
+          "line_ref": "第771行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L208",
+          "original_quote": "天梁入限吉凶訣：",
+          "line_ref": "第773行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L209",
+          "original_quote": "天梁化蔭吉星和，二限逢之福必多，若加吉曜逢廟地，貴極一品輔山河。",
+          "line_ref": "第774行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L210",
+          "original_quote": "限至天梁最是良，猶如秋菊吐馨香，加官進職迎新祿，常庶逢之也足糧。",
+          "line_ref": "第775行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L211",
+          "original_quote": "天梁守限壽延長，作事求謀更吉昌，若遇火鈴羊陀合，須防一厄與家亡。",
+          "line_ref": "第776行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L212",
+          "original_quote": "七殺火金，南斗將星，遇帝為權，其餘諸宮皆殺。為人目大性急，喜怒無常，作事進退沈吟。廟旺有謀略，遇紫微掌生殺之權，武職最利。加左右昌曲魁鉞會合，位至極品。落空亡無威力。遇凶曜於生鄉，定為屠宰，會刑囚傷剋。安命寅亥子午宮，丁己生人合局，不喜壬癸午戌生人，六丙六戊生人中平。辰宮安命六庚生人吉利，羊陀火鈴沖會，又在陷地殘疾下局，雖富貴不耐久。女人入廟加權祿，旺夫益子，陷地遇羊火，則以傷剋下賤論。",
+          "line_ref": "第778行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L213",
+          "original_quote": "子午宮旺地，丁己甲生人財官格。",
+          "line_ref": "第780行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L214",
+          "original_quote": "卯酉宮旺地，與武曲同度，乙辛生人福厚財官格。",
+          "line_ref": "第781行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L215",
+          "original_quote": "辰戌宮入廟，加吉星財官格。",
+          "line_ref": "第782行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L216",
+          "original_quote": "丑未宮入廟，與廉貞同度，加吉星財官格。",
+          "line_ref": "第783行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L217",
+          "original_quote": "寅申宮入廟，甲庚丁己生人財官格。",
+          "line_ref": "第784行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L218",
+          "original_quote": "巳亥宮和平，與紫微同度，丙戊壬生人財官格。",
+          "line_ref": "第785行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L219",
+          "original_quote": "七殺入男命吉凶訣：",
+          "line_ref": "第787行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L220",
+          "original_quote": "七殺寅申子午宮，四夷拱手服英雄，魁鉞左右文昌會，科祿名高食萬鍾。",
+          "line_ref": "第788行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L221",
+          "original_quote": "殺居陷地不堪言，凶禍猶如伴虎眠，若是殺強無制伏，少年惡死到黃泉。",
+          "line_ref": "第789行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L222",
+          "original_quote": "七殺居命落閑宮，巨宿羊陀更照沖，若不傷肢必損骨，空門僧道可興隆。",
+          "line_ref": "第790行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L223",
+          "original_quote": "七殺入女命吉凶訣：",
+          "line_ref": "第792行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L224",
+          "original_quote": "女命愁逢七殺星，作事果斷又聰明，氣高志大無男女，不免刑夫歷苦辛。",
+          "line_ref": "第793行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L225",
+          "original_quote": "七殺孤星貪宿逢，火陀湊合非為貴，女人得此性不良，只好偏房為使婢。",
+          "line_ref": "第794行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L226",
+          "original_quote": "七殺入限吉凶訣：",
+          "line_ref": "第796行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L227",
+          "original_quote": "二限雖然逢七殺，從容和緩家道發，對宮天府正來朝，仕宦逢之名顯達。",
+          "line_ref": "第797行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L228",
+          "original_quote": "七殺之星主啾唧，作事艱難俱有失，更加惡曜在限中，主有官災多病疾。",
+          "line_ref": "第798行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L229",
+          "original_quote": "破軍水，北斗化耗星，主妻子、奴僕。體型五短背厚眉寬腰斜，性剛寡合，好爭強。棄祖發福，好博禽捕獵。喜紫微有威權，天梁天府能制其惡，與文曲同度一生貧士，更入水鄉殘疾，雖富不久、夭折。六癸甲生人，坐子午宮者位至三公。若丙戊寅生人命坐子午宮，則孤單殘疾，雖富貴不久、夭折。丙戊生人，命坐辰戌丑未，與紫微同垣或對居，富貴不小。遇廉貞羊陀火鈴於陷宮，爭鬥疾病。僧道宜之，女命",
+          "line_ref": "第800行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L230",
+          "original_quote": "子午入廟，陷地加殺則殘疾下賤淫慾。",
+          "line_ref": "第802行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L231",
+          "original_quote": "子午宮入廟，丁己癸生人福厚，丙戊生人主困。",
+          "line_ref": "第803行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L232",
+          "original_quote": "卯酉宮陷地與廉貞同度，乙辛癸生人利，甲庚丙生人不耐久。",
+          "line_ref": "第804行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L233",
+          "original_quote": "辰戌宮旺地，甲癸生人為福。",
+          "line_ref": "第805行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L234",
+          "original_quote": "丑未宮旺地與紫微同度，丙戊乙生人財官格。",
+          "line_ref": "第806行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L235",
+          "original_quote": "寅申宮得地，甲庚丁己生人財官格。",
+          "line_ref": "第807行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L236",
+          "original_quote": "巳亥宮與武曲同度，戊生人福厚。",
+          "line_ref": "第808行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L237",
+          "original_quote": "破軍入男命吉凶訣：",
+          "line_ref": "第810行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L238",
+          "original_quote": "破軍七殺與貪狼，入廟英雄不可當，關羽命逢為上將，庶人富足置田莊。",
+          "line_ref": "第811行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L239",
+          "original_quote": "破軍子午會文昌，左右雙雙入廟廊，財帛豐盈多慷慨，祿官昭著佐君王。",
+          "line_ref": "第812行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L240",
+          "original_quote": "破軍一曜最難當，化祿科權喜異常，若還陷地仍加殺，破祖離宗出遠鄉。",
+          "line_ref": "第813行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L241",
+          "original_quote": "破軍不喜在身宮，廉貞火羊陀會凶，不見傷殘定壽夭，只宜僧道度平生。",
+          "line_ref": "第814行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L242",
+          "original_quote": "破軍入女命吉凶訣：",
+          "line_ref": "第816行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L243",
+          "original_quote": "破軍子午為入廟，女命逢之福壽昌，性格有能偏出眾，旺夫益子姓名香。",
+          "line_ref": "第817行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L244",
+          "original_quote": "破軍女命不宜逢，擎羊加陷便為凶，剋害良人非一次，須教悲哭度朝昏。",
+          "line_ref": "第818行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L245",
+          "original_quote": "破軍入限吉凶訣：",
+          "line_ref": "第820行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L246",
+          "original_quote": "破軍入限要推詳，廟地方知福祿昌，更遇文昌同魁鉞，限臨此地極風光。",
+          "line_ref": "第821行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L247",
+          "original_quote": "破軍入限細推詳，廟地無凶少損傷，殺湊破軍防破耗，更防妻子自身亡。",
+          "line_ref": "第822行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L248",
+          "original_quote": "破軍主限多濃血，失脫乖張不可說，更值女人主孝服，血光產難災殃節。",
+          "line_ref": "第823行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L249",
+          "original_quote": "文昌金，南北斗，乃文魁星，眉目清秀分明，機巧多學多能，會陽梁祿存財官昭卓，富貴聲揚，陷地先難後易，加擎羊火鈴巧藝之人，陷地獨守加殺帶疾，亦能延壽，旺有暗痣，陷有斑痕。女命入廟平常，加吉曜富貴，陷地遇羊火巨機殺忌，則下賤淫娼使婢。",
+          "line_ref": "第825行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L250",
+          "original_quote": "寅午戌宮得地，丁己甲庚生人財官格。",
+          "line_ref": "第827行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L251",
+          "original_quote": "申子辰宮得地，癸甲庚生人貴格。",
+          "line_ref": "第828行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L252",
+          "original_quote": "巳酉丑宮入廟，乙戊辛生人大貴。",
+          "line_ref": "第829行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L253",
+          "original_quote": "亥卯未宮利益，乙戊生人財官格。",
+          "line_ref": "第830行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L254",
+          "original_quote": "文昌入男命吉凶訣：",
+          "line_ref": "第832行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L255",
+          "original_quote": "文昌坐命旺宮臨，志大財高抵萬金，文藝精華心壯大，須教平步上青雲。",
+          "line_ref": "第833行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L256",
+          "original_quote": "文昌守命亦非常，限不夭傷福壽長，只怕限沖逢火忌，須教夭折帶刑傷。",
+          "line_ref": "第834行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L257",
+          "original_quote": "文昌入女命吉凶訣：",
+          "line_ref": "第836行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L258",
+          "original_quote": "女人身命值文昌，秀麗清奇福更長，紫府對沖三合照，管教富貴著霞裳。",
+          "line_ref": "第837行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L259",
+          "original_quote": "文昌女命遇廉貞，陷地擎羊火忌星，若不為娼終壽夭，偏房猶得主人輕。",
+          "line_ref": "第838行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L260",
+          "original_quote": "文昌入限吉凶訣：",
+          "line_ref": "第840行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L261",
+          "original_quote": "文昌之星最為清，斗數之中第二星，若遇太歲與二限，士人值此占科名。",
+          "line_ref": "第841行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L262",
+          "original_quote": "限遇文昌不得地，更有羊陀火鈴忌，官非口舌破家財，未免刑傷多晦滯。",
+          "line_ref": "第842行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L263",
+          "original_quote": "文曲水，北斗，司科甲星。與文昌逢吉主科第，單居身命更逢惡殺湊合，無名便佞之人，喜六甲生人居巳酉丑宮，侯伯官貴。與貪狼火星同垣三合者，將相之命。武貞羊殺破狼，居陷地則喪命夭折，若與同梁武曲會旺宮，聰明果決，如羊陀火鈴沖破，只宜空門。旺有暗痣，陷有斑痕。女命入廟清秀，陷地與巨火忌機會，及貪狼破軍同垣沖破，則孤寒下賤淫慾論。",
+          "line_ref": "第844行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L264",
+          "original_quote": "寅宮和平，午戌陷地，甲庚生人財官格。",
+          "line_ref": "第846行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L265",
+          "original_quote": "申子辰宮得地，丁癸辛生人福厚。",
+          "line_ref": "第847行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L266",
+          "original_quote": "巳酉丑宮入廟，辛生人遇紫微同宮大富貴格。",
+          "line_ref": "第848行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L267",
+          "original_quote": "亥卯未宮旺地，丙壬戊生人財官格。",
+          "line_ref": "第849行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L268",
+          "original_quote": "文曲入男命吉凶訣：",
+          "line_ref": "第851行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L269",
+          "original_quote": "文曲守命最為良，相貌堂堂志氣昂，士庶逢之應福厚，丈夫得此受金章。",
+          "line_ref": "第852行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L270",
+          "original_quote": "文曲守垣逢火忌，不喜三方惡殺聚，此人雖巧口能言，惟在空門可遇貴。",
+          "line_ref": "第853行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L271",
+          "original_quote": "文曲入女命吉凶訣：",
+          "line_ref": "第854行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L272",
+          "original_quote": "女人命裡逢文曲，相貌清奇多有福，聰明伶俐不尋常，有殺偏房也淫慾。",
+          "line_ref": "第855行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L273",
+          "original_quote": "文曲入限吉凶訣：",
+          "line_ref": "第857行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L274",
+          "original_quote": "二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上局。",
+          "line_ref": "第858行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L275",
+          "original_quote": "文曲限遇廉陀羊，陷地非災惹禍殃，更兼命裡星辰弱，須知此歲入泉鄉。",
+          "line_ref": "第859行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L276",
+          "original_quote": "左輔土，南北斗善星，佐帝令尤佳，若府相機昌貪狼武曲會，再加右弼同垣，富貴不小，財官雙美，若見羊陀火忌中局，旺宮有暗痣，三殺如陷地加巨門七殺天機下局。女命會吉星旺夫益子，僧道清潔。",
+          "line_ref": "第861行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L277",
+          "original_quote": "左輔入男命吉凶訣：",
+          "line_ref": "第863行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L278",
+          "original_quote": "左輔尊星能降福，風流敦厚通今古，紫府祿權貪武會，文官武職多清貴。",
+          "line_ref": "第864行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L279",
+          "original_quote": "羊陀火鈴三方照，縱有財官非吉兆，廉貞破巨更來沖，若不傷殘終是夭。",
+          "line_ref": "第865行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L280",
+          "original_quote": "左輔入女命吉凶訣：",
+          "line_ref": "第867行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L281",
+          "original_quote": "女命左輔主賢豪，能幹能為又氣高，更與紫微天府合，金冠封贈過滔滔。",
+          "line_ref": "第868行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L282",
+          "original_quote": "火陀相會不為良，七殺破軍壽不長，只可偏房方富足，聰明得寵過時光。",
+          "line_ref": "第869行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L283",
+          "original_quote": "左輔入限吉凶訣：",
+          "line_ref": "第871行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L284",
+          "original_quote": "左輔限行福氣深，常人富足累千金，官員更得科權照，職位高遷佐聖君",
+          "line_ref": "第872行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L285",
+          "original_quote": "左輔之星入限來，不宜殺湊主悲哀，火鈴空劫來相湊，財破人亡事事哀。",
+          "line_ref": "第873行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L286",
+          "original_quote": "右弼水，南北斗善星，佐帝令。入廟厚重清秀耿直，心懷寬恕好施濟，有機謀。諸宮降福，居四墓尤佳，若會紫微天府天相昌曲，終身福厚。若與諸殺同纏及羊陀火鈴忌沖合者僅主福薄亦不為凶，惟有斑痕暗痣或傷殘帶疾。女命會吉星旺夫益子，僧道清潔。",
+          "line_ref": "第875行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L287",
+          "original_quote": "右弼入男命吉凶訣：",
+          "line_ref": "第877行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L288",
+          "original_quote": "右弼天機上宰星，命逢重厚最聰明，若無火忌羊陀會，加吉財官冠世英。",
+          "line_ref": "第878行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L289",
+          "original_quote": "右弼尊星入命宮，若還殺湊主常庸，羊陀空劫三方湊，須知帶疾免災凶。",
+          "line_ref": "第879行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L290",
+          "original_quote": "右弼入限吉凶訣：",
+          "line_ref": "第881行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L291",
+          "original_quote": "右弼入限最為榮，入財興旺必多能，官員遷擢僧道喜，士子攻書必顯名。",
+          "line_ref": "第882行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L292",
+          "original_quote": "右弼主限遇凶星，掃盡家資百不成，士遭傷敗奴欺主，更教家破主伶仃。",
+          "line_ref": "第883行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L293",
+          "original_quote": "祿存土，北斗司爵貴星。老成持重心慈耿直，有機變多學多能，命遇主富貴，文人有聲名，諸宮降福消災，逢諸殺棄祖重拜父母。喜紫府相同梁日月及武曲同宮為妙，單守命身，看財之奴。怕空劫火鈴沖照則為下局，巧藝多精之人，陷地減福。在命宮官祿田宅為福。女命清白秀麗，有男子之志。",
+          "line_ref": "第885行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L294",
+          "original_quote": "祿存入男命吉凶訣：",
+          "line_ref": "第887行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L295",
+          "original_quote": "人生若遇祿存星，性格剛強百事成，官員遷兮昌曲會，滔滔衣祿顯門庭。",
+          "line_ref": "第888行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L296",
+          "original_quote": "祿存守命莫逢沖，陀火交加福不全，天機空劫忌相會，空門僧道得清閒。",
+          "line_ref": "第889行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L297",
+          "original_quote": "祿存入女命吉凶訣：",
+          "line_ref": "第891行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L298",
+          "original_quote": "女命若遇祿存星，紫府加臨百事寧，更遇同貞相湊合，必然註定是夫人。",
+          "line_ref": "第892行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L299",
+          "original_quote": "祿存入命陷宮來，空劫火鈴必為災，若無吉曜來相湊，夫妻分離永不諧。",
+          "line_ref": "第893行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L300",
+          "original_quote": "祿存入限吉凶訣：",
+          "line_ref": "第895行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L301",
+          "original_quote": "祿存主限最為良，作事求謀盡吉祥，仕吏逢之多轉職，庶人遇此足錢糧。",
+          "line_ref": "第896行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L302",
+          "original_quote": "祿存主限壽延長，作事營謀萬事昌，更有科權兼左右，定知此限富倉廂。",
+          "line_ref": "第897行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L303",
+          "original_quote": "祿存祿主多富足，婚姻嫁娶添嗣續，更兼科祿又同宮，必主榮華享厚福。",
+          "line_ref": "第898行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L304",
+          "original_quote": "祿存交馳限步逢，最怕劫空相遇同，更兼太歲惡星沖，限倒其年入墓中。",
+          "line_ref": "第899行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L305",
+          "original_quote": "魁鉞火，即天乙貴人，若人身命逢之，更得諸吉加臨，三合吉星守照，必少年登科及第，逢凶忌不為文章秀士，可為弟子之師，限步逢之必主清高，名成利就。大抵此星若身命逢之，雖不富貴亦主聰明，為人秀麗清白，有威可畏，有儀可象。女命逢吉多為宰相婦，逢凶殺也主富貴。",
+          "line_ref": "第901行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L306",
+          "original_quote": "魁鉞入命限吉凶訣：",
+          "line_ref": "第903行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L307",
+          "original_quote": "魁鉞命身限遇昌，常人得此足錢糧，官員遇此高遷擢，必定當年面帝王。",
+          "line_ref": "第904行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L308",
+          "original_quote": "擎羊火金，北斗浮星，化氣為刑。入廟權貴，身旺形粗破相，剛強果決，好勇鬥狠，機謀狡詐，橫立功名，能奪君子之權，喜西北生人為福，宜命在四墓宮廟地，亦喜四墓生人，會日月男剋妻而女剋夫，會昌曲左右有暗痣斑痕，居卯酉陷宮作禍興殃，傷殘帶疾目眇，六甲六戊寅申生人守命，主其人孤單，不守祖業，二姓延生，巧藝為活，廉貞火巨忌星陷地同宮，則帶暗疾，或面手足有傷殘，且不善終，一生多招刑禍，否則為僧道。女命入廟權貴，陷地傷夫剋子，孤刑破相淫蕩。",
+          "line_ref": "第906行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L309",
+          "original_quote": "辰戌丑未入廟，亦宜辰戌丑未生人財官格。",
+          "line_ref": "第908行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L310",
+          "original_quote": "子午卯酉陷地。",
+          "line_ref": "第909行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L311",
+          "original_quote": "擎羊入男命吉凶訣：",
+          "line_ref": "第911行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L312",
+          "original_quote": "祿前一位安擎羊，上將逢之福祿加，更得貴人相守照，兵權萬里壯皇家。",
+          "line_ref": "第912行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L313",
+          "original_quote": "擎羊守命性剛強，四墓生人福壽長，若得紫府來會合，須知財穀富倉箱。",
+          "line_ref": "第913行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L314",
+          "original_quote": "擎羊一曜落閑宮，陀火沖兮便是凶，更若身命同劫殺，定然夭絕在途中。",
+          "line_ref": "第914行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L315",
+          "original_quote": "擎羊入女命吉凶訣：",
+          "line_ref": "第916行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L316",
+          "original_quote": "北斗浮星女命逢，火機巨忌必常庸，三方凶殺兼來湊，不夭終須浪滾濤。",
+          "line_ref": "第917行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L317",
+          "original_quote": "擎羊入男命吉凶訣：",
+          "line_ref": "第919行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L318",
+          "original_quote": "擎羊守限細推詳，四墓生人免災殃，若遇紫微昌府會，財官顯達福悠長。",
+          "line_ref": "第920行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L319",
+          "original_quote": "天羅地網遇擎羊，二限沖兮禍患戕，若是命中主星弱，定教一疾夢黃泉。",
+          "line_ref": "第921行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L320",
+          "original_quote": "擎羊加殺最為凶，二限休教落陷逢，剋子刑妻賣田庄，徙流貶配去從戎。",
+          "line_ref": "第922行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L321",
+          "original_quote": "陀羅火金，北斗浮星，化氣為忌。入廟身雄形粗，賦性剛強，破相氣高，橫發橫破，不守祖業，為人飄蓬，不作本處居民，作事退悔，有始無終。喜西北生人為福，及四墓生人又坐四墓宮，加吉星眾者為福，會日月忌宿男剋妻而女剋夫，加忌且損目，會昌曲左右有暗痣斑痕，若無正星而獨守命者，孤單棄祖，入贅二姓延生，巧藝為活。若居陷地逢巨殺，必傷妻剋子，背六親且傷殘帶疾。僧道吉利，女命內狠外虛，凌夫剋子，六親不和又無廉恥。",
+          "line_ref": "第924行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L322",
+          "original_quote": "辰戌丑未入廟，亦宜辰戌丑未生人利益。",
+          "line_ref": "第926行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L323",
+          "original_quote": "寅申巳亥陷地。",
+          "line_ref": "第927行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L324",
+          "original_quote": "陀羅入男命吉凶訣：",
+          "line_ref": "第929行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L325",
+          "original_quote": "陀羅命內坐中存，更喜人生四墓中，再得紫微昌府合，財祿豐盈遠播名。",
+          "line_ref": "第930行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L326",
+          "original_quote": "陀羅在陷不堪聞，口舌官非一世侵，財散人離人孤獨，所為所作不如心。",
+          "line_ref": "第931行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L327",
+          "original_quote": "陀羅入女命吉凶訣：",
+          "line_ref": "第933行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L328",
+          "original_quote": "陀羅一曜女命逢，遇吉加臨淫蕩容，凶殺三方相照破，須防相別主人翁。",
+          "line_ref": "第934行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L329",
+          "original_quote": "陀羅入限吉凶訣：",
+          "line_ref": "第936行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L330",
+          "original_quote": "限遇陀羅事亦多，必然忍耐要謙和，若無吉曜同相會，須教一夢入南柯。",
+          "line_ref": "第937行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L331",
+          "original_quote": "夾身夾命有陀羊，火鈴空劫又來傷，天祿不逢生旺地，刑妻剋子不為良。",
+          "line_ref": "第938行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L332",
+          "original_quote": "火星，南斗浮星。性剛強出眾，唇齒四肢有傷，毛髮有異，形容各別。諸宮不美，惟貪狼廟旺同度，指日立邊功，為財官格，利東南生人不利西北生人，及喜寅卯巳午生人為禍較輕，更與擎羊同垣，則襁褓災厄，孤剋下局，只宜過房由外家寄養，或重拜父母方可。女命心毒內狠外虛狡詐，凌夫剋子，不守婦道，多是非，淫慾下賤。",
+          "line_ref": "第940行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L333",
+          "original_quote": "寅午戌人宜，申子辰人陷災吝困頓，巳酉丑人得地吉，亥卯未人利益，吉多發福。",
+          "line_ref": "第942行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L334",
+          "original_quote": "火星入限吉凶訣：",
+          "line_ref": "第944行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L335",
+          "original_quote": "火星得地限宮逢，喜氣盈門百事通，仕宦逢之皆發福，常人得此財豐隆。",
+          "line_ref": "第945行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L336",
+          "original_quote": "火星一宿最乖張，無事官災鬧一場，剋害六親應不免，破財艱苦免恓惶。",
+          "line_ref": "第946行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L337",
+          "original_quote": "鈴星火，南斗浮星。性毒形神破相，膽大出眾，宜寅午戌人權貴，亦利東南生人限行福厚，西北生人限行成敗，雖富貴亦不耐久，入廟遇貪狼武曲，威鎮邊夷，更會紫府左右不貴即富，如居陷地夭折破相延壽，或離祖重拜父母。女命性剛背六親，傷夫剋子，遇吉始能豐足。",
+          "line_ref": "第948行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L338",
+          "original_quote": "鈴星入限吉凶訣：",
+          "line_ref": "第950行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L339",
+          "original_quote": "限至鈴星事若何，貪狼相遇福還多，更加入廟逢諸吉，富貴聲揚處處歌。",
+          "line_ref": "第951行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L340",
+          "original_quote": "鈴星一宿不可當，守臨二限必癲狂，若無吉曜來相照，未免招災惹禍殃。",
+          "line_ref": "第952行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L341",
+          "original_quote": "火鈴二星入男命吉凶訣：",
+          "line_ref": "第954行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L342",
+          "original_quote": "火鈴二曜居廟地，貪狼紫府宜相會，為人性急有威權，鎮壓鄉邦終有貴。",
+          "line_ref": "第955行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L343",
+          "original_quote": "火鈴在命落閒宮，西北生人作事庸，破盡家財終不久，須教帶疾免災凶。",
+          "line_ref": "第956行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L344",
+          "original_quote": "火鈴二星入女命吉凶訣：",
+          "line_ref": "第958行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L345",
+          "original_quote": "火鈴之星入命來，貪狼相會得和諧，三方無殺諸般美，坐守香閨得遂懷。",
+          "line_ref": "第959行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L346",
+          "original_quote": "火鈴二曜最難當，女命逢之必刑傷，若遇三方加殺湊，須防目下入泉鄉。",
+          "line_ref": "第960行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L347",
+          "original_quote": "火鈴二星入限吉凶訣：",
+          "line_ref": "第962行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L348",
+          "original_quote": "火鈴二星事若何，貪狼相會福還多，更加吉曜多權柄，富貴聲揚處處歌。",
+          "line_ref": "第963行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L349",
+          "original_quote": "火鈴限陷血濃侵，失脫尋常不可尋，口舌官災應不免，須防無妄禍來臨。",
+          "line_ref": "第964行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L350",
+          "original_quote": "地劫火，乃劫殺之神，性惡作事疏狂，動靜增惡，不行正道，為邪僻之事，有吉禍輕，三方四正加殺多者夭壽論。",
+          "line_ref": "第966行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L351",
+          "original_quote": "女命只可為偏房妓婢而已。",
+          "line_ref": "第967行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L352",
+          "original_quote": "地劫入命吉凶訣：",
+          "line_ref": "第969行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L353",
+          "original_quote": "地劫從來生發疾，命中相遇多啾唧，若遇羊火在其中，辛苦持家防內室。",
+          "line_ref": "第970行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L354",
+          "original_quote": "地劫入限吉凶訣：",
+          "line_ref": "第972行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L355",
+          "original_quote": "劫星二限若相逢，未免當年有禍危，太歲殺臨多疾厄，官符星遇有官符。",
+          "line_ref": "第973行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L356",
+          "original_quote": "天空乃空亡之神，性惡作事虛空，不行正道，成敗多端不聚財，退祖榮昌，空多不吉，名曰斷橋，有吉禍輕，四殺加少者平常論，多者下賤。太歲二限遇逢，有正曜星加吉者平安，經云：項羽英雄，限到天空而喪國。",
+          "line_ref": "第975行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L357",
+          "original_quote": "女命單守只可為偏房妓婢。",
+          "line_ref": "第976行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L358",
+          "original_quote": "天空入命吉凶訣：",
+          "line_ref": "第978行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L359",
+          "original_quote": "命坐天空定出家，文昌天相實堪誇，若逢四殺同身命，受蔭承恩福可佳。",
+          "line_ref": "第979行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L360",
+          "original_quote": "天空入限吉凶訣：",
+          "line_ref": "第981行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L361",
+          "original_quote": "天空入限破田莊，妻子須防有損傷，財帛不惟多敗失，更憂壽命入泉鄉。",
+          "line_ref": "第982行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L362",
+          "original_quote": "地劫天空同入限吉凶訣：",
+          "line_ref": "第984行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L363",
+          "original_quote": "極居卯酉劫空臨，為僧為道福興隆，樂享山林有師號，福壽雙全到古齡。",
+          "line_ref": "第985行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L364",
+          "original_quote": "劫空二限最乖張，夫子在陳也絕糧，項羽英雄曾喪國，綠珠逢此墜樓亡。",
+          "line_ref": "第986行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L365",
+          "original_quote": "天傷水，乃虛耗之神，守臨二限遇太歲，不問得地，只要眾星吉方可獲善，若無正星又值羊火巨機，必主官災喪服破財，橫事相侵，夫子絕糧限到天傷。",
+          "line_ref": "第988行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L366",
+          "original_quote": "天使水，乃傳使之星，務審人間禍福之由，若二限太歲俱臨，有吉星眾者禍輕，若無正星又值巨機羊火，則官災喪亡，橫事破家。",
+          "line_ref": "第990行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L367",
+          "original_quote": "天傷天使入限吉凶訣：",
+          "line_ref": "第992行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L368",
+          "original_quote": "天耗守限號天傷，夫子在陳也絕糧，天使限臨人共忌，石崇豪富破家亡。",
+          "line_ref": "第993行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L369",
+          "original_quote": "天馬火，最喜會祿存，極忌截路空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加殺不美，加權祿照臨，必主男為官，女封贈。",
+          "line_ref": "第995行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L370",
+          "original_quote": "天馬入限吉凶訣：",
+          "line_ref": "第997行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L371",
+          "original_quote": "天馬臨限最為良，紫府祿存遇非常，官宦逢之應顯達，士人遇此赴科場。",
+          "line_ref": "第998行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L372",
+          "original_quote": "天馬守限不得住，又怕劫空來相遇，更兼太歲坐宮中，限到其人尋死路。",
+          "line_ref": "第999行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L373",
+          "original_quote": "化祿星土，為福德之神，守身命官祿之位，科權相遇必作大臣之職，小限逢之主進仕之喜，大限十年吉慶，惡曜來臨併羊陀火忌沖照，亦不為害。女人吉湊作命婦，內外威嚴，殺湊平常。",
+          "line_ref": "第1001行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L374",
+          "original_quote": "化祿入命斷訣：",
+          "line_ref": "第1003行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L375",
+          "original_quote": "十干化祿最為榮，男命逢之福自申，武職題名邊塞上，文人名譽滿朝廷。",
+          "line_ref": "第1004行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L376",
+          "original_quote": "祿主天同遇太陽，常人大富足田庄，資財六畜皆生旺，凡有施為盡吉祥。",
+          "line_ref": "第1005行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L377",
+          "original_quote": "化祿入限斷訣：",
+          "line_ref": "第1007行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L378",
+          "original_quote": "限中若遇祿來臨，爵位高遷佐聖明，常庶相逢當大貴，自然蓄積廣金銀。",
+          "line_ref": "第1008行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L379",
+          "original_quote": "化權星木，掌判生殺之神，守身命科祿相迎，則出將入相，會巨門武曲必專大事，掌握兵符，為人極古怪，到處欲人敬重，小限相逢無有不吉，大限十年必遂，逢凶亦不為災，如遇羊陀耗使空劫，聽說貽累，官災貶謫。女人得之內外稱意，僧道掌山林，有師號。",
+          "line_ref": "第1010行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L380",
+          "original_quote": "化權入男命吉凶訣：",
+          "line_ref": "第1012行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L381",
+          "original_quote": "權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曜，三邊鎮守掌兵符。",
+          "line_ref": "第1013行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L382",
+          "original_quote": "化權入女命吉凶訣：",
+          "line_ref": "第1015行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L383",
+          "original_quote": "化權吉曜喜相逢，更吉加臨衣祿豐，富貴雙全人性硬，奪夫權柄福興隆。",
+          "line_ref": "第1016行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L384",
+          "original_quote": "化權入限吉凶訣：",
+          "line_ref": "第1018行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L385",
+          "original_quote": "此星主限喜非常，官祿高陞佐帝王，財帛豐添宜創業，從今家道保安康。",
+          "line_ref": "第1019行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L386",
+          "original_quote": "權星若遇武貪臨，作事求謀盡得成，士子名高添福祿，庶人得此積金銀。",
+          "line_ref": "第1020行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L387",
+          "original_quote": "化科星水，上界應試之神，主掌文墨之神。守身命權祿相逢，主人聰明通達，最喜逢魁鉞，必中科第，作宰臣之職，如遇惡星，亦為文章秀士，或作群英師範，但嫌截路空亡、旬空、亦畏忌天空。",
+          "line_ref": "第1022行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L388",
+          "original_quote": "女命科星拱守，作公卿婦，雖四殺沖破也主富貴。",
+          "line_ref": "第1023行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L389",
+          "original_quote": "化科入男命吉凶訣：",
+          "line_ref": "第1025行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L390",
+          "original_quote": "科星文宿最為奇，包藏錦繡美文章，一躍禹門龍變化，管教聲達譽朝堂。",
+          "line_ref": "第1026行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L391",
+          "original_quote": "科星入命豈尋常，錦繡才華展廟廊，更遇曲昌魁鉞宿，龍門一躍姓名揚。",
+          "line_ref": "第1027行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L392",
+          "original_quote": "化科入女命吉凶訣：",
+          "line_ref": "第1029行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L393",
+          "original_quote": "化科女命是良星，四德兼全性格清，更遇吉星權祿湊，夫榮子貴作夫人。",
+          "line_ref": "第1030行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L394",
+          "original_quote": "化科入限吉凶訣：",
+          "line_ref": "第1032行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L395",
+          "original_quote": "科星二限遇文昌，士子逢之姓名香，僧道庶人多富貴，百謀百遂事英揚。",
+          "line_ref": "第1033行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L396",
+          "original_quote": "化忌星水，為多管之神，守身命一生不順，招是非，小限逢之一年不足，大限相遇十年悔吝，二限並太歲交臨，斷然蹭蹬，文人不耐久，武人縱有官災口舌不妨，然商賈藝人在處不宜，難立腳，如遇紫府昌曲同吉利，權祿與忌同宮又兼羊火鈴空作事進退，橫發橫破，始終不得久遠，即係發不住財是也，一生奔波勞碌或帶疾貧夭，僧道亦流移還俗。然天同在戌化忌，丁生人遇吉，巨門在辰化忌辛生人返佳，若太陽在寅卯辰巳午化忌，太陰在酉戌亥子化忌為福論。若日月陷地化忌，主大凶。如廉貞在亥化忌是也，火入泉鄉，又逢水命人化忌也不為害。",
+          "line_ref": "第1035行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L397",
+          "original_quote": "化忌入男命吉凶訣：",
+          "line_ref": "第1037行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L398",
+          "original_quote": "諸星化忌不宜逢，更會凶星愈肆凶，若得吉星來助救，縱然富貴不豐隆。",
+          "line_ref": "第1038行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L399",
+          "original_quote": "貪狼破軍居陷地，遇吉化忌終不利，男為奸盜女淫娼，加殺照命無眠睡。",
+          "line_ref": "第1039行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L400",
+          "original_quote": "化忌入女命吉凶訣：",
+          "line_ref": "第1041行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L401",
+          "original_quote": "女命化忌本非奇，更遇凶星是禍基，衣食艱辛貧賤甚，吉星湊合減災危。",
+          "line_ref": "第1042行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L402",
+          "original_quote": "化忌入限吉凶訣：",
+          "line_ref": "第1044行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L403",
+          "original_quote": "忌星入廟反為佳，縱有官災亦不傷，一進一退名不遂，更兼遇吉保安康。",
+          "line_ref": "第1045行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L404",
+          "original_quote": "二限宮中見忌星，致災為禍必家傾，為官退職遭贓濫，胥吏須防禁杖刑。",
+          "line_ref": "第1046行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L405",
+          "original_quote": "忌星落陷在閒宮，惡殺加臨作禍凶，財散人離多疾苦，傷官退職孝重逢。",
+          "line_ref": "第1047行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L406",
+          "original_quote": "祿會祿存富貴，權會巨武英揚，科會魁鉞貴顯，忌會身命招是非。",
+          "line_ref": "第1049行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L407",
+          "original_quote": "歲君火，乃流年太歲星君，與諸凶神相遇皆與不謀，忌與大小二限相沖，若逢大限遇紫府昌曲左右魁鉞吉星扶救則災少，但防六畜死失，若遇羊陀火鈴劫空傷使，財破人亡，女命逢之防產難之厄，若吉眾有救，惡多死亡。",
+          "line_ref": "第1051行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L408",
+          "original_quote": "太歲之星不可當，守臨官限要推詳，若無吉曜來相助，未免官災鬧一場。",
+          "line_ref": "第1053行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunMingGong_L409",
+          "original_quote": "斗君，正月初一日管事，遇吉斷吉，遇凶斷凶，如太歲二限美，若斗君正月初一日值在某宮過度，逢凶殺也主其年有得失災病官非，依月限斷之。",
+          "line_ref": "第1055行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "兄弟宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunXiongDi.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L001",
+          "original_quote": "紫微有倚靠年長之兄，天府同三人，天相同三四人，破軍同亦有三人，或各胞生，加羊陀火鈴空劫剋害有則欠和。",
+          "line_ref": "第1061行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L002",
+          "original_quote": "天機廟旺有二人，與巨門同二人，陷地，相背不一心，天梁同二人，太陰同二三人，見羊陀火鈴雖有而剋害。",
+          "line_ref": "第1063行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L003",
+          "original_quote": "太陽廟旺三人，與巨門同無殺加有三人，太陰同五人，陷地，不和欠力，加羊陀火鈴空劫更剋減半。",
+          "line_ref": "第1065行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L004",
+          "original_quote": "武曲廟旺有二人，不合，陷宮加殺只一人，天相同二人，破軍七殺同有一人，不和睦，加昌曲左右有三人，見羊陀火鈴空劫孤單。",
+          "line_ref": "第1067行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L005",
+          "original_quote": "天同入廟四五人，天梁同二三人，巨門同無殺三人，太陰同四五人，陷地，只二人，見羊陀火鈴空劫忌，少宜分居不和。",
+          "line_ref": "第1069行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L006",
+          "original_quote": "廉貞入廟二人，貪狼同招怨天相同二人，七殺同一人，天府同加左右昌曲有三人，見羊陀火鈴空劫有剋且不和。兄弟感情融洽，但兄弟不多。",
+          "line_ref": "第1071行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L007",
+          "original_quote": "天府有五人，紫微同加左右昌曲有六七人，廉貞同三人，見羊陀火鈴空劫只二人。",
+          "line_ref": "第1073行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L008",
+          "original_quote": "太陰入廟兄弟五人，太陽同亦五六人，天機同二人，科權同四五人，見羊陀火鈴空劫減半，且剋宜分居相背。",
+          "line_ref": "第1075行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L009",
+          "original_quote": "貪狼廟旺二人，陷地宜各胞，廉貞同不和，紫微同有三人，加羊陀火鈴空劫孤單。",
+          "line_ref": "第1077行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L010",
+          "original_quote": "巨門廟旺二人，陷地，各胞有，宜分居，太陽同加左右昌曲有三人，天機同有二人，更乖違不一心，天同二三人，加羊陀火鈴空劫孤剋。",
+          "line_ref": "第1079行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L011",
+          "original_quote": "天相和平有二三人，見殺全無紫微同有三四人，武曲同二人，廉貞同二人，見羊陀火鈴空劫孤單。",
+          "line_ref": "第1081行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L012",
+          "original_quote": "天梁廟旺二人和順，或多不同胞且不和，陷宮全無，天同同三人，天機同二人，見羊陀火鈴空劫少。",
+          "line_ref": "第1083行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L013",
+          "original_quote": "七殺主孤剋，在子午寅申宮方有三人，也不和宜各人，加昌曲左右更好。",
+          "line_ref": "第1085行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L014",
+          "original_quote": "破軍入廟三人，陷地加殺孤單，武曲同二人，紫微同二人，廉貞同一人，加昌曲左右有三人和睦加，羊陀火鈴空劫孤單。",
+          "line_ref": "第1087行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L015",
+          "original_quote": "文昌文曲諸宮皆有三人，見羊陀火鈴，廟旺不剋，陷宮孤單，加空劫全無。",
+          "line_ref": "第1089行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L016",
+          "original_quote": "左輔有三人，同天同昌曲有四五人，加羊陀火鈴二人，有空劫欠力不和。",
+          "line_ref": "第1091行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L017",
+          "original_quote": "右弼三人，同府相紫微昌曲有四五人，加羊陀火鈴二人，有空劫欠力不和睦。",
+          "line_ref": "第1093行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L018",
+          "original_quote": "祿存相生有兄弟見殺剋害招怨。",
+          "line_ref": "第1095行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L019",
+          "original_quote": "羊玲剋害入廟一人，眾吉星加有二三人，陷地全無。",
+          "line_ref": "第1097行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L020",
+          "original_quote": "火星入廟逢有吉星有一二人，加廉殺破鈴孤剋。",
+          "line_ref": "第1099行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L021",
+          "original_quote": "鈴星入廟相生有兄弟，加羊陀火空劫全無。",
+          "line_ref": "第1101行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunXiongDi_L022",
+          "original_quote": "斗君逢在兄弟宮過度，逢吉星兄弟一年和睦，逢凶殺有刑者不見刑主有兄弟爭鬥。",
+          "line_ref": "第1103行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "妻妾宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunQiQie.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L001",
+          "original_quote": "紫微晚聘諧老性剛，天府同諧老，天相同年少，破軍同剋刑，加羊陀火鈴亦刑，貪狼同有吉星免刑。",
+          "line_ref": "第1109行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L002",
+          "original_quote": "天機宜年少剛強之，妻可配夫宜長，加羊陀火鈴主生離，晚娶吉，天梁同宜年長，太陰同內助美容。",
+          "line_ref": "第1111行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L003",
+          "original_quote": "太陽廟旺遲娶吉，早娶剋，因妻得貴，與天梁同加左右招賢明之妻，太陰同內助，巨門同無羊陀火鈴空劫不剋，有此四殺，反空劫定剋，遇耗非禮成婚。",
+          "line_ref": "第1113行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L004",
+          "original_quote": "武曲背剋宜遲娶，同年夫婦也相當，加吉星因妻得財，凶娶因妻去產，貪狼同招遲無刑七殺同剋二三妻，加羊陀火鈴空劫更剋。",
+          "line_ref": "第1115行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L005",
+          "original_quote": "天同遲娶諧老，夫宜長妻宜少，加四殺欠和生離，巨門同加四殺亦剋，太陰同助美容，天梁同極美夫婦。",
+          "line_ref": "第1117行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L006",
+          "original_quote": "廉貞三度作新郎，即貪狼同愈剋七殺同亦刑，且欠和加，羊陀火鈴主生離，府諧老性剛者無剋。",
+          "line_ref": "第1119行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L007",
+          "original_quote": "天府相生寵愛夫主貴，見羊陀火鈴空劫遲娶免刑，晚娶得諧老。",
+          "line_ref": "第1121行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L008",
+          "original_quote": "太陰入廟男女皆貴美夫婦，加昌曲極美，加羊陀火鈴空劫耗忌，不剋主生離，太陽同諧老，夫同同內助，天機同美好宜少年。",
+          "line_ref": "第1123行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L009",
+          "original_quote": "貪狼男女不得美，三次作新郎，入廟宜遲娶，廉貞同主剋，加羊陀火鈴主生離，紫微同年長方可對。",
+          "line_ref": "第1125行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L010",
+          "original_quote": "巨門宜年長定剋欠和，太陽同無四殺加諧老，天機同內助美貌，天同同性聰之妻並頭，加羊陀火鈴空劫定剋二妻或主生離。",
+          "line_ref": "第1127行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L011",
+          "original_quote": "天相貌美賢淑夫宜年長，親上成親，紫微同諧老，武曲少和，廉貞同入廟免刑，加羊陀火鈴空劫刑剋。",
+          "line_ref": "第1129行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L012",
+          "original_quote": "天梁妻宜大美容，天同同和氣，天機招美淑，加羊陀火鈴空劫朵不和順。",
+          "line_ref": "第1131行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L013",
+          "original_quote": "七殺早剋，武曲同亦剋，或遲娶免刑，廉貞主生離，加羊陀火鈴空劫剋三妻。",
+          "line_ref": "第1133行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L014",
+          "original_quote": "破軍男女俱剋別聚主生離，武曲同剋三，廉貞亦剋且欠和，紫微同宜年長之妻。",
+          "line_ref": "第1135行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L015",
+          "original_quote": "文昌妻少內助聰明，天機太陰同主美容，不宜陷地，加羊陀火鈴空劫深忌。",
+          "line_ref": "第1137行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L016",
+          "original_quote": "文曲相生會太陰諸吉星諧老，同昌曲妻妾多，加羊陀火鈴空劫忌星有剋。",
+          "line_ref": "第1139行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L017",
+          "original_quote": "祿存相生無剋，妻宜年少並頭遲娶者，加羊陀火鈴空劫見截路空亡孤單。",
+          "line_ref": "第1141行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L018",
+          "original_quote": "左輔右弼諧老，加羊陀火鈴空劫貪廉同，宜年長剛強之妻。",
+          "line_ref": "第1143行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L019",
+          "original_quote": "羊陀入廟加吉星，遲娶免刑或久和，陷地早剋，加日月巨機火鈴武殺，主生離。",
+          "line_ref": "第1145行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L020",
+          "original_quote": "火星鈴星入廟加吉無刑，陷地刑剋。",
+          "line_ref": "第1147行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L021",
+          "original_quote": "天魁天鉞多主夫婦美麗，坐妻宮必主得妻財，加吉星同主貴美夫婦。",
+          "line_ref": "第1149行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQiQie_L022",
+          "original_quote": "斗君過度在妻宮逢吉星妻妾美無災剋，逢惡星妻妾有災厄，又看人本命妻宮若剋妻者的主其年刑傷妻妾，若不剋者可斷其年有災。",
+          "line_ref": "第1151行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "子女宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunZiNv.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L001",
+          "original_quote": "凡看子女先看本宮星宿主有幾子。若加羊陀火玲空劫殺忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子昌盛貴顯。若惡星又同刑殺守子女宮，不是刑剋，主生強橫破蕩之子。又看三方四正得南斗星多主生男，北斗星多主生女。若太陽星落在陽宮主先生男，太陰星落在陰宮主先生女。專看刑殺守本宮無制化相生，必然絕祀。日生最怕太陰臨，夜生最怕太陽照，此星若在兒女宮方恐無兒。",
+          "line_ref": "第1157行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L002",
+          "original_quote": "紫微廟旺男三女二，加左右昌曲有五人，加羊陀火鈴空劫只一雙，不然偏室生者多，或招祀子居長，破軍同三人，天府同加吉星四五人，加昌曲左右有貴子，若獨守再加空劫孤君。",
+          "line_ref": "第1159行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L003",
+          "original_quote": "天機廟旺二人，或庶生多，巨門一人，天梁同在寅宮，有二三人，在申宮女多男少，只可一子，太陰同二三人，加羊陀火鈴空劫全無子。",
+          "line_ref": "第1161行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L004",
+          "original_quote": "太陽入廟男三女二晚子貴，巨門同三人，太陰同五人，陷地有三子不成蓋，再加羊陀火鈴空劫止留一子送終。",
+          "line_ref": "第1163行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L005",
+          "original_quote": "武曲主一子或成至生者多，破軍同主刑，止有一人，加羊陀火鈴空劫絕祀，貪狼晚招二子，天相同先招外子，後親生一子，七殺同主孤或傷殘之子。",
+          "line_ref": "第1165行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L006",
+          "original_quote": "天同廟旺五子有貴，巨門同三人，太陰同五人，在午宮陷地減半，天梁同先女後男有二子，守在申宮只可留一子送終，在寅宮加吉星有三子，加羊陀火鈴空劫見刑剋，子少送終。",
+          "line_ref": "第1167行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L007",
+          "original_quote": "廉貞一人，天府同主貴子三人，若貪狼破軍七殺同主孤，再加羊陀火鈴空劫全無，天相同有二子。",
+          "line_ref": "第1169行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L008",
+          "original_quote": "天府五人，武曲同二人，紫微同四五人，廉貞同三人，加羊陀火鈴空劫止三人。",
+          "line_ref": "第1171行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L009",
+          "original_quote": "太陰女三男二先女後男，廟旺有貴子，陷地減半，招軟弱之子，或虛花不成器，太陽同五人，天機同二人，天同同五人，廟地無剋，陷宮有剋，加羊陀火鈴空劫子少。",
+          "line_ref": "第1173行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L010",
+          "original_quote": "貪狼廟旺二人，早有刑剋，紫微同二人，廉貞同子少，如占星二人，武曲同三人，先難後易。",
+          "line_ref": "第1175行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L011",
+          "original_quote": "巨門入廟二入，先難後易，太陽同居一二子易養，加羊陀火鈴子少，天機同一人，有吉星同二人加空劫全無。",
+          "line_ref": "第1177行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L012",
+          "original_quote": "天相無羊陀火鈴同有二子成器，有殺先招祀子居長，親生一二子，紫微同如昌曲左右有三四人，武曲同有三人，見羊陀火鈴空劫必剋，宜偏室生。",
+          "line_ref": "第1179行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L013",
+          "original_quote": "天梁廟旺二人，加羊陀火鈴空劫早剋，天同同加昌曲左右吉星有三人，天機同有二人，加羊陀火鈴空劫全無。",
+          "line_ref": "第1181行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L014",
+          "original_quote": "七殺主孤一人之分，紫微同再吉星有三人，見羊陀火鈴空劫全無，縱有不成器，必強橫敗家之子。",
+          "line_ref": "第1183行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L015",
+          "original_quote": "破軍入廟三人，剛強之子，紫微同三人，武曲同加昌曲左右有三人，廉貞同一人，見羊陀相生有制，無制見空劫火陀少子。",
+          "line_ref": "第1185行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L016",
+          "original_quote": "左輔單居男三女一，見紫微天府諸吉星主貴子，見破殺羊陀火鈴空劫止二人，有也不成器。",
+          "line_ref": "第1187行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L017",
+          "original_quote": "右弼三人加吉星有貴子，見羊陀火鈴空劫減半。",
+          "line_ref": "第1189行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L018",
+          "original_quote": "文昌三人，加吉星更多，有擎陀火鈴空劫只可一子之分。",
+          "line_ref": "第1191行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L019",
+          "original_quote": "文曲廟旺有四人，陷地有二三人，加擎羊羅陀火鈴子少。",
+          "line_ref": "第1193行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L020",
+          "original_quote": "祿存主孤宜庶出一螟蛉之子，加吉星有一人，加火星諸殺孤刑。",
+          "line_ref": "第1195行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L021",
+          "original_quote": "羊陀陷宮孤單，加吉星廟旺有一人，如對宮有吉星多無殺沖，亦有三四人，見耗殺忌，在本宮絕嗣。",
+          "line_ref": "第1197行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L022",
+          "original_quote": "火星逢吉同不孤，陷宮加殺刑傷。",
+          "line_ref": "第1199行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L023",
+          "original_quote": "鈴星獨守孤單，加吉星入廟可許庶出，看對宮吉多二三人。",
+          "line_ref": "第1201行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L024",
+          "original_quote": "魁鉞單守主有貴子。",
+          "line_ref": "第1203行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunZiNv_L025",
+          "original_quote": "斗君在子女宮過度，逢吉子女昌盛，逢凶刑剋或子破家。",
+          "line_ref": "第1205行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "財帛宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunCaiBo.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L001",
+          "original_quote": "紫微豐足倉箱，加羊陀火鈴空劫不旺，破軍同先難後易，天相同財帛蓄積，天府同富足終身保守，加左右為財富之官，七殺同加吉財帛橫發。",
+          "line_ref": "第1211行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+          "original_quote": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
+          "line_ref": "第1213行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L003",
+          "original_quote": "太陽入廟豐足，陷宮勞碌不遂，太陰同加左右吉星發財不小，祿存同操心得財玫大富，巨門同早年成敗中未充盈。",
+          "line_ref": "第1215行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L004",
+          "original_quote": "武曲豐足化吉有巨萬家資，無吉加鬧中進財，破軍同東來西去先無後有，天相同財帛豐盈，遇貴生財成家，七殺同白手生財成家，貪狼同三十年後方發財，加羊陀火鈴不聚極怕空亡。",
+          "line_ref": "第1217行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L005",
+          "original_quote": "天同白手生財晚發，巨門同財氣進退，天梁同財大旺，加四殺空劫或九流人生財成家。",
+          "line_ref": "第1219行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L006",
+          "original_quote": "廉貞在申寅宮鬧中生財，陷宮先難後易，貪狼生橫發橫破，見羊火極生橫進之財，七殺同鬧中取，天相同富足倉箱，如耗劫天空常在官府中破財。",
+          "line_ref": "第1221行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L007",
+          "original_quote": "天府富足，見羊陀火鈴空劫有成敗，紫微同巨積，廉貞武曲同加權祿為富奢翁。",
+          "line_ref": "第1223行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L008",
+          "original_quote": "太陰入廟富足倉箱，陷宮成敗不聚，太陽同先少後多，天機同白手生財成家，天同同財旺生身，祿存兼左右同主大富。",
+          "line_ref": "第1225行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L009",
+          "original_quote": "貪狼廟旺橫發，陷地貧窮，紫微同守現成，家計自後更豐盈，見火星三十年前成敗，三十年後橫發。",
+          "line_ref": "第1227行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L010",
+          "original_quote": "巨門白手生財成家，宜鬧中取，氣高之人橫破，太陽同入廟守見成家計，天機同財氣生身，所作不一，天同同白手成家，九流人吉，加羊陀火鈴空劫破財多端。",
+          "line_ref": "第1229行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L011",
+          "original_quote": "天相富足，紫微同財氣橫進，武曲同加四殺百工生財，廉貞同商賈生財，加羊陀火鈴空劫耗忌，成敗無積聚。",
+          "line_ref": "第1231行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L012",
+          "original_quote": "天梁富足入廟上等富貴，陷宮辛勤求財度日，天同同白手生財勝祖，天機同勞心用力發財不多，更改方見成家，加羊陀火鈴空劫，先難後易僅足度日。",
+          "line_ref": "第1233行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+          "original_quote": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
+          "line_ref": "第1235行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L014",
+          "original_quote": "文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒輩。",
+          "line_ref": "第1237行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L015",
+          "original_quote": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。",
+          "line_ref": "第1239行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L016",
+          "original_quote": "左輔右弼，諸宮富足，會諸吉星得貴人財，加羊陀火鈴空劫耗忌，主成敗而不聚。",
+          "line_ref": "第1241行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L017",
+          "original_quote": "祿存富足倉箱堆金積玉，加吉美不待勞而財自加，羊陀火鈴空劫耗忌先無後有。",
+          "line_ref": "第1243行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L018",
+          "original_quote": "擎羊辰戌丑未宮鬧中生財，陷地破祖不聚終不能發達，只魚鹽污垢中生財。",
+          "line_ref": "第1245行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L019",
+          "original_quote": "陀羅鬧中生財，陷宮辛勤求財度日，加空劫東來西去。",
+          "line_ref": "第1247行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L020",
+          "original_quote": "火星獨守橫發橫破，陷宮辛勤，加吉星財多遂志。",
+          "line_ref": "第1249行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L021",
+          "original_quote": "鈴星入廟獨守橫發，陷地孤寒辛苦度日。",
+          "line_ref": "第1251行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L022",
+          "original_quote": "魁鉞主清高中生財一生遂意。",
+          "line_ref": "第1253行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunCaiBo_L023",
+          "original_quote": "斗君遇吉其月發財。遇凶惡空劫耗忌星其月損財，招口舌官非為財而逃。",
+          "line_ref": "第1255行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "疾厄宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunJiE.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L001",
+          "original_quote": "先看命宮星曜落陷加羊陀火鈴空劫化忌守照如何，又看疾厄宮星曜善惡廟旺落陷如何斷之。",
+          "line_ref": "第1261行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L002",
+          "original_quote": "紫微災少，天府同亦少，天相同皮胎勞，如加破軍血氣不和，同羊鈴主有暗疾，加空劫主疢疾心氣疾。",
+          "line_ref": "第1263行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L003",
+          "original_quote": "天機繈褓多災，陷地頭面破相，巨門同血氣疾，天梁同下部疾，太陰同瘡災，加羊火陷宮有目疾，四肢無力。",
+          "line_ref": "第1265行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L004",
+          "original_quote": "太陽頭風，太陰同加化忌，羊陀主眼目有傷，陷宮亦主目疾欠光明。",
+          "line_ref": "第1267行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L005",
+          "original_quote": "武曲繈褓災迍手足頭面有傷，羊陀同一生常有災，天相同招暗疾，七殺同血疾，貪狼同廟旺無疾，陷地加四殺，眼手足疾痔疾瘋瘡。",
+          "line_ref": "第1269行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L006",
+          "original_quote": "天同入廟災少，巨門同心氣疾，太陰同加羊火血氣疾，天梁同加四殺心氣疾。",
+          "line_ref": "第1271行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L007",
+          "original_quote": "廉貞繈褓災瘡腰足之疾，入廟加吉和平，遇貪狼同，陷地眼疾災多，七殺破軍天府同災少。",
+          "line_ref": "第1273行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L008",
+          "original_quote": "天府災少臨災有救，紫微同災少，加羊陀火鈴空劫有瘋疾，廉貞同加劫殺空亡，半途傷殘。",
+          "line_ref": "第1275行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L009",
+          "original_quote": "太陰廟旺無災，陷地災多主勞傷之症，女人主大傷殘，若太陽同加吉美一生災少，羊陀火鈴眼目疾，加空劫有瘋疾，天同同加羊陀，陷宮主加症同火鈴多災。",
+          "line_ref": "第1277行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L010",
+          "original_quote": "巨門少年膿血之厄，太陽同有頭瘋疽，天同同下部主有瘋症，加羊火酒免之疾，加忌有耳目之憂。",
+          "line_ref": "第1279行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L011",
+          "original_quote": "天相災少面皮黃腫血氣之疾，紫微同災少，武曲同加四殺破相，廉貞同加空劫手足傷。",
+          "line_ref": "第1281行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L012",
+          "original_quote": "七殺幼年多災，長主痔疾，武曲同加四殺手足傷殘，廉貞同主目疾，加擎羊四肢有傷殘。",
+          "line_ref": "第1283行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L013",
+          "original_quote": "破軍幼年瘡癩濃血羸黃，武曲同目視疾，紫微同災少，廉貞同加羊火四肢有傷殘。",
+          "line_ref": "第1285行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L014",
+          "original_quote": "文昌獨守災少，加羊陀火鈴空劫災多，同諸吉星一生無災。",
+          "line_ref": "第1287行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L015",
+          "original_quote": "文曲災少加吉星一世無災，加羊陀火鈴空劫，坐陷宮災有。",
+          "line_ref": "第1289行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L016",
+          "original_quote": "左輔獨守平和，加吉星災少，見羊陀火鈴空劫常有災。",
+          "line_ref": "第1291行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L017",
+          "original_quote": "右弼獨守逢災有救，見羊陀火鈴空劫災多。",
+          "line_ref": "第1293行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L018",
+          "original_quote": "祿存少年多災，加吉星災少，見羊陀火鈴四肢必傷殘，加空劫玫暗疾延生。",
+          "line_ref": "第1295行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L019",
+          "original_quote": "陀羅幼年災，磨唇齒頭面，有傷破方可延壽。",
+          "line_ref": "第1297行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L020",
+          "original_quote": "擎羊有頭瘋之症，或四肢欠力，頭面破相延壽，加吉星災少。",
+          "line_ref": "第1299行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L021",
+          "original_quote": "羊鈴主一生災少，身體健旺伶俐。",
+          "line_ref": "第1301行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunJiE_L022",
+          "original_quote": "斗君遇吉身心安寧其年無災。遇凶殺本生人有畏忌其年多災。",
+          "line_ref": "第1303行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "遷移宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunQianYi.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L001",
+          "original_quote": "紫微同左右出外貴人扶持發福，天府同出入通達，天相同在外發財，破軍同貴人見愛，小人不足，加羊陀火鈴空劫在外不安靜。",
+          "line_ref": "第1309行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L002",
+          "original_quote": "天機出外遇貴居家有是非，巨門同動中則吉，天梁同出外稱意，太陰同忙中吉，加羊陀火鈴在外多是非身不安靜。",
+          "line_ref": "第1311行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L003",
+          "original_quote": "太陽宜出外發福不耐靜守，太陰同出外忙中吉，巨門勞心，加羊陀火鈴空劫在外心身不清閒。",
+          "line_ref": "第1313行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L004",
+          "original_quote": "武曲鬧忙中進少不宜靜守，貪狼同作鉅賈，七殺破軍同身心不得靜守，加羊陀火鈴在外招是非。",
+          "line_ref": "第1315行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L005",
+          "original_quote": "天同出外遇貴人扶持，巨門同勞心，太陰同辛苦，天梁同貴人見愛，加羊陀火鈴空劫在外少遂志。",
+          "line_ref": "第1317行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L006",
+          "original_quote": "廉貞出外通達近貴，在家日少，貪狼同鬧中立腳，七殺同在外廣招財，天相同動中則吉，加羊陀並三方有兇殺死於外道。",
+          "line_ref": "第1319行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L007",
+          "original_quote": "天府出外遇貴人扶，持同紫微發福，廉貞武曲鬧中取財作鉅賈。",
+          "line_ref": "第1321行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L008",
+          "original_quote": "太陰入廟出外遇貴發財，陷宮招是非，太陽同極美，太陰同欠寧靜，天同同在廟旺地出外白手生財成家。",
+          "line_ref": "第1323行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L009",
+          "original_quote": "貪狼獨守在外勞碌，鬧中橫進財，廉貞同加四殺，在外艱難，武曲同作鉅賈，加羊陀火鈴空劫耗殺流年遭兵劫掠。",
+          "line_ref": "第1325行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L010",
+          "original_quote": "巨門出外勞心不安，與人不足多是非，加羊陀火鈴空劫愈甚。",
+          "line_ref": "第1327行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L011",
+          "original_quote": "天相出外貴人提撕，紫微同吉利，武曲同在外發財，廉貞同加羊陀火鈴招是非小人不足。",
+          "line_ref": "第1329行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L012",
+          "original_quote": "天梁出外近貴貴人成就，天同同福厚，天機同藝術途中走。",
+          "line_ref": "第1331行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L013",
+          "original_quote": "七殺在外日多，在家日少，武曲同動中則吉，廉貞同在外生財，紫微同在外多遂志，加羊陀火鈴空劫又操心不寧或流蕩天涯。",
+          "line_ref": "第1333行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L014",
+          "original_quote": "破軍出外勞心不寧，入廟在外崢嶸，加羊陀火鈴，賓士巧藝走途中，加文昌文曲武曲相會優伶之人。",
+          "line_ref": "第1335行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L015",
+          "original_quote": "文昌出外遇貴發達，小人不足，加羊陀火鈴空劫在外欠安寧。",
+          "line_ref": "第1337行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L016",
+          "original_quote": "文曲在外近貴，加吉星得財，加羊陀火鈴少遂志。",
+          "line_ref": "第1339行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L017",
+          "original_quote": "左輔動中貴人扶持發福，加羊陀火鈴下人不足多招是非。",
+          "line_ref": "第1341行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L018",
+          "original_quote": "右弼出外遇貴人扶持發達，不宜靜守，加羊陀火鈴空劫，在外與人有爭競。",
+          "line_ref": "第1343行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L019",
+          "original_quote": "祿存出外衣祿遂心，會羊陀火鈴空劫與人多不足意。",
+          "line_ref": "第1345行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L020",
+          "original_quote": "擎羊入廟在外衣祿遂心，加吉星鬧中發財，陷地有成下人多不足。",
+          "line_ref": "第1347行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L021",
+          "original_quote": "陀羅會吉星在外遇貴得財，陷地加羊火鈴星空劫多招是非下人不足。",
+          "line_ref": "第1349行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L022",
+          "original_quote": "火星獨守出外不安，加吉星鬧中進財，加羊陀空劫招是非在外少遂志。",
+          "line_ref": "第1351行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L023",
+          "original_quote": "鈴星有吉星同在外吉，加羊火鈴空劫不足招是非。",
+          "line_ref": "第1353行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunQianYi_L024",
+          "original_quote": "斗君過度遇吉動中吉，遇凶殺動中有口舌。",
+          "line_ref": "第1355行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "奴僕宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunNuPu.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L001",
+          "original_quote": "紫微成行得力，旺主生財，加擎羊火鈴陀羅欠力，破軍同先難後有招，天相同得力，加空劫招怨逃走。",
+          "line_ref": "第1361行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L002",
+          "original_quote": "天機入廟得力，陷空怨主，天梁同晚招，太陰同欠力，巨門加吉星有奴婢，加擎陀火鈴空劫全難。",
+          "line_ref": "第1363行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L003",
+          "original_quote": "太陽入廟旺主發，陷宮無分，有也怨主，會走，太陰同多招，巨門同有多招怨，加羊陀火鈴奴則背主。",
+          "line_ref": "第1365行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L004",
+          "original_quote": "武曲旺宮不少，一呼百諾，天府同多奴多婢，破軍同招怨，會走，末年有招，天相同得力，七殺同，背主，貪狼同欠力。",
+          "line_ref": "第1367行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L005",
+          "original_quote": "天同得力旺相，巨門先難後易，太陰同得力，天梁同助主，加羊陀火鈴有背主之奴，若見空劫怨主會走。",
+          "line_ref": "第1369行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L006",
+          "original_quote": "廉貞陷地奴背主，晚年方招得，入廟一呼百諾，貪狼同欠力，七殺同背主，天同同多奴多婢，加羊陀火鈴不旺，會走。",
+          "line_ref": "第1371行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L007",
+          "original_quote": "天府得力一呼百諾，紫微同助主天家，武曲同奴僕有，加陀羊火鈴空劫多背主，逃走。",
+          "line_ref": "第1373行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L008",
+          "original_quote": "太陰廟地得力成行，太陽同多奴多婢，天機同欠力，天同同旺主，加羊陀火鈴空劫，雖有而走，陷地全無。",
+          "line_ref": "第1375行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L009",
+          "original_quote": "貪狼初難招敗主之奴，陷地全無，廉貞同亦少，紫微同之奴婢加羊陀火鈴空劫雖有難育。",
+          "line_ref": "第1377行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L010",
+          "original_quote": "巨門入廟早年不得力，招是非，不能久居，太陽同助主衛家，天同天一心，天同同末年招得。",
+          "line_ref": "第1379行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L011",
+          "original_quote": "天相末年招得，紫微同多奴多婢，武曲同怨主，廉貞同末年可招加羊陀火鈴空劫欠力逃走。",
+          "line_ref": "第1381行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L012",
+          "original_quote": "天梁奴多旺主，天同同有衛家之奴，天機同不一心。",
+          "line_ref": "第1383行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L013",
+          "original_quote": "七殺欺主有剛強之僕，多盜家財，武曲同背主廉貞欠力，加羊陀火鈴空劫全，難招。",
+          "line_ref": "第1385行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L014",
+          "original_quote": "破軍入廟得力，陷宮招怨背主，武曲同違背，紫微同得力，廉貞同欠力，加羊陀火鈴空劫難招。",
+          "line_ref": "第1387行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L015",
+          "original_quote": "文昌入廟獨守得力助主，加羊陀火鈴空劫雖有背主。",
+          "line_ref": "第1389行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L016",
+          "original_quote": "文曲入廟得力，陷宮無分，加羊陀火鈴空劫怨主逃走。",
+          "line_ref": "第1391行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L017",
+          "original_quote": "左輔獨守旺相一呼百諾，加羊陀火鈴空劫耗忌背主難招。",
+          "line_ref": "第1393行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L018",
+          "original_quote": "右弼獨守成行，加羊陀火鈴空劫耗忌，背主盜財而走。",
+          "line_ref": "第1395行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L019",
+          "original_quote": "祿存奴僕多，加吉星衛主起家，見羊陀火鈴耗忌欠力。",
+          "line_ref": "第1397行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L020",
+          "original_quote": "擎羊背主招怨不得力，有也不長久入廟晚年方可招。",
+          "line_ref": "第1399行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L021",
+          "original_quote": "陀羅奴僕欠力怨主，入廟加吉星有分。",
+          "line_ref": "第1401行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L022",
+          "original_quote": "火星獨守怨主不得力，加吉星入廟可招一二。",
+          "line_ref": "第1403行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L023",
+          "original_quote": "鈴星獨守不得力，恨主，會吉星入廟，助主衛家，加空劫耗忌全欠力。",
+          "line_ref": "第1405行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunNuPu_L024",
+          "original_quote": "斗君過度逢吉星則奴僕歸順。逢凶忌耗殺或恨主而走，或凶奴僕而招是非。",
+          "line_ref": "第1407行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "官祿宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunGuanLu.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L001",
+          "original_quote": "紫微廟旺遇左右昌曲魁鉞，軒勝位至封候伯，加羊陀火鈴平常，天府同權貴名利兩全，天相加內外權貴清正，破軍同鬧中安身。",
+          "line_ref": "第1413行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L002",
+          "original_quote": "天機入廟權貴，會文曲為良巨，見羊陀火鈴方宜，天梁同文武之材，太陰同名振邊夷，陷宮退官失職，吏員立腳。",
+          "line_ref": "第1415行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L003",
+          "original_quote": "太陽入廟文武為良，不見羊陀火鈴吉，太陰同貴顯，左右昌曲魁鉞同更君科祿權，定居一品之貴。",
+          "line_ref": "第1417行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L004",
+          "original_quote": "武曲入廟與昌曲左右同宮，武職崢嶸，常人發福，會科權祿為財富之官，貪狼同為貪污之官，破軍同軍旅內出身，與安身七殺同橫立功名，陷宮及陀鈴劫忌功名無分。",
+          "line_ref": "第1419行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L005",
+          "original_quote": "天同入廟文武皆宜，無羊陀火鈴吉，巨門同先小後大，太陽昌曲科權祿吉美天姿，同權貴太陰同，陷宮胥更論。",
+          "line_ref": "第1421行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L006",
+          "original_quote": "廉貞入廟武職權貴不耐久，貪狼同鬧中權貴，紫微會三方文職諭，七殺同軍旅出身，天相天府同衣錦富貴。",
+          "line_ref": "第1423行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L007",
+          "original_quote": "天府入廟文武皆吉，無羊陀火鈴空耗全美，紫微同文武聲名，廉貞武曲同權貴，見空劫平常。",
+          "line_ref": "第1425行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L008",
+          "original_quote": "太陰入廟多貴，陷地氣高橫破難顯達，會太陽昌曲左右三品之貴，天同同文武皆宜，天機同鬧中進身吏員立腳。",
+          "line_ref": "第1427行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L009",
+          "original_quote": "貪狼入廟遇火鈴武職掌大權，紫微同文武之職權貴非小，陷宮貪污之官，加羊陀空劫平常。",
+          "line_ref": "第1429行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L010",
+          "original_quote": "巨門入廟武職權貴，文人不耐久，太陽同有進退，入廟久長，天機同在卯宮吉美，在酉宮雖美無始終，陷宮遭悔吝，加羊陀火鈴空劫更不美，退宮卸職。",
+          "line_ref": "第1431行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L011",
+          "original_quote": "天相入廟文武皆宜食祿千鐘，陷地成敗，紫微同權貴，昌曲左右同權顯榮貴，武曲同邊夷之職，廉貞同崢嶸權貴，加羊陀火鈴空劫有貶謫。",
+          "line_ref": "第1433行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L012",
+          "original_quote": "天梁廟午會左右魁鉞，文武之材天同同權貴不小，天機同崢嶸貴顯，加羊陀火鈴空劫平。",
+          "line_ref": "第1435行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L013",
+          "original_quote": "七殺廟旺武職崢嶸權貴非小，不宜文人，武曲同權貴，廉貞同功名顯達。",
+          "line_ref": "第1437行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L014",
+          "original_quote": "破軍廟旺武職軒勝，武曲同加權祿，文昌文曲顯達，加羊陀火鈴平常，紫微同宮名振揚，廉貞同文人不耐久，胥吏最美。",
+          "line_ref": "第1439行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L015",
+          "original_quote": "文昌入廟太陽同加吉科權祿，文武之材，同天府文曲富貴雙全。",
+          "line_ref": "第1441行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L016",
+          "original_quote": "文曲廟旺文武皆宜，陷宮與天機太陰同宮，胥吏權貴，會紫府左右近君頻而執政，加羊陀火鈴空劫平常。",
+          "line_ref": "第1443行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L017",
+          "original_quote": "左輔入廟文武之材，武職最旺，不利文人，會吉星身中清，文武皆良，見羊陀火鈴空劫進退聲名。",
+          "line_ref": "第1445行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L018",
+          "original_quote": "右弼宜居武職，不和文人，與紫府昌曲同，財官雙美，陷宮成敗有貶謫，見美陀火鈴空劫亦有黜降。",
+          "line_ref": "第1447行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L019",
+          "original_quote": "祿存會吉文武皆良，財官雙美，子孫爵秩，諸宮為美。",
+          "line_ref": "第1449行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L020",
+          "original_quote": "擎羊入廟最利武職，同吉星權貴，陷地平常，虛名而已。",
+          "line_ref": "第1451行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L021",
+          "original_quote": "陀羅獨守平常，加吉星亦虛名而已。",
+          "line_ref": "第1453行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L022",
+          "original_quote": "火星晚年功名遂心，早年成敗，會紫微貪狼吉，陷地不美。",
+          "line_ref": "第1455行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L023",
+          "original_quote": "鈴星獨守旺宮吉，陷地不美，加諸吉星權貴。",
+          "line_ref": "第1457行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L024",
+          "original_quote": "斗君遇吉其年月財官旺，逢凶忌財官不顯達，有勞祿奔波。",
+          "line_ref": "第1459行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L025",
+          "original_quote": "定公卿",
+          "line_ref": "第1461行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L026",
+          "original_quote": "輔弼星纏帝座中，高官三品入朝中，空亡惡曜三方見，指是虛名受蔭封。",
+          "line_ref": "第1462行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L027",
+          "original_quote": "定兩官府",
+          "line_ref": "第1464行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L028",
+          "original_quote": "昌曲二曜最難逢，建節封侯笑語中，若然凶殺來臨破，須然好處也成凶。",
+          "line_ref": "第1465行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L029",
+          "original_quote": "定文官",
+          "line_ref": "第1467行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L030",
+          "original_quote": "文官昌曲掛朝衣，官祿之中喜有之，紫相更兼權祿至，定居風憲肅朝儀。",
+          "line_ref": "第1468行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L031",
+          "original_quote": "定武官",
+          "line_ref": "第1470行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L032",
+          "original_quote": "將軍武曜最為良，帝座權衡在祿鄉，輔弼二星兼拱照，金章玉帶佐皇王。",
+          "line_ref": "第1471行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L033",
+          "original_quote": "定曹吏",
+          "line_ref": "第1473行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunGuanLu_L034",
+          "original_quote": "太陽化官在陽宮，更有光輝使不凶，若逢紫府兼左右，一生曹吏逞英雄。",
+          "line_ref": "第1474行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "田宅宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunTianZhai.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L001",
+          "original_quote": "紫微茂盛自置旺相，加羊陀火鈴空劫，有置有去，破軍同退祖，天相同有見成家業，得左右昌曲。",
+          "line_ref": "第1480行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L002",
+          "original_quote": "天機退祖新創置，巨門同在卯宮有田莊，在酉宮不守祖業，先大後小，天梁同有置晚年富，太陰同自置旺相。",
+          "line_ref": "第1482行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L003",
+          "original_quote": "太陽入廟得祖業，初旺未平，太陰同加吉星田多，巨門同在寅宮旺盛，在申宮退祖，不為無田產，陷地逢羊陀火鈴空劫全無。",
+          "line_ref": "第1484行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L004",
+          "original_quote": "武曲單居旺地，得祖父大業，陷地退後方成，破軍大耗同破蕩家產，有也不耐久，天相同先見破後方有，七殺同心不欲，天府同守見成家業，貪狼同晚置，見火鈴星同極美，田產茂盛，同空劫有進有退。",
+          "line_ref": "第1486行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L005",
+          "original_quote": "天同先少後多，自置甚旺，巨門同田少，太陰同入廟大富，天梁同先退後進，加羊陀火鈴空忌全無。",
+          "line_ref": "第1488行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L006",
+          "original_quote": "廉貞破祖，貪狼同有祖業，不耐久，七殺同自置，天府同守見成家業，天相同先無後有。",
+          "line_ref": "第1490行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L007",
+          "original_quote": "天府田園茂盛，守祖自置旺相，紫微同大富，廉貞武曲同守祖業榮昌，見羊陀火鈴空劫更少，有成敗。",
+          "line_ref": "第1492行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L008",
+          "original_quote": "太陰入廟田多，陷地加忌及羊陀火鈴空劫田全無，天機同自創置，天同同白手自置，同左右權祿及祿存主多田產。",
+          "line_ref": "第1494行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L009",
+          "original_quote": "貪狼陷宮退祖一世田少，廟旺有祖業，也去中未自有置，廉貞同無分，紫微同有祖業，武曲同晚置，見火鈴星守祖業，有自創，但恐火焚屋宅。",
+          "line_ref": "第1496行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L010",
+          "original_quote": "巨門廟旺橫發置買，陷地無分，因田產招非，太陽同先無後有，加羊陀火鈴空劫田宅全無。",
+          "line_ref": "第1498行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L011",
+          "original_quote": "天相廟旺有分，紫微同自置，武曲同無分，廉貞加羊陀火鈴空劫飄零祖業。",
+          "line_ref": "第1500行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L012",
+          "original_quote": "天梁入廟旺有祖業，天同同先難後易，天機同不見羊陀火鈴空劫，終有田宅。",
+          "line_ref": "第1502行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L013",
+          "original_quote": "破軍在子午宮守祖業榮昌，但見有進退，加羊陀火鈴退祖田少，紫微同有見成家業，廉貞同先破後有置，耗忌全無。",
+          "line_ref": "第1504行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L014",
+          "original_quote": "文昌會諸吉田園廣置，加羊陀火鈴空劫敗祖。",
+          "line_ref": "第1506行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L015",
+          "original_quote": "文曲旺地有分，守祖業，加吉星自置，同羊陀火鈴空劫湊有進有退。",
+          "line_ref": "第1508行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L016",
+          "original_quote": "左輔有祖業，加羊陀火鈴空劫退祖，田地少，會吉星多。",
+          "line_ref": "第1510行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L017",
+          "original_quote": "祿存田園多旺自置，會吉星承祖業榮昌，加羊陀火鈴空劫田宅少。",
+          "line_ref": "第1512行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L018",
+          "original_quote": "擎羊入廟先破後成陷地加空劫退祖業。",
+          "line_ref": "第1514行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L019",
+          "original_quote": "陀羅退祖辛勤度日，加吉星先無後有，加空劫全無。",
+          "line_ref": "第1516行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L020",
+          "original_quote": "火星獨守，退祖業，會吉星先無後有，加空劫全無。",
+          "line_ref": "第1518行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L021",
+          "original_quote": "鈴星退祖，入廟加吉星自有置，見空劫全無。",
+          "line_ref": "第1520行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunTianZhai_L022",
+          "original_quote": "斗君過度遇吉星其年田產倍進，逢凶殺忌耗退敗。",
+          "line_ref": "第1522行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "福德宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunFuDe.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L001",
+          "original_quote": "紫微福厚享福安樂，天府天相同終身獲吉，破軍同勞心費力不安，加羊陀鈴空劫福薄，天機同享福終身。",
+          "line_ref": "第1528行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L002",
+          "original_quote": "天機先勞後逸，巨門同勞力欠安，天梁同享福，太陰同主快樂，加羊陀火鈴空劫奔走不得寧靜。",
+          "line_ref": "第1530行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L003",
+          "original_quote": "太陽忙中發福，太陰同快樂，巨門同費力欠安，天梁同快樂，女人會吉星，招賢明之夫，享福，加羊陀火鈴空劫忌耗，終身不美之論。",
+          "line_ref": "第1532行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L004",
+          "original_quote": "武曲勞心費力，入廟安然享福，破軍同東走西行，不寧靜，天相同老境安康，七殺同欠安康，貪狼同晚年享福，見火鈴星安逸，加羊陀操心得力。",
+          "line_ref": "第1534行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L005",
+          "original_quote": "天同快樂有福有壽，巨門同多憂少喜，太陰同享福，天梁同清閒快樂。",
+          "line_ref": "第1536行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L006",
+          "original_quote": "廉貞獨守忙中生福，天相同有福有壽，天府同安樂無憂，破軍同不守靜，勞心費力，再加羊陀火鈴勞苦終身，末年如意。",
+          "line_ref": "第1538行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L007",
+          "original_quote": "天府安靜享福，紫微同快樂，廉貞同身安心忙，武曲同早年更辛苦，中晚安樂享福，加羊陀火鈴空劫耗忌勞苦過日。",
+          "line_ref": "第1540行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L008",
+          "original_quote": "太陰入廟享福快樂，太陽同極美，僧道亦清潔享福，天機同心忙，天同同安靜無憂，加羊陀火鈴空劫，有憂有喜，不得安靜。",
+          "line_ref": "第1542行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L009",
+          "original_quote": "貪狼勞心不安，廉貞同福薄，紫微同晚年快樂。",
+          "line_ref": "第1544行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L010",
+          "original_quote": "巨門勞力不安，太陽同有憂有喜，天機同心忙不安，天同同享福，加羊陀火鈴空劫生平多憂。",
+          "line_ref": "第1546行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L011",
+          "original_quote": "天相安逸享福有壽，紫微同快樂，天機同忙中吉，太陽同福壽雙全加羊陀火鈴空劫不得心靜。",
+          "line_ref": "第1548行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L012",
+          "original_quote": "七殺入廟享福，陷地加羊陀火鈴勞心費力，武曲同欠安，廉貞同辛勤，紫微同先勞後逸，末年方如意遂心，女人單居福德，則必為娼婢。",
+          "line_ref": "第1550行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L013",
+          "original_quote": "破軍勞心費力，武曲同欠安，廉貞同辛勤，紫微同安樂，加羊陀火鈴空劫操心，不得寧靜。",
+          "line_ref": "第1552行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L014",
+          "original_quote": "文昌加吉星入廟享福快樂，陷地遇羊陀火鈴空劫，心身俱不得安靜。",
+          "line_ref": "第1554行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L015",
+          "original_quote": "左輔加吉星享福獨守，晚年安寧，加羊陀火鈴空劫辛勤。",
+          "line_ref": "第1556行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L016",
+          "original_quote": "右弼生平福祿全美，加吉星一生少憂，見羊陀火鈴空劫，湊勞心欠安。",
+          "line_ref": "第1558行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L017",
+          "original_quote": "祿存終身福厚安靜處世，加吉星有喜有福，見羊陀火鈴空劫，心身不得寧靜。",
+          "line_ref": "第1560行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L018",
+          "original_quote": "魁鉞有貴人，為伴享福快樂。",
+          "line_ref": "第1562行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L019",
+          "original_quote": "擎羊入廟動中有福，陷宮勞心欠力，得吉星，同減憂獨守身心不安。",
+          "line_ref": "第1564行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L020",
+          "original_quote": "陀羅獨守辛勤，入廟有福祿，陷地賓士，加吉星晚年有福。",
+          "line_ref": "第1566行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L021",
+          "original_quote": "火星欠安勞力辛勤，加吉星晚年遂志。",
+          "line_ref": "第1568行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L022",
+          "original_quote": "鈴星勞苦，加吉星平和，獨守辛勤。",
+          "line_ref": "第1570行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L023",
+          "original_quote": "斗君遇吉其年安靜，逢殺不寧。",
+          "line_ref": "第1572行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuDe_L024",
+          "original_quote": "歲君大小限過，逢吉則享福，逢凶則勞力辛苦。",
+          "line_ref": "第1574行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    },
+    "父母宮": {
+      "source_files": [
+        "ZWQS_Juan2_LunFuMu.json"
+      ],
+      "entries": [
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L001",
+          "original_quote": "凡看父母以太陽星為父，太陰星為母。太陽在陷宮主先剋父，太陰星在陷宮主先剋母。如二星具在陷地，只以人之本生時，日生者主父存，夜生者主母在。若夜生者太陰星主母存，反背不明主母先剋。日生時者主父在，反背暗晦主父先剋。余試之屢驗矣，學者宜細心識之。先有本宮某星主刑剋，又加惡殺的以刑剋斷之，據理參詳，在乎人之自悟耳。",
+          "line_ref": "第1580行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L002",
+          "original_quote": "紫微無剋，天府同亦無刑，加羊陀火鈴空劫亦剋，天相同無刑，貪狼同無殺加亦無刑，破軍同早剋。",
+          "line_ref": "第1582行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L003",
+          "original_quote": "天機廟旺無刑，陷地逢羊陀火鈴空劫，二姓寄居，重拜父母，或過房入贅，太陰同免刑，天梁同無刑，俱要無殺，加有殺，加也不免刑傷，巨門早刑。",
+          "line_ref": "第1584行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L004",
+          "original_quote": "太陽入廟無剋，陷地剋父，加羊陀火鈴空劫剋父母早，太陰同看無，羊陀湊父母全遲刑，巨門同加四殺空劫早剋，天梁同無刑。",
+          "line_ref": "第1586行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L005",
+          "original_quote": "武曲剋早，退祖業不刑，貪狼同刑剋，七殺同有刑，天相同加羊陀火鈴空劫刑傷。",
+          "line_ref": "第1588行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L006",
+          "original_quote": "天同獨守廟旺無刑，加四殺重拜父母，巨門同欠和太陰同父母雙全，天梁同無刑或退祖業，加羊陀火鈴空劫父母不全。",
+          "line_ref": "第1590行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L007",
+          "original_quote": "廉貞難為父母，祖重拜，貪狼同早刑，七殺孤剋，天府同免刑，破軍同早刑，加羊陀火鈴空劫，父母不周全。",
+          "line_ref": "第1592行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L008",
+          "original_quote": "天府父母雙全，紫微同亦無刑，廉貞武曲同，在廟旺無刑，加羊陀火鈴空劫主傷。",
+          "line_ref": "第1594行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L009",
+          "original_quote": "太陰入廟無剋，加羊陀火鈴剋母，不然過房棄祖，太陽同無四殺父母雙全，天機同無刑天同同極美。",
+          "line_ref": "第1596行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L010",
+          "original_quote": "貪狼狼陷地早棄祖，重拜過房，入贅，廉貞同早刑主孤單，紫微同無殺加雙全。",
+          "line_ref": "第1598行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L011",
+          "original_quote": "巨門陷地傷剋棄祖過房，太陽同少和，天機同重，拜天同同或退祖無刑，加羊陀火鈴空劫父母不周全。",
+          "line_ref": "第1600行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L012",
+          "original_quote": "天相廟旺無刑，紫微同無刑剋，廉貞同亦刑，加羊陀火鈴空劫早刑。",
+          "line_ref": "第1602行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L013",
+          "original_quote": "天梁陷地，加羊陀火鈴孤剋，棄祖入贅，更名寄人，保養免刑，天同同加四殺有刑，無殺無刑，天機同無刑，太陽同剋遲，加四殺空劫亦剋早。",
+          "line_ref": "第1604行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L014",
+          "original_quote": "七殺剋早離祖，六親骨肉孤獨，武曲同亦刑，廉貞同刑早，紫微同加吉星無刑，加羊陀火鈴空劫，父母不周全。",
+          "line_ref": "第1606行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L015",
+          "original_quote": "破軍剋早離祖，更名寄養免刑，武曲同剋早，廉貞同亦早剋，紫微同無刑。",
+          "line_ref": "第1608行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L016",
+          "original_quote": "文昌加吉星入廟無刑，加羊陀火鈴有刑，或退祖二姓延生。",
+          "line_ref": "第1610行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L017",
+          "original_quote": "文曲獨守入廟無刑，加羊陀火鈴空劫父母俱不周全。",
+          "line_ref": "第1612行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L018",
+          "original_quote": "左輔獨守無刑，廉貞同早刑，加文昌相生無刑，加羊陀火鈴刑傷，退祖二姓延生。",
+          "line_ref": "第1614行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L019",
+          "original_quote": "右弼獨守無刑，加吉星得父母庇蔭，見羊陀火鈴湊，離祖二姓安居。",
+          "line_ref": "第1616行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L020",
+          "original_quote": "祿存無剋，加空劫羊陀火鈴，早年有破父財，且刑傷中不自成家計。",
+          "line_ref": "第1618行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L021",
+          "original_quote": "擎羊刑剋早會日月重重退祖，加吉星眾免刑。",
+          "line_ref": "第1620行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L022",
+          "original_quote": "陀羅幼年刑傷，會日月重重退祖，二姓安居，加吉星入贅過房，或重拜二姓延生。",
+          "line_ref": "第1622行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L023",
+          "original_quote": "火星獨守孤剋，二姓延生，加吉星平和。",
+          "line_ref": "第1624行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L024",
+          "original_quote": "鈴星刑剋孤單，二姓安居，重拜父母，入贅過房。",
+          "line_ref": "第1626行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L025",
+          "original_quote": "魁鉞主父母榮貴同吉星雙全。",
+          "line_ref": "第1628行",
+          "tag": [],
+          "tag_reason": ""
+        },
+        {
+          "line_id": "ZWQS_Juan2_LunFuMu_L026",
+          "original_quote": "斗君過度逢吉父母吉利無災傷，得安逸內外有喜。遇凶則父母不利。",
+          "line_ref": "第1630行",
+          "tag": [],
+          "tag_reason": ""
+        }
+      ]
+    }
+  },
+  "star_combinations": [
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L001",
+      "original_quote": "紫微廟丑未午旺寅申卯酉巳亥平子無陷",
+      "line_ref": "第235行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L002",
+      "original_quote": "紫微居午無刑忌甲丁己命至公卿加刑忌平常刑乃擎羊也。",
+      "line_ref": "第237行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L003",
+      "original_quote": "紫微居子午科權祿照最為奇科權祿三方照是也為仰面朝斗格。",
+      "line_ref": "第238行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L004",
+      "original_quote": "紫微男亥女寅宮壬甲生人富貴同同男女同也。",
+      "line_ref": "第239行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L005",
+      "original_quote": "紫微卯酉劫空四殺多為脫俗之僧四殺羊陀火鈴也。",
+      "line_ref": "第240行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L006",
+      "original_quote": "紫微天府全依輔弼之功紫府得輔弼同垣，及三方拱照嘉會，終身富貴。",
+      "line_ref": "第241行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L007",
+      "original_quote": "紫微同宮無殺湊甲人享幅終身紫府同在寅申宮守命，六甲人富貴。",
+      "line_ref": "第242行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L008",
+      "original_quote": "紫府朝垣活祿逢終身福厚至三公命坐寅申再加吉星妙。",
+      "line_ref": "第243行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L009",
+      "original_quote": "紫府日月居旺地必定出佳公卿器紫午府丑無殺加，又化祿是也。",
+      "line_ref": "第244行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L010",
+      "original_quote": "紫府武曲臨財宅更兼權祿富奢翁得左右祿存亦同。",
+      "line_ref": "第245行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L011",
+      "original_quote": "紫微輔弼同宮一呼百諾居上品或作三方為次吉，在財帛宮則為財賦之官。",
+      "line_ref": "第246行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L012",
+      "original_quote": "紫府擎羊在巨商得武曲居遷移者吉。",
+      "line_ref": "第247行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L013",
+      "original_quote": "紫祿同宮日月照貴不可言紫微祿存同宮，日月三合拱照。",
+      "line_ref": "第248行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L014",
+      "original_quote": "紫微七殺化權反作楨梓",
+      "line_ref": "第249行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L015",
+      "original_quote": "紫微破軍無左右無吉曜凶惡胥吏之徒",
+      "line_ref": "第250行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L016",
+      "original_quote": "紫微權祿遇羊陀雖獲吉而無道為人心術不正。",
+      "line_ref": "第251行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L017",
+      "original_quote": "紫破命臨於辰戍丑未再加吉曜富貴堪期",
+      "line_ref": "第252行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L018",
+      "original_quote": "紫破貪狼為至淫男女邪淫",
+      "line_ref": "第253行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L019",
+      "original_quote": "紫府同臨巳亥一朝富貴雙全",
+      "line_ref": "第254行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L020",
+      "original_quote": "紫府夾命為貴格",
+      "line_ref": "第255行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L021",
+      "original_quote": "紫微昌曲富貴可期",
+      "line_ref": "第256行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L022",
+      "original_quote": "紫微太陰殺曜逢一生曹吏逞英雄",
+      "line_ref": "第257行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L023",
+      "original_quote": "紫微武曲破軍會羊陀欺公禍亂只宜經商。",
+      "line_ref": "第258行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L024",
+      "original_quote": "紫破辰戍君臣不義安樂山，趙高命是也。",
+      "line_ref": "第259行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L025",
+      "original_quote": "女命紫微太陽星早遇賢夫信可憑女命紫微在寅午申宮吉，貴美旺夫益子。陷地平常，惟子酉及巳亥加四殺，美玉瑕玷日後不美。",
+      "line_ref": "第260行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L026",
+      "original_quote": "天府廟子丑未寅辰戌旺午酉地卯巳申亥無陷",
+      "line_ref": "第262行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L027",
+      "original_quote": "天府戌宮無殺湊甲己人腰金又且富加四殺有疵。",
+      "line_ref": "第264行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L028",
+      "original_quote": "天府居午戌天相來朝甲人一品之貴",
+      "line_ref": "第265行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L029",
+      "original_quote": "府相朝垣千鍾食祿命寅申，府相在財帛宮，祿官朝者，上格別宮次之。",
+      "line_ref": "第266行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L030",
+      "original_quote": "天府昌曲左右高第恩榮",
+      "line_ref": "第267行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L031",
+      "original_quote": "天府天相天梁同君臣慶會",
+      "line_ref": "第268行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L032",
+      "original_quote": "天府祿存昌曲巨萬之資",
+      "line_ref": "第269行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L033",
+      "original_quote": "天府武曲居財宅更兼權祿富奢翁有左右祿存亦美。",
+      "line_ref": "第270行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L034",
+      "original_quote": "天相廟子午丑寅申地辰戌巳亥未陷卯酉",
+      "line_ref": "第272行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L035",
+      "original_quote": "天相廉貞擎羊來多招刑杖難逃終身不美招橫禍，只宜僧道。",
+      "line_ref": "第274行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L036",
+      "original_quote": "天相之星女命纏必當子貴及夫賢女命己生子宮，甲生午宮，庚生辰宮，俱是貴格。",
+      "line_ref": "第275行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L037",
+      "original_quote": "右弼天相福來臨女命天相、右弼，諸宮吉。子宮癸生人，寅宮癸己生人，申宮甲庚癸生人，俱是貴格，丑末亥宮不貴，子午卯酉皆少福。",
+      "line_ref": "第276行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L038",
+      "original_quote": "天梁廟子午寅卯辰戌旺丑未地酉陷申巳亥",
+      "line_ref": "第278行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L039",
+      "original_quote": "天梁月曜女淫貧梁巳亥陰寅申主淫佚，不陷衣祿遂如陷下賤。",
+      "line_ref": "第280行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L040",
+      "original_quote": "天梁居午位官資清顯朝堂丁己癸人合格。",
+      "line_ref": "第281行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L041",
+      "original_quote": "梁同己亥男多浪蕩女多淫加刑忌殺湊多下賤。",
+      "line_ref": "第282行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L042",
+      "original_quote": "天梁文昌居廟旺位至臺綱",
+      "line_ref": "第283行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L043",
+      "original_quote": "天梁守照吉相逢平生福壽在午位極佳。",
+      "line_ref": "第284行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L044",
+      "original_quote": "梁同機月寅申位一生利業聰明聲多不論。",
+      "line_ref": "第285行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L045",
+      "original_quote": "天梁太陽昌祿會臚傳第一名",
+      "line_ref": "第286行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L046",
+      "original_quote": "梁武陰鈴擬作棟梁之客",
+      "line_ref": "第287行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L047",
+      "original_quote": "梁宿太陰卻作飄蓬之客梁居酉，月居已是也。",
+      "line_ref": "第288行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L048",
+      "original_quote": "天梁天馬為人飄蕩風流",
+      "line_ref": "第289行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L049",
+      "original_quote": "天梁加吉坐遷移臣商高賈加刑忌平常。",
+      "line_ref": "第290行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L050",
+      "original_quote": "天同廟巳亥旺子申陷午",
+      "line_ref": "第292行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L051",
+      "original_quote": "天同會吉壽元長",
+      "line_ref": "第294行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L052",
+      "original_quote": "天同貪羊陀居午位丙戌鎮禦邊疆為馬頭帶箭富且貴。",
+      "line_ref": "第295行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L053",
+      "original_quote": "同月陷宮加殺重技藝羸黃",
+      "line_ref": "第296行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L054",
+      "original_quote": "天同戌宮為反背丁人命遇反為佳",
+      "line_ref": "第297行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L055",
+      "original_quote": "女命天同必是賢子生人命坐寅，辛人命卯，丁人命戌入格。丙辛人命中吉，己亥逢此化吉雖美必淫。",
+      "line_ref": "第298行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L056",
+      "original_quote": "天機廟子午旺辰酉陷丑未",
+      "line_ref": "第300行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L057",
+      "original_quote": "機梁會合善談兵居戌亦為美論孟子遷移戌宮，有機梁。",
+      "line_ref": "第302行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L058",
+      "original_quote": "機梁守命加吉曜富貴慈祥加刑忌僧道。",
+      "line_ref": "第303行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L059",
+      "original_quote": "機梁同照命身空偏宜僧道機同單守命身，又逢空亡。",
+      "line_ref": "第304行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L060",
+      "original_quote": "機梁七殺破軍沖羽客僧流命所逢若兼帝座加太陽吉。",
+      "line_ref": "第305行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L061",
+      "original_quote": "機月同梁作吏人命在寅申方論，加吉不論無吉無殺亦是平常人，凶殺空劫化忌為下格。",
+      "line_ref": "第306行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L062",
+      "original_quote": "機梁貪月同機會暮夜經商無眠睡遇凶星奔波。",
+      "line_ref": "第307行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L063",
+      "original_quote": "天機加惡殺同宮狗偷鼠竊",
+      "line_ref": "第308行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L064",
+      "original_quote": "天機巳宮酉逢好飲離宗奸狡重",
+      "line_ref": "第309行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L065",
+      "original_quote": "巨陷天機為破格女命在寅申卯酉雖富貴不免淫慾下賤，寅申守照福不全美。",
+      "line_ref": "第310行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L066",
+      "original_quote": "太陽廟卯旺寅辰巳午陷子",
+      "line_ref": "第312行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L067",
+      "original_quote": "日照雷門子辰卯地晝生富貴聲揚",
+      "line_ref": "第314行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L068",
+      "original_quote": "太陽文昌在官祿皇殿朝班文昌同亦然。",
+      "line_ref": "第315行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L069",
+      "original_quote": "日落未申在命位為人先勤後懶",
+      "line_ref": "第316行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L070",
+      "original_quote": "太陽居午庚辛丁己人富貴雙全",
+      "line_ref": "第317行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L071",
+      "original_quote": "太陽化忌是非日有目還傷",
+      "line_ref": "第318行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L072",
+      "original_quote": "女命端正太陽星早配賢夫信可憑太陽守命，陷平常。居卯辰巳午無殺，旺夫益子。",
+      "line_ref": "第319行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L073",
+      "original_quote": "太陰廟亥子丑旺寅酉戌陷卯辰巳",
+      "line_ref": "第321行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L074",
+      "original_quote": "太陰居子丙丁富貴忠良夜生人合局。",
+      "line_ref": "第323行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L075",
+      "original_quote": "太陰武曲祿存同左右相逢富貴翁",
+      "line_ref": "第324行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L076",
+      "original_quote": "太陰同文曲於妻宮蟾宮折桂文昌同亦然，在身命巧藝之人。",
+      "line_ref": "第325行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L077",
+      "original_quote": "太陰羊陀必主人離財散",
+      "line_ref": "第326行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L078",
+      "original_quote": "月朗天門於亥地登雲職掌大權子生人夜時生合局。不貴則大富。",
+      "line_ref": "第327行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L079",
+      "original_quote": "月曜天梁女淫貧太陰寅申巳，多主淫貧，或偏房侍婢。若貪狼、文昌、文曲，同於夫宮必招配賢明之夫。",
+      "line_ref": "第328行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L080",
+      "original_quote": "太陽太陰拱照",
+      "line_ref": "第330行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L081",
+      "original_quote": "日巳月酉丑宮命步蟾宮",
+      "line_ref": "第332行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L082",
+      "original_quote": "日卯月亥安命未宮多折桂",
+      "line_ref": "第333行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L083",
+      "original_quote": "日月同未命安丑侯伯之材",
+      "line_ref": "第334行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L084",
+      "original_quote": "日月命身居丑末三方無吉反為凶子午辰戌，身命更佳。",
+      "line_ref": "第335行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L085",
+      "original_quote": "日月守命不如照合並明守命吉多主吉，凶多主凶。若吉少，亦不為美之論。",
+      "line_ref": "第336行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L086",
+      "original_quote": "日辰月戌並爭耀權祿非淺",
+      "line_ref": "第337行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L087",
+      "original_quote": "日月夾命夾財加吉曜不權則富加羊陀沖守，宜僧。",
+      "line_ref": "第338行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L088",
+      "original_quote": "日月最嫌反背如日月同宮，看人之生時。日喜太陽，夜宜太陰。若反背日戌月辰，子月午。若出外離宗成家也吉。勿概以反背論。",
+      "line_ref": "第339行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L089",
+      "original_quote": "陰陽左右合為佳",
+      "line_ref": "第340行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L090",
+      "original_quote": "日月陷宮逢惡殺勞碌奔波",
+      "line_ref": "第341行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L091",
+      "original_quote": "日月羊陀多剋親",
+      "line_ref": "第342行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L092",
+      "original_quote": "日月更須貪殺會男多奸盜女多淫",
+      "line_ref": "第343行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L093",
+      "original_quote": "日月疾厄命宮空腰陀目瞽如日月在疾厄宮，逢空亡必主腰陀，目瞽，命宮亦然。",
+      "line_ref": "第344行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L094",
+      "original_quote": "文昌廟巳酉丑地申子辰陷寅午戌",
+      "line_ref": "第346行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L095",
+      "original_quote": "文昌武曲為人多學多能四墓，卯酉巳亥身命。論三方科權祿。",
+      "line_ref": "第348行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L096",
+      "original_quote": "文科拱照賈誼年少登科論三方。",
+      "line_ref": "第349行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L097",
+      "original_quote": "左輔文昌位至三台",
+      "line_ref": "第350行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L098",
+      "original_quote": "文昌武曲於身命文正兼備孫臏之命是也。",
+      "line_ref": "第351行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L099",
+      "original_quote": "文曲廟巳酉丑地申子辰陷寅午戌",
+      "line_ref": "第353行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L100",
+      "original_quote": "二曲廟垣逢左右將相之財文曲宜子午酉，武曲宜四墓。",
+      "line_ref": "第355行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L101",
+      "original_quote": "二曲旺宮威名赫奕文曲子宮第一，卯西宮次之。武曲辰宮第一，丑末宮次之。",
+      "line_ref": "第356行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L102",
+      "original_quote": "二曲貪狼午丑限防溺水之憂",
+      "line_ref": "第357行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L103",
+      "original_quote": "文昌文曲",
+      "line_ref": "第359行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L104",
+      "original_quote": "昌曲夾命最為奇假若命在丑宮，文昌在寅，文曲在子是也。不貴即富，吉多方論此為貴",
+      "line_ref": "第361行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L105",
+      "original_quote": "昌曲臨於丑未時逢卯酉近天顏賈誼卜商，昌曲未宮命丑宮。在命兼化吉者方論。",
+      "line_ref": "第362行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L106",
+      "original_quote": "昌曲巳亥臨不貴即當大富",
+      "line_ref": "第363行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L107",
+      "original_quote": "昌曲吉星居福德謂之玉袖天香更得紫微，居午宮妙。",
+      "line_ref": "第364行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L108",
+      "original_quote": "昌曲陷宮凶殺破虛譽之隆凶殺即羊陀空劫。",
+      "line_ref": "第365行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L109",
+      "original_quote": "昌曲陷於天傷顏回夭折命有劫空，羊陀。限至七殺，羊陀迭併方論。",
+      "line_ref": "第366行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L110",
+      "original_quote": "昌曲己辛壬生人限逢辰戌慮投河如入廟吉，大小二限俱到。",
+      "line_ref": "第367行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L111",
+      "original_quote": "昌曲廉貞於巳亥遭刑不善且虛誇貪多作事顛倒，子申二官貴吉多美。",
+      "line_ref": "第368行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L112",
+      "original_quote": "昌曲祿存猶為奇特",
+      "line_ref": "第369行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L113",
+      "original_quote": "昌曲破軍臨虎兔殺羊沖破奔波虎兔，即寅卯宮是也。",
+      "line_ref": "第370行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L114",
+      "original_quote": "昌曲左右會羊陀當生異痣",
+      "line_ref": "第371行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L115",
+      "original_quote": "女人昌曲聰明富貴只多淫",
+      "line_ref": "第372行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L116",
+      "original_quote": "武曲廟辰戌丑未旺子午平巳亥無失陷",
+      "line_ref": "第374行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L117",
+      "original_quote": "武曲廟垣威名赫奕辰戍丑未生人安命在辰戍宮為四墓，若但在丑未次之。",
+      "line_ref": "第376行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L118",
+      "original_quote": "武曲相遇昌曲逢聰明巧藝定無窮武曲或與天相同垣逢昌曲。",
+      "line_ref": "第377行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L119",
+      "original_quote": "武曲祿馬交馳發財遠郡",
+      "line_ref": "第378行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L120",
+      "original_quote": "武曲遷移巨商高賈吉多方論。",
+      "line_ref": "第379行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L121",
+      "original_quote": "武曲廉貞貪殺便作經商",
+      "line_ref": "第380行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L122",
+      "original_quote": "武曲破軍破祖破家勞碌",
+      "line_ref": "第381行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L123",
+      "original_quote": "武曲劫殺會擎羊因財持刀",
+      "line_ref": "第382行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L124",
+      "original_quote": "武曲魁鉞居廟旺財賦之官",
+      "line_ref": "第383行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L125",
+      "original_quote": "武曲貪狼財宅位橫發資財",
+      "line_ref": "第384行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L126",
+      "original_quote": "武曲貪狼加殺忌技藝之人",
+      "line_ref": "第385行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L127",
+      "original_quote": "武曲破貞於卯地木壓雷驚",
+      "line_ref": "第386行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L128",
+      "original_quote": "武曲羊陀兼火宿喪命因財",
+      "line_ref": "第387行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L129",
+      "original_quote": "武曲之星為寡宿火星柔弱，婦奪夫權方免刑剋。若兩剛相敵，必主刑剋生離。",
+      "line_ref": "第388行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L130",
+      "original_quote": "貪狠廟辰戌丑未旺子午陷巳亥",
+      "line_ref": "第390行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L131",
+      "original_quote": "貪狼遇鈴火四墓宮豪富家資侯伯貴辰戌宮佳，丑未宮次之，若守照俱可論吉。",
+      "line_ref": "第392行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L132",
+      "original_quote": "貪狠入廟壽元長",
+      "line_ref": "第393行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L133",
+      "original_quote": "貪狼會殺無吉曜屠宰之人",
+      "line_ref": "第394行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L134",
+      "original_quote": "貪狠子午卯酉鼠竊狗偷之輩終身不能有為申子辰人命坐子宮，寅午戌人命坐午宮，亥卯末人命坐卯宮，巳酉丑人命坐酉宮是也。",
+      "line_ref": "第395行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L135",
+      "original_quote": "貪狼加吉坐長生壽考永如彭租寅午戌火生人，命坐寅木申金。",
+      "line_ref": "第396行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L136",
+      "original_quote": "貪狠巳亥加殺不為屠戶亦遭刑享福不久。",
+      "line_ref": "第397行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L137",
+      "original_quote": "貪狼同行晚景邊夷神服三十年後發財，坐命武曲守照。辰戌宮佳，丑未宮次之。",
+      "line_ref": "第398行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L138",
+      "original_quote": "貪武先貧而後富利己損人，命有紫微日月左右昌曲，限逢綠權科，則貴顯論。",
+      "line_ref": "第399行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L139",
+      "original_quote": "貪狼加殺同鄉女偷香而男鼠竊",
+      "line_ref": "第400行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L140",
+      "original_quote": "貪狼武曲同守身無吉命反不長命無吉曜，身有貪武，孤貧。",
+      "line_ref": "第401行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L141",
+      "original_quote": "貪月同殺會機梁貪財無厭作經商。",
+      "line_ref": "第402行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L142",
+      "original_quote": "貪遇羊陀居亥子名為泛水桃花男女貪花，迷酒喪身。有吉曜則吉。",
+      "line_ref": "第403行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L143",
+      "original_quote": "貪狼陀羅在寅宮號曰風流彩杖",
+      "line_ref": "第404行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L144",
+      "original_quote": "貪武申宮為下格化忌方論。",
+      "line_ref": "第405行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L145",
+      "original_quote": "貪武四生四墓宮破軍忌殺百工通",
+      "line_ref": "第406行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L146",
+      "original_quote": "貪武破軍無吉曜迷戀酒以忘身或作手藝。",
+      "line_ref": "第407行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L147",
+      "original_quote": "貪狼廉貞同度男多浪蕩女多淫",
+      "line_ref": "第408行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L148",
+      "original_quote": "女命貪狼多嫉妒在亥子，遇羊陀嫉妒之流。逢祿馬不美。",
+      "line_ref": "第409行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L149",
+      "original_quote": "廉貞廟寅申利辰戌丑未陷巳亥",
+      "line_ref": "第411行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L150",
+      "original_quote": "廉貞申未宮無殺富貴聲揚播遠名雄宿朝元格，加殺平常。",
+      "line_ref": "第413行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L151",
+      "original_quote": "廉貞卯酉宮加殺公胥無面官人或巧藝人。",
+      "line_ref": "第414行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L152",
+      "original_quote": "廉貞暗臣曹吏貪婪",
+      "line_ref": "第415行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L153",
+      "original_quote": "廉貞貪殺破軍逢武曲遷移作具戎恐是文曲。",
+      "line_ref": "第416行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L154",
+      "original_quote": "廉貞七殺居廟旺反為積富之人殺居午奇格，若陷地化忌，貧賤殘疾。",
+      "line_ref": "第417行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L155",
+      "original_quote": "廉貞破火居陷地自縊投河",
+      "line_ref": "第418行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L156",
+      "original_quote": "廉貞七殺居巳亥流蕩天涯",
+      "line_ref": "第419行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L157",
+      "original_quote": "仲由威猛廉貞入廟遇將軍甲生人坐酉，乙生人坐亥，丙戊生人命坐酉，丁己生人命坐寅，庚生人命坐子，辛生人命坐卯，癸生人命坐申。",
+      "line_ref": "第420行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L158",
+      "original_quote": "廉貞四殺遭刑戮同羊陀火鈴是也，若安佈此星同，必遭刑戮終身。",
+      "line_ref": "第421行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L159",
+      "original_quote": "廉貞白虎刑杖難逃流年太歲併小限坐宮，又值白虎加臨，主官非遭刑杖。",
+      "line_ref": "第422行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L160",
+      "original_quote": "廉貞殺破會遷移死於外道",
+      "line_ref": "第423行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L161",
+      "original_quote": "廉貞羊殺居官祿加紐難逃",
+      "line_ref": "第424行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L162",
+      "original_quote": "廉貞清白能相守女人甲己庚癸安命申酉亥子宮，丙辛乙戊安命寅卯巳午是也，若辰戌丑未反賤。",
+      "line_ref": "第425行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L163",
+      "original_quote": "巨門廟寅申卯酉旺子午巳亥陷辰戌",
+      "line_ref": "第427行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L164",
+      "original_quote": "巨日寅宮立命申先馳名而食祿",
+      "line_ref": "第429行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L165",
+      "original_quote": "巨日命宮寅位食祿馳名",
+      "line_ref": "第430行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L166",
+      "original_quote": "巨日申宮立命寅馳名食祿",
+      "line_ref": "第431行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L167",
+      "original_quote": "巨門子午科權祿石中隱玉福興隆富而子貴，辛癸人上格，丁己人次之，丙戊主男。",
+      "line_ref": "第432行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L168",
+      "original_quote": "巨日命立申宮亦妙",
+      "line_ref": "第433行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L169",
+      "original_quote": "巨在亥宮日在巳食祿馳名",
+      "line_ref": "第434行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L170",
+      "original_quote": "巨在巳宮日在亥反為不佳",
+      "line_ref": "第435行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L171",
+      "original_quote": "巨日拱照亦為奇假如日午宮巨在戌宮是也，多方論日忌陷。",
+      "line_ref": "第436行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L172",
+      "original_quote": "巨機居卯乙辛己丙至公卿不貴即富，甲人平常何也，因甲祿到寅卯宮有擎羊破格耳。",
+      "line_ref": "第437行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L173",
+      "original_quote": "巨機酉上化吉者縱有財官也不終如值孤貧多有壽，巨富即夭亡。加化忌尤凶，若太歲在遷移宮財官化祿。",
+      "line_ref": "第438行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L174",
+      "original_quote": "巨門辰宮化忌辛人命遇反為奇",
+      "line_ref": "第439行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L175",
+      "original_quote": "巨機丑未為下格",
+      "line_ref": "第440行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L176",
+      "original_quote": "巨門陀羅必生異痣",
+      "line_ref": "第441行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L177",
+      "original_quote": "巨門羊陀於身命疾厄羸黃困弱盜而娼",
+      "line_ref": "第442行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L178",
+      "original_quote": "巨門四殺陷而凶",
+      "line_ref": "第443行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L179",
+      "original_quote": "巨火擎羊陀逢惡曜防縊死投河",
+      "line_ref": "第444行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L180",
+      "original_quote": "巨火鈴星逢惡限死於外道",
+      "line_ref": "第445行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L181",
+      "original_quote": "巨宿天機為破蕩女命巨機於卯酉，雖富貴不免淫佚，若陷地下賤。",
+      "line_ref": "第446行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L182",
+      "original_quote": "七殺廟辰戌丑未寅申旺子午卯酉平巳亥無陷",
+      "line_ref": "第448行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L183",
+      "original_quote": "七殺寅申子午一生爵祿榮昌為七殺朝斗格。",
+      "line_ref": "第450行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L184",
+      "original_quote": "七殺破軍專依羊鈴之虐",
+      "line_ref": "第451行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L185",
+      "original_quote": "七殺廉貞同位路上埋屍觀廉貞內註會耗於遷移亦然，若陷地加化忌尤凶。",
+      "line_ref": "第452行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L186",
+      "original_quote": "七殺破軍宜出外諸般手藝不能精",
+      "line_ref": "第453行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L187",
+      "original_quote": "七殺臨身命流年刑忌災傷逢紫微天相祿存可解。",
+      "line_ref": "第454行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L188",
+      "original_quote": "殺臨絕地會羊陀顏回夭折",
+      "line_ref": "第455行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L189",
+      "original_quote": "七殺重逢四殺腰陀背曲陣中亡殺與鈴火，主陣亡，又有疾危。",
+      "line_ref": "第456行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L190",
+      "original_quote": "七殺火羊貪且賤屠宰之人七殺羊陀會生鄉，為屠宰。",
+      "line_ref": "第457行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L191",
+      "original_quote": "七殺羊鈴流年白虎刑戮災迍",
+      "line_ref": "第458行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L192",
+      "original_quote": "七殺流羊二官符離鄉遭配歲限俱到。",
+      "line_ref": "第459行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L193",
+      "original_quote": "七殺守照歲限擎羊午生人命安卯西宮主凶亡餘宮亦忌命限三合殺，流年羊刃到命，即七殺重逢，申酉宮忌，多忌限",
+      "line_ref": "第460行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L194",
+      "original_quote": "七殺沉吟福不榮男有威權，女無所施。",
+      "line_ref": "第461行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L195",
+      "original_quote": "七殺臨身終是夭",
+      "line_ref": "第462行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L196",
+      "original_quote": "七殺單居幅德女人切忌賤無疑",
+      "line_ref": "第463行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L197",
+      "original_quote": "破軍廟子午旺辰戌丑未陷卯酉",
+      "line_ref": "第465行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L198",
+      "original_quote": "破軍子午宮無殺官資清顯至三公甲癸生人合格，丁巳生人次之，丙戌生人主困。",
+      "line_ref": "第467行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L199",
+      "original_quote": "破軍貪狼逢祿馬男多浪蕩女多淫",
+      "line_ref": "第468行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L200",
+      "original_quote": "破軍暗巨同鄉水中作塚破與巨不同垣，恐照命宮或犯遷移。",
+      "line_ref": "第469行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L201",
+      "original_quote": "破軍火鈴奔波勞碌",
+      "line_ref": "第470行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L202",
+      "original_quote": "破軍一曜性難明男女命論。",
+      "line_ref": "第471行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L203",
+      "original_quote": "破耗羊鈴官祿位到處乞求又貪狼在子午卯酉者，看貪狼內註。",
+      "line_ref": "第472行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L204",
+      "original_quote": "擎羊廟辰戌丑未陷子午卯酉",
+      "line_ref": "第474行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L205",
+      "original_quote": "擎羊入廟富貴聲揚加吉万論。",
+      "line_ref": "第476行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L206",
+      "original_quote": "羊火同宮威權壓眾辰戍人佳，丑未次之。",
+      "line_ref": "第477行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L207",
+      "original_quote": "羊陀鈴火守身命腰駝背曲之人",
+      "line_ref": "第478行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L208",
+      "original_quote": "擎羊子午卯酉非夭折而刑傷午凶卯次之。子酉又次之，馬頭帶劍，吉多勿論。",
+      "line_ref": "第479行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L209",
+      "original_quote": "擎羊逢力士李廣難封甲生人命卯，丙生人命午，庚生人命酉，壬生人命子。吉多平常，加殺則凶",
+      "line_ref": "第480行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L210",
+      "original_quote": "羊陀火鈴逢吉發財凶則忌",
+      "line_ref": "第481行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L211",
+      "original_quote": "羊鈴坐命流年白虎災傷流年白虎，又到命宮也。",
+      "line_ref": "第482行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L212",
+      "original_quote": "擎羊對守在酉宮歲迭羊陀庚命凶除宮亦忌，守命宮有羊陀。流年遇羊陀，為迭併。",
+      "line_ref": "第483行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L213",
+      "original_quote": "羊陀夾忌為敗局假如安命在申宮，又逢忌星，羊在酉陀在未夾之，餘皆倣此為例。命歲凶孤貧刑剋。若單守祿存無吉星同垣，亦有災殃之凶。",
+      "line_ref": "第484行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L214",
+      "original_quote": "羊陀流年鈴破面字斑痕",
+      "line_ref": "第485行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L215",
+      "original_quote": "擎羊火星為下格",
+      "line_ref": "第486行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L216",
+      "original_quote": "擎羊重逢流羊西施傾殞身歲限重逢。",
+      "line_ref": "第487行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L217",
+      "original_quote": "陀羅廟辰戌丑未陷寅申巳亥",
+      "line_ref": "第489行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L218",
+      "original_quote": "陀羅巳亥寅申非夭折而刑傷余試得多離祖出外成家者亦吉，主生人有破相。",
+      "line_ref": "第491行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L219",
+      "original_quote": "火星廟寅午戌地巳酉丑陷申子辰",
+      "line_ref": "第493行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L220",
+      "original_quote": "火鈴相遇名振諸邦",
+      "line_ref": "第495行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L221",
+      "original_quote": "火鈴夾命為敗局如命安寅申，火星在丑，鈴星在卯。吉多尚可，惟夾忌。辰凶歲限巡遊者此地亦吉",
+      "line_ref": "第496行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L222",
+      "original_quote": "鈴星廟寅午戌地巳酉丑陷申子辰",
+      "line_ref": "第498行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L223",
+      "original_quote": "火鈴旺宮亦為福論",
+      "line_ref": "第500行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L224",
+      "original_quote": "擎羊火鈴為下格女人廟旺猶可，陷地下賤，貧窮夭折。",
+      "line_ref": "第501行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L225",
+      "original_quote": "魁鉞",
+      "line_ref": "第503行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L226",
+      "original_quote": "魁鉞夾命為奇格如命安在辰宮，魁在卯，鉞在巳宮是也。",
+      "line_ref": "第505行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L227",
+      "original_quote": "魁鉞命身多折桂如吉方論，在命身最妙，三方次之。",
+      "line_ref": "第506行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L228",
+      "original_quote": "魁鉞昌曲祿存扶刑殺無沖台輔貴命身妙三方，次見刑殺沖會者平常，只宜僧道。",
+      "line_ref": "第507行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L229",
+      "original_quote": "魁鉞重逢殺湊痼疾尤多殺乃羊鈴空劫。",
+      "line_ref": "第508行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L230",
+      "original_quote": "魁鉞輔星為福壽二上在命，諸宮福壽雙全。",
+      "line_ref": "第509行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L231",
+      "original_quote": "左輔右弼",
+      "line_ref": "第511行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L232",
+      "original_quote": "左右文昌位至台輔",
+      "line_ref": "第513行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L233",
+      "original_quote": "左右夾命為貴格如安命在丑宮，左輔在子宮，右弼在寅宮。四七十一月生者是也，若不貴則大富",
+      "line_ref": "第514行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L234",
+      "original_quote": "右弼左輔終身福厚在命宮遷移是也，三方次之。",
+      "line_ref": "第515行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L235",
+      "original_quote": "左右同宮披羅衣紫辰戌宮安命，正月七月生者，丑宮安命。四月生者卯亥宮安命，六月十二月生者，三方勿論。",
+      "line_ref": "第516行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L236",
+      "original_quote": "左右單守照命宮離宗庶出身命無正曜是也，若三方合紫微，天相，天府吉。",
+      "line_ref": "第517行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L237",
+      "original_quote": "左右貞羊遭刑盜一左右昌曲逢羊陀當生暗痣",
+      "line_ref": "第518行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L238",
+      "original_quote": "左右財官兼夾拱衣祿豐盈",
+      "line_ref": "第519行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L239",
+      "original_quote": "左右魁鉞為福壽三星在命論宮，福壽全美。若女命逢之，旺夫益子。",
+      "line_ref": "第520行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L240",
+      "original_quote": "右弼天相福來臨諸宮遇福，丑未亥三宮不貴。縱貴不久遠，前當主富，若卯酉二陷宮，少稱心意",
+      "line_ref": "第521行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L241",
+      "original_quote": "祿存十二宮中皆入廟",
+      "line_ref": "第523行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L242",
+      "original_quote": "祿存守於財宅積玉堆金在命方可喜，化祿，同科權，更妙。",
+      "line_ref": "第525行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L243",
+      "original_quote": "祿存子午位遷移身命逢之利祿宜",
+      "line_ref": "第526行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L244",
+      "original_quote": "明祿暗祿位至公卿",
+      "line_ref": "第527行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L245",
+      "original_quote": "雙祿重返終身富貴",
+      "line_ref": "第528行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L246",
+      "original_quote": "祿逢沖破吉也成凶",
+      "line_ref": "第529行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L247",
+      "original_quote": "雙祿守命呂后專權",
+      "line_ref": "第530行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L248",
+      "original_quote": "祿存厚重多衣祿諸宮降福，起家富貴。女人嫁夫，招贅旺財。",
+      "line_ref": "第531行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L249",
+      "original_quote": "天馬",
+      "line_ref": "第533行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L250",
+      "original_quote": "祿馬最喜交馳忌見殺羊火截路空亡，多主勞苦。",
+      "line_ref": "第535行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L251",
+      "original_quote": "天馬四生妻宮富貴還當封贈",
+      "line_ref": "第536行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L252",
+      "original_quote": "馬遇空亡終身奔走",
+      "line_ref": "第537行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L253",
+      "original_quote": "科權祿",
+      "line_ref": "第539行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L254",
+      "original_quote": "科權祿合富貴雙全祿存亦是祿，祿會祿存，富貴全會。巨武戍揚科，會魁鉞在命宮極佳。三方次吉，亦在凶多則不美。",
+      "line_ref": "第541行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L255",
+      "original_quote": "祿權命逢合吉威權壓眾相王朝",
+      "line_ref": "第542行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L256",
+      "original_quote": "權祿重逢財官雙美三方吉多方吉，因聚也不美。",
+      "line_ref": "第543行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L257",
+      "original_quote": "科命權朝登庸甲第或權或祿全更佳。為言祿逢迎格。",
+      "line_ref": "第544行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L258",
+      "original_quote": "活祿子午位遷移，夫子文章冠世遷移在子午宮為對面朝天子命太陽，化祿在午宮，合比格，餘宮要看吉凶科權祿來為貴格。如命安在子宮，祿在亥宮，權在丑宮，為夾貴。皆餘倣此。",
+      "line_ref": "第545行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L259",
+      "original_quote": "權祿重逢殺湊虛譽之隆",
+      "line_ref": "第546行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L260",
+      "original_quote": "科名陷於凶神苗而不秀如日戌，月卯，化科陷地，或又加羊陀劫空。",
+      "line_ref": "第547行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L261",
+      "original_quote": "祿主纏於弱地發不主財",
+      "line_ref": "第548行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L262",
+      "original_quote": "權祿守財福之位處世榮華",
+      "line_ref": "第549行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L263",
+      "original_quote": "權祿吉星奴僕位縱然官貴也奔波",
+      "line_ref": "第550行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L264",
+      "original_quote": "劫空",
+      "line_ref": "第552行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L265",
+      "original_quote": "劫空夾命為敗局假如命安在亥宮，劫在子宮，空在亥宮是也。歲限行到亦凶，夾忌亦凶孤貧刑傷。",
+      "line_ref": "第554行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L266",
+      "original_quote": "劫空臨限楚王喪國綠珠亡",
+      "line_ref": "第555行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L267",
+      "original_quote": "生處劫空猶如半天折翅",
+      "line_ref": "第556行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L268",
+      "original_quote": "劫空臨財幅之鄉生來貧賤",
+      "line_ref": "第557行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L269",
+      "original_quote": "傷使",
+      "line_ref": "第559行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L270",
+      "original_quote": "天傷加惡曜仲尼絕糧鄧通亡",
+      "line_ref": "第561行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L271",
+      "original_quote": "命宮",
+      "line_ref": "第563行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L272",
+      "original_quote": "三夾命凶六夾吉三夾是劫空火鈴羊陀是也。六夾是紫府左右昌曲魁鉞科權祿日月是也。若在命則凶多吉少雖吉也凶，如吉多凶少雖凶也吉，身命三方乃看廟旺。",
+      "line_ref": "第565行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L273",
+      "original_quote": "命無正曜二姓延生或過房出維隨母繼拜入贅，或又是庶母所生者。",
+      "line_ref": "第566行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L274",
+      "original_quote": "命逢吉曜松柏清秀以難凋身命官有吉星，太歲大小二限不利，末為凶。必太歲二限有凶，又且本生人所忌方凶。",
+      "line_ref": "第567行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L275",
+      "original_quote": "限逢凶曜柳綠桃紅而易謝命逢凶限廟旺猶發，達限凶星陷必凶。",
+      "line_ref": "第568行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L276",
+      "original_quote": "命實運生如旱苗而得雨如命限平常，三方有吉星，如限行美地為福。",
+      "line_ref": "第569行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L277",
+      "original_quote": "命衰運弱如嫩草而遭霜如命坐陷忌，歲限又逢惡曜，必刑傷死亡。",
+      "line_ref": "第570行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L278",
+      "original_quote": "命有吉星官殺重縱有財官也辛苦",
+      "line_ref": "第571行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L279",
+      "original_quote": "身宮",
+      "line_ref": "第573行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L280",
+      "original_quote": "三夾身凶六夾吉夾忌劫空火鈴羊陀凶，六夾貴逢吉甚妙。",
+      "line_ref": "第575行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L281",
+      "original_quote": "身命俱吉富貴雙全",
+      "line_ref": "第576行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L282",
+      "original_quote": "身吉命凶亦為美論",
+      "line_ref": "第577行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L283",
+      "original_quote": "命弱身強財源不聚",
+      "line_ref": "第578行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L284",
+      "original_quote": "納音",
+      "line_ref": "第580行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L285",
+      "original_quote": "納音墓庫看何宮如水生人墓辰遇財官或祿存尤妙，遇遷移耗殺同為不美。",
+      "line_ref": "第582行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L286",
+      "original_quote": "生逢敗地發也虛花如年納音水土長生見甲申，乃金星為水宮之主，若安命在酉敗地又逢羊陀忌耗七殺同不美。得祿存吉。",
+      "line_ref": "第583行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L287",
+      "original_quote": "絕處逢生花而不敗如水土絕在巳安命在巳為絕地卻得金星在巳生水不絕方為得祿",
+      "line_ref": "第584行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L288",
+      "original_quote": "財帛",
+      "line_ref": "第586行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L289",
+      "original_quote": "日月夾財加吉曜不貴則富如財帛宮在未天府星守，日在午月在申夾財是也，餘倣此。",
+      "line_ref": "第588行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L290",
+      "original_quote": "左右財官兼夾拱衣祿豐隆如左右同財帛宮，又或財官在丑日在子月在寅是夾也。",
+      "line_ref": "第589行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L291",
+      "original_quote": "財宅",
+      "line_ref": "第591行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L292",
+      "original_quote": "紫微輔弼多為財賦之官",
+      "line_ref": "第593行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L293",
+      "original_quote": "武曲太陰多居財賦之任不是武曲太陰同限度，取財帛宮遇武曲或遇太陰星，主為人多居財賦之任。",
+      "line_ref": "第594行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L294",
+      "original_quote": "紫府武曲居財帛更兼權祿富奢翁",
+      "line_ref": "第595行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L295",
+      "original_quote": "武曲貪狼財宅橫發資財忌空亡。",
+      "line_ref": "第596行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L296",
+      "original_quote": "祿存守於財宅堆金積玉",
+      "line_ref": "第597行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L297",
+      "original_quote": "財福",
+      "line_ref": "第599行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L298",
+      "original_quote": "權祿守財福之位出世榮華",
+      "line_ref": "第601行"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L299",
+      "original_quote": "劫空臨財福之鄉生來貧賤",
+      "line_ref": "第602行"
+    }
+  ]
+}
