@@ -7,13 +7,25 @@
       "line_id": "ZWQS_Juan2_AnXiaoxian_L000",
       "original_quote": "安小限訣",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安小限訣",
+        "line_ref": "第129行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnXiaoxian_L001",
       "original_quote": "安小限訣不論陰陽男俱順數不論陰陽女俱逆數寅午戌人起辰宮，申子辰人自戌宮，巳酉丑人起未宮，亥卯未人起丑宮。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安小限訣",
+        "line_ref": "未知"
+      }
     }
   ],
   "_source": {

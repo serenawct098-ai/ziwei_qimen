@@ -7,25 +7,49 @@
       "line_id": "ZWQS_Juan2_AnTianma_L000",
       "original_quote": "安天馬星訣",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天馬星訣",
+        "line_ref": "第40行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnTianma_L001",
       "original_quote": "安天馬星訣論本生年支寅午戍人馬居申，申子辰人馬居寅，巳酉丑人馬居亥，亥卯未人馬居巳。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天馬星訣",
+        "line_ref": "未知"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnTianma_L002",
       "original_quote": "如安命在辰戌丑未，遇夫妻宮在寅申巳亥有天馬，若得同位或三方照臨，必主男為官女封贈，不然祿馬交馳亦吉。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天馬星訣",
+        "line_ref": "第42行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnTianma_L003",
       "original_quote": "安祿存星訣論本生年干甲生祿存在寅宮，乙生在卯丙戊巳，丁己祿存停午方，庚祿居申辛祿酉，壬祿在亥癸祿子。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天馬星訣",
+        "line_ref": "未知"
+      }
     }
   ],
   "_source": {

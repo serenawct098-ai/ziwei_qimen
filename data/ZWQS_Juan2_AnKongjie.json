@@ -7,19 +7,37 @@
       "line_id": "ZWQS_Juan2_AnKongjie_L000",
       "original_quote": "天空地劫訣論本生時",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天空地劫訣",
+        "line_ref": "第60行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnKongjie_L001",
       "original_quote": "亥上起子順安劫，逆向便是天空鄉。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天空地劫訣",
+        "line_ref": "第61行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnKongjie_L002",
       "original_quote": "如子時生者劫空俱在亥宮。若丑時生者劫順在子宮，空逆在戌宮。若午時生者，劫空俱在巳上安之。餘宮倣此。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安天空地劫訣",
+        "line_ref": "第62行"
+      }
     }
   ],
   "_extraction_status": "安天空地劫訣完成"

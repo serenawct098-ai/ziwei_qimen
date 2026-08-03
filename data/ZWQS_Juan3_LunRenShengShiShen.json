@@ -7,13 +7,25 @@
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L000",
       "original_quote": "論人生時要審的確",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時要審的確",
+        "line_ref": "第71行"
+      }
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L001",
       "original_quote": "如人生子亥二時最難定，準要仔細推祥，如子時有十刻，上午刻屬昨夜亥時，下午刻屬今日子時，如天氣陰雨之際，必須羅經以定真確時候，若差訛則命不準矣。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論人生時要審的確",
+        "line_ref": "第72行"
+      }
     }
   ],
   "_extraction_status": "論人生時要審的確完成"

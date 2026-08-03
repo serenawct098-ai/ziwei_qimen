@@ -7,13 +7,25 @@
       "line_id": "ZWQS_Juan2_AnLongfeng_L000",
       "original_quote": "安龍池鳳閣訣論本生年支",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安龍池鳳閣訣",
+        "line_ref": "第85行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_AnLongfeng_L001",
       "original_quote": "龍池子順辰，鳳閣子戌逆。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安龍池鳳閣訣",
+        "line_ref": "第86行"
+      }
     }
   ],
   "_extraction_status": "安龍池鳳閣訣完成"

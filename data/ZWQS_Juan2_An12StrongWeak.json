@@ -7,19 +7,37 @@
       "line_id": "ZWQS_Juan2_An12StrongWeak_L000",
       "original_quote": "定十二宮弱強",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安十二宮強弱訣",
+        "line_ref": "第149行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_An12StrongWeak_L001",
       "original_quote": "男命財帛、官祿、福德、遷移、田宅為強宮，子女、奴僕、兄弟、父母為弱宮。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安十二宮強弱訣",
+        "line_ref": "第150行"
+      }
     },
     {
       "line_id": "ZWQS_Juan2_An12StrongWeak_L002",
       "original_quote": "女命夫君、子息、財帛、田宅、福德為強，餘宮皆弱。",
       "tag": [],
-      "paragraph_index": 0
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷二",
+        "section": "安十二宮強弱訣",
+        "line_ref": "第151行"
+      }
     }
   ],
   "_extraction_status": "安十二宮強弱訣完成"
