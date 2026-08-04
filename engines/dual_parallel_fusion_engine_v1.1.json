@@ -330,10 +330,20 @@
       "申": 2,
       "酉": 7,
       "戌": 6,
-      "亥": 6
+      "亥": 6,
+      "tag": [
+        "_custom",
+        "non_classical"
+      ],
+      "tag_reason": "紫微十二宮與奇門九宮無古籍原文直接映射記載，此為系統整合設計之現代橋接規則"
     },
-    "kun_2_redirect_rule": "if mapped or target palace == 5 then redirect to 2",
-    "source_lock": "BR-MAP-001"
+    "kun_2_redirect_rule": {
+      "rule": "if mapped or target palace == 5 then redirect to 2",
+      "_source": {
+        "line_id": "QMDJ_Preface_L007",
+        "original_quote": "惟天禽則無定位，寄西南而屬中宮"
+      }
+    }
   },
   "safety_layer": {
     "fail_closed": true,
