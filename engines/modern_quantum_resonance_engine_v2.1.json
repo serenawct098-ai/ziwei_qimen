@@ -503,7 +503,8 @@
       "_custom",
       "non_classical"
     ],
-    "tag_reason": "紫微十二宮與奇門九宮無古籍原文直接映射記載，此為系統整合設計之現代橋接規則"
+    "tag_reason": "紫微十二宮與奇門九宮無古籍原文直接映射記載，此為系統整合設計之現代橋接規則",
+    "source_lock_status": "UNVERIFIED_CUSTOM_BRIDGE"
   },
   "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。"
 }

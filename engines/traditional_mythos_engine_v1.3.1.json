@@ -224,7 +224,13 @@
           "太陽陷弱",
           "忌煞同纏",
           "命官失守"
-        ]
+        ],
+        "_source": null,
+        "tag": [
+          "_custom",
+          "non_classical"
+        ],
+        "tag_reason": "後世整理格局，非《全書》原文既有標題"
       },
       "將星得地格": {
         "source_pattern_id": "jiangxing_dedi_custom",
@@ -235,7 +241,13 @@
           "孤克太重",
           "刑忌交攻",
           "福德不載"
-        ]
+        ],
+        "_source": null,
+        "tag": [
+          "_custom",
+          "non_classical"
+        ],
+        "tag_reason": "後世整理格局，非《全書》原文既有標題"
       },
       "⽯中隱⽟格": {
         "source_pattern_id": "⽯中隱⽟格",
@@ -485,7 +497,8 @@
           "空劫同臨",
           "化忌入財",
           "陀武相纏"
-        ]
+        ],
+        "_source": null
       },
       "廉府同宮格": {
         "source_pattern_id": "lianfutonggong",
@@ -501,7 +514,8 @@
           "廉貞化忌",
           "桃花煞過重",
           "刑耗同來"
-        ]
+        ],
+        "_source": null
       },
       "殺破狼格": {
         "source_pattern_id": "shapolang",
@@ -617,7 +631,8 @@
         "trigger": "鈴星、文昌、陀羅、武曲聚於三方四正或同會",
         "grade": "SHA",
         "classical_meaning": "主是非、財務波折、文書失誤、刀筆之憂。",
-        "break_conditions": []
+        "break_conditions": [],
+        "_source": null
       },
       "⽣不逢時": {
         "source_pattern_id": "⽣不逢時",
@@ -663,7 +678,8 @@
         "trigger": "目標宮無主星，須借對宮與三方吉曜解讀",
         "grade": "SHA",
         "classical_meaning": "主本宮氣虛，賴外援成局。",
-        "break_conditions": []
+        "break_conditions": [],
+        "_source": null
       },
       "祿逢兩殺": {
         "source_pattern_id": "祿逢兩殺",
