@@ -357,8 +357,7 @@
         "官府"
       ],
       "start": "祿存落宮（luzun_qingyang_tuoluo_table 之祿存宮）",
-      "direction": "陽男陰女順行、陰男陽女逆行",
-      "formula": "BoshiPalaceIdx(n) = (LuCunIdx + dir*n + 24) % 12"
+      "direction": "陽男陰女順行、陰男陽女逆行"
     },
     "changsheng_12shen": {
       "sequence": [
@@ -382,8 +381,7 @@
         "土五局": 8,
         "火六局": 2
       },
-      "direction": "陽男陰女順行、陰男陽女逆行",
-      "formula": "ChangshengPalaceIdx(n) = (StartIdx + dir*n + 24) % 12"
+      "direction": "陽男陰女順行、陰男陽女逆行"
     },
     "suiqian_12shen": {
       "sequence": [
@@ -401,8 +399,7 @@
         "病符"
       ],
       "start": "當年太歲地支（本命=生年支；流年=流年支）",
-      "direction": "固定順行",
-      "formula": "SuiqianPalaceIdx(n) = (TaiSuiZhiIdx + n) % 12"
+      "direction": "固定順行"
     },
     "jiangqian_12shen": {
       "sequence": [
@@ -425,8 +422,7 @@
         "巳酉丑": 9,
         "亥卯未": 3
       },
-      "direction": "固定順行",
-      "formula": "JiangqianPalaceIdx(n) = (JiangXingIdx + n) % 12"
+      "direction": "固定順行"
     },
     "tianshang_tianshi": {
       "rule": "固定宮法：天傷永居僕役(交友)宮、天使永居疾厄宮",
@@ -461,7 +457,6 @@
         }
       },
       "xunkong": {
-        "formula": "XunStartIdx=(DayZhiIdx-DayGanIdx+12)%12；旬空=[(XunStartIdx+10)%12,(XunStartIdx+11)%12]",
         "example": "甲子日→旬空[戌(10),亥(11)]"
       }
     },
