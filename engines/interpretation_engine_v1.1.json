@@ -3946,7 +3946,14 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "命宮",
+          "display_name": "命宮",
+          "legacy_aliases": [
+            "命身宮"
+          ]
+        }
       },
       "兄弟宮": {
         "source_files": [
@@ -4107,7 +4114,14 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "兄弟",
+          "display_name": "兄弟宮",
+          "legacy_aliases": [
+            "兄弟宮"
+          ]
+        }
       },
       "夫妻宮": {
         "source_files": [
@@ -4268,7 +4282,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "夫妻",
+          "display_name": "夫妻宮",
+          "legacy_aliases": [
+            "妻妾宮",
+            "配偶宮"
+          ]
+        }
       },
       "子女宮": {
         "source_files": [
@@ -4450,7 +4472,14 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "子女",
+          "display_name": "子女宮",
+          "legacy_aliases": [
+            "子息宮"
+          ]
+        }
       },
       "財帛宮": {
         "source_files": [
@@ -4618,7 +4647,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "財帛",
+          "display_name": "財帛宮",
+          "legacy_aliases": [
+            "財帛宮",
+            "錢財宮"
+          ]
+        }
       },
       "疾厄宮": {
         "source_files": [
@@ -4779,7 +4816,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "疾厄",
+          "display_name": "疾厄宮",
+          "legacy_aliases": [
+            "疾厄宮",
+            "疾病宮"
+          ]
+        }
       },
       "遷移宮": {
         "source_files": [
@@ -4954,7 +4999,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "遷移",
+          "display_name": "遷移宮",
+          "legacy_aliases": [
+            "遷移宮",
+            "出外宮"
+          ]
+        }
       },
       "交友宮": {
         "source_files": [
@@ -5129,7 +5182,16 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "交友",
+          "display_name": "交友宮",
+          "legacy_aliases": [
+            "奴僕宮",
+            "僕役宮",
+            "朋友宮"
+          ]
+        }
       },
       "官祿宮": {
         "source_files": [
@@ -5374,7 +5436,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "官祿",
+          "display_name": "官祿宮",
+          "legacy_aliases": [
+            "官祿宮",
+            "事業宮"
+          ]
+        }
       },
       "田宅宮": {
         "source_files": [
@@ -5535,7 +5605,15 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "田宅",
+          "display_name": "田宅宮",
+          "legacy_aliases": [
+            "田宅宮",
+            "房產宮"
+          ]
+        }
       },
       "福德宮": {
         "source_files": [
@@ -5710,7 +5788,14 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "福德",
+          "display_name": "福德宮",
+          "legacy_aliases": [
+            "福德宮"
+          ]
+        }
       },
       "父母宮": {
         "source_files": [
@@ -5899,7 +5984,14 @@
             "tag": [],
             "tag_reason": ""
           }
-        ]
+        ],
+        "metadata": {
+          "standard_key": "父母",
+          "display_name": "父母宮",
+          "legacy_aliases": [
+            "父母宮"
+          ]
+        }
       }
     },
     "star_combinations": [
