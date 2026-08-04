@@ -1,0 +1,103 @@
+{
+  "$schema": "ziwei_qimen_mapping_contract_v1.0",
+  "version": "1.0",
+  "title": "Ziwei × Qimen Mapping Layer Semantic Alignment Contract",
+  "purpose": "將 OCR 輸入、白話提問與現代語義，穩定映射至系統內部的 line_id、引擎欄位與報告節點。",
+  "metadata": {
+    "last_updated": "2026-08-05",
+    "status": "DRAFT_SPECIFICATION",
+    "layer": "Layer 2: Mapping Layer"
+  },
+  "ocr_normalization": {
+    "description": "處理 OCR 識別誤差與名詞變體，確保輸入符合 Compute Layer 標準名詞。",
+    "rules": [
+      {
+        "target": "交友宮",
+        "synonyms": ["奴僕宮", "奴僕", "交友", "朋友宮"],
+        "ocr_error_correction": ["交支宮", "交方宮", "奴僕官"]
+      },
+      {
+        "target": "官祿宮",
+        "synonyms": ["事業宮", "官祿", "事業"],
+        "ocr_error_correction": ["官錄宮", "官路宮", "官祿官"]
+      },
+      {
+        "target": "疾厄宮",
+        "synonyms": ["身體宮", "疾厄", "健康"],
+        "ocr_error_correction": ["疾危宮", "疾惡宮"]
+      }
+    ]
+  },
+  "semantic_alignment": {
+    "description": "將現代口語詞彙對齊至古籍命理概念。",
+    "term_map": {
+      "創業": ["官祿宮", "財帛宮", "化權", "天機", "武曲"],
+      "小三": ["夫妻宮", "桃花星", "煞星", "廉貞自化"],
+      "憂鬱": ["福德宮", "巨門", "化忌", "地劫", "地空"],
+      "暴發戶": ["火貪格", "鈴貪格", "祿存同宮", "化祿"],
+      "房地產": ["田宅宮", "天府", "太陰", "土五局"]
+    }
+  },
+  "intent_to_theme_map": {
+    "description": "根據使用者提問意圖，路由至對應的古籍主題與 line_id 範圍。",
+    "intents": [
+      {
+        "intent": "ASK_WEALTH",
+        "themes": ["定富局", "論財帛", "祿存守田財"],
+        "target_data_files": ["ZWQS_Juan1_PatternText.json", "ZWQS_Juan2_Consolidated.json"]
+      },
+      {
+        "intent": "ASK_CAREER",
+        "themes": ["定貴局", "論官祿", "皇殿朝班"],
+        "target_data_files": ["ZWQS_Juan1_PatternText.json", "ZWQS_Juan2_Consolidated.json"]
+      },
+      {
+        "intent": "ASK_HEALTH",
+        "themes": ["論疾厄", "沉困尪贏"],
+        "target_data_files": ["ZWQS_Juan2_Consolidated.json"]
+      }
+    ]
+  },
+  "conflict_resolution": {
+    "description": "多重命中時的排序與衝突解決策略。",
+    "ranking_policy": {
+      "priority": ["SSOT_EXACT_MATCH", "THEMATIC_ALIGNMENT", "SEMANTIC_SIMILARITY"],
+      "temporal_weight": {
+        "生年": 1.0,
+        "大限": 0.8,
+        "流年": 0.6
+      }
+    },
+    "collision_rules": {
+      "dual_hit_strategy": "PARALLEL_DISPLAY",
+      "ambiguity_threshold": 0.85,
+      "action_on_low_confidence": "TRIGGER_ASK_CLARIFICATION"
+    }
+  },
+  "citation_logic": {
+    "description": "決定何時回傳 line_id 或標記 _custom。",
+    "decision_tree": {
+      "if_exact_match_in_data_layer": {
+        "action": "RETURN_LINE_ID",
+        "source_type": "CLASSICAL_SSOT"
+      },
+      "if_derived_from_multiple_lines": {
+        "action": "RETURN_SYNTHESIZED_IDS",
+        "tag": "_custom",
+        "reason": "DERIVED_INTERPRETATION"
+      },
+      "if_modern_application_only": {
+        "action": "RETURN_TEXT_ONLY",
+        "tag": "_custom",
+        "reason": "MODERN_OVERLAY"
+      },
+      "if_no_alignment_found": {
+        "action": "HALT_OR_FALLBACK",
+        "fallback": "GENERAL_PRINCIPLES"
+      }
+    }
+  },
+  "output_nodes": {
+    "standard_nodes": ["executive_summary", "classical_citation", "engine_analysis", "modern_interpretation", "next_action"]
+  }
+}
