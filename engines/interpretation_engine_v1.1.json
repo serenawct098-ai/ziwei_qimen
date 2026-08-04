@@ -425,8 +425,8 @@
       "direction": "固定順行"
     },
     "tianshang_tianshi": {
-      "rule": "固定宮法：天傷永居僕役(交友)宮、天使永居疾厄宮",
-      "tianshang_palace": "僕役(交友)宮",
+      "rule": "固定宮法：天傷永居交友宮、天使永居疾厄宮",
+      "tianshang_palace": "交友宮",
       "tianshi_palace": "疾厄宮",
       "note": "本 SSOT 鎖定固定宮法，不採動態法"
     },
@@ -4956,7 +4956,7 @@
           }
         ]
       },
-      "奴僕宮": {
+      "交友宮": {
         "source_files": [
           "ZWQS_Juan2_LunNuPu.json"
         ],
