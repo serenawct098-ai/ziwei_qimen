@@ -103,7 +103,7 @@
       },
       {
         "intent": "ASK_MARRIAGE",
-        "themes": ["論妻妾", "淫奔大行"],
+        "themes": ["論夫妻", "淫奔大行"],
         "target_data_files": ["ZWQS_Juan2_Consolidated.json"]
       }
     ]
