@@ -1,16 +1,51 @@
 {
   "$schema": "ziwei_qimen_mapping_contract_v1.0",
-  "version": "1.0",
+  "version": "1.1",
   "title": "Ziwei × Qimen Mapping Layer Semantic Alignment Contract",
   "purpose": "將 OCR 輸入、白話提問與現代語義，穩定映射至系統內部的 line_id、引擎欄位與報告節點。",
   "metadata": {
     "last_updated": "2026-08-05",
-    "status": "DRAFT_SPECIFICATION",
+    "status": "PRODUCTION_READY",
     "layer": "Layer 2: Mapping Layer"
   },
   "ocr_normalization": {
-    "description": "處理 OCR 識別誤差與名詞變體，確保輸入符合 Compute Layer 標準名詞。",
+    "description": "處理 OCR 識別誤差與名詞變體，確保輸入符合標準化三字宮位名詞。",
     "rules": [
+      {
+        "target": "命宮",
+        "synonyms": ["本命", "命垣"],
+        "ocr_error_correction": ["命宮", "合宮"]
+      },
+      {
+        "target": "兄弟宮",
+        "synonyms": ["兄弟", "手足"],
+        "ocr_error_correction": ["兄第宮", "兄第"]
+      },
+      {
+        "target": "夫妻宮",
+        "synonyms": ["夫妻", "妻妾", "配偶", "婚姻"],
+        "ocr_error_correction": ["妻妾宮", "夫委宮"]
+      },
+      {
+        "target": "子女宮",
+        "synonyms": ["子女", "兒女"],
+        "ocr_error_correction": ["子文宮", "子安宮"]
+      },
+      {
+        "target": "財帛宮",
+        "synonyms": ["財帛", "財運", "錢財"],
+        "ocr_error_correction": ["財伯宮", "財白宮"]
+      },
+      {
+        "target": "疾厄宮",
+        "synonyms": ["身體宮", "疾厄", "健康"],
+        "ocr_error_correction": ["疾危宮", "疾惡宮"]
+      },
+      {
+        "target": "遷移宮",
+        "synonyms": ["遷移", "出外"],
+        "ocr_error_correction": ["遷多宮", "遷多"]
+      },
       {
         "target": "交友宮",
         "synonyms": ["奴僕宮", "奴僕", "交友", "朋友宮"],
@@ -22,9 +57,19 @@
         "ocr_error_correction": ["官錄宮", "官路宮", "官祿官"]
       },
       {
-        "target": "疾厄宮",
-        "synonyms": ["身體宮", "疾厄", "健康"],
-        "ocr_error_correction": ["疾危宮", "疾惡宮"]
+        "target": "田宅宮",
+        "synonyms": ["田宅", "房產", "家宅"],
+        "ocr_error_correction": ["田它宮", "由宅宮"]
+      },
+      {
+        "target": "福德宮",
+        "synonyms": ["福德", "精神"],
+        "ocr_error_correction": ["福得宮", "福德官"]
+      },
+      {
+        "target": "父母宮",
+        "synonyms": ["父母", "長輩", "相貌宮"],
+        "ocr_error_correction": ["父毋宮", "文母宮"]
       }
     ]
   },
@@ -54,6 +99,11 @@
       {
         "intent": "ASK_HEALTH",
         "themes": ["論疾厄", "沉困尪贏"],
+        "target_data_files": ["ZWQS_Juan2_Consolidated.json"]
+      },
+      {
+        "intent": "ASK_MARRIAGE",
+        "themes": ["論妻妾", "淫奔大行"],
         "target_data_files": ["ZWQS_Juan2_Consolidated.json"]
       }
     ]
