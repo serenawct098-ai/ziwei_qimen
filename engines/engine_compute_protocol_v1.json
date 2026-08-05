@@ -173,5 +173,27 @@
       "trigger_conditions": "流年太歲所在宮起正月，逆數至本命生月宮，再從該宮起子時順數至本命生時宮",
       "status": "active"
     }
-  }
+  },
+  "documentation_layer": [
+    {
+      "rule_sentence": "- 曆法對照：公曆與農曆出生年月日時，換算生肖及節氣。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "### 晚子時換日規則（定盤要點）",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- 紫微斗數以「過時初則入宮」為原則，即以真太陽時23時為換日分界，23:00–24:00出生者一律算次日子時排盤，00:00–01:00出生者算當日子時排盤，故實務上不必再細分早晚子，直接視23:00起為次日。[2]",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **`full_compute_flow_v1.4.json`**：定義標準運算流程與 `halt` 條件。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **架構安全性高**：具備成熟的融合層與安全斷言機制。",
+      "status": "active"
+    }
+  ]
 }

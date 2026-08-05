@@ -243,5 +243,47 @@
   "safety_consumption_rules": {
     "writeback_forbidden": true,
     "consume_only_verified_outputs": true
-  }
+  },
+  "documentation_layer": [
+    {
+      "rule_sentence": "- 三方四正：命宮、財帛宮、官祿宮為「三方」，加對宮遷移宮合稱「四正」，三合派論命以此為核心格局單位。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- 主星格局：如紫府朝垍、殺破狼格、機月同梁格、府相朝垍等，依十四主星在命、財、官三宮的固定組合類型判定基本格局屬性。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- 吉煞會照：格局吉凶再視三方四正是否會六吉星（左右昌曲魁鉞）以增輝，或會六煞星（羊陀火鈴劫空）以破格，及祿存、化祿是否同宮或會照以定財氣厚薄。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **物理隔離與治理**：將古籍原文、計算引擎、解讀邏輯與應用政策進行物理隔離，確保推演過程不被 AI 幻覺污染。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **端到端自動化**：系統支援從命盤圖片 (OCR) 或生辰輸入開始，經由定盤、起局、檢索、計算到雙軌報告輸出的完整自動化鏈路。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "| **L2** | **Mapping 層 (映射層)** | 語義對齊、OCR 名詞正規化 | `dual_parallel_fusion_engine` (Bridge 部份) | 橋樑合約 |",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "將原本混亂的 Engine 層拆解為 Compute、Fusion 與 Governance 三層，並獨立出 Mapping 層作為語義橋樑。這種設計確保了「古籍原文 (L1)」與「計算邏輯 (L3)」的純淨性，同時讓「雙軌融合 (L4)」與「應用政策 (L5)」具備高度靈活性。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **`ZWQS_Juan1_PatternText.json`**：卷一格局專題抽取，用於格局判定引用。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **`modern_quantum_resonance_engine_v2.1.json`**：負責能量密度、決策帶等現代壓測量化指標。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **橋樑映射鎖定**：`zhi_to_qimen_palace_map` 與 `kun_2_redirect_rule` 在此層顯式鎖定，禁止 AI 自行推導。",
+      "status": "active"
+    }
+  ]
 }

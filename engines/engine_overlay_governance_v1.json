@@ -81,5 +81,27 @@
   "overlay_validation_rules": {
     "must_cite_source": true,
     "forbidden_direct_fabrication": true
-  }
+  },
+  "documentation_layer": [
+    {
+      "rule_sentence": "- **`QMDJ_XiaJuan_Consolidated.json`**：奇門遁甲下卷 (卷 21-30) 原文，含重要占驗斷語。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **Policy Overlay**：`qimen_2026_2027_sha_qi_resolution_table` (時效性化煞)。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **Application Overlay**：`qimen_fengshui_layout_module` (風水佈局建議)。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **Narrative Overlay**：`qimen_judgment_library` (應用斷語句庫)。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **資料隔離**：建議將 `qimen_2026_2027` 等時效性檔案從主引擎目錄移出，標註為 `Overlay`。",
+      "status": "active"
+    }
+  ]
 }
