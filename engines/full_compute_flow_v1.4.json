@@ -90,5 +90,11 @@
     "專題判斷",
     "雙軌壓測",
     "S9行動建議"
-  ]
+  ],
+  "governance": {
+    "naming_standard": "mapping_contract_v1.1.json",
+    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
+    "dependency": "Layer 2 Mapping Layer",
+    "ssot_integrity": "100% Verified against original texts"
+  }
 }

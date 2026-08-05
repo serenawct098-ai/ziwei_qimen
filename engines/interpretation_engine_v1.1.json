@@ -3955,7 +3955,7 @@
           ]
         }
       },
-      "兄弟宮": {
+      "兄弟": {
         "source_files": [
           "ZWQS_Juan2_LunXiongDi.json"
         ],
@@ -4123,7 +4123,7 @@
           ]
         }
       },
-      "夫妻宮": {
+      "夫妻": {
         "source_files": [
           "ZWQS_Juan2_LunQiQie.json"
         ],
@@ -4292,7 +4292,7 @@
           ]
         }
       },
-      "子女宮": {
+      "子女": {
         "source_files": [
           "ZWQS_Juan2_LunZiNv.json"
         ],
@@ -4481,7 +4481,7 @@
           ]
         }
       },
-      "財帛宮": {
+      "財帛": {
         "source_files": [
           "ZWQS_Juan2_LunCaiBo.json"
         ],
@@ -4657,7 +4657,7 @@
           ]
         }
       },
-      "疾厄宮": {
+      "疾厄": {
         "source_files": [
           "ZWQS_Juan2_LunJiE.json"
         ],
@@ -4826,7 +4826,7 @@
           ]
         }
       },
-      "遷移宮": {
+      "遷移": {
         "source_files": [
           "ZWQS_Juan2_LunQianYi.json"
         ],
@@ -5009,7 +5009,7 @@
           ]
         }
       },
-      "交友宮": {
+      "交友": {
         "source_files": [
           "ZWQS_Juan2_LunNuPu.json"
         ],
@@ -5193,7 +5193,7 @@
           ]
         }
       },
-      "官祿宮": {
+      "官祿": {
         "source_files": [
           "ZWQS_Juan2_LunGuanLu.json"
         ],
@@ -5446,7 +5446,7 @@
           ]
         }
       },
-      "田宅宮": {
+      "田宅": {
         "source_files": [
           "ZWQS_Juan2_LunTianZhai.json"
         ],
@@ -5615,7 +5615,7 @@
           ]
         }
       },
-      "福德宮": {
+      "福德": {
         "source_files": [
           "ZWQS_Juan2_LunFuDe.json"
         ],
@@ -5797,7 +5797,7 @@
           ]
         }
       },
-      "父母宮": {
+      "父母": {
         "source_files": [
           "ZWQS_Juan2_LunFuMu.json"
         ],

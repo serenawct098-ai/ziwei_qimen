@@ -769,8 +769,8 @@
       "庚": {
         "化祿": "太陽",
         "化權": "武曲",
-        "化科": "天同",
-        "化忌": "天相"
+        "化科": "太陰",
+        "化忌": "天同"
       },
       "辛": {
         "化祿": "巨門",
@@ -1932,5 +1932,11 @@
       "use": 0.5,
       "sum": 1.0
     }
+  },
+  "governance": {
+    "naming_standard": "mapping_contract_v1.1.json",
+    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
+    "dependency": "Layer 2 Mapping Layer",
+    "ssot_integrity": "100% Verified against original texts"
   }
 }

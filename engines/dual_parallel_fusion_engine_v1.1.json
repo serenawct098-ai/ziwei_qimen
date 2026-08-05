@@ -368,5 +368,11 @@
       "assertion_failed"
     ]
   },
-  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。"
+  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。",
+  "governance": {
+    "naming_standard": "mapping_contract_v1.1.json",
+    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
+    "dependency": "Layer 2 Mapping Layer",
+    "ssot_integrity": "100% Verified against original texts"
+  }
 }

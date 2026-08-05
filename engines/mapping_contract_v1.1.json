@@ -24,7 +24,7 @@
       "display_name": "兄弟宮",
       "legacy_aliases": ["兄弟宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.兄弟",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.兄弟宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.兄弟",
       "notes": "兄弟姊妹、人際支援。"
     },
     {
@@ -33,7 +33,7 @@
       "display_name": "夫妻宮",
       "legacy_aliases": ["妻妾宮", "配偶宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.夫妻",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.夫妻宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.夫妻",
       "notes": "舊稱妻妾宮，現代採夫妻宮。"
     },
     {
@@ -42,7 +42,7 @@
       "display_name": "子女宮",
       "legacy_aliases": ["子息宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.子女",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.子女宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.子女",
       "notes": "子女、後代。"
     },
     {
@@ -51,7 +51,7 @@
       "display_name": "財帛宮",
       "legacy_aliases": ["財帛宮", "錢財宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.財帛",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.財帛宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.財帛",
       "notes": "財運、收入、資源。"
     },
     {
@@ -60,7 +60,7 @@
       "display_name": "疾厄宮",
       "legacy_aliases": ["疾厄宮", "疾病宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.疾厄",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.疾厄宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.疾厄",
       "notes": "健康、疾病、壓力。"
     },
     {
@@ -69,7 +69,7 @@
       "display_name": "遷移宮",
       "legacy_aliases": ["遷移宮", "出外宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.遷移",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.遷移宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.遷移",
       "notes": "出行、搬遷、外地發展。"
     },
     {
@@ -78,7 +78,7 @@
       "display_name": "交友宮",
       "legacy_aliases": ["奴僕宮", "僕役宮", "朋友宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.交友",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.交友宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.交友",
       "notes": "舊稱奴僕宮／僕役宮，統一收束為交友宮。"
     },
     {
@@ -87,7 +87,7 @@
       "display_name": "官祿宮",
       "legacy_aliases": ["官祿宮", "事業宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.官祿",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.官祿宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.官祿",
       "notes": "事業、職位、職涯。"
     },
     {
@@ -96,7 +96,7 @@
       "display_name": "田宅宮",
       "legacy_aliases": ["田宅宮", "房產宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.田宅",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.田宅宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.田宅",
       "notes": "房屋、不動產、居住環境。"
     },
     {
@@ -105,7 +105,7 @@
       "display_name": "福德宮",
       "legacy_aliases": ["福德宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.福德",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.福德宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.福德",
       "notes": "幸福感、精神狀態、福蔭。"
     },
     {
@@ -114,7 +114,7 @@
       "display_name": "父母宮",
       "legacy_aliases": ["父母宮"],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.父母",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.父母宮",
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.父母",
       "notes": "父母、長輩、家庭背景。"
     }
   ],

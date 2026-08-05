@@ -519,5 +519,11 @@
       "original_quote": "惟天禽則無定位，寄西南而屬中宮"
     }
   },
-  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。"
+  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。",
+  "governance": {
+    "naming_standard": "mapping_contract_v1.1.json",
+    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
+    "dependency": "Layer 2 Mapping Layer",
+    "ssot_integrity": "100% Verified against original texts"
+  }
 }
