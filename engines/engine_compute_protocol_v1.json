@@ -80,5 +80,7 @@
       "ju_number": "number",
       "dun_type": "string"
     }
-  }
+  },
+  "natal_chart_compute": {},
+  "dynamic_overlay_compute": {}
 }

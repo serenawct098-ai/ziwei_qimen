@@ -24,13 +24,31 @@
     "annual_flying_stars": "流年九宮飛星圖"
   },
   "theme_router": {
-    "ASK_WEALTH": ["定富局", "論財帛"],
-    "ASK_CAREER": ["定貴局", "論官祿"],
-    "ASK_MARRIAGE": ["論夫妻", "淫奔大行"]
+    "ASK_WEALTH": [
+      "定富局",
+      "論財帛"
+    ],
+    "ASK_CAREER": [
+      "定貴局",
+      "論官祿"
+    ],
+    "ASK_MARRIAGE": [
+      "論夫妻",
+      "淫奔大行"
+    ]
   },
   "application_boundaries": {
-    "layer_scope": ["natal", "decade", "annual", "overlay_only"],
-    "validation_status": ["verified", "partial", "unverified"]
+    "layer_scope": [
+      "natal",
+      "decade",
+      "annual",
+      "overlay_only"
+    ],
+    "validation_status": [
+      "verified",
+      "partial",
+      "unverified"
+    ]
   },
   "overlay_validation_rules": {
     "must_cite_source": true,
