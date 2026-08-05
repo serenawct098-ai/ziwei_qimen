@@ -39,59 +39,66 @@
       ]
     },
     {
-      "id": "mental_resilience",
+      "id": "inner_spirit_resilience",
       "title": "精神內在與心理韌性",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "resilience_insights"
       ]
     },
     {
-      "id": "family_origin",
+      "id": "family_origin_context",
       "title": "原生家庭與養育脈絡",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "family_dynamics"
       ]
     },
     {
-      "id": "interpersonal_network",
-      "title": "人際網絡與貴小人格局",
+      "id": "social_network_nobles_villains",
+      "title": "人際網絡與貴人小人",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "social_risk_flags"
       ]
     },
     {
-      "id": "external_development",
+      "id": "outer_image_mobility",
       "title": "外顯形象與異地發展",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "mobility_opportunities"
       ]
     },
     {
-      "id": "living_environment",
+      "id": "home_environment_assets",
       "title": "居住環境與資產型態",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "asset_tendency"
       ]
     },
     {
-      "id": "junior_management",
+      "id": "junior_relations_team_leadership",
       "title": "晚輩緣分與團隊管理",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "leadership_style"
       ]
     },
     {
-      "id": "life_transitions",
+      "id": "timing_phases_turning_points",
       "title": "人生時節與轉折節奏",
       "components": [
         "original_quotes",
-        "modern_translation"
+        "modern_translation",
+        "timing_guidance"
       ]
     }
   ],
