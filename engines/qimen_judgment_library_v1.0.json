@@ -1,7 +1,6 @@
 {
   "module": "qimen_judgment_library",
   "_source_consolidated": "QMDJ_XiaJuan_Consolidated.json",
-  "description": "奇門遁甲吉凶組合斷語庫，包含三奇六儀組合、八門占驗、八神賦性等。數據源自《奇門遁甲秘笈大全》。",
   "combinations": [
     {
       "original_quote": "五不遇時龍不精，號為日月損光明，時幹來剋日乾上，甲日須知時忌庚，",

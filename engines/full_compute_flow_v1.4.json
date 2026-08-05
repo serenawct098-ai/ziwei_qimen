@@ -1,37 +1,5 @@
 {
   "title": "紫微奇門雙引擎完整運算流水線（Opcode版流程規格書）",
-  "binding_core_engine": {
-    "engine_file": "traditional_core_engine_v2.1.json",
-    "engine_version": "2.1.0",
-    "rule": "本流程不得繞過 v2.1 SSOT；所有靜態表與公式僅可由 v2.1_json_formula_ref 指向。"
-  },
-  "global_execution_contract": {
-    "topology_rule": "必須嚴格按 op_sequence 由小到大執行；任何 op_block 不可跳步執行",
-    "dependency_rule": "每個 op_block 僅可讀取 user_inputs、system_runtime_context 與 dependencies 中列出的 outputs",
-    "mutation_rule": "每個 op_block 只能寫入 declared_outputs，不可回寫上游結果",
-    "anti_hallucination_rule": "凡屬定數對照必須查 static_lookup_tables，嚴禁以數學公式推導或以口訣腦補",
-    "modulo_rule": "凡涉及逆行或可能負數之位移，必須使用 ((x % 12) + 12) % 12 安全模格式",
-    "error_policy": {
-      "missing_dependency": "HALT",
-      "invalid_lookup_key": "HALT",
-      "assertion_failed": "HALT",
-      "calendar_conversion_failed": "HALT"
-    },
-    "verification_order": [
-      "literature_line_by_line_comparison",
-      "json_field_mapping_comparison",
-      "sandbox_enumeration_validation",
-      "artifact_generation"
-    ],
-    "no_todo_allowed": true,
-    "fail_closed": true,
-    "late_zi_day_rollover_rule": {
-      "_doc": "晚子時換日鎖定規則(與core implementation_invariants.late_zi_day_rollover一致)",
-      "rule": "IF 出生時=子 AND 真太陽時23:00-23:59(晚子) THEN lunar_day+=1(次日);00:00-00:59(早子)lunar_day不變;HourBranch恆=子(index0)",
-      "month_year_rollover": "換日後 IF lunar_day>當月最大日 THEN lunar_day=1,lunar_month+=1; IF lunar_month>12 THEN lunar_month=1,lunar_year+=1(年干支重取)",
-      "why": "紫微定盤以lunar_day為輸入,命身宮以lunar_month;晚子不換日將令全盤偏移整宮"
-    }
-  },
   "user_inputs": {
     "birth_gregorian_datetime": "ISO-8601 datetime string with timezone",
     "birth_timezone": "IANA timezone string",
@@ -71,8 +39,6 @@
     "OP14",
     "OP15"
   ],
-  "op_blocks": {},
-  "_purpose": "端到端計算流水線（Opcode 拓撲）：串接 core_engine_v2.1 之 SSOT，輸出可執行的紫微＋奇門雙引擎完整計算契約；含真太陽時、交節精確時刻、precisionGate、時空橋樑。",
   "execution_pipeline": [
     "OCR讀盤",
     "§3三道閘(Pass1-3)",

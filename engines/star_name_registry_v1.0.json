@@ -324,7 +324,6 @@
       "display_name": "將星",
       "category": "雜曜神煞",
       "system": "jiangqian_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.jiangqian_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.jiangqian_12shen"
     },
@@ -333,7 +332,6 @@
       "display_name": "小耗",
       "category": "雜曜神煞",
       "system": "boshi_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
@@ -342,7 +340,6 @@
       "display_name": "小耗",
       "category": "雜曜神煞",
       "system": "suiqian_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     },
@@ -351,7 +348,6 @@
       "display_name": "大耗",
       "category": "雜曜神煞",
       "system": "boshi_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
@@ -360,7 +356,6 @@
       "display_name": "大耗",
       "category": "雜曜神煞",
       "system": "suiqian_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     },
@@ -369,7 +364,6 @@
       "display_name": "病符",
       "category": "雜曜神煞",
       "system": "boshi_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
@@ -378,7 +372,6 @@
       "display_name": "病符",
       "category": "雜曜神煞",
       "system": "suiqian_12shen",
-      "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
       "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     }

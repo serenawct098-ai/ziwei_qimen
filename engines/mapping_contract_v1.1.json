@@ -131,7 +131,6 @@
     }
   ],
   "ocr_normalization": {
-    "description": "處理 OCR 識別誤差與名詞變體，確保輸入符合標準化三字宮位名詞。",
     "rules": [
       {
         "target": "命宮",
@@ -279,7 +278,6 @@
     ]
   },
   "semantic_alignment": {
-    "description": "將現代口語詞彙對齊至古籍命理概念。",
     "term_map": {
       "創業": [
         "官祿宮",
@@ -361,7 +359,6 @@
     }
   },
   "intent_to_theme_map": {
-    "description": "根據使用者提問意圖，路由至對應的古籍主題與 line_id 範圍。",
     "intents": [
       {
         "intent": "ASK_WEALTH",

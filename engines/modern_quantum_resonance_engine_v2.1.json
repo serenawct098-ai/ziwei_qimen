@@ -73,12 +73,7 @@
       "traditional_core_engine_v2.1.json",
       "full_compute_flow_v1.4.json",
       "interpretation_engine_v1.1.json"
-    ],
-    "consume_only_verified_core_outputs": true,
-    "forbid_direct_formula_inference": true,
-    "forbid_freehand_json_fabrication": true,
-    "fail_closed": true,
-    "no_todo_allowed": true
+    ]
   },
   "data_resonance_layer": {
     "mathematical_models": {
@@ -136,7 +131,6 @@
         "llm_execution_forbidden": true
       },
       "ti_yong_balance": {
-        "_doc": "南體北用分層權重鎖（與 core.layered_interpretation_protocol 同步）",
         "body": 0.5,
         "use": 0.5,
         "conflict_policy": "parallel_annotation（體用並列，不單邊裁決）"
@@ -382,33 +376,14 @@
       "Q12_enforce_forbidden_phrase_gate"
     ],
     "blocks": {
-      "Q01_validate_verified_inputs": {},
-      "Q02_bind_canonical_snapshot": {},
       "Q03_apply_five_layer_sihua_weights": {
         "formula_reference": "raw_score = sum(weight_map[T] * L.layer_weight)"
       },
-      "Q04_compute_raw_score_and_energy_density": {},
-      "Q05_scan_asymmetry_and_hidden_kiji": {},
-      "Q06_map_ziwei_to_qimen_bridge": {},
-      "Q07_compute_collision_and_final_score": {},
       "Q08_check_hard_trigger_and_run_monte_carlo": {
         "outputs": [
           "top3_failure_nodes",
           "failure_path_clusters"
         ]
-      },
-      "Q09_detect_space_lock_and_compression_ratio": {},
-      "Q10_emit_mitigation_protocol": {},
-      "Q11_compose_zero_emotion_narrative": {},
-      "Q12_enforce_forbidden_phrase_gate": {},
-      "Q00_line_by_line_literature_audit": {
-        "fail_closed": true
-      },
-      "Q00A_json_field_mapping_audit": {
-        "fail_closed": true
-      },
-      "Q00B_sandbox_enumeration_gate": {
-        "fail_closed": true
       }
     }
   },
@@ -453,12 +428,6 @@
     },
     "next_action": "一個具體的下一步行動"
   },
-  "safety_assertions": {
-    "A1": "不得自行推導命宮/身宮/五虎遁/五行局/紫微/天府/十四主星/四化/斗君/旬首/三元/局數。",
-    "A2": "若 final_qimen_board、current_jieqi_exact_timestamp、zhi_to_qimen_palace_map 或 kun_2_redirect_rule 缺失，立即 HALT。",
-    "A3": "不得把 Monte Carlo 視為 LLM 內生能力；未經外部確定性沙盒驗證不得輸出。",
-    "A4": "任何 TODO、placeholder、未定義映射或缺依賴，一律 fail-closed。"
-  },
   "zhi_to_qimen_palace_map": {
     "子": 1,
     "丑": 8,
@@ -471,26 +440,13 @@
     "申": 2,
     "酉": 7,
     "戌": 6,
-    "亥": 6,
-    "tag": [
-      "_custom",
-      "non_classical"
-    ],
-    "tag_reason": "紫微十二宮與奇門九宮無古籍原文直接映射記載，此為系統整合設計之現代橋接規則",
-    "source_lock_status": "UNVERIFIED_CUSTOM"
+    "亥": 6
   },
   "kun_2_redirect_rule": {
     "rule": "if mapped or target palace == 5 then redirect to 2",
-    "tag": [
-      "_custom",
-      "non_classical"
-    ],
-    "tag_reason": "基於《大全》寄西南記載之推導映射",
-    "source_lock_status": "VERIFIED_CUSTOM_DERIVED",
     "_source": {
       "line_id": "QMDJ_Preface_L007",
       "original_quote": "惟天禽則無定位，寄西南而屬中宮"
     }
-  },
-  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。"
+  }
 }

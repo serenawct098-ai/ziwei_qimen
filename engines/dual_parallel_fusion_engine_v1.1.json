@@ -130,95 +130,7 @@
     }
   },
   "parallel_processing_pipeline": {
-    "architecture_type": "parallel_async_dual_track",
-    "execution_contract": {
-      "single_input": "dual_engine_standardized_matrix",
-      "parallel_targets": [
-        "traditional_mythos_engine",
-        "modern_quantum_resonance_engine"
-      ],
-      "synchronization_point": "fusion_layer_after_both_tracks_complete",
-      "fail_policy": "fail_closed_if_any_track_missing_or_unverified"
-    },
-    "pipeline_steps": [
-      {
-        "op": "normalize",
-        "desc": "將原始輸入轉為 dual_engine_standardized_matrix。"
-      },
-      {
-        "op": "dispatch",
-        "desc": "載入 traditional_mythos_engine.json 並輸出正統命理演繹。"
-      },
-      {
-        "op": "dispatch",
-        "desc": "載入 modern_quantum_resonance_engine.json 並輸出現代決策與反噬壓測。"
-      },
-      {
-        "op": "wait_all",
-        "desc": "等待雙軌結果完成。"
-      },
-      {
-        "op": "fuse",
-        "desc": "依統一模板縫合為單一報告。"
-      },
-      {
-        "op": "emit",
-        "desc": "輸出雙重維度綜合報告與 next action。"
-      },
-      {
-        "op": "verify_bridge",
-        "desc": "校驗 zhi_to_qimen_palace_map、kun_2_redirect_rule、current_jieqi_exact_timestamp 與 leap_month_rule_mode。"
-      }
-    ],
-    "parallel_output_contract": {
-      "track_A": {
-        "engine": "traditional_mythos_engine",
-        "required_outputs": [
-          "structured_findings",
-          "traditional_narrative_text",
-          "next_action"
-        ]
-      },
-      "track_B": {
-        "engine": "modern_quantum_resonance_engine",
-        "required_outputs": [
-          "structured_findings",
-          "narrative_text",
-          "mitigation_protocol",
-          "next_action"
-        ]
-      }
-    }
-  },
-  "fusion_layer": {
-    "fusion_rules": {
-      "F1": "先驗證雙軌均來自 verified core outputs；任何一軌未驗證即 HALT。",
-      "F2": "先輸出傳統卷，再輸出現代卷。",
-      "F3": "傳統卷不得被現代分數語言污染。",
-      "F4": "現代卷不得被古典吉凶修辭污染。",
-      "F5": "若雙軌對同一宮域結論方向相反，保留兩者並加註視角差異與底層依據；體用衝突（南派格局 vs 北派四化）亦依此並列標註，權重 0.5:0.5，不做單邊裁決",
-      "F6": "若 Track B 偵測 space_lock=True，必須在最終報告保留獨立段落。",
-      "F7": "若 Track A 掃描到成格且破格並見，必須在卷一同時呈現。",
-      "F8": "若 Track 缺失、依賴缺失、映射缺失或時間戳缺失，立即 HALT，不得 soft degrade。"
-    },
-    "cross_track_conflict_policy": {
-      "pattern": "tradition_positive_modern_negative",
-      "resolution": "標記為表層成局、執行受阻",
-      "evidence_gate": "must cite both verified track findings and shared bridge fields"
-    },
-    "cross_track_alignment_policy": {
-      "pattern": "tradition_warning_modern_warning",
-      "resolution": "升級為高一致性風險提示"
-    },
-    "ti_yong_lock": {
-      "body_school": "南派三合星曜派",
-      "use_school": "北派四化飛星",
-      "weights": {
-        "body": 0.5,
-        "use": 0.5
-      },
-      "expansion_forbidden": "不擴 12 宮宮干互飛"
-    }
+    "architecture_type": "parallel_async_dual_track"
   },
   "unified_combined_response_template": {
     "report_title": "☯️ 雙重維度·命理與系統決策報告",
@@ -297,13 +209,6 @@
       "shared_next_action": "string"
     }
   },
-  "safety_assertions": {
-    "C1": "雙軌共用同一 normalized matrix，不得各自重建不同版本輸入。",
-    "C2": "若 Track A 或 Track B 任一軌缺關鍵欄位，必須顯示降級狀態。",
-    "C3": "融合層只能拼接與標記，不得篡改各軌原始結論。",
-    "C4": "統一模板中所有數值、節點、方位、時間窗口，必須引用來源軌的已驗證輸出。",
-    "C5": "最終報告必須保留 one concrete next action。"
-  },
   "bridge_mapping_layer": {
     "zhi_to_qimen_palace_map": {
       "子": 1,
@@ -317,43 +222,14 @@
       "申": 2,
       "酉": 7,
       "戌": 6,
-      "亥": 6,
-      "tag": [
-        "_custom",
-        "non_classical"
-      ],
-      "tag_reason": "紫微十二宮與奇門九宮無古籍原文直接映射記載，此為系統整合設計之現代橋接規則",
-      "source_lock_status": "UNVERIFIED_CUSTOM"
+      "亥": 6
     },
     "kun_2_redirect_rule": {
       "rule": "if mapped or target palace == 5 then redirect to 2",
-      "tag": [
-        "_custom",
-        "non_classical"
-      ],
-      "tag_reason": "基於《大全》寄西南記載之推導映射",
-      "source_lock_status": "VERIFIED_CUSTOM_DERIVED",
       "_source": {
         "line_id": "QMDJ_Preface_L007",
         "original_quote": "惟天禽則無定位，寄西南而屬中宮"
       }
     }
-  },
-  "safety_layer": {
-    "fail_closed": true,
-    "consume_only_verified_core_outputs": true,
-    "forbid_direct_formula_inference": true,
-    "forbid_freehand_json_fabrication": true,
-    "no_todo_allowed": true,
-    "halt_conditions": [
-      "missing_dependency",
-      "unverified_track_output",
-      "missing_current_jieqi_exact_timestamp",
-      "missing_zhi_to_qimen_palace_map",
-      "missing_kun_2_redirect_rule",
-      "calendar_conversion_failed",
-      "assertion_failed"
-    ]
-  },
-  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。"
+  }
 }
