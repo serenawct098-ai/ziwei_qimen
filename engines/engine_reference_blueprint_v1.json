@@ -5570,6 +5570,13 @@
       "line_id": "UNKNOWN",
       "value_summary": "此規則為系統設計決策或硬性設定值: True",
       "status": "unverified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sha_po_lang",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_Pattern_L005",
+      "value_summary": "七殺、破軍、貪狼分居三方四正",
+      "status": "verified"
     }
   ]
 }
