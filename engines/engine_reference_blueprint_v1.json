@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "version": "1.0",
+    "role": "L0_Constitution",
+    "status": "LOCKED",
+    "last_updated": "2026-08-05"
+  },
+  "five_layer_mapping": {
+    "L1_Data": "data/*.json",
+    "L2_Mapping": "engine_truth_registry_v1.name_registries + mapping keys",
+    "L3_Compute": "engine_compute_protocol_v1.*",
+    "L4_Fusion": "engine_interpretation_fusion_v1.*",
+    "L5_Overlay": "engine_overlay_governance_v1.*"
+  },
+  "ziwei_full_chart_structure_mapping": {
+    "structural_layer": "engine_truth_registry_v1",
+    "pattern_layer": "engine_interpretation_fusion_v1",
+    "time_layer": "engine_compute_protocol_v1",
+    "event_layer": "engine_overlay_governance_v1"
+  },
+  "engine_to_text_source": {
+    "engine_truth_registry_v1": ["ZWQS_J1", "ZWQS_J2", "QMDJ_SJ", "QMDJ_XJ"],
+    "engine_compute_protocol_v1": ["All_Texts"],
+    "engine_interpretation_fusion_v1": ["ZWQS_J2", "ZWQS_J3", "QMDJ_SJ", "QMDJ_XJ"],
+    "engine_overlay_governance_v1": ["QMDJ_SJ", "QMDJ_XJ", "ZWQS_J3"]
+  }
+}
