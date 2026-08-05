@@ -30,6 +30,7 @@
         "standard_key": "夫妻",
         "display_name": "夫妻宮",
         "legacy_aliases": ["夫妻宮", "妻妾宮", "配偶宮"],
+        "section_aliases": ["論妻妾"],
         "engine_binding": "core_engine.palaces_axis.夫妻"
       },
       {
@@ -60,6 +61,7 @@
         "standard_key": "交友",
         "display_name": "交友宮",
         "legacy_aliases": ["交友宮", "奴僕宮", "奴僕", "僕役宮", "朋友宮"],
+        "section_aliases": ["論奴僕"],
         "engine_binding": "core_engine.palaces_axis.交友"
       },
       {
