@@ -67,5 +67,77 @@
         "engine_overlay_governance_v1"
       ]
     }
-  }
+  },
+  "citation_ledger": [
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnSihua_L002",
+      "value_summary": "太陽化祿, 武曲化權, 天同化科, 天相化忌 (系統依指令鎖定版本)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnSihua_L002",
+      "value_summary": "天梁化祿, 紫微化權, 左輔化科, 武曲化忌 (系統依指令鎖定版本)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.kui_yue_matrix.辛",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnKuiyue_L001",
+      "value_summary": "魁寅鉞午 (六辛逢虎馬)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.lu_cun_table",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnLucun_L001",
+      "value_summary": "十干祿存定點位 (如：甲祿在寅)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute.Step_01",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnMingShenLi_L001",
+      "value_summary": "寅起正月，順數生月，逆數生時安命，順數生時安身",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute.Step_03",
+      "data_file": "QMDJ_XiaJuan_Consolidated.json",
+      "line_id": "QMDJ_Juan30_L151",
+      "value_summary": "五虎遁月法 (甲己之年丙作首...)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.late_zi_rollover",
+      "data_file": "NONE",
+      "line_id": "NOT_FOUND",
+      "value_summary": "未在 data 層找到對應原文；依【三合派完整架構】藍圖執行 23:00 換日規則",
+      "status": "unverified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.heavy_taboo_logic",
+      "data_file": "NONE",
+      "line_id": "NOT_FOUND",
+      "value_summary": "未在 data 層找到對應原文；依【三合派完整架構】藍圖執行三重疊忌凶象倍增規則",
+      "status": "unverified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute",
+      "data_file": "ZWQS_Juan1_Consolidated.json",
+      "line_id": "ZWQS_Juan1_BrokenPatterns_L000",
+      "value_summary": "承載安星定局核心邏輯，引用卷一排局原文",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute",
+      "data_file": "ZWQS_Juan3_Consolidated.json",
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L000",
+      "value_summary": "承載限運疊盤邏輯，引用卷三大小限論斷原文",
+      "status": "verified"
+    }
+  ]
 }
