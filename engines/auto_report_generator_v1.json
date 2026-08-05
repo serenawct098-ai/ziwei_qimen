@@ -100,6 +100,60 @@
         "modern_translation",
         "timing_guidance"
       ]
+    },
+    {
+      "id": "qimen_relational_power_dynamics",
+      "title": "人際關係的戰略局勢",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "power_dynamics_summary"
+      ]
+    },
+    {
+      "id": "qimen_fengshui_spatial_layout",
+      "title": "空間方位與陰陽宅風水",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "fengshui_layout_suggestions"
+      ]
+    },
+    {
+      "id": "qimen_hidden_forces_shensha",
+      "title": "陰陽兩界與隱秘事件",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "hidden_forces_flags"
+      ]
+    },
+    {
+      "id": "qimen_event_timeline_omen",
+      "title": "事件時空脈絡與應期",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "timeline_guidance"
+      ]
+    },
+    {
+      "id": "qimen_travel_direction_risk_avoidance",
+      "title": "出行與避險決策",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "direction_risk_assessment"
+      ]
+    },
+    {
+      "id": "qimen_lost_items_people_location",
+      "title": "失物與尋人定位",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "location_pattern_summary"
+      ]
     }
   ],
   "generation_constraints": {

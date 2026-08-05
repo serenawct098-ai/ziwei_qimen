@@ -51,6 +51,29 @@
       "tier_1_judgment_index",
       "tier_2_pattern_index",
       "tier_3_principle_index"
+    ],
+    "qimen_relational_power_dynamics": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
+    ],
+    "qimen_fengshui_spatial_layout": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
+    ],
+    "qimen_hidden_forces_shensha": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
+    ],
+    "qimen_event_timeline_omen": [
+      "tier_3_principle_index"
+    ],
+    "qimen_travel_direction_risk_avoidance": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
+    ],
+    "qimen_lost_items_people_location": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
     ]
   },
   "routing_rules": [
@@ -177,6 +200,74 @@
       "palace_priority": [
         "命宮",
         "大限命宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_relational_power_dynamics",
+      "required_engine_fields": [
+        "qimen_day_stem",
+        "qimen_other_stems",
+        "qimen_use_god"
+      ],
+      "palace_priority": [
+        "mapped_qimen_palace"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_fengshui_spatial_layout",
+      "required_engine_fields": [
+        "qimen_palace_status",
+        "target_direction"
+      ],
+      "palace_priority": [
+        "nine_palace_layout"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_hidden_forces_shensha",
+      "required_engine_fields": [
+        "shenpan_deity_allocation"
+      ],
+      "palace_priority": [
+        "mapped_qimen_palace"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_event_timeline_omen",
+      "required_engine_fields": [
+        "yuan",
+        "ju_number",
+        "current_jieqi_exact_timestamp"
+      ],
+      "palace_priority": [
+        "mapped_qimen_palace"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_travel_direction_risk_avoidance",
+      "required_engine_fields": [
+        "target_direction",
+        "nine_palace_layout"
+      ],
+      "palace_priority": [
+        "mapped_qimen_palace"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "qimen_lost_items_people_location",
+      "required_engine_fields": [
+        "nine_palace_layout",
+        "tianpan_star_allocation",
+        "renpan_door_allocation"
+      ],
+      "palace_priority": [
+        "mapped_qimen_palace"
       ],
       "fallback_policy": "use_design_rules_if_no_text_source"
     }
