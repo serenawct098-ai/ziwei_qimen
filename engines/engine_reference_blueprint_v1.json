@@ -138,6 +138,20 @@
       "line_id": "ZWQS_Juan3_LunDaXianShiNian_L000",
       "value_summary": "承載限運疊盤邏輯，引用卷三大小限論斷原文",
       "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table",
+      "data_file": "ZWQS_Juan1_Consolidated.json",
+      "line_id": "ZWQS_Juan1_FuguiLun_L000",
+      "value_summary": "十四主星廟旺利陷矩陣，引用卷一諸星得地富貴論",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.palace_judgment_logic",
+      "data_file": "ZWQS_Juan1_Consolidated.json",
+      "line_id": "ZWQS_Juan1_FuguiLun_L001",
+      "value_summary": "依據三方四正拱照進行吉凶判定之邏輯基礎",
+      "status": "verified"
     }
   ]
 }
