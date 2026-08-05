@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "engine_name": "engine_truth_registry",
+    "version": "1.0",
+    "archetype": "SSOT + Registry Hub",
+    "layer": "L1_Truth"
+  },
+  "global_coordinate_system": {
+    "stems": ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"],
+    "branches": ["子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"],
+    "five_elements": ["木", "火", "土", "金", "水"],
+    "wuxing_ju": ["水二局", "木三局", "金四局", "土五局", "火六局"],
+    "directions": ["正北", "東北", "正東", "東南", "正南", "西南", "正西", "西北"]
+  },
+  "name_registries": {
+    "palace_name_registry": [
+      {
+        "standard_key": "命宮",
+        "display_name": "命宮",
+        "legacy_aliases": ["命宮"],
+        "engine_binding": "core_engine.palaces_axis.命宮"
+      },
+      {
+        "standard_key": "兄弟",
+        "display_name": "兄弟宮",
+        "legacy_aliases": ["兄弟宮"],
+        "engine_binding": "core_engine.palaces_axis.兄弟"
+      },
+      {
+        "standard_key": "夫妻",
+        "display_name": "夫妻宮",
+        "legacy_aliases": ["夫妻宮", "妻妾宮", "配偶宮"],
+        "engine_binding": "core_engine.palaces_axis.夫妻"
+      },
+      {
+        "standard_key": "子女",
+        "display_name": "子女宮",
+        "legacy_aliases": ["子女宮"],
+        "engine_binding": "core_engine.palaces_axis.子女"
+      },
+      {
+        "standard_key": "財帛",
+        "display_name": "財帛宮",
+        "legacy_aliases": ["財帛宮"],
+        "engine_binding": "core_engine.palaces_axis.財帛"
+      },
+      {
+        "standard_key": "疾厄",
+        "display_name": "疾厄宮",
+        "legacy_aliases": ["疾厄宮"],
+        "engine_binding": "core_engine.palaces_axis.疾厄"
+      },
+      {
+        "standard_key": "遷移",
+        "display_name": "遷移宮",
+        "legacy_aliases": ["遷移宮", "出外"],
+        "engine_binding": "core_engine.palaces_axis.遷移"
+      },
+      {
+        "standard_key": "交友",
+        "display_name": "交友宮",
+        "legacy_aliases": ["交友宮", "奴僕宮", "奴僕", "僕役宮", "朋友宮"],
+        "engine_binding": "core_engine.palaces_axis.交友"
+      },
+      {
+        "standard_key": "官祿",
+        "display_name": "官祿宮",
+        "legacy_aliases": ["官祿宮", "事業宮", "事業"],
+        "engine_binding": "core_engine.palaces_axis.官祿"
+      },
+      {
+        "standard_key": "田宅",
+        "display_name": "田宅宮",
+        "legacy_aliases": ["田宅宮"],
+        "engine_binding": "core_engine.palaces_axis.田宅"
+      },
+      {
+        "standard_key": "福德",
+        "display_name": "福德宮",
+        "legacy_aliases": ["福德宮"],
+        "engine_binding": "core_engine.palaces_axis.福德"
+      },
+      {
+        "standard_key": "父母",
+        "display_name": "父母宮",
+        "legacy_aliases": ["父母宮", "相貌宮"],
+        "engine_binding": "core_engine.palaces_axis.父母"
+      }
+    ],
+    "star_name_registry": [
+      {
+        "standard_key": "紫微",
+        "display_name": "紫微星",
+        "legacy_aliases": ["紫微"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "天機",
+        "display_name": "天機星",
+        "legacy_aliases": ["天機"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "太陽",
+        "display_name": "太陽星",
+        "legacy_aliases": ["太陽"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "武曲",
+        "display_name": "武曲星",
+        "legacy_aliases": ["武曲"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "天同",
+        "display_name": "天同星",
+        "legacy_aliases": ["天同"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "廉貞",
+        "display_name": "廉貞星",
+        "legacy_aliases": ["廉貞"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "天府",
+        "display_name": "天府星",
+        "legacy_aliases": ["天府"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "太陰",
+        "display_name": "太陰星",
+        "legacy_aliases": ["太陰"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "貪狼",
+        "display_name": "貪狼星",
+        "legacy_aliases": ["貪狼"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "巨門",
+        "display_name": "巨門星",
+        "legacy_aliases": ["巨門"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "天相",
+        "display_name": "天相星",
+        "legacy_aliases": ["天相", "印星"],
+        "system": "14_principal",
+        "disambiguation_note": "天相俗稱印星，不得作 core key"
+      },
+      {
+        "standard_key": "天梁",
+        "display_name": "天梁星",
+        "legacy_aliases": ["天梁"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "七殺",
+        "display_name": "七殺星",
+        "legacy_aliases": ["七殺", "將星"],
+        "system": "14_principal",
+        "disambiguation_note": "七殺俗稱將星，與將前十二神之將星不同"
+      },
+      {
+        "standard_key": "破軍",
+        "display_name": "破軍星",
+        "legacy_aliases": ["破軍"],
+        "system": "14_principal"
+      },
+      {
+        "standard_key": "文昌",
+        "display_name": "文昌星",
+        "legacy_aliases": ["文昌"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "文曲",
+        "display_name": "文曲星",
+        "legacy_aliases": ["文曲"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "左輔",
+        "display_name": "左輔星",
+        "legacy_aliases": ["左輔"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "右弼",
+        "display_name": "右弼星",
+        "legacy_aliases": ["右弼"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "天魁",
+        "display_name": "天魁星",
+        "legacy_aliases": ["天魁"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "天鉞",
+        "display_name": "天鉞星",
+        "legacy_aliases": ["天鉞"],
+        "system": "6_lucky"
+      },
+      {
+        "standard_key": "火星",
+        "display_name": "火星",
+        "legacy_aliases": ["火星"],
+        "system": "6_malefic"
+      },
+      {
+        "standard_key": "鈴星",
+        "display_name": "鈴星",
+        "legacy_aliases": ["鈴星"],
+        "system": "6_malefic"
+      },
+      {
+        "standard_key": "擎羊",
+        "display_name": "擎羊星",
+        "legacy_aliases": ["擎羊", "羊刃"],
+        "system": "6_malefic"
+      },
+      {
+        "standard_key": "陀羅",
+        "display_name": "陀羅星",
+        "legacy_aliases": ["陀羅"],
+        "system": "6_malefic"
+      },
+      {
+        "standard_key": "地空",
+        "display_name": "地空星",
+        "legacy_aliases": ["地空", "天空"],
+        "system": "6_malefic",
+        "disambiguation_note": "地空於部分流派稱天空，與歲前十二神之天空不同"
+      },
+      {
+        "standard_key": "地劫",
+        "display_name": "地劫星",
+        "legacy_aliases": ["地劫"],
+        "system": "6_malefic"
+      }
+    ]
+  },
+  "static_truth_tables": {
+    "sihua_matrix_presets": {
+      "wenmo_tianji_standard": {
+        "甲": { "化祿": "廉貞", "化權": "破軍", "化科": "武曲", "化忌": "太陽" },
+        "乙": { "化祿": "天機", "化權": "天梁", "化科": "紫微", "化忌": "太陰" },
+        "丙": { "化祿": "天同", "化權": "天機", "化科": "文昌", "化忌": "廉貞" },
+        "丁": { "化祿": "太陰", "化權": "天同", "化科": "天機", "化忌": "巨門" },
+        "戊": { "化祿": "貪狼", "化權": "太陰", "化科": "右弼", "化忌": "天機" },
+        "己": { "化祿": "武曲", "化權": "貪狼", "化科": "天梁", "化忌": "文曲" },
+        "庚": { "化祿": "太陽", "化權": "武曲", "化科": "天同", "化忌": "天相" },
+        "辛": { "化祿": "巨門", "化權": "太陽", "化科": "文曲", "化忌": "文昌" },
+        "壬": { "化祿": "天梁", "化權": "紫微", "化科": "左輔", "化忌": "武曲" },
+        "癸": { "化祿": "破軍", "化權": "巨門", "化科": "太陰", "化忌": "貪狼" }
+      }
+    },
+    "tiankui_tianyue_table": {
+      "standard": {
+        "甲": { "kui": "丑", "yue": "未" },
+        "戊": { "kui": "丑", "yue": "未" },
+        "庚": { "kui": "丑", "yue": "未" },
+        "乙": { "kui": "子", "yue": "申" },
+        "己": { "kui": "子", "yue": "申" },
+        "丙": { "kui": "亥", "yue": "酉" },
+        "丁": { "kui": "亥", "yue": "酉" },
+        "辛": { "kui": "寅", "yue": "午" },
+        "壬": { "kui": "卯", "yue": "巳" },
+        "癸": { "kui": "卯", "yue": "巳" }
+      }
+    },
+    "luzun_qingyang_tuoluo_table": {
+      "甲": "寅", "乙": "卯", "丙": "巳", "丁": "午", "戊": "巳", "己": "午", "庚": "申", "辛": "酉", "壬": "亥", "癸": "子"
+    },
+    "tianma_table": {
+      "寅": "申", "午": "申", "戌": "申", "申": "寅", "子": "寅", "辰": "寅", "巳": "亥", "酉": "亥", "丑": "亥", "亥": "巳", "卯": "巳", "未": "巳"
+    },
+    "luoshu_9palace": {
+      "1": "坎", "2": "坤", "3": "震", "4": "巽", "5": "中", "6": "乾", "7": "兌", "8": "艮", "9": "離"
+    },
+    "jieqi_3yuan_ju_table": {
+      "冬至": { "ju": [1, 7, 4], "type": "yang" },
+      "小寒": { "ju": [2, 8, 5], "type": "yang" },
+      "大寒": { "ju": [3, 9, 6], "type": "yang" },
+      "立春": { "ju": [8, 5, 2], "type": "yang" },
+      "雨水": { "ju": [9, 6, 3], "type": "yang" },
+      "驚蟄": { "ju": [1, 7, 4], "type": "yang" },
+      "春分": { "ju": [3, 9, 6], "type": "yang" },
+      "清明": { "ju": [4, 1, 7], "type": "yang" },
+      "穀雨": { "ju": [5, 2, 8], "type": "yang" },
+      "立夏": { "ju": [4, 1, 7], "type": "yang" },
+      "小滿": { "ju": [5, 2, 8], "type": "yang" },
+      "芒種": { "ju": [6, 3, 9], "type": "yang" },
+      "夏至": { "ju": [9, 3, 6], "type": "yin" },
+      "小暑": { "ju": [8, 2, 5], "type": "yin" },
+      "大暑": { "ju": [7, 1, 4], "type": "yin" },
+      "立秋": { "ju": [2, 5, 8], "type": "yin" },
+      "處暑": { "ju": [1, 4, 7], "type": "yin" },
+      "白露": { "ju": [9, 3, 6], "type": "yin" },
+      "秋分": { "ju": [7, 1, 4], "type": "yin" },
+      "寒露": { "ju": [6, 9, 3], "type": "yin" },
+      "霜降": { "ju": [5, 8, 2], "type": "yin" },
+      "立冬": { "ju": [6, 9, 3], "type": "yin" },
+      "小雪": { "ju": [5, 8, 2], "type": "yin" },
+      "大雪": { "ju": [4, 7, 1], "type": "yin" }
+    }
+  },
+  "canonical_locks": {
+    "sihua_lock": "wenmo_tianji_standard",
+    "tiankui_tianyue_lock": "六辛逢虎馬(魁寅鉞午)",
+    "late_zi_hour_rule": "23:00-23:59 換日，時支恆為子",
+    "leap_month_rule_mode": "sanhe_star_school_middle_split",
+    "expansion_forbidden": true
+  }
+}

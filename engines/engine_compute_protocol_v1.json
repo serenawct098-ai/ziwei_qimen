@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "engine_name": "engine_compute_protocol",
+    "version": "1.0",
+    "archetype": "Calculation + Validation Protocol",
+    "layer": "L2_Compute"
+  },
+  "input_contract": {
+    "required": [
+      "birth_datetime_iso8601",
+      "birth_longitude",
+      "birth_latitude",
+      "birth_timezone_iana",
+      "gender"
+    ],
+    "optional": [
+      "flow_year_zhi",
+      "flow_month_index",
+      "qimen_method",
+      "leap_month_rule_mode"
+    ]
+  },
+  "calendar_ephemeris_protocol": {
+    "solar_time_correction": "TrueSolarTime = BirthStandardTime + (birth_longitude - 120) * 4 + EoT",
+    "jieqi_precision": "必須使用天文交節精確時刻，精確至秒",
+    "late_zi_rollover": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'"
+  },
+  "calculation_pipeline": {
+    "natal_chart_compute": [
+      "Step 01: 定命身宮 (lunar_month, hour_zhi)",
+      "Step 02: 定十二宮地支位 (minggong_zhi_idx)",
+      "Step 03: 定五行局 (minggong_zhi_idx, year_gan)",
+      "Step 04: 起紫微星 (lunar_day, wuxing_ju)",
+      "Step 05: 安十四主星 (ziwei_idx)",
+      "Step 06: 安六吉六煞 (year_gan, hour_zhi, birth_month)",
+      "Step 07: 安雜曜十二神 (luzun_idx, year_zhi, flow_year_zhi)",
+      "Step 08: 定命主身主 (minggong_zhi_idx, year_zhi)"
+    ],
+    "dynamic_overlay_compute": [
+      "Step 09: 起大限 (wuxing_ju, gender, year_gan_yin_yang)",
+      "Step 10: 起小限 (year_zhi, age, gender)",
+      "Step 11: 疊加流年/流月/流日四化 (sihua_matrix_presets)"
+    ],
+    "qimen_compute": [
+      "Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)",
+      "Step 13: 佈地盤奇儀 (ju_number, dun_type)",
+      "Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)"
+    ]
+  },
+  "faction_presets": {
+    "sanhe_nanfang_default": {
+      "sihua": "wenmo_tianji_standard",
+      "kui_yue": "魁寅鉞午",
+      "leap_month": "月中分界"
+    }
+  },
+  "validation_gate": {
+    "check_longitude_range": "abs(birth_longitude - 120) < 15",
+    "check_datetime_validity": "ISO-8601 format check",
+    "check_gender_required": "gender must be male or female"
+  },
+  "halt_assertions": {
+    "missing_dependency": "HALT if core_truth_registry is unavailable",
+    "invalid_lookup": "HALT if key not in static_truth_tables",
+    "calculation_error": "HALT if modulo result < 0"
+  },
+  "output_contract": {
+    "raw_natal_matrix": {
+      "palaces": "array[12] of star_indices",
+      "wuxing_ju": "string",
+      "mingzhu_shenzhu": "object"
+    },
+    "raw_dynamic_layers": {
+      "decade_palace": "index",
+      "annual_sihua": "object",
+      "flow_stars": "object"
+    },
+    "raw_qimen_state": {
+      "nine_palaces": "object",
+      "ju_number": "number",
+      "dun_type": "string"
+    }
+  }
+}

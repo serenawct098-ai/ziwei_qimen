@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "engine_name": "engine_interpretation_fusion",
+    "version": "1.0",
+    "archetype": "Interpretation + Fusion + Narrative",
+    "layer": "L3_Interpretation"
+  },
+  "input_matrix_contract": {
+    "required_blocks": ["raw_natal_matrix", "raw_dynamic_layers", "raw_qimen_state"]
+  },
+  "traditional_interpretation_block": {
+    "palace_judgment_logic": "依據星曜廟旺、三方四正、四化落宮進行吉凶判定",
+    "pattern_matching": "掃描成格與破格條件 (如：極向離明、馬落空亡)",
+    "thematic_analysis": ["女命專論", "富貴貧賤", "疾厄災咎"]
+  },
+  "modern_resonance_block": {
+    "energy_density_calc": "計算宮位能量飽和度與衝突係數",
+    "risk_pressure_test": "模擬大限流年沖擊下的系統穩定性",
+    "decision_band": "輸出決策建議區間 (如：激進、穩健、規避)"
+  },
+  "fusion_block": {
+    "bridge_mapping_layer": {
+      "zhi_to_qimen_palace_map": { "子": 1, "丑": 8, "寅": 8, "卯": 3, "辰": 4, "巳": 4, "午": 9, "未": 2, "申": 2, "酉": 7, "戌": 6, "亥": 6 },
+      "kun_2_redirect_rule": "IF palace == 5 THEN redirect to 2 (天禽寄坤)",
+      "five_element_relation": "生剋制化矩陣"
+    },
+    "conflict_policy": {
+      "mode": "parallel_annotation",
+      "rule": "體用衝突時不做單邊裁決，並列呈現傳統與現代結論，加註視角差異"
+    },
+    "alignment_policy": {
+      "pattern": "tradition_warning_modern_warning",
+      "resolution": "升級為高一致性風險提示"
+    },
+    "report_template": {
+      "vol_1": "🏛️ 卷一：純正統·格局大局 (傳統敘事)",
+      "vol_2": "📊 卷二：現代系統·數據共振 (壓測報告)"
+    }
+  },
+  "narrative_output_contract": {
+    "structured_findings": "JSON object of logical hits",
+    "narrative_text": "Markdown formatted interpretation strings",
+    "next_action": "Concrete advisory step"
+  },
+  "safety_consumption_rules": {
+    "writeback_forbidden": true,
+    "consume_only_verified_outputs": true
+  }
+}

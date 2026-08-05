@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "engine_name": "engine_overlay_governance",
+    "version": "1.0",
+    "archetype": "Governance + Overlay + Application",
+    "layer": "L4_Overlay"
+  },
+  "governance_rules": {
+    "naming_lock": "嚴禁在 Interpretation 層自行定義新宮位或星曜名稱",
+    "ssot_alignment": "所有運算必須引用 engine_truth_registry_v1",
+    "writeback_policy": "禁止任何 Overlay 內容回寫 Compute 層"
+  },
+  "judgment_library": {
+    "star_combinations": "星曜組合斷語 (如：機梁同臨)",
+    "palace_status_quotes": "宮位狀態斷語 (如：財帛宮化忌)",
+    "qimen_gate_door_quotes": "奇門門星組合斷語"
+  },
+  "fengshui_overlay": {
+    "direction_objects": "各方位對應風水物件 (如：西北置金屬)",
+    "layout_suggestions": "室內佈局優化建議"
+  },
+  "annual_time_sensitive_tables": {
+    "2026_sha_qi": "2026 年度化煞方位與對策",
+    "annual_flying_stars": "流年九宮飛星圖"
+  },
+  "theme_router": {
+    "ASK_WEALTH": ["定富局", "論財帛"],
+    "ASK_CAREER": ["定貴局", "論官祿"],
+    "ASK_MARRIAGE": ["論夫妻", "淫奔大行"]
+  },
+  "application_boundaries": {
+    "layer_scope": ["natal", "decade", "annual", "overlay_only"],
+    "validation_status": ["verified", "partial", "unverified"]
+  },
+  "overlay_validation_rules": {
+    "must_cite_source": true,
+    "forbidden_direct_fabrication": true
+  }
+}
