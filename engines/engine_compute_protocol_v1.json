@@ -62,7 +62,13 @@
   "halt_assertions": {
     "missing_dependency": "HALT if core_truth_registry is unavailable",
     "invalid_lookup": "HALT if key not in static_truth_tables",
-    "calculation_error": "HALT if modulo result < 0"
+    "calculation_error": "HALT if modulo result < 0",
+    "validation_rules": [
+      "abs(birth_longitude - 120) < 15",
+      "ISO-8601 format check",
+      "gender in ['male', 'female']",
+      "late_zi_rollover_23:00"
+    ]
   },
   "output_contract": {
     "raw_natal_matrix": {
@@ -81,6 +87,18 @@
       "dun_type": "string"
     }
   },
-  "natal_chart_compute": {},
-  "dynamic_overlay_compute": {}
+  "natal_chart_compute": {
+    "ming_shen_palace": "寅起正月，順數生月，逆數生時安命；順數生時安身",
+    "wuxing_ju": "依命宮干支納音定 (水二、木三、金四、土五、火六)",
+    "ziwei_star_pos": "依五行局與生日查表定位",
+    "tianfu_star_pos": "與紫微星在寅申軸對稱定位",
+    "palace_axis": "命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)"
+  },
+  "dynamic_overlay_compute": {
+    "daxian_start": "依五行局定起限歲數",
+    "daxian_direction": "陽男陰女順行，陰男陽女逆行",
+    "liunian_palace": "以流年地支所在宮位為流年命宮",
+    "liuyue_doujun": "流年太歲宮起正月，逆數生月，順數生時定斗君",
+    "liuri_start": "流月命宮起初一，順行一日一宮"
+  }
 }

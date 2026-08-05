@@ -6,14 +6,19 @@
     "layer": "L4_Overlay"
   },
   "governance_rules": {
-    "naming_lock": "嚴禁在 Interpretation 層自行定義新宮位或星曜名稱",
+    "naming_lock": "Registry Standard Only",
     "ssot_alignment": "所有運算必須引用 engine_truth_registry_v1",
-    "writeback_policy": "禁止任何 Overlay 內容回寫 Compute 層"
+    "writeback_policy": "禁止任何 Overlay 內容回寫 Compute 層",
+    "writeback_forbidden": true
   },
   "judgment_library": {
     "star_combinations": "星曜組合斷語 (如：機梁同臨)",
     "palace_status_quotes": "宮位狀態斷語 (如：財帛宮化忌)",
-    "qimen_gate_door_quotes": "奇門門星組合斷語"
+    "qimen_gate_door_quotes": "奇門門星組合斷語",
+    "core_logic": {
+      "star_combinations": "依據卷二、卷三斷語進行星曜組合判定",
+      "palace_status": "依據四化落宮與宮位狀態輸出敘事"
+    }
   },
   "fengshui_overlay": {
     "direction_objects": "各方位對應風水物件 (如：西北置金屬)",

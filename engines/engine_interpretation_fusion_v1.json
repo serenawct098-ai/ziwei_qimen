@@ -19,12 +19,33 @@
       "女命專論",
       "富貴貧賤",
       "疾厄災咎"
-    ]
+    ],
+    "pattern_library": {
+      "sanfang_sizheng": "命、財、官為三方，加對宮遷移為四正",
+      "major_patterns": [
+        "極向離明",
+        "紫府同宮",
+        "機月同梁",
+        "殺破狼",
+        "巨日同宮",
+        "府相朝垣"
+      ],
+      "heavy_taboo_logic": "生年忌 + 大限忌 + 流年忌三重疊於同宮，凶象倍增"
+    }
   },
   "modern_resonance_block": {
     "energy_density_calc": "計算宮位能量飽和度與衝突係數",
     "risk_pressure_test": "模擬大限流年沖擊下的系統穩定性",
-    "decision_band": "輸出決策建議區間 (如：激進、穩健、規避)"
+    "decision_band": "輸出決策建議區間 (如：激進、穩健、規避)",
+    "risk_test_params": {
+      "sihua_weights": {
+        "natal": 1.0,
+        "decade": 0.5,
+        "annual": 0.3,
+        "monthly": 0.1
+      },
+      "conflict_policy": "parallel_annotation"
+    }
   },
   "fusion_block": {
     "bridge_mapping_layer": {

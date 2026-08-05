@@ -173,6 +173,34 @@
       "line_id": "QMDJ_Juan30_L006",
       "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
       "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute.ming_shen_palace",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnMingShenLi_L001",
+      "value_summary": "安命身宮公式：寅起正月順數月，逆數時安命，順數時安身",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuyue_doujun",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnDouJun_L001",
+      "value_summary": "安斗君公式：流年太歲宮起正月逆數月順數時",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sanfang_sizheng",
+      "data_file": "ZWQS_Juan1_Consolidated.json",
+      "line_id": "ZWQS_Juan1_FuguiLun_L001",
+      "value_summary": "三方四正架構定義，引用卷一諸星得地富貴論",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.heavy_taboo_logic",
+      "data_file": "NONE",
+      "line_id": "NOT_FOUND",
+      "value_summary": "三重疊忌凶象倍增規則 (藍圖硬性設定)",
+      "status": "unverified"
     }
   ]
 }
