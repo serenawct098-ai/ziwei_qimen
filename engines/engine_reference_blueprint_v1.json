@@ -13,15 +13,45 @@
     "L5_Overlay": "engine_overlay_governance_v1.*"
   },
   "ziwei_full_chart_structure_mapping": {
-    "structural_layer": "engine_truth_registry_v1",
-    "pattern_layer": "engine_interpretation_fusion_v1",
-    "time_layer": "engine_compute_protocol_v1",
-    "event_layer": "engine_overlay_governance_v1"
+    "palaces": [
+      "命宮",
+      "兄弟",
+      "夫妻",
+      "子女",
+      "財帛",
+      "疾厄",
+      "遷移",
+      "交友",
+      "官祿",
+      "田宅",
+      "福德",
+      "父母"
+    ],
+    "structure_layer": "engine_truth_registry_v1.global_coordinate_system.palaces_axis + star_strength_table",
+    "pattern_layer": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library",
+    "time_layer": "engine_compute_protocol_v1.dynamic_overlay_compute",
+    "event_layer": "engine_interpretation_fusion_v1.modern_resonance_block"
   },
   "engine_to_text_source": {
-    "engine_truth_registry_v1": ["ZWQS_J1", "ZWQS_J2", "QMDJ_SJ", "QMDJ_XJ"],
-    "engine_compute_protocol_v1": ["All_Texts"],
-    "engine_interpretation_fusion_v1": ["ZWQS_J2", "ZWQS_J3", "QMDJ_SJ", "QMDJ_XJ"],
-    "engine_overlay_governance_v1": ["QMDJ_SJ", "QMDJ_XJ", "ZWQS_J3"]
+    "engine_truth_registry_v1": [
+      "ZWQS_J1",
+      "ZWQS_J2",
+      "QMDJ_SJ",
+      "QMDJ_XJ"
+    ],
+    "engine_compute_protocol_v1": [
+      "All_Texts"
+    ],
+    "engine_interpretation_fusion_v1": [
+      "ZWQS_J2",
+      "ZWQS_J3",
+      "QMDJ_SJ",
+      "QMDJ_XJ"
+    ],
+    "engine_overlay_governance_v1": [
+      "QMDJ_SJ",
+      "QMDJ_XJ",
+      "ZWQS_J3"
+    ]
   }
 }
