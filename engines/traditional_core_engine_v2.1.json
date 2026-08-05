@@ -1321,10 +1321,7 @@
       "_jieqi_intra_hour_switch_rule": {
         "rule": "交節時刻精確到分秒；同一時辰中途交節時，交節前使用舊節氣局數，交節後（含交節分鐘起）立即切換新節氣局數",
         "timestamp_required": "jieqiExactTimestamp（ISO-8601含分秒，如香港天文台 2026 芒種=2026-06-05T23:48:00+08:00）必須由OP01強制輸出",
-        "data_source": "交節精確時刻採用香港天文台（HKO）二十四節氣日期及時間資料（HKT=UTC+8）為唯一真值源",
-        "data_source_url": "https://www.hko.gov.hk/tc/gts/astronomy/Solar_Term.htm",
-        "switch_logic": "IF currentTimestamp >= jieqiExactTimestamp THEN use_new_jieqi_ju ELSE use_old_jieqi_ju",
-        "note": "拆補法核心優勢：無超神接氣緩衝，節氣時刻到即切換，同一時辰前後可能使用不同局數"
+        "switch_logic": "IF currentTimestamp >= jieqiExactTimestamp THEN use_new_jieqi_ju ELSE use_old_jieqi_ju"
       }
     },
     "jieqi_3yuan_ju_table": {
@@ -1773,115 +1770,28 @@
   },
   "required_inputs": {
     "birth_datetime_iso8601": {
-      "type": "string",
-      "example": "1982-08-03T03:10:00+08:00",
-      "required": true
+      "type": "string"
     },
     "birth_longitude": {
       "type": "number",
-      "unit": "decimal_degrees",
-      "example": 114.1694,
-      "required": true,
-      "note": "出生地東經度，用於真太陽時計算；香港≈114.17，北京≈116.39"
+      "unit": "decimal_degrees"
     },
     "birth_latitude": {
       "type": "number",
-      "unit": "decimal_degrees",
-      "example": 22.3193,
-      "required": false
+      "unit": "decimal_degrees"
     },
     "birth_timezone_iana": {
-      "type": "string",
-      "example": "Asia/Hong_Kong",
-      "required": true
+      "type": "string"
     },
     "flow_year_zhi": {
-      "type": "string",
-      "example": "午",
-      "required": true
+      "type": "string"
     },
     "flow_month_index": {
       "type": "integer",
-      "range": "0-11",
-      "note": "寅月=0",
-      "required": true
+      "range": "0-11"
     },
     "true_solar_time_formula": {
-      "data_source": "香港天文台（HKO）：真太陽時可由 HKO「日出、日中天、日落」表之日中天時刻反推（該表已內含經度時差與均時差）；亦可由天文計算之均時差值代入；節氣交節時刻採 HKO 二十四節氣資料（HKT=UTC+8）",
-      "data_source_url": "https://www.hko.gov.hk/tc/gts/astronomy/Solar_Term.htm（節氣時刻）；https://www.hko.gov.hk/tc/gts/time/ （日出日中天日落／時差）",
-      "step1": "LongitudeDiff = birth_longitude - StandardMeridian（東八區=120）",
-      "step2": "LongitudeTimeDiffMinutes = LongitudeDiff * 4",
-      "step3": "EoTMinutes = 均時差（Equation of Time，依出生日期查香港天文台天文資料；範圍約 -14 至 +16 分）",
-      "step4": "TrueSolarTime = BirthStandardTime + LongitudeTimeDiffMinutes + EoTMinutes（分鐘）",
-      "example_HK": "香港114.17°: 經度時差=(114.17-120)*4=-23.32分；再加當日均時差（如芒種前後約-1至-2分）後得真太陽時",
       "assertion2": "IF abs(LongitudeDiff) > 15 THEN WARN('經度偏差超過1小時，時柱可能跨界')"
-    }
-  },
-  "_last_updated": "2026-07-04",
-  "_doctrine_locks": [
-    "斗君公式（《全書·安斗君訣》逆生月、順生時）：DouJunPalaceIdx = (TaiSuiPalaceIdx - BirthMonthIndex + BirthHourIndex + 24) % 12",
-    "sihua_matrix 庚干以文墨天機標準為唯一真值：天同化科、天相化忌",
-    "tiankui_tianyue_table 辛干以文墨天機「六辛逢虎馬(預設)」為唯一真值：魁寅鉞午",
-    "13_qimen_sanyuan 三元以符頭地支 XunshouZhiIdx 為輸入源（非 DayZhiIdx）",
-    "san_yuan_lookup 僅保留偶數符頭六甲旬首（0/2/4/6/8/10），奇數為干支組合無效",
-    "leap_month_rule_mode 閏月開關：mode_middle_split（月中分界，符合文墨天機預設）",
-    "時辰內交節切換以 jieqiExactTimestamp 斷言界定",
-    "required_inputs 含 birth_longitude 與真太陽時公式",
-    "flow_tiankui_tianyue_rule 流年天魁鉞斷言",
-    "08_auxiliary_stars 含天馬（三合驛馬）與 tianma_table 靜態表",
-    "長生十二神 16_changsheng_12shen 與 changsheng_12_sequence/changsheng_start_by_ju",
-    "博士十二神 15_boshi_12shen 與 boshi_12_sequence",
-    "歲前十二神 17_suiqian_12shen 與 suiqian_12_sequence",
-    "將前十二神 18_jiangqian_12shen 與 jiangqian_12_sequence",
-    "天傷天使 19_tianshang_tianshi 固定宮法：天傷=交友宮、天使=疾厄宮",
-    "截路空亡/旬空 20_jielu_kongwang_xunkong",
-    "自化邏輯 21_zihua_self_transformation",
-    "重忌特例邏輯：生年忌與自化忌同星重疊之加重判斷規則",
-    "早晚子時：晚子時(23:00-23:59) lunar_day+=1，時支恆=子(idx0)",
-    "體用分層：南派為體、北派四化為用；體用並列 0.5:0.5；不擴充 12 宮宮干互飛，僅保留五層四化+自化"
-  ],
-  "layered_interpretation_protocol": {
-    "body_layer": {
-      "school": "南派三合星曜派",
-      "scope": [
-        "命身宮定位",
-        "十四主星廟旺利平陷",
-        "三方四正拱夾",
-        "六吉六煞",
-        "傳統格局",
-        "命主身主五行局"
-      ],
-      "role": "定格局範圍、星性強弱、潛能上限、助阻結構",
-      "weight": 0.5
-    },
-    "use_layer": {
-      "school": "北派四化飛星",
-      "scope": [
-        "本命四化",
-        "大限四化",
-        "流年四化",
-        "流月四化",
-        "流日四化",
-        "宮干自化(21_zihua)"
-      ],
-      "expansion_forbidden": "不擴充 12 宮宮干互飛；僅保留五層天干四化 + 本命宮干自化",
-      "role": "定心念定向、後天觸機、宮際能量牽引、得(祿)/爭(權)/名(科)/失(忌)",
-      "weight": 0.5
-    },
-    "interpretation_order": [
-      "step1_body: 先掃描格局成否、主星廟旺陷、三方四正得援 → 基礎吉凶",
-      "step2_use: 疊加四化落宮、祿忌相沖引 → 事件觸機/時位",
-      "step3_parallel: 體用並列標註（不裁決優先），衝突時同步呈現兩軌結論並附底層依據"
-    ],
-    "conflict_policy": {
-      "mode": "parallel_annotation",
-      "rule": "體用衝突時不做單邊裁決；並列呈現「體之結論」與「用之結論」，加註視角差異與底層依據（對應 dual_parallel F5）",
-      "forbidden": "以用蓋體、以體蓋用、單邊裁決"
-    },
-    "weight_lock": {
-      "body": 0.5,
-      "use": 0.5,
-      "sum": 1.0
     }
   }
 }

@@ -66,36 +66,28 @@
     "bashen_dingxing": {
       "_source": "正統奇門八神；吉神助力、凶神洩力",
       "值符": {
-        "jixiong": "大吉",
-        "note": "最尊，諸事增力"
+        "jixiong": "大吉"
       },
       "太陰": {
-        "jixiong": "吉",
-        "note": "暗助/陰貴/謀劃"
+        "jixiong": "吉"
       },
       "六合": {
-        "jixiong": "吉",
-        "note": "和合/婚姻/合作"
+        "jixiong": "吉"
       },
       "九天": {
-        "jixiong": "吉",
-        "note": "揚名/遠行/高舉"
+        "jixiong": "吉"
       },
       "九地": {
-        "jixiong": "吉",
-        "note": "穩固/守成/隱藏"
+        "jixiong": "吉"
       },
       "螣蛇": {
-        "jixiong": "凶",
-        "note": "虛驚/纏繞/反覆"
+        "jixiong": "凶"
       },
       "白虎": {
-        "jixiong": "凶",
-        "note": "凶傷/爭鬥/疾病"
+        "jixiong": "凶"
       },
       "玄武": {
-        "jixiong": "凶",
-        "note": "盜失/欺瞞/暗害"
+        "jixiong": "凶"
       }
     },
     "wuxing_relations": {

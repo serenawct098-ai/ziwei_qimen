@@ -362,8 +362,7 @@
     "tianshang_tianshi": {
       "rule": "固定宮法：天傷永居交友宮、天使永居疾厄宮",
       "tianshang_palace": "交友宮",
-      "tianshi_palace": "疾厄宮",
-      "note": "本 SSOT 鎖定固定宮法，不採動態法"
+      "tianshi_palace": "疾厄宮"
     },
     "jielu_xunkong": {
       "jielu_kongwang": {
@@ -390,9 +389,6 @@
             1
           ]
         }
-      },
-      "xunkong": {
-        "example": "甲子日→旬空[戌(10),亥(11)]"
       }
     },
     "tianma": {
@@ -950,7 +946,6 @@
       }
     },
     "full_60_verification": {
-      "note": "60甲子中所有組合已在 v2.0 核心引擎驗證，計算結果一致",
       "examples": [
         {
           "input": "ShiZhi=子(0),ShiGan=甲(0)",

@@ -6,13 +6,6 @@
     "scope": "統一資料接口、平行調度 traditional_mythos_engine 與 modern_quantum_resonance_engine、輸出單一綜合報告。"
   },
   "engine_dependencies": {
-    "required": [
-      "traditional_mythos_engine_v1.3.1.json",
-      "modern_quantum_resonance_engine_v2.1.json",
-      "interpretation_engine_v1.1.json",
-      "full_compute_flow_v1.4.json",
-      "traditional_core_engine_v2.1.json"
-    ],
     "shared_reference_contracts": [
       "ziweiqimeninterfacecontractv1",
       "dualtrackcollisionworkflow",
