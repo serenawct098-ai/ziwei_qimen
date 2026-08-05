@@ -1,7 +1,6 @@
 {
   "module_id": "qimen_fengshui_layout_v0.1",
   "title": "奇門遁甲風水佈局模組（擺物件催旺化煞）— core_engine_v2.1 下游消費層",
-  "positioning": "純下游消費層：只讀 core_engine_v2.1 已定之奇門盤（局數/九宮天盤地盤門神）與 zhi_to_qimen_luoshu_mapping，依五行生剋判定催旺/化煞物件。嚴禁重算起局、嚴禁覆蓋上游 SSOT。",
   "isolation_and_safety": {
     "_redline": "嚴禁腦補/自創未列於本模組查表之物件、方位、五行；嚴禁跳步；查表唯一真值；未經斷言驗證禁直出。",
     "ground_truth_sources": [

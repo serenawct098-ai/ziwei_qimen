@@ -1,11 +1,4 @@
 {
-  "engine_name": "modern_quantum_resonance_engine",
-  "archetype": "Systemic Risk & Optimization Analyst",
-  "positioning": {
-    "core_principle": "精密、冷酷、極致理性的決策科學；去除好運/壞運語言，將命盤視為動態隨機干涉的壓力系統。",
-    "scope": "只輸出可被驗證的結構風險、干涉來源、行動窗口與防禦協議；不使用宿命、福報、天意等敘事。",
-    "double_engine_role": "與 traditional_mythos_engine 並行運算；本引擎專司壓測、失效機理、盲點偵測與時空鎖死判定。"
-  },
   "input_interface": {
     "required_data": [
       "birth_chart",

@@ -1,25 +1,10 @@
 {
-  "engine_name": "dual_parallel_fusion_engine",
-  "archetype": "Parallel Dual-Track Unified Interpreter",
-  "positioning": {
-    "core_principle": "不要求使用者選擇傳統或現代引擎；同一份標準化命盤矩陣進入後，雙軌同時運算，最終自動縫合為單一報告。",
-    "scope": "統一資料接口、平行調度 traditional_mythos_engine 與 modern_quantum_resonance_engine、輸出單一綜合報告。"
-  },
-  "engine_dependencies": {
-    "shared_reference_contracts": [
-      "ziweiqimeninterfacecontractv1",
-      "dualtrackcollisionworkflow",
-      "ziweiqimenbridgelayer",
-      "narrativeoutputenginev2"
-    ]
-  },
   "data_normalization_layer": {
     "accepted_input_types": [
       "raw_birth_datetime_and_location",
       "precomputed_birth_chart",
       "partial_chart_with_qimen_context"
     ],
-    "normalized_matrix_name": "dual_engine_standardized_matrix",
     "normalized_matrix": {
       "required_blocks": [
         "identity_snapshot",

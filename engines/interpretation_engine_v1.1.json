@@ -259,20 +259,6 @@
           "亥": "酉"
         }
       }
-    },
-    "calculation_logic": {
-      "文昌": "lookup wenchang_by_hour_zhi[生時地支]",
-      "文曲": "lookup wenqu_by_hour_zhi[生時地支]",
-      "左輔": "lookup zuofu_by_birth_month[農曆月序，寅=1]",
-      "右弼": "lookup youbi_by_birth_month[農曆月序，寅=1]",
-      "天魁": "lookup tiankui_by_year_gan[生年天干]",
-      "天鉞": "lookup tianyue_by_year_gan[生年天干]",
-      "祿存": "lookup lucun_by_year_gan[生年天干]",
-      "擎羊": "lookup qingyang_by_year_gan[生年天干]",
-      "陀羅": "lookup tuoluo_by_year_gan[生年天干]",
-      "天馬": "lookup tianma_by_year_or_flow_zhi[生年地支]（流年時用流年地支）",
-      "火星": "確定年支三合組 → lookup huoxing_by_year_zhi_group[組][生時地支]",
-      "鈴星": "確定年支三合組 → lookup lingxing_by_year_zhi_group[組][生時地支]"
     }
   },
   "S5b_minor_stars_12shen": {
@@ -615,15 +601,9 @@
         "戌": "平",
         "亥": "平"
       }
-    },
-    "calculation_logic": {
-      "step_a": "brightness_label = brightness_table[star_name][palace_zhi]",
-      "step_b": "brightness_score = brightness_encoding[brightness_label]",
-      "output": "brightness_label: 廟/旺/利/平/陷, brightness_score: 0-4"
     }
   },
   "S7_sihua": {
-    "anti_hallucination": "禁止憑記憶推導，必須全量查表",
     "lookup_tables": {
       "sihua_complete_table": {
         "甲": {
@@ -666,8 +646,7 @@
           "化祿": "太陽",
           "化權": "武曲",
           "化科": "天同",
-          "化忌": "天相",
-          "_note": "庚干鎖定文墨天機App：（陽武同相）"
+          "化忌": "天相"
         },
         "辛": {
           "化祿": "巨門",
@@ -688,62 +667,6 @@
           "化忌": "貪狼"
         }
       }
-    },
-    "calculation_logic": {
-      "step_a": "本命四化：sihua_complete_table[出生年天干]",
-      "step_b": "大限四化：sihua_complete_table[大限干天干]",
-      "step_c": "流年四化：sihua_complete_table[流年干天干]",
-      "layer_weights": {
-        "_layer_type": "MODERN_ENHANCEMENT_LAYER（現代量化加權；不覆蓋古典斷語）",
-        "本命": 1.0,
-        "大限": 0.7,
-        "流年": 0.5,
-        "流月": 0.3,
-        "流日": 0.1,
-        "_note": "此為卷二現代壓測用之加權；卷一古典解讀不採此數值"
-      },
-      "impact_multipliers": {
-        "_layer_type": "MODERN_ENHANCEMENT_LAYER（非古典定數）",
-        "_source": "現代風險評估係數，僅供現代解盤引擎使用",
-        "同一星三層均化忌": "× 3.0",
-        "任一化忌入命宮": "× 2.0",
-        "財帛+官祿同年雙忌": "× 1.5"
-      },
-      "classical_rule": {
-        "_layer_type": "CLASSICAL_RULE（《全書》原文定數）",
-        "priority": "古典層優先；MODERN_ENHANCEMENT_LAYER僅作輔助參考，不可覆蓋古典斷語"
-      },
-      "step_d_flow_month": "流月四化：sihua_complete_table[流月干天干]",
-      "step_e_flow_day": "流日四化：sihua_complete_table[流日干天干]"
-    },
-    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干依文墨天機標準：太陽化祿、武曲化權、天同化科、天相化忌（陽武同相）",
-    "ti_yong_layered_lock": {
-      "body_school": "南派三合星曜派（見 S3~S6：主星/天府系/輔星/廟旺）",
-      "use_school": "北派四化飛星（本 S7 + S7b 自化）",
-      "use_scope_lock": [
-        "本命四化（YearGan）",
-        "大限四化（DalianGan）",
-        "流年四化（FlowYearGan）",
-        "流月四化（FlowMonthGan）",
-        "流日四化（FlowDayGan）",
-        "宮干自化（見 S7b_zihua）"
-      ],
-      "expansion_forbidden": "不擴充 12 宮宮干互飛；僅保留五層天干四化 + 本命宮干自化",
-      "weights": {
-        "body": 0.5,
-        "use": 0.5,
-        "sum": 1.0
-      },
-      "conflict_policy": {
-        "mode": "parallel_annotation",
-        "rule": "體用衝突並列標註（南派格局 vs 北派四化），不做單邊裁決；對應 dual_parallel F5",
-        "forbidden": "以用蓋體、以體蓋用、單邊裁決"
-      },
-      "interpretation_order": [
-        "step1_body_first: 先由 S3~S6 完成體層掃描（格局、廟旺、三方四正）",
-        "step2_use_overlay: 於本 S7 疊加五層四化與 S7b 自化",
-        "step3_parallel_mark: 體用衝突時並列輸出兩軌結論與底層依據"
-      ]
     },
     "sihua_matrix": {
       "甲": {
@@ -809,12 +732,6 @@
     }
   },
   "S7b_zihua": {
-    "calculation_logic": {
-      "step_a": "取本宮宮干 PalaceGan（由五虎遁月干法推得各宮天干）",
-      "step_b": "查 sihua_matrix[PalaceGan] 得祿/權/科/忌四星",
-      "step_c": "若化曜星落於本宮坐星，標記 自化祿/權/科/忌",
-      "step_d": "若標記為自化忌且該星同時帶有生年忌，標記為「重忌」"
-    },
     "types": {
       "自化祿": "主動付出、向外流失",
       "自化權": "自我擴張",

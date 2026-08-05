@@ -1619,8 +1619,7 @@
         "絕",
         "胎",
         "養"
-      ],
-      "_note": "陽男陰女順行、陰男陽女逆行；起點由五行局決定（見 changsheng_start_by_ju）"
+      ]
     },
     "changsheng_start_by_ju": {
       "_classical": "《全書》：火六局長生在寅、木三局長生在亥、金四局長生在巳、水二局/土五局長生在申",
@@ -1719,7 +1718,6 @@
     "_note_sihua": "全系統統一鎖定文墨天機App標準版，不標示比對說明。"
   },
   "dynamic_mathematical_formulas": {
-    "_note": "起盤算式已廢除，系統改為 OCR 驅動。本區塊僅保留座標對齊所需的結構定義。",
     "coordinate_alignment_structures": {
       "palace_sequence": [
         "命宮",
