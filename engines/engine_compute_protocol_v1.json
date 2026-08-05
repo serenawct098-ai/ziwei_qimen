@@ -23,7 +23,14 @@
   "calendar_ephemeris_protocol": {
     "solar_time_correction": "TrueSolarTime = BirthStandardTime + (birth_longitude - 120) * 4 + EoT",
     "jieqi_precision": "必須使用天文交節精確時刻，精確至秒",
-    "late_zi_rollover": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'"
+    "late_zi_rollover": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'",
+    "late_zi_dual_chart_mode": {
+      "name": "晚子時雙盤對照",
+      "trigger_conditions": "birth_time between 23:00 and 23:30",
+      "action": "generate_dual_charts",
+      "effect_summary": "同時印出當日與次日兩張命盤進行定盤",
+      "status": "active"
+    }
   },
   "calculation_pipeline": {
     "natal_chart_compute": [
@@ -45,7 +52,21 @@
       "Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)",
       "Step 13: 佈地盤奇儀 (ju_number, dun_type)",
       "Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)"
-    ]
+    ],
+    "self_transformation_rules": {
+      "xiangxin": {
+        "name": "向心自化",
+        "trigger_conditions": "對宮天干四化飛入本宮",
+        "effect_summary": "能量往內收，代表被動、承受、依賴",
+        "status": "active"
+      },
+      "lixin": {
+        "name": "離心自化",
+        "trigger_conditions": "本宮天干四化飛出至對宮",
+        "effect_summary": "能量往外散，代表主動、付出、耗散",
+        "status": "active"
+      }
+    }
   },
   "faction_presets": {
     "sanhe_nanfang_default": {
@@ -68,6 +89,10 @@
       "ISO-8601 format check",
       "gender in ['male', 'female']",
       "late_zi_rollover_23:00"
+    ],
+    "dual_chart_consistency_checks": [
+      "verify_past_events_against_dual_charts",
+      "confirm_personality_traits"
     ]
   },
   "output_contract": {
@@ -99,6 +124,43 @@
     "daxian_direction": "陽男陰女順行，陰男陽女逆行",
     "liunian_palace": "以流年地支所在宮位為流年命宮",
     "liuyue_doujun": "流年太歲宮起正月，逆數生月，順數生時定斗君",
-    "liuri_start": "流月命宮起初一，順行一日一宮"
+    "liuri_start": "流月命宮起初一，順行一日一宮",
+    "decadal_rules": {
+      "name": "大限起法",
+      "trigger_conditions": {
+        "basis": "wuxing_ju",
+        "gender_polarity": "yin_yang_gender",
+        "direction": "陽男陰女順行，陰男陽女逆行"
+      },
+      "effect_summary": "每十年一限，決定十年大運之體",
+      "status": "active"
+    },
+    "annual_rules": {
+      "name": "流年太歲宮",
+      "trigger_conditions": {
+        "current_year_branch": "liunian_zhi"
+      },
+      "effect_summary": "以流年地支所在宮位為流年命宮",
+      "status": "active"
+    },
+    "monthly_rules": {
+      "name": "流月起法",
+      "trigger_conditions": {
+        "liunian_palace": "taisui_palace",
+        "birth_month": "natal_month",
+        "birth_hour": "natal_hour"
+      },
+      "effect_summary": "流年太歲宮起正月，逆數生月，順數生時定斗君",
+      "status": "active"
+    },
+    "daily_hourly_rules": {
+      "liuri": "流月命宮起初一，順行一日一宮",
+      "liushi": "流日所在宮起子時，順布十二宮"
+    },
+    "shensha_rules": {
+      "boshi_12": "博士十二神依生年干/支及起點順逆安布",
+      "jiangqian_12": "將前十二神依生年支三合局安布",
+      "suiqian_12": "歲前十二神依流年支安布"
+    }
   }
 }

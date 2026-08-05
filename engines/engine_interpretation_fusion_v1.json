@@ -30,7 +30,74 @@
         "巨日同宮",
         "府相朝垣"
       ],
-      "heavy_taboo_logic": "生年忌 + 大限忌 + 流年忌三重疊於同宮，凶象倍增"
+      "heavy_taboo_logic": "生年忌 + 大限忌 + 流年忌三重疊於同宮，凶象倍增",
+      "zifu_chaoyuan": {
+        "name": "紫府朝垣",
+        "trigger_conditions": {
+          "main_stars": [
+            "紫微",
+            "天府"
+          ],
+          "palaces_required": [
+            "命宮",
+            "官祿"
+          ],
+          "brightness_min": "旺"
+        },
+        "effect_summary": "主格局，事業權威、資源集中",
+        "status": "active"
+      },
+      "sha_po_lang": {
+        "name": "殺破狼",
+        "trigger_conditions": {
+          "main_stars": [
+            "七殺",
+            "破軍",
+            "貪狼"
+          ],
+          "distribution": "分居三方四正"
+        },
+        "effect_summary": "大起大落，變動強烈，適合風險型行業",
+        "status": "active"
+      },
+      "jiyue_tongliang": {
+        "name": "機月同梁",
+        "trigger_conditions": {
+          "main_stars": [
+            "天機",
+            "太陰",
+            "天同",
+            "天梁"
+          ],
+          "distribution": "會照於命宮三方四正"
+        },
+        "effect_summary": "穩定、公職、輔佐之才",
+        "status": "active"
+      },
+      "ju_ri_tonggong": {
+        "name": "巨日同宮",
+        "trigger_conditions": {
+          "main_stars": [
+            "巨門",
+            "太陽"
+          ],
+          "palace": "寅宮或申宮"
+        },
+        "effect_summary": "食祿、名聲，適合外交與演說",
+        "status": "active"
+      },
+      "fuxiang_chaoyuan": {
+        "name": "府相朝垣",
+        "trigger_conditions": {
+          "main_stars": [
+            "天府",
+            "天相"
+          ],
+          "distribution": "會照於命宮"
+        },
+        "effect_summary": "衣食無憂，有貴人扶持",
+        "status": "active"
+      }
     }
   },
   "modern_resonance_block": {
