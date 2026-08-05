@@ -30,7 +30,12 @@
         "巨日同宮",
         "府相朝垣"
       ],
-      "heavy_taboo_logic": "生年忌 + 大限忌 + 流年忌三重疊於同宮，凶象倍增",
+      "heavy_taboo_logic": {
+        "name": "重忌邏輯",
+        "trigger_conditions": "生年忌 + 大限忌 + 流年忌三重疊於同宮",
+        "effect_summary": "凶象力度倍增",
+        "status": "active"
+      },
       "zifu_chaoyuan": {
         "name": "紫府朝垣",
         "trigger_conditions": {
@@ -96,6 +101,90 @@
           "distribution": "會照於命宮"
         },
         "effect_summary": "衣食無憂，有貴人扶持",
+        "status": "active"
+      },
+      "紫府同宮": {
+        "name": "紫府同宮",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "紫府朝垣": {
+        "name": "紫府朝垣",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "極向離明": {
+        "name": "極向離明",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "殺破狼": {
+        "name": "殺破狼",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "機月同梁": {
+        "name": "機月同梁",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "巨日同宮": {
+        "name": "巨日同宮",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "府相朝垣": {
+        "name": "府相朝垣",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "石中隱玉": {
+        "name": "石中隱玉",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "明珠出海": {
+        "name": "明珠出海",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "月朗天門": {
+        "name": "月朗天門",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "日照雷門": {
+        "name": "日照雷門",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "金燦光輝": {
+        "name": "金燦光輝",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "文桂文華": {
+        "name": "文桂文華",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
+        "status": "active"
+      },
+      "左右同宮": {
+        "name": "左右同宮",
+        "trigger_conditions": "三方四正特定組合",
+        "effect_summary": "格局象義",
         "status": "active"
       }
     }

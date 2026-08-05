@@ -6,10 +6,23 @@
     "layer": "L4_Overlay"
   },
   "governance_rules": {
-    "naming_lock": "Registry Standard Only",
+    "naming_lock": {
+      "name": "命名鎖定條款",
+      "rule": "嚴禁自定義新名",
+      "status": "active"
+    },
     "ssot_alignment": "所有運算必須引用 engine_truth_registry_v1",
     "writeback_policy": "禁止任何 Overlay 內容回寫 Compute 層",
-    "writeback_forbidden": true
+    "writeback_forbidden": {
+      "name": "禁止回寫條款",
+      "rule": "禁止Overlay內容回寫核心",
+      "status": "active"
+    },
+    "fail_closed": {
+      "name": "Fail-closed機制",
+      "rule": "任一軌異常即停止生成",
+      "status": "active"
+    }
   },
   "judgment_library": {
     "star_combinations": "星曜組合斷語 (如：機梁同臨)",
@@ -18,11 +31,21 @@
     "core_logic": {
       "star_combinations": "依據卷二、卷三斷語進行星曜組合判定",
       "palace_status": "依據四化落宮與宮位狀態輸出敘事"
+    },
+    "palace_judgment": {
+      "name": "十二宮論斷",
+      "source": "ZWQS_Juan2",
+      "status": "active"
     }
   },
   "fengshui_overlay": {
     "direction_objects": "各方位對應風水物件 (如：西北置金屬)",
-    "layout_suggestions": "室內佈局優化建議"
+    "layout_suggestions": "室內佈局優化建議",
+    "logic": {
+      "name": "風水佈局邏輯",
+      "source": "QMDJ_XiaJuan",
+      "status": "active"
+    }
   },
   "annual_time_sensitive_tables": {
     "2026_sha_qi": "2026 年度化煞方位與對策",
