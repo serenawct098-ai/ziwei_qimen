@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "version": "1.0",
+    "title": "Ziwei × Qimen Diagnosis Router"
+  },
+  "intent_to_tier_map": {
+    "career": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index",
+      "tier_3_principle_index"
+    ],
+    "relationship": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "health": [
+      "tier_1_judgment_index",
+      "tier_3_principle_index"
+    ],
+    "wealth": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ]
+  },
+  "routing_rules": [
+    {
+      "intent": "career",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id",
+        "time_layer"
+      ],
+      "palace_priority": [
+        "官祿宮",
+        "財帛宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "relationship",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "夫妻宮",
+        "交友宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "health",
+      "required_engine_fields": [
+        "palace_key",
+        "time_layer"
+      ],
+      "palace_priority": [
+        "疾厄宮",
+        "福德宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "wealth",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "財帛宮",
+        "田宅宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    }
+  ]
+}

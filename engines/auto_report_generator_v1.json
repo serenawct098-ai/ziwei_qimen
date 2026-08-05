@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "version": "1.0",
+    "title": "Ziwei × Qimen Auto Report Generator"
+  },
+  "report_sections": [
+    {
+      "id": "overview",
+      "title": "命盤總覽",
+      "components": [
+        "chart_snapshot",
+        "key_patterns_summary"
+      ]
+    },
+    {
+      "id": "career",
+      "title": "事業運勢",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "qimen_augmentation"
+      ]
+    },
+    {
+      "id": "relationship",
+      "title": "感情與人際",
+      "components": [
+        "original_quotes",
+        "modern_translation"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "健康與風險",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "warning_flags"
+      ]
+    }
+  ],
+  "generation_constraints": {
+    "must_show_original_quote": true,
+    "max_translation_deviation": "no change to core symbolism",
+    "conflict_handling": "label_tiyong_conflict_no_auto_resolution",
+    "source_tagging": {
+      "show_engine_path": true,
+      "show_line_id": true
+    }
+  }
+}
