@@ -20,6 +20,33 @@
     "wealth": [
       "tier_1_judgment_index",
       "tier_2_pattern_index"
+    ],
+    "mental_resilience": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "family_origin": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "interpersonal_network": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "external_development": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "living_environment": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "junior_management": [
+      "tier_1_judgment_index",
+      "tier_2_pattern_index"
+    ],
+    "life_transitions": [
+      "tier_3_principle_index"
     ]
   },
   "routing_rules": [
@@ -70,6 +97,81 @@
         "財帛宮",
         "田宅宮"
       ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "mental_resilience",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "福德宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "family_origin",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "父母宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "interpersonal_network",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "交友宮",
+        "兄弟宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "external_development",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "遷移宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "living_environment",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "田宅宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "junior_management",
+      "required_engine_fields": [
+        "palace_key",
+        "pattern_id"
+      ],
+      "palace_priority": [
+        "子女宮"
+      ],
+      "fallback_policy": "use_design_rules_if_no_text_source"
+    },
+    {
+      "intent": "life_transitions",
+      "required_engine_fields": [
+        "time_layer"
+      ],
+      "palace_priority": [],
       "fallback_policy": "use_design_rules_if_no_text_source"
     }
   ]
