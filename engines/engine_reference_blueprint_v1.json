@@ -152,6 +152,27 @@
       "line_id": "ZWQS_Juan1_FuguiLun_L001",
       "value_summary": "依據三方四正拱照進行吉凶判定之邏輯基礎",
       "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "value_summary": "博士十二神序列 (博士、力士、青龍...)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnChangsheng_L001",
+      "value_summary": "長生十二神序列與起點 (火局命寅起長生...)",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.kun_2_redirect_rule",
+      "data_file": "QMDJ_XiaJuan_Consolidated.json",
+      "line_id": "QMDJ_Juan30_L006",
+      "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
+      "status": "verified"
     }
   ]
 }
