@@ -33,25 +33,39 @@
     "event_layer": "engine_interpretation_fusion_v1.modern_resonance_block"
   },
   "engine_to_text_source": {
-    "engine_truth_registry_v1": [
-      "ZWQS_J1",
-      "ZWQS_J2",
-      "QMDJ_SJ",
-      "QMDJ_XJ"
-    ],
-    "engine_compute_protocol_v1": [
-      "All_Texts"
-    ],
-    "engine_interpretation_fusion_v1": [
-      "ZWQS_J2",
-      "ZWQS_J3",
-      "QMDJ_SJ",
-      "QMDJ_XJ"
-    ],
-    "engine_overlay_governance_v1": [
-      "QMDJ_SJ",
-      "QMDJ_XJ",
-      "ZWQS_J3"
-    ]
+    "ZWQS_Juan1_Consolidated.json": {
+      "role": "安星定局 / 四化 / 星曜基表",
+      "used_by": [
+        "engine_truth_registry_v1",
+        "engine_compute_protocol_v1"
+      ]
+    },
+    "ZWQS_Juan2_Consolidated.json": {
+      "role": "十二宮論斷 / 宮位斷語",
+      "used_by": [
+        "engine_truth_registry_v1",
+        "engine_interpretation_fusion_v1"
+      ]
+    },
+    "ZWQS_Juan3_Consolidated.json": {
+      "role": "限運 / 應期 / 追加斷語",
+      "used_by": [
+        "engine_interpretation_fusion_v1",
+        "engine_overlay_governance_v1"
+      ]
+    },
+    "QMDJ_ShangJuan_Consolidated.json": {
+      "role": "奇門起局 / 三元 / 節氣局數",
+      "used_by": [
+        "engine_compute_protocol_v1"
+      ]
+    },
+    "QMDJ_XiaJuan_Consolidated.json": {
+      "role": "奇門占驗 / 風水應用",
+      "used_by": [
+        "engine_interpretation_fusion_v1",
+        "engine_overlay_governance_v1"
+      ]
+    }
   }
 }
