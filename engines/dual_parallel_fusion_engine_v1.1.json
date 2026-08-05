@@ -1,12 +1,9 @@
 {
-  "$schema": "ziwei_qimen_interpretation_engine.dual_parallel_fusion_engine.v1.1",
   "engine_name": "dual_parallel_fusion_engine",
-  "version": "1.1.0",
   "archetype": "Parallel Dual-Track Unified Interpreter",
   "positioning": {
     "core_principle": "不要求使用者選擇傳統或現代引擎；同一份標準化命盤矩陣進入後，雙軌同時運算，最終自動縫合為單一報告。",
-    "scope": "統一資料接口、平行調度 traditional_mythos_engine 與 modern_quantum_resonance_engine、輸出單一綜合報告。",
-    "design_goal": "達成免切換、免選擇、單入口、雙結果、單報告。"
+    "scope": "統一資料接口、平行調度 traditional_mythos_engine 與 modern_quantum_resonance_engine、輸出單一綜合報告。"
   },
   "engine_dependencies": {
     "required": [
@@ -24,7 +21,6 @@
     ]
   },
   "data_normalization_layer": {
-    "purpose": "把用戶輸入的生辰或既有命盤，統一轉譯為可供雙引擎同時使用的標準化 JSON 矩陣。",
     "accepted_input_types": [
       "raw_birth_datetime_and_location",
       "precomputed_birth_chart",
@@ -146,37 +142,30 @@
     },
     "pipeline_steps": [
       {
-        "step": "P1",
         "op": "normalize",
         "desc": "將原始輸入轉為 dual_engine_standardized_matrix。"
       },
       {
-        "step": "P2A",
         "op": "dispatch",
         "desc": "載入 traditional_mythos_engine.json 並輸出正統命理演繹。"
       },
       {
-        "step": "P2B",
         "op": "dispatch",
         "desc": "載入 modern_quantum_resonance_engine.json 並輸出現代決策與反噬壓測。"
       },
       {
-        "step": "P3",
         "op": "wait_all",
         "desc": "等待雙軌結果完成。"
       },
       {
-        "step": "P4",
         "op": "fuse",
         "desc": "依統一模板縫合為單一報告。"
       },
       {
-        "step": "P5",
         "op": "emit",
         "desc": "輸出雙重維度綜合報告與 next action。"
       },
       {
-        "step": "P3A",
         "op": "verify_bridge",
         "desc": "校驗 zhi_to_qimen_palace_map、kun_2_redirect_rule、current_jieqi_exact_timestamp 與 leap_month_rule_mode。"
       }
@@ -202,7 +191,6 @@
     }
   },
   "fusion_layer": {
-    "purpose": "把傳統敘事軌與現代風險軌縫合為單一最終報告，不要求使用者做模式切換。",
     "fusion_rules": {
       "F1": "先驗證雙軌均來自 verified core outputs；任何一軌未驗證即 HALT。",
       "F2": "先輸出傳統卷，再輸出現代卷。",
@@ -317,7 +305,6 @@
     "C5": "最終報告必須保留 one concrete next action。"
   },
   "bridge_mapping_layer": {
-    "purpose": "鎖定紫微十二地支宮到奇門九宮之映射，供雙軌共用。",
     "zhi_to_qimen_palace_map": {
       "子": 1,
       "丑": 8,
@@ -368,11 +355,5 @@
       "assertion_failed"
     ]
   },
-  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。",
-  "governance": {
-    "naming_standard": "mapping_contract_v1.1.json",
-    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
-    "dependency": "Layer 2 Mapping Layer",
-    "ssot_integrity": "100% Verified against original texts"
-  }
+  "_purpose": "雙軌橋樑層：把 core_engine_v2.1 標準化命盤矩陣同時分派給卷一（傳統敘事）與卷二（現代壓測）兩軌並行運算，最終縫合為單一雙重維度報告。含紫微 12 地支宮 ↔ 奇門 9 宮映射與 F5 視角差異標註規則。"
 }

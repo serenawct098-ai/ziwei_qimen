@@ -1,7 +1,5 @@
 {
-  "$schema": "ziwei_qimen_interpretation_engine.modern_quantum_resonance_engine.v2.1",
   "engine_name": "modern_quantum_resonance_engine",
-  "version": "2.1.0",
   "archetype": "Systemic Risk & Optimization Analyst",
   "positioning": {
     "core_principle": "精密、冷酷、極致理性的決策科學；去除好運/壞運語言，將命盤視為動態隨機干涉的壓力系統。",
@@ -174,7 +172,6 @@
     }
   },
   "risk_scoring_layer": {
-    "purpose": "把紫微結構、四化壓力、奇門時空條件合併成可執行風險輸出。",
     "serial_scoring_rules": {
       "collision_score_formula": "collision_score = ziwei_palace_score * gate_multiplier * five_element_modifier",
       "bridge_score_formula": "FinalScore = ZiweiStrengthScore + PalaceEnergyWeight + GatePalaceInteractionModifier + TimingModifier",
@@ -237,7 +234,6 @@
     ]
   },
   "space_lock_layer": {
-    "purpose": "比對物理方位與九宮八門，判定是否存在空間鎖死與能量壓縮。",
     "required_inputs": [
       "target_direction",
       "mapped_qimen_palace",
@@ -386,55 +382,32 @@
       "Q12_enforce_forbidden_phrase_gate"
     ],
     "blocks": {
-      "Q01_validate_verified_inputs": {
-        "purpose": "只接受已驗證過的核心輸入，缺欄位即 fail closed。"
-      },
-      "Q02_bind_canonical_snapshot": {
-        "purpose": "以單一時間基準綁定本命/大限/流年/月/日與奇門盤。"
-      },
+      "Q01_validate_verified_inputs": {},
+      "Q02_bind_canonical_snapshot": {},
       "Q03_apply_five_layer_sihua_weights": {
-        "purpose": "本命×1.0 到流日×0.1 疊加四化權重。",
         "formula_reference": "raw_score = sum(weight_map[T] * L.layer_weight)"
       },
-      "Q04_compute_raw_score_and_energy_density": {
-        "purpose": "把加權結果正規化為 0-100 energy_density 分數帶。"
-      },
-      "Q05_scan_asymmetry_and_hidden_kiji": {
-        "purpose": "掃描吉處藏凶、不對稱風險、空宮盲點與倖存者偏差。"
-      },
-      "Q06_map_ziwei_to_qimen_bridge": {
-        "purpose": "用既有 zhi_to_qimen_palace_map / five-element bridge / kun_2_redirect_rule 對齊行動空間。"
-      },
-      "Q07_compute_collision_and_final_score": {
-        "purpose": "輸出 collision_score、FinalScore、decision_band。"
-      },
+      "Q04_compute_raw_score_and_energy_density": {},
+      "Q05_scan_asymmetry_and_hidden_kiji": {},
+      "Q06_map_ziwei_to_qimen_bridge": {},
+      "Q07_compute_collision_and_final_score": {},
       "Q08_check_hard_trigger_and_run_monte_carlo": {
-        "purpose": "若 FinalScore <= -2 或 忌入官財命，強制執行 10000 次壓測。",
         "outputs": [
           "top3_failure_nodes",
           "failure_path_clusters"
         ]
       },
-      "Q09_detect_space_lock_and_compression_ratio": {
-        "purpose": "判定 space_lock True/False 與 compression_ratio。"
-      },
-      "Q10_emit_mitigation_protocol": {
-        "purpose": "輸出避開方位、替代時間窗口、防禦清單。"
-      },
-      "Q11_compose_zero_emotion_narrative": {
-        "purpose": "按照 WHAT/WHY/HIDDEN/BLIND/TRIGGER 五段輸出。"
-      },
+      "Q09_detect_space_lock_and_compression_ratio": {},
+      "Q10_emit_mitigation_protocol": {},
+      "Q11_compose_zero_emotion_narrative": {},
       "Q12_enforce_forbidden_phrase_gate": {},
       "Q00_line_by_line_literature_audit": {
-        "purpose": "逐條對照《全書》、古訣、SSOT 鎖定規則。",
         "fail_closed": true
       },
       "Q00A_json_field_mapping_audit": {
-        "purpose": "逐條對照 JSON 欄位契約與橋接欄位。",
         "fail_closed": true
       },
       "Q00B_sandbox_enumeration_gate": {
-        "purpose": "所有風險輸出必須先通過沙盒枚舉驗證結果。",
         "fail_closed": true
       }
     }
@@ -519,11 +492,5 @@
       "original_quote": "惟天禽則無定位，寄西南而屬中宮"
     }
   },
-  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。",
-  "governance": {
-    "naming_standard": "mapping_contract_v1.1.json",
-    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
-    "dependency": "Layer 2 Mapping Layer",
-    "ssot_integrity": "100% Verified against original texts"
-  }
+  "_purpose": "卷二·現代系統壓測引擎：對 core_engine_v2.1 已定盤做能量密度共振、四化層權加總、盲點偵測（M1~M4）、蒙地卡羅失敗路徑掃描、空間鎖死判定、化煞協議輸出。只讀不算。"
 }

@@ -1,13 +1,4 @@
 {
-  "metadata": {
-    "name": "奇門遁甲 2026 風水化煞與物件五行對照表",
-    "version": "1.4",
-    "last_updated": "2026-08-03",
-    "scope": "2026丙午年九宮飛星化煞與奇門礦石佈局 SSOT",
-    "author": "Manus SSOT Engineering",
-    "description": "本表為奇門風水佈局模組的唯一真值源 (SSOT)，定義了年度凶星方位、煞氣定性、化解原則及全量物件五行目錄。數據整合自 2026 佈置圖 (IMG_2388/2387/2386/2385) 與通用風水規範。",
-    "integrity_check": "Verified for 2026 Flying Star Cycle with User Assets"
-  },
   "resolution_logic": {
     "five_yellow": {
       "star": "五黃廉貞星",
@@ -16,10 +7,26 @@
       "attribute": "意外、災禍、大病、血光",
       "cure_principle": "金洩土氣 / 忌火生土 / 宜靜不宜動",
       "cures": [
-        { "item": "黑碧璽陣", "logic": "強效吸納負能量", "wuxing": "水" },
-        { "item": "黑曜石雕刻", "logic": "化煞避邪", "wuxing": "水" },
-        { "item": "六帝錢", "logic": "強金洩土", "wuxing": "金" },
-        { "item": "金屬擺件", "logic": "洩土氣", "wuxing": "金" }
+        {
+          "item": "黑碧璽陣",
+          "logic": "強效吸納負能量",
+          "wuxing": "水"
+        },
+        {
+          "item": "黑曜石雕刻",
+          "logic": "化煞避邪",
+          "wuxing": "水"
+        },
+        {
+          "item": "六帝錢",
+          "logic": "強金洩土",
+          "wuxing": "金"
+        },
+        {
+          "item": "金屬擺件",
+          "logic": "洩土氣",
+          "wuxing": "金"
+        }
       ],
       "prohibitions": [
         "木製品、藤蔓植物（觸動煞氣）",
@@ -35,10 +42,26 @@
       "attribute": "疾病、傷痛、厄運、阻滯",
       "cure_principle": "金洩土氣 / 保持靜止 / 忌火生土",
       "cures": [
-        { "item": "黑碧璽", "logic": "吸收病氣", "wuxing": "水" },
-        { "item": "白水晶簇", "logic": "淨化能量", "wuxing": "金" },
-        { "item": "透石膏", "logic": "高頻清場", "wuxing": "金" },
-        { "item": "銅葫蘆", "logic": "收病化煞", "wuxing": "金" }
+        {
+          "item": "黑碧璽",
+          "logic": "吸收病氣",
+          "wuxing": "水"
+        },
+        {
+          "item": "白水晶簇",
+          "logic": "淨化能量",
+          "wuxing": "金"
+        },
+        {
+          "item": "透石膏",
+          "logic": "高頻清場",
+          "wuxing": "金"
+        },
+        {
+          "item": "銅葫蘆",
+          "logic": "收病化煞",
+          "wuxing": "金"
+        }
       ],
       "prohibitions": [
         "睡床（避免長期受氣）",
@@ -54,10 +77,26 @@
       "attribute": "小人、是非、官非、情緒波動、爭鬥",
       "cure_principle": "火洩木氣 / 金剋木",
       "cures": [
-        { "item": "紅色擺設", "logic": "火洩木氣", "wuxing": "火" },
-        { "item": "紫水晶", "logic": "火屬能量轉化", "wuxing": "火" },
-        { "item": "白水晶球", "logic": "金剋木", "wuxing": "金" },
-        { "item": "紅地毯", "logic": "火化木煞", "wuxing": "火" }
+        {
+          "item": "紅色擺設",
+          "logic": "火洩木氣",
+          "wuxing": "火"
+        },
+        {
+          "item": "紫水晶",
+          "logic": "火屬能量轉化",
+          "wuxing": "火"
+        },
+        {
+          "item": "白水晶球",
+          "logic": "金剋木",
+          "wuxing": "金"
+        },
+        {
+          "item": "紅地毯",
+          "logic": "火化木煞",
+          "wuxing": "火"
+        }
       ],
       "prohibitions": [
         "綠色植物、木製家具（增強木氣）",
@@ -73,10 +112,26 @@
       "attribute": "漏財、破財、官非、失竊、手術",
       "cure_principle": "水洩金氣",
       "cures": [
-        { "item": "黑曜石", "logic": "水洩金氣", "wuxing": "水" },
-        { "item": "茶晶", "logic": "穩定能量", "wuxing": "水" },
-        { "item": "白水晶柱", "logic": "轉化煞氣", "wuxing": "金" },
-        { "item": "流水/魚缸", "logic": "強效洩金", "wuxing": "水" }
+        {
+          "item": "黑曜石",
+          "logic": "水洩金氣",
+          "wuxing": "水"
+        },
+        {
+          "item": "茶晶",
+          "logic": "穩定能量",
+          "wuxing": "水"
+        },
+        {
+          "item": "白水晶柱",
+          "logic": "轉化煞氣",
+          "wuxing": "金"
+        },
+        {
+          "item": "流水/魚缸",
+          "logic": "強效洩金",
+          "wuxing": "水"
+        }
       ],
       "prohibitions": [
         "剪刀、風扇（增強破壞力）",
@@ -87,19 +142,56 @@
   },
   "object_wuxing_catalog": {
     "木": [
-      "綠色植物", "綠色擺設", "木雕", "木製家具", "藤蔓植物", "青金石", "天青石", "螢石"
+      "綠色植物",
+      "綠色擺設",
+      "木雕",
+      "木製家具",
+      "藤蔓植物",
+      "青金石",
+      "天青石",
+      "螢石"
     ],
     "火": [
-      "紅色擺設", "紅色佈置", "蠟燭香薰", "燈/光源(火屬)", "紫水晶", "紅紋石", "紫鋰輝", "紅地毯"
+      "紅色擺設",
+      "紅色佈置",
+      "蠟燭香薰",
+      "燈/光源(火屬)",
+      "紫水晶",
+      "紅紋石",
+      "紫鋰輝",
+      "紅地毯"
     ],
     "土": [
-      "陶瓷", "黃水晶", "金髮晶", "黃鐵礦球", "利比亞黃金隕石", "金曜石", "粉水晶球", "砂石擺件"
+      "陶瓷",
+      "黃水晶",
+      "金髮晶",
+      "黃鐵礦球",
+      "利比亞黃金隕石",
+      "金曜石",
+      "粉水晶球",
+      "砂石擺件"
     ],
     "金": [
-      "金屬擺件", "金屬物品", "大型金屬櫃", "剪刀", "風扇", "白水晶球", "白水晶柱", "白水晶簇", "六帝錢", "銅葫蘆"
+      "金屬擺件",
+      "金屬物品",
+      "大型金屬櫃",
+      "剪刀",
+      "風扇",
+      "白水晶球",
+      "白水晶柱",
+      "白水晶簇",
+      "六帝錢",
+      "銅葫蘆"
     ],
     "水": [
-      "流水/魚缸", "水景", "藍色佈置", "黑曜石", "黑碧璽", "茶晶", "透石膏", "黑曜石雕刻"
+      "流水/魚缸",
+      "水景",
+      "藍色佈置",
+      "黑曜石",
+      "黑碧璽",
+      "茶晶",
+      "透石膏",
+      "黑曜石雕刻"
     ]
   },
   "annual_tables": {
@@ -112,7 +204,12 @@
           "title": "五黃煞/災煞位",
           "jixiong": "絕對禁區",
           "sha_qi_type": "five_yellow",
-          "prohibitions": ["木製品", "藤蔓植物", "音響", "紅色物件"],
+          "prohibitions": [
+            "木製品",
+            "藤蔓植物",
+            "音響",
+            "紅色物件"
+          ],
           "action": "禁區迴避",
           "risk_note": "血光大凶，切勿擺設動土"
         },
@@ -121,62 +218,113 @@
           "title": "病符位",
           "jixiong": "大凶",
           "sha_qi_type": "two_black",
-          "prohibitions": ["睡床", "蠟燭香薰", "紅色物品", "黃色物件"],
+          "prohibitions": [
+            "睡床",
+            "蠟燭香薰",
+            "紅色物品",
+            "黃色物件"
+          ],
           "action": "化煞",
-          "recommended_stones": ["黑碧璽", "白水晶簇", "透石膏", "銅葫蘆"]
+          "recommended_stones": [
+            "黑碧璽",
+            "白水晶簇",
+            "透石膏",
+            "銅葫蘆"
+          ]
         },
         "正西": {
           "star": "三碧祿存",
           "title": "是非位",
           "jixiong": "小凶",
           "sha_qi_type": "three_blue",
-          "prohibitions": ["綠色植物", "木製家具", "音響", "流水", "藍色物件"],
+          "prohibitions": [
+            "綠色植物",
+            "木製家具",
+            "音響",
+            "流水",
+            "藍色物件"
+          ],
           "action": "化煞",
-          "recommended_stones": ["青金石", "白水晶球", "黑曜石", "紫水晶"]
+          "recommended_stones": [
+            "青金石",
+            "白水晶球",
+            "黑曜石",
+            "紫水晶"
+          ]
         },
         "西南": {
           "star": "七赤破軍",
           "title": "破財位",
           "jixiong": "小凶",
           "sha_qi_type": "seven_red",
-          "prohibitions": ["剪刀", "風扇", "紅色物品", "金屬利器", "白色物件"],
+          "prohibitions": [
+            "剪刀",
+            "風扇",
+            "紅色物品",
+            "金屬利器",
+            "白色物件"
+          ],
           "action": "化煞",
-          "recommended_stones": ["黑曜石", "茶晶", "白水晶柱", "流水魚缸"]
+          "recommended_stones": [
+            "黑曜石",
+            "茶晶",
+            "白水晶柱",
+            "流水魚缸"
+          ]
         },
         "中宮": {
           "star": "九紫右弼",
           "title": "喜慶位",
           "jixiong": "大吉",
           "action": "催旺",
-          "recommended_stones": ["紅紋石", "紫鋰輝", "紫水晶"]
+          "recommended_stones": [
+            "紅紋石",
+            "紫鋰輝",
+            "紫水晶"
+          ]
         },
         "正北": {
           "star": "六白武曲",
           "title": "偏財位",
           "jixiong": "小吉",
           "action": "催旺",
-          "recommended_stones": ["黃水晶", "金髮晶", "黃鐵礦球"]
+          "recommended_stones": [
+            "黃水晶",
+            "金髮晶",
+            "黃鐵礦球"
+          ]
         },
         "東北": {
           "star": "四綠文昌",
           "title": "文昌位",
           "jixiong": "大吉",
           "action": "催旺",
-          "recommended_stones": ["青金石", "天青石", "螢石"]
+          "recommended_stones": [
+            "青金石",
+            "天青石",
+            "螢石"
+          ]
         },
         "正東": {
           "star": "八白左輔",
           "title": "正財位",
           "jixiong": "大吉",
           "action": "催旺",
-          "recommended_stones": ["黃鐵礦球", "利比亞黃金隕石", "金曜石"]
+          "recommended_stones": [
+            "黃鐵礦球",
+            "利比亞黃金隕石",
+            "金曜石"
+          ]
         },
         "東南": {
           "star": "一白貪狼",
           "title": "桃花位",
           "jixiong": "小吉",
           "action": "催旺",
-          "recommended_stones": ["紫水晶", "粉水晶球"]
+          "recommended_stones": [
+            "紫水晶",
+            "粉水晶球"
+          ]
         }
       }
     }

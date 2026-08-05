@@ -1,8 +1,5 @@
 {
-  "$schema": "ziwei_qimen_full_compute_flow_v1.4",
-  "version": "1.4.0",
   "title": "紫微奇門雙引擎完整運算流水線（Opcode版流程規格書）",
-  "purpose": "將使用者輸入轉為可執行的拓撲排序運算規格；每一步驟皆明確聲明依賴、輸入、公式引用、輸出與斷言",
   "binding_core_engine": {
     "engine_file": "traditional_core_engine_v2.1.json",
     "engine_version": "2.1.0",
@@ -54,11 +51,7 @@
     "calendar_engine_required": true,
     "solar_longitude_precision_required": true,
     "lunar_calendar_converter_required": true,
-    "ganzhi_converter_required": true,
-    "notes": [
-      "步驟1屬曆法引擎前置計算，其輸出將餵給紫微與奇門雙引擎",
-      "步驟2-9使用12支/12宮座標系；步驟10-15使用奇門九宮座標系"
-    ]
+    "ganzhi_converter_required": true
   },
   "op_sequence": [
     "OP01",
@@ -90,11 +83,5 @@
     "專題判斷",
     "雙軌壓測",
     "S9行動建議"
-  ],
-  "governance": {
-    "naming_standard": "mapping_contract_v1.1.json",
-    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
-    "dependency": "Layer 2 Mapping Layer",
-    "ssot_integrity": "100% Verified against original texts"
-  }
+  ]
 }

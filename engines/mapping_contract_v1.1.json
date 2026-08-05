@@ -1,197 +1,430 @@
 {
-  "$schema": "ziwei_qimen_mapping_contract_v1.1",
-  "version": "1.1",
   "title": "Ziwei × Qimen Mapping Layer Semantic Alignment Contract (Unified)",
-  "purpose": "建立全量宮位正規化契約，整合 OCR 糾錯、語義對齊、意圖路由與引擎對齊規則。",
-  "metadata": {
-    "last_updated": "2026-08-05",
-    "status": "PRODUCTION_READY",
-    "layer": "Layer 2: Mapping Layer"
-  },
   "palace_name_registry": [
     {
       "index": 0,
       "standard_key": "命宮",
       "display_name": "命宮",
-      "legacy_aliases": ["命身宮"],
+      "legacy_aliases": [
+        "命身宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.命宮",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.命宮",
-      "notes": "系統原點；命盤總論。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.命宮"
     },
     {
       "index": 1,
       "standard_key": "兄弟",
       "display_name": "兄弟宮",
-      "legacy_aliases": ["兄弟宮"],
+      "legacy_aliases": [
+        "兄弟宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.兄弟",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.兄弟",
-      "notes": "兄弟姊妹、人際支援。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.兄弟"
     },
     {
       "index": 2,
       "standard_key": "夫妻",
       "display_name": "夫妻宮",
-      "legacy_aliases": ["妻妾宮", "配偶宮"],
+      "legacy_aliases": [
+        "妻妾宮",
+        "配偶宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.夫妻",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.夫妻",
-      "notes": "舊稱妻妾宮，現代採夫妻宮。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.夫妻"
     },
     {
       "index": 3,
       "standard_key": "子女",
       "display_name": "子女宮",
-      "legacy_aliases": ["子息宮"],
+      "legacy_aliases": [
+        "子息宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.子女",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.子女",
-      "notes": "子女、後代。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.子女"
     },
     {
       "index": 4,
       "standard_key": "財帛",
       "display_name": "財帛宮",
-      "legacy_aliases": ["財帛宮", "錢財宮"],
+      "legacy_aliases": [
+        "財帛宮",
+        "錢財宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.財帛",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.財帛",
-      "notes": "財運、收入、資源。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.財帛"
     },
     {
       "index": 5,
       "standard_key": "疾厄",
       "display_name": "疾厄宮",
-      "legacy_aliases": ["疾厄宮", "疾病宮"],
+      "legacy_aliases": [
+        "疾厄宮",
+        "疾病宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.疾厄",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.疾厄",
-      "notes": "健康、疾病、壓力。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.疾厄"
     },
     {
       "index": 6,
       "standard_key": "遷移",
       "display_name": "遷移宮",
-      "legacy_aliases": ["遷移宮", "出外宮"],
+      "legacy_aliases": [
+        "遷移宮",
+        "出外宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.遷移",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.遷移",
-      "notes": "出行、搬遷、外地發展。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.遷移"
     },
     {
       "index": 7,
       "standard_key": "交友",
       "display_name": "交友宮",
-      "legacy_aliases": ["奴僕宮", "僕役宮", "朋友宮"],
+      "legacy_aliases": [
+        "奴僕宮",
+        "僕役宮",
+        "朋友宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.交友",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.交友",
-      "notes": "舊稱奴僕宮／僕役宮，統一收束為交友宮。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.交友"
     },
     {
       "index": 8,
       "standard_key": "官祿",
       "display_name": "官祿宮",
-      "legacy_aliases": ["官祿宮", "事業宮"],
+      "legacy_aliases": [
+        "官祿宮",
+        "事業宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.官祿",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.官祿",
-      "notes": "事業、職位、職涯。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.官祿"
     },
     {
       "index": 9,
       "standard_key": "田宅",
       "display_name": "田宅宮",
-      "legacy_aliases": ["田宅宮", "房產宮"],
+      "legacy_aliases": [
+        "田宅宮",
+        "房產宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.田宅",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.田宅",
-      "notes": "房屋、不動產、居住環境。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.田宅"
     },
     {
       "index": 10,
       "standard_key": "福德",
       "display_name": "福德宮",
-      "legacy_aliases": ["福德宮"],
+      "legacy_aliases": [
+        "福德宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.福德",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.福德",
-      "notes": "幸福感、精神狀態、福蔭。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.福德"
     },
     {
       "index": 11,
       "standard_key": "父母",
       "display_name": "父母宮",
-      "legacy_aliases": ["父母宮"],
+      "legacy_aliases": [
+        "父母宮"
+      ],
       "engine_binding": "core_engine.global_coordinate_system.palaces_axis.父母",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.父母",
-      "notes": "父母、長輩、家庭背景。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.父母"
     }
   ],
   "ocr_normalization": {
     "description": "處理 OCR 識別誤差與名詞變體，確保輸入符合標準化三字宮位名詞。",
     "rules": [
-      { "target": "命宮", "synonyms": ["本命", "命垣"], "ocr_error_correction": ["命宮", "合宮"] },
-      { "target": "兄弟宮", "synonyms": ["兄弟", "手足"], "ocr_error_correction": ["兄第宮", "兄第"] },
-      { "target": "夫妻宮", "synonyms": ["夫妻", "妻妾", "配偶", "婚姻"], "ocr_error_correction": ["妻妾宮", "夫委宮"] },
-      { "target": "子女宮", "synonyms": ["子女", "兒女"], "ocr_error_correction": ["子文宮", "子安宮"] },
-      { "target": "財帛宮", "synonyms": ["財帛", "財運", "錢財"], "ocr_error_correction": ["財伯宮", "財白宮"] },
-      { "target": "疾厄宮", "synonyms": ["身體宮", "疾厄", "健康"], "ocr_error_correction": ["疾危宮", "疾惡宮"] },
-      { "target": "遷移宮", "synonyms": ["遷移", "出外"], "ocr_error_correction": ["遷多宮", "遷多"] },
-      { "target": "交友宮", "synonyms": ["奴僕宮", "奴僕", "交友", "朋友宮"], "ocr_error_correction": ["交支宮", "交方宮", "奴僕官"] },
-      { "target": "官祿宮", "synonyms": ["事業宮", "官祿", "事業"], "ocr_error_correction": ["官錄宮", "官路宮", "官祿官"] },
-      { "target": "田宅宮", "synonyms": ["田宅", "房產", "家宅"], "ocr_error_correction": ["田它宮", "由宅宮"] },
-      { "target": "福德宮", "synonyms": ["福德", "精神"], "ocr_error_correction": ["福得宮", "福德官"] },
-      { "target": "父母宮", "synonyms": ["父母", "長輩", "相貌宮"], "ocr_error_correction": ["父毋宮", "文母宮"] }
+      {
+        "target": "命宮",
+        "synonyms": [
+          "本命",
+          "命垣"
+        ],
+        "ocr_error_correction": [
+          "命宮",
+          "合宮"
+        ]
+      },
+      {
+        "target": "兄弟宮",
+        "synonyms": [
+          "兄弟",
+          "手足"
+        ],
+        "ocr_error_correction": [
+          "兄第宮",
+          "兄第"
+        ]
+      },
+      {
+        "target": "夫妻宮",
+        "synonyms": [
+          "夫妻",
+          "妻妾",
+          "配偶",
+          "婚姻"
+        ],
+        "ocr_error_correction": [
+          "妻妾宮",
+          "夫委宮"
+        ]
+      },
+      {
+        "target": "子女宮",
+        "synonyms": [
+          "子女",
+          "兒女"
+        ],
+        "ocr_error_correction": [
+          "子文宮",
+          "子安宮"
+        ]
+      },
+      {
+        "target": "財帛宮",
+        "synonyms": [
+          "財帛",
+          "財運",
+          "錢財"
+        ],
+        "ocr_error_correction": [
+          "財伯宮",
+          "財白宮"
+        ]
+      },
+      {
+        "target": "疾厄宮",
+        "synonyms": [
+          "身體宮",
+          "疾厄",
+          "健康"
+        ],
+        "ocr_error_correction": [
+          "疾危宮",
+          "疾惡宮"
+        ]
+      },
+      {
+        "target": "遷移宮",
+        "synonyms": [
+          "遷移",
+          "出外"
+        ],
+        "ocr_error_correction": [
+          "遷多宮",
+          "遷多"
+        ]
+      },
+      {
+        "target": "交友宮",
+        "synonyms": [
+          "奴僕宮",
+          "奴僕",
+          "交友",
+          "朋友宮"
+        ],
+        "ocr_error_correction": [
+          "交支宮",
+          "交方宮",
+          "奴僕官"
+        ]
+      },
+      {
+        "target": "官祿宮",
+        "synonyms": [
+          "事業宮",
+          "官祿",
+          "事業"
+        ],
+        "ocr_error_correction": [
+          "官錄宮",
+          "官路宮",
+          "官祿官"
+        ]
+      },
+      {
+        "target": "田宅宮",
+        "synonyms": [
+          "田宅",
+          "房產",
+          "家宅"
+        ],
+        "ocr_error_correction": [
+          "田它宮",
+          "由宅宮"
+        ]
+      },
+      {
+        "target": "福德宮",
+        "synonyms": [
+          "福德",
+          "精神"
+        ],
+        "ocr_error_correction": [
+          "福得宮",
+          "福德官"
+        ]
+      },
+      {
+        "target": "父母宮",
+        "synonyms": [
+          "父母",
+          "長輩",
+          "相貌宮"
+        ],
+        "ocr_error_correction": [
+          "父毋宮",
+          "文母宮"
+        ]
+      }
     ]
   },
   "semantic_alignment": {
     "description": "將現代口語詞彙對齊至古籍命理概念。",
     "term_map": {
-      "創業": ["官祿宮", "財帛宮", "化權", "天機", "武曲"],
-      "小三": ["夫妻宮", "桃花星", "煞星", "廉貞自化"],
-      "憂鬱": ["福德宮", "巨門", "化忌", "地劫", "地空"],
-      "暴發戶": ["火貪格", "鈴貪格", "祿存同宮", "化祿"],
-      "房地產": ["田宅宮", "天府", "太陰", "土五局"]
+      "創業": [
+        "官祿宮",
+        "財帛宮",
+        "化權",
+        "天機",
+        "武曲"
+      ],
+      "小三": [
+        "夫妻宮",
+        "桃花星",
+        "煞星",
+        "廉貞自化"
+      ],
+      "憂鬱": [
+        "福德宮",
+        "巨門",
+        "化忌",
+        "地劫",
+        "地空"
+      ],
+      "暴發戶": [
+        "火貪格",
+        "鈴貪格",
+        "祿存同宮",
+        "化祿"
+      ],
+      "房地產": [
+        "田宅宮",
+        "天府",
+        "太陰",
+        "土五局"
+      ]
     },
     "palace_synonyms": {
-      "夫妻宮": ["夫妻", "妻妾", "配偶", "婚姻", "伴侶"],
-      "交友宮": ["交友", "奴僕", "僕役", "朋友", "同事", "下屬"],
-      "遷移宮": ["遷移", "出外", "外出", "移民", "搬家"],
-      "財帛宮": ["財帛", "錢財", "財運", "收入", "資源"],
-      "官祿宮": ["官祿", "事業", "工作", "職業", "創業"],
-      "田宅宮": ["田宅", "房產", "住宅", "不動產", "地產"]
+      "夫妻宮": [
+        "夫妻",
+        "妻妾",
+        "配偶",
+        "婚姻",
+        "伴侶"
+      ],
+      "交友宮": [
+        "交友",
+        "奴僕",
+        "僕役",
+        "朋友",
+        "同事",
+        "下屬"
+      ],
+      "遷移宮": [
+        "遷移",
+        "出外",
+        "外出",
+        "移民",
+        "搬家"
+      ],
+      "財帛宮": [
+        "財帛",
+        "錢財",
+        "財運",
+        "收入",
+        "資源"
+      ],
+      "官祿宮": [
+        "官祿",
+        "事業",
+        "工作",
+        "職業",
+        "創業"
+      ],
+      "田宅宮": [
+        "田宅",
+        "房產",
+        "住宅",
+        "不動產",
+        "地產"
+      ]
     }
   },
   "intent_to_theme_map": {
     "description": "根據使用者提問意圖，路由至對應的古籍主題與 line_id 範圍。",
     "intents": [
-      { "intent": "ASK_WEALTH", "themes": ["定富局", "論財帛", "祿存守田財"], "target_data_files": ["ZWQS_Juan1_PatternText.json", "ZWQS_Juan2_Consolidated.json"] },
-      { "intent": "ASK_CAREER", "themes": ["定貴局", "論官祿", "皇殿朝班"], "target_data_files": ["ZWQS_Juan1_PatternText.json", "ZWQS_Juan2_Consolidated.json"] },
-      { "intent": "ASK_HEALTH", "themes": ["論疾厄", "沉困尪贏"], "target_data_files": ["ZWQS_Juan2_Consolidated.json"] },
-      { "intent": "ASK_MARRIAGE", "themes": ["論夫妻", "淫奔大行"], "target_data_files": ["ZWQS_Juan2_Consolidated.json"] }
+      {
+        "intent": "ASK_WEALTH",
+        "themes": [
+          "定富局",
+          "論財帛",
+          "祿存守田財"
+        ],
+        "target_data_files": [
+          "ZWQS_Juan1_PatternText.json",
+          "ZWQS_Juan2_Consolidated.json"
+        ]
+      },
+      {
+        "intent": "ASK_CAREER",
+        "themes": [
+          "定貴局",
+          "論官祿",
+          "皇殿朝班"
+        ],
+        "target_data_files": [
+          "ZWQS_Juan1_PatternText.json",
+          "ZWQS_Juan2_Consolidated.json"
+        ]
+      },
+      {
+        "intent": "ASK_HEALTH",
+        "themes": [
+          "論疾厄",
+          "沉困尪贏"
+        ],
+        "target_data_files": [
+          "ZWQS_Juan2_Consolidated.json"
+        ]
+      },
+      {
+        "intent": "ASK_MARRIAGE",
+        "themes": [
+          "論夫妻",
+          "淫奔大行"
+        ],
+        "target_data_files": [
+          "ZWQS_Juan2_Consolidated.json"
+        ]
+      }
     ]
   },
-  "display_name_policy": {
-    "internal_logic": "standard_key",
-    "output_presentation": "display_name",
-    "classical_quote_retention": "original_quote (unmodified)",
-    "ui_standard": "display_name"
-  },
-  "conflict_resolution_policy": {
-    "description": "多重命中時的排序與衝突解決策略。",
-    "priority_order": ["standard_key", "contextual_relevance", "legacy_aliases"],
-    "action_on_collision": "PARALLEL_CANDIDATES",
-    "flag_status": "needs_review",
-    "ranking_policy": {
-      "priority": ["SSOT_EXACT_MATCH", "THEMATIC_ALIGNMENT", "SEMANTIC_SIMILARITY"],
-      "temporal_weight": { "生年": 1.0, "大限": 0.8, "流年": 0.6 }
-    }
-  },
-  "citation_logic": {
-    "description": "決定何時回傳 line_id 或標記 _custom。",
-    "decision_tree": {
-      "if_exact_match_in_data_layer": { "action": "RETURN_LINE_ID", "source_type": "CLASSICAL_SSOT" },
-      "if_derived_from_multiple_lines": { "action": "RETURN_SYNTHESIZED_IDS", "tag": "_custom", "reason": "DERIVED_INTERPRETATION" },
-      "if_modern_application_only": { "action": "RETURN_TEXT_ONLY", "tag": "_custom", "reason": "MODERN_OVERLAY" },
-      "if_no_alignment_found": { "action": "HALT_OR_FALLBACK", "fallback": "GENERAL_PRINCIPLES" }
-    }
-  },
   "engine_alignment_table": {
-    "core_engine": { "responsibility": "SSOT, Coordinate Axis, Static Tables", "field": "palaces_axis" },
-    "interpretation_engine": { "responsibility": "Narrative, Pattern Matching, Thematic Analysis", "field": "palace_judgment_table" },
-    "full_compute_flow": { "responsibility": "Execution Pipeline, Opcode Sequence", "field": "op_blocks" },
-    "dual_parallel_fusion_engine": { "responsibility": "Dual-Track Dispatch, Report Synthesis", "field": "bridge_mapping_layer" }
-  },
-  "naming_lock_clause": "本表為十二宮命名唯一標準。除 palace_name_registry 外，系統任何層級不得新增獨立宮位名稱作主鍵。"
+    "core_engine": {
+      "responsibility": "SSOT, Coordinate Axis, Static Tables",
+      "field": "palaces_axis"
+    },
+    "interpretation_engine": {
+      "responsibility": "Narrative, Pattern Matching, Thematic Analysis",
+      "field": "palace_judgment_table"
+    },
+    "full_compute_flow": {
+      "responsibility": "Execution Pipeline, Opcode Sequence",
+      "field": "op_blocks"
+    },
+    "dual_parallel_fusion_engine": {
+      "responsibility": "Dual-Track Dispatch, Report Synthesis",
+      "field": "bridge_mapping_layer"
+    }
+  }
 }

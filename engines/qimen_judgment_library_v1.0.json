@@ -1,959 +1,482 @@
 {
   "module": "qimen_judgment_library",
-  "version": "1.0",
   "_source_consolidated": "QMDJ_XiaJuan_Consolidated.json",
-  "last_updated": "2026-08-03",
   "description": "奇門遁甲吉凶組合斷語庫，包含三奇六儀組合、八門占驗、八神賦性等。數據源自《奇門遁甲秘笈大全》。",
   "combinations": [
     {
       "original_quote": "五不遇時龍不精，號為日月損光明，時幹來剋日乾上，甲日須知時忌庚，",
       "line_id": "QMDJ_Juan1_L024",
-      "line_ref": "段落24",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落24"
     },
     {
       "original_quote": "庚加值符天乙伏，值符加庚天乙飛，庚加癸兮為大格，加己為刑最不宜，",
       "line_id": "QMDJ_Juan1_L039",
-      "line_ref": "段落39",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "得使猶來未為精，五不遇時損光明，用事須憂時剋日，反伏吟格猶不吉，",
       "line_id": "QMDJ_Juan1_L065",
-      "line_ref": "段落65",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落65"
     },
     {
       "original_quote": "六儀擊刑三奇墓，此時舉動可憚懼，太白入熒賊即來，熒入太白賊即去，",
       "line_id": "QMDJ_Juan1_L070",
-      "line_ref": "段落70",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落70"
     },
     {
       "original_quote": "六儀擊刑三奇墓，此時舉動可憚懼，太白入熒賊即來，熒入太白賊即去，",
       "line_id": "QMDJ_Juan1_L070",
-      "line_ref": "段落70",
-      "name": "熒入太白",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落70"
     },
     {
       "original_quote": "加壬之時為小格，又嫌年月日時逢，當此之時最不吉，舉動行師皆不宜，",
       "line_id": "QMDJ_Juan1_L073",
-      "line_ref": "段落73",
-      "name": "小格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落73"
     },
     {
       "original_quote": "法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。年格年來，月格月來，日格日來，時格時來，不格不來。何謂不格？乙庚為合不為格。庚金入墓或臨空亡，不為格。",
       "line_id": "QMDJ_Juan10_L008",
-      "line_ref": "段落8",
-      "name": "月格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落8"
     },
     {
       "original_quote": "法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。年格年來，月格月來，日格日來，時格時來，不格不來。何謂不格？乙庚為合不為格。庚金入墓或臨空亡，不為格。",
       "line_id": "QMDJ_Juan10_L008",
-      "line_ref": "段落8",
-      "name": "日格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落8"
     },
     {
       "original_quote": "法以行人年命專責庚格，陽日以庚下臨之乾主之，陰日以庚上乘之乾定之。年格年來，月格月來，日格日來，時格時來，不格不來。何謂不格？乙庚為合不為格。庚金入墓或臨空亡，不為格。",
       "line_id": "QMDJ_Juan10_L008",
-      "line_ref": "段落8",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落8"
     },
     {
       "original_quote": "其占法以景門主之。景門乘旺相氣，得三奇吉格來生我年命日乾者，吉，可立。若帶凶神、凶格剋我年命日乾者，凶。乘朱雀投江、螣蛇夭矯者，大凶，斷斷不可立。",
       "line_id": "QMDJ_Juan10_L054",
-      "line_ref": "段落54",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落54"
     },
     {
       "original_quote": "其占法以景門主之。景門乘旺相氣，得三奇吉格來生我年命日乾者，吉，可立。若帶凶神、凶格剋我年命日乾者，凶。乘朱雀投江、螣蛇夭矯者，大凶，斷斷不可立。",
       "line_id": "QMDJ_Juan10_L054",
-      "line_ref": "段落54",
-      "name": "螣蛇夭矯",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落54"
     },
     {
       "original_quote": "奇偶各有所分屬，最忌囚墓與刑格；制甲之神喜休囚，輔甲之神怕孤隔；甲所用神如伏仇，本營奸究須推測；查其本局孤與虛，系何奇儀落其局；分局既值孤虛宮，畢竟吉凶半准的；天用落宮與值刑，切忌臨此遭損失。",
       "line_id": "QMDJ_Juan11_L044",
-      "line_ref": "段落44",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落44"
     },
     {
       "original_quote": "九星旺方能取勝，休囚失地忌興師；悖格飛伏皆難許，最羨吉宿得奇門；天上風雷來助武，上下左右魁與魒；躡罡履鬥丁甲使，疑神疑鬼壯軍威。",
       "line_id": "QMDJ_Juan11_L046",
-      "line_ref": "段落46",
-      "name": "悖格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落46"
     },
     {
       "original_quote": "門戶若是總刑格，勸君莫進公門去，官父二主制門戶，再傷年命恐囚系。",
       "line_id": "QMDJ_Juan11_L128",
-      "line_ref": "段落128",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落128"
     },
     {
       "original_quote": "值符論人直使事，十干人物是性情，九宮起元論來歷，門戶開闔事業因，歲月日時行年命，宮分泊落細推尋，已過將來及時旺，子父財官逐類分，大凡值符怕空鄉，生平事業甚乖張，年命再值別格墓，只疑前程不久長，次及歲月日時幹，不值刑格事多歡，其中有一失宮次，根苗花果分類看。",
       "line_id": "QMDJ_Juan12_L061",
-      "line_ref": "段落61",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落61"
     },
     {
       "original_quote": "值使論門以後先，開遇九天御筆鮮，杜臨九地孫山外，景門臨之不列前，大約用門無刑格，旁類多吉副榜邊。",
       "line_id": "QMDJ_Juan12_L085",
-      "line_ref": "段落85",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落85"
     },
     {
       "original_quote": "奇儀用神怕刑格，飛伏宮次相推測，三奇湊聚年命間，來朝定作金榜客。",
       "line_id": "QMDJ_Juan12_L087",
-      "line_ref": "段落87",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落87"
     },
     {
       "original_quote": "值使斷可斷行蹤，門合來方歸意濃，惟忌驚傷與杜死，刑格迫伏未回蹤，開休生景乘天忌，加臨乾符墓相逢。",
       "line_id": "QMDJ_Juan13_L007",
-      "line_ref": "段落7",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落7"
     },
     {
       "original_quote": "奇儀所主六親神，旅舍風塵亦同因，圖謀宜入財宮位，投托須臨父舍恩，忌入官鄉與刑格，再據地方車折輪。",
       "line_id": "QMDJ_Juan13_L028",
-      "line_ref": "段落28",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落28"
     },
     {
       "original_quote": "吉格事事俱吉，凶格事事俱凶，夭矯防口舌，投江莫長驅，伏乾飛幹途中前後有變，伏宮飛宮早晚旅宿多殃，大隔小隔舟車宜有防，刑格悖格盜劫鬥傷，熒入白而火盜留意，白入熒而輜重提防，不遇何勞遠去，擊刑莫求行裝，入墓羅網切莫輕身險地，反伏門迫進退受困，奔必求符便協吉，助元無礙起行。",
       "line_id": "QMDJ_Juan13_L030",
-      "line_ref": "段落30",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落30"
     },
     {
       "original_quote": "吉格事事俱吉，凶格事事俱凶，夭矯防口舌，投江莫長驅，伏乾飛幹途中前後有變，伏宮飛宮早晚旅宿多殃，大隔小隔舟車宜有防，刑格悖格盜劫鬥傷，熒入白而火盜留意，白入熒而輜重提防，不遇何勞遠去，擊刑莫求行裝，入墓羅網切莫輕身險地，反伏門迫進退受困，奔必求符便協吉，助元無礙起行。",
       "line_id": "QMDJ_Juan13_L030",
-      "line_ref": "段落30",
-      "name": "悖格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落30"
     },
     {
       "original_quote": "值使推詳羆與熊，門吉陽宮產豹龍，陰門陰宮瑤池女，刑格空亡最忌逢，宮制門兮多不育，門制宮兮畧有驚，若卜胎產全吉利，宮馬相生天馬騰。",
       "line_id": "QMDJ_Juan13_L131",
-      "line_ref": "段落131",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落131"
     },
     {
       "original_quote": "甲宜早榖，仲甲宜中稻，季甲宜晚禾，陽開無刑不怕旱，陰闔刑格須慮水。",
       "line_id": "QMDJ_Juan14_L105",
-      "line_ref": "段落105",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落105"
     },
     {
       "original_quote": "值使東作與西成，門次條分優劣情，得令逢水無刑格，用神旺相細多能。",
       "line_id": "QMDJ_Juan14_L111",
-      "line_ref": "段落111",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落111"
     },
     {
       "original_quote": "九宮起元論所屬，旺相生合樹藝熟，時逢刑格與孤虛，反局古來宜種粟。",
       "line_id": "QMDJ_Juan14_L117",
-      "line_ref": "段落117",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落117"
     },
     {
       "original_quote": "「天輔時格」甲己日甲戌，乙庚日甲申，丙辛日甲午，丁壬日甲辰，戊癸日甲寅。行兵、戰鬪、上官、參謁、求財、遠行皆吉。有罪者，皆逢宥釋。甲己日甲子、己巳時亦是。",
       "line_id": "QMDJ_Juan15_L028",
-      "line_ref": "段落28",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落28"
     },
     {
       "original_quote": "「飛鳥跌穴」丙加戊。",
       "line_id": "QMDJ_Juan15_L030",
-      "line_ref": "段落30",
-      "name": "飛鳥跌穴",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落30"
     },
     {
       "original_quote": "「悖格」丙加值符，加丙及丙加歲月日時之上，俱為悖格，主蒞政綱紀紊亂。丙加丙亦為悖，主見亂臣賊子。",
       "line_id": "QMDJ_Juan15_L034",
-      "line_ref": "段落34",
-      "name": "悖格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落34"
     },
     {
       "original_quote": "「伏宮格」天盤六庚加值符及地盤戊，主客俱不利，戰鬪兩傷。",
       "line_id": "QMDJ_Juan15_L039",
-      "line_ref": "段落39",
-      "name": "伏宮格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "「飛宮格」直符加六庚，主客俱凶。",
       "line_id": "QMDJ_Juan15_L040",
-      "line_ref": "段落40",
-      "name": "飛宮格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落40"
     },
     {
       "original_quote": "「伏干格」庚加日干。",
       "line_id": "QMDJ_Juan15_L050",
-      "line_ref": "段落50",
-      "name": "伏干格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落50"
     },
     {
       "original_quote": "「飛干格」日干加庚。",
       "line_id": "QMDJ_Juan15_L051",
-      "line_ref": "段落51",
-      "name": "飛干格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落51"
     },
     {
       "original_quote": "「五不遇時格」時干剋日干。",
       "line_id": "QMDJ_Juan15_L057",
-      "line_ref": "段落57",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落57"
     },
     {
       "original_quote": "「五不遇時格」時干剋日干。",
       "line_id": "QMDJ_Juan15_L057",
-      "line_ref": "段落57",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落57"
     },
     {
       "original_quote": "「歲格」庚臨歲干。",
       "line_id": "QMDJ_Juan15_L059",
-      "line_ref": "段落59",
-      "name": "歲格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落59"
     },
     {
       "original_quote": "「月格」庚臨月干。",
       "line_id": "QMDJ_Juan15_L060",
-      "line_ref": "段落60",
-      "name": "月格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落60"
     },
     {
       "original_quote": "「日格」庚臨日干。",
       "line_id": "QMDJ_Juan15_L061",
-      "line_ref": "段落61",
-      "name": "日格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落61"
     },
     {
       "original_quote": "「時格」庚臨時干。即庚年庚月庚日庚時。",
       "line_id": "QMDJ_Juan15_L062",
-      "line_ref": "段落62",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落62"
     },
     {
       "original_quote": "「大格」庚臨六癸。",
       "line_id": "QMDJ_Juan15_L063",
-      "line_ref": "段落63",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落63"
     },
     {
       "original_quote": "「小格」庚臨六壬。",
       "line_id": "QMDJ_Juan15_L064",
-      "line_ref": "段落64",
-      "name": "小格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落64"
     },
     {
       "original_quote": "「刑格」庚臨六己。",
       "line_id": "QMDJ_Juan15_L065",
-      "line_ref": "段落65",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落65"
     },
     {
       "original_quote": "「悖格」丙加時干。",
       "line_id": "QMDJ_Juan15_L066",
-      "line_ref": "段落66",
-      "name": "悖格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落66"
     },
     {
       "original_quote": "「青龍逃走」乙加辛。",
       "line_id": "QMDJ_Juan15_L067",
-      "line_ref": "段落67",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落67"
     },
     {
       "original_quote": "「白虎猖狂」辛加乙。",
       "line_id": "QMDJ_Juan15_L068",
-      "line_ref": "段落68",
-      "name": "白虎猖狂",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落68"
     },
     {
       "original_quote": "「朱雀投江」丁加癸。",
       "line_id": "QMDJ_Juan15_L070",
-      "line_ref": "段落70",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落70"
     },
     {
       "original_quote": "「太白入熒惑」庚加丙。",
       "line_id": "QMDJ_Juan15_L072",
-      "line_ref": "段落72",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落72"
     },
     {
       "original_quote": "乙奇遇青龍返首，丙奇東南是跌穴，丁奇西貴升壇，回首喜悅百易遂逐，跌穴顯灼事成就，龍逃身遭百凶，虎狂兮財虛耗盡，妖矯逢盜染官訟。",
       "line_id": "QMDJ_Juan16_L061",
-      "line_ref": "段落61",
-      "name": "青龍返首",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落61"
     },
     {
       "original_quote": "六丁到坎名曰「朱雀投江」，中吉。有黃色雲氣從東北或西南方來助，客勝。",
       "line_id": "QMDJ_Juan17_L007",
-      "line_ref": "段落7",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落7"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "飛鳥跌穴",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "白虎猖狂",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "螣蛇夭矯",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "伏宮格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "飛宮格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "甲加丙為「青龍反首」，而動作無阻。丙加甲為「飛鳥跌穴」，而運用有成。乙加辛是「青龍逃走」，而財物廢墜。辛加乙是「白虎猖狂」，而身體毀傷。丁加癸為「朱雀投江」，而訟獄所由起也。癸加丁為「螣蛇夭矯」，而憂惶之事必至也。六庚加符為「伏宮格」，不利其主，而利其客。直符加庚為「飛宮格」，不貴於戰，而貴於謀。庚加直符，太白格於天乙，外兵侵而主將必敗。符加六庚，太乙格於太白，強出兵而客將必阻。直使臨庚名為「野戰」，兵雖精而主困也。庚加直使名曰「同宮」，將雖驍而必挫也。庚加於丙是為「太白入熒惑」，而賊必來。丙加於庚是為「丙火入金鄉」，而賊必退也，此主客皆不利，莫倚奇門而強用也。",
       "line_id": "QMDJ_Preface_L009",
-      "line_ref": "段落10",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落10"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "飛宮格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "小格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "歲格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "月格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "天地「大格」，庚下加癸，天地「小格」，壬上加庚。庚加於己，士卒死於中途刑格。己加於庚，將兵厄於危路。「歲格」，則歲逢於庚；「月格」，則庚加朔建。庚臨日乾為「伏乾格」，而主人見傷。日乾臨庚為「飛宮格」，而客將不勝。時幹剋日幹為「五不遇」，而定損其明。丙加日幹名曰「悖亂」，而顛倒紀綱。",
       "line_id": "QMDJ_Preface_L010",
-      "line_ref": "段落11",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落11"
     },
     {
       "original_quote": "加丙為「青龍返首」，動作大吉，若逢迫、墓、擊、刑，吉事成凶。",
       "line_id": "QMDJ_Juan2_L005",
-      "line_ref": "段落5",
-      "name": "青龍返首",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落5"
     },
     {
       "original_quote": "加辛為「青龍逃走」，奴僕拐帶，六畜皆傷。",
       "line_id": "QMDJ_Juan2_L019",
-      "line_ref": "段落19",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落19"
     },
     {
       "original_quote": "丙加戊甲值符名「飛鳥跌穴」，謀為百事洞澈。",
       "line_id": "QMDJ_Juan2_L022",
-      "line_ref": "段落22",
-      "name": "飛鳥跌穴",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落22"
     },
     {
       "original_quote": "加庚為「熒入太白」，門戶破敗，盜賊耗失。",
       "line_id": "QMDJ_Juan2_L027",
-      "line_ref": "段落27",
-      "name": "熒入太白",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落27"
     },
     {
       "original_quote": "加庚為「年月日時格」，文書阻隔，行人必歸。",
       "line_id": "QMDJ_Juan2_L036",
-      "line_ref": "段落36",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落36"
     },
     {
       "original_quote": "加癸名曰「朱雀投江」，文書口舌俱消，音信沉溺。",
       "line_id": "QMDJ_Juan2_L039",
-      "line_ref": "段落39",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "加庚名曰「刑格」，求名、詞訟先動者不利，陰星有謀害之情。",
       "line_id": "QMDJ_Juan2_L045",
-      "line_ref": "段落45",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落45"
     },
     {
       "original_quote": "加丙曰「太白入熒」，占賊必來，為客進利，為主破財。",
       "line_id": "QMDJ_Juan2_L051",
-      "line_ref": "段落51",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落51"
     },
     {
       "original_quote": "加己曰名為「刑格」，官司被重刑。",
       "line_id": "QMDJ_Juan2_L053",
-      "line_ref": "段落53",
-      "name": "刑格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落53"
     },
     {
       "original_quote": "加癸名為「大格」，行人至官司止，生產母子俱傷，大凶。",
       "line_id": "QMDJ_Juan2_L057",
-      "line_ref": "段落57",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落57"
     },
     {
       "original_quote": "加乙曰「白虎猖狂」，人亡家敗，遠行多殃，尊長不喜，車船俱傷。",
       "line_id": "QMDJ_Juan2_L059",
-      "line_ref": "段落59",
-      "name": "白虎猖狂",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落59"
     },
     {
       "original_quote": "人假：驚門合六合一作六壬，下臨地盤九天宮者，名曰「人假」，利捕捉逃亡。若太白入熒惑在其下，必獲。",
       "line_id": "QMDJ_Juan5_L175",
-      "line_ref": "段落175",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落175"
     },
     {
       "original_quote": "以六合為逃人，以傷門為捕人全以八門為主，以八門為人盤，主人事也。如六合宮謂天盤六合所臨地盤之宮，後凡言宮皆仿此剋傷門宮，不可得，反此易得。傷門宮生六合宮，捕人不實力，必受其賂。傷門、六合同宮，兩相通同。值年月日時格，則可獲，天網低亦然。",
       "line_id": "QMDJ_Juan7_L043",
-      "line_ref": "段落43",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落43"
     },
     {
       "original_quote": "大凡奇門用事，專擇方向與時耳。如我欲訪友尋人，以所往之方地盤為主，天盤為客，主客要相生合，又得吉門、吉星必相遷。若門凶，上下兩盤又相剋制，則不遷也。庚為年月日時格，值此亦不遷也。",
       "line_id": "QMDJ_Juan7_L059",
-      "line_ref": "段落59",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落59"
     },
     {
       "original_quote": "以開門為官長，以日乾為退役之人。若開門生日乾，主官有眷戀之情，不准退。開門剋日乾者，准退，惹官怒責。比和者，准退。又日干乘青龍逃走、熒入白者，必退。若乘白入熒、虎猖狂者，不可退。螣蛇妖矯，主驚恐，欲退不能。若見大格與朱雀投江，必革。",
       "line_id": "QMDJ_Juan8_L023",
-      "line_ref": "段落23",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落23"
     },
     {
       "original_quote": "以開門為官長，以日乾為退役之人。若開門生日乾，主官有眷戀之情，不准退。開門剋日乾者，准退，惹官怒責。比和者，准退。又日干乘青龍逃走、熒入白者，必退。若乘白入熒、虎猖狂者，不可退。螣蛇妖矯，主驚恐，欲退不能。若見大格與朱雀投江，必革。",
       "line_id": "QMDJ_Juan8_L023",
-      "line_ref": "段落23",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落23"
     },
     {
       "original_quote": "以開門為官長，以日乾為退役之人。若開門生日乾，主官有眷戀之情，不准退。開門剋日乾者，准退，惹官怒責。比和者，准退。又日干乘青龍逃走、熒入白者，必退。若乘白入熒、虎猖狂者，不可退。螣蛇妖矯，主驚恐，欲退不能。若見大格與朱雀投江，必革。",
       "line_id": "QMDJ_Juan8_L023",
-      "line_ref": "段落23",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落23"
     },
     {
       "original_quote": "以值符為買奴之人，以天芮之落宮為奴婢。若天芮落宮生值符者，主奴益主。相比和者，不遜。剋值符者，反逆。乘玄武、天蓬者，偷盜。乘青龍逃走者，失。螣蛇妖矯者，病亡。乘白入熒、虎猖狂剋值符落宮者，弒主，大凶。乘玉女守門，淫亂污主。熒入太白，懶惰庸愚，餘皆仿此。",
       "line_id": "QMDJ_Juan8_L027",
-      "line_ref": "段落27",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落27"
     },
     {
       "original_quote": "以值符為買奴之人，以天芮之落宮為奴婢。若天芮落宮生值符者，主奴益主。相比和者，不遜。剋值符者，反逆。乘玄武、天蓬者，偷盜。乘青龍逃走者，失。螣蛇妖矯者，病亡。乘白入熒、虎猖狂剋值符落宮者，弒主，大凶。乘玉女守門，淫亂污主。熒入太白，懶惰庸愚，餘皆仿此。",
       "line_id": "QMDJ_Juan8_L027",
-      "line_ref": "段落27",
-      "name": "熒入太白",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落27"
     },
     {
       "original_quote": "以休、景二門所乘之宮分水旱二路。休門落空，合天地二盤有三奇相乘者，水路吉；景門有三奇者，旱路吉，行船忌。青龍逃走、白虎猖狂凶格，主風暴。螣蛇妖矯，主凶災。朱雀投江，主沉溺。",
       "line_id": "QMDJ_Juan8_L039",
-      "line_ref": "段落39",
-      "name": "青龍逃走",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "以休、景二門所乘之宮分水旱二路。休門落空，合天地二盤有三奇相乘者，水路吉；景門有三奇者，旱路吉，行船忌。青龍逃走、白虎猖狂凶格，主風暴。螣蛇妖矯，主凶災。朱雀投江，主沉溺。",
       "line_id": "QMDJ_Juan8_L039",
-      "line_ref": "段落39",
-      "name": "白虎猖狂",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "以休、景二門所乘之宮分水旱二路。休門落空，合天地二盤有三奇相乘者，水路吉；景門有三奇者，旱路吉，行船忌。青龍逃走、白虎猖狂凶格，主風暴。螣蛇妖矯，主凶災。朱雀投江，主沉溺。",
       "line_id": "QMDJ_Juan8_L039",
-      "line_ref": "段落39",
-      "name": "朱雀投江",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落39"
     },
     {
       "original_quote": "又以傷門為船，傷加休上為浮、為順；休加傷上，為舟行水底，主沉溺。景門為旱路，又以傷門為馬、為車，忌太白入熒，主益。熒入太白主火驚，元武、天蓬主失盜。水路忌驚門來剋，恐傷船，艮無水，利旱路。休加景主泥濘難行。若二門入墓，主關梁阻隔，行動艱難。",
       "line_id": "QMDJ_Juan8_L040",
-      "line_ref": "段落40",
-      "name": "太白入熒",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落40"
     },
     {
       "original_quote": "又以傷門為船，傷加休上為浮、為順；休加傷上，為舟行水底，主沉溺。景門為旱路，又以傷門為馬、為車，忌太白入熒，主益。熒入太白主火驚，元武、天蓬主失盜。水路忌驚門來剋，恐傷船，艮無水，利旱路。休加景主泥濘難行。若二門入墓，主關梁阻隔，行動艱難。",
       "line_id": "QMDJ_Juan8_L040",
-      "line_ref": "段落40",
-      "name": "熒入太白",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落40"
     },
     {
       "original_quote": "以甲辰壬為螣蛇推之，值符落宮下臨甲辰壬、螣蛇，主原告牽連多人。乙奇落宮下臨甲辰壬與螣蛇相並者，主被告牽連多人。開門落宮下臨甲辰壬、螣蛇者，主問官牽連多人。甲辰壬、螣蛇落空亡之官者，不牽連。若見庚癸大格，縱牽連，不妨。",
       "line_id": "QMDJ_Juan8_L048",
-      "line_ref": "段落48",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落48"
     },
     {
       "original_quote": "五不遇時尤可嗔，號為日月損明辰，時幹來剋日乾位，百事皆凶莫輕試。",
       "line_id": "QMDJ_Juan22_L029",
-      "line_ref": "段落29",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落29"
     },
     {
       "original_quote": "加一宮兮戰在野，刑一宮兮防國持；庚加癸兮防國持，癸加庚兮為大格，",
       "line_id": "QMDJ_Juan22_L049",
-      "line_ref": "段落49",
-      "name": "大格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落49"
     },
     {
       "original_quote": "加壬之時小格用；加己為刑道路格，日乾加庚飛幹推。更有一般時格者，",
       "line_id": "QMDJ_Juan22_L050",
-      "line_ref": "段落50",
-      "name": "小格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落50"
     },
     {
       "original_quote": "加壬之時小格用；加己為刑道路格，日乾加庚飛幹推。更有一般時格者，",
       "line_id": "QMDJ_Juan22_L050",
-      "line_ref": "段落50",
-      "name": "時格",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落50"
     },
     {
       "original_quote": "十干日凶時一名五不遇時",
       "line_id": "QMDJ_Juan30_L122",
-      "line_ref": "段落123",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落123"
     },
     {
       "original_quote": "六壬遁甲專征伐云：五不遇時，陰陽交會，干天庭，時幹剋日乾，動必有災。公歌曰：五不遇時豈知難，定為時幹剋日乾，縱有奇門皆不利，損其日月不堪觀，遁甲三奇乙丙丁，若合開休生三吉，門倘忌五不遇時，凡興兵、除授、上官、遠行、造作，百事不利，切宜避忌。假如，甲日午未時，時幹庚辛金剋日乾，中甲，餘仿此。",
       "line_id": "QMDJ_Juan30_L123",
-      "line_ref": "段落124",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落124"
     },
     {
       "original_quote": "五不遇時實時幹剋日乾",
       "line_id": "QMDJ_Juan30_L143",
-      "line_ref": "段落146",
-      "name": "五不遇",
-      "metadata": {
-        "standard_theme": null,
-        "palace_alignment": null
-      }
+      "line_ref": "段落146"
     }
   ],
   "eight_gates": {
@@ -6734,10 +6257,5 @@
         "line_ref": "段落5"
       }
     ]
-  },
-  "governance": {
-    "naming_standard": "mapping_contract_v1.1.json",
-    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
-    "dependency": "Layer 2 Mapping Layer"
   }
 }

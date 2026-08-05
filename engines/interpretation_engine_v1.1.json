@@ -1,54 +1,5 @@
 {
-  "metadata": {
-    "name": "(完整計算步驟)ziwei_qimen_interpretation_engine",
-    "version": "1.1",
-    "title": "完整計算步驟｜紫微斗數 × 奇門遁甲",
-    "scope": "南派三合星曜派 + 奇門遁甲拆補法",
-    "ssot_dependency": "traditional_core_engine_v2.1.json",
-    "anti_hallucination_protocol": [
-      "定數全部硬編碼為靜態 Lookup Table，禁止 AI 公式推導",
-      "變數採 0–11 純整數陣列，模運算 (mod 12) 表達順逆規律",
-      "天府公式：紫微天府以寅申軸對稱，天府=(4 - ZiweiZhiIdx + 12) % 12（非子午軸 12-紫微）",
-      "五行局由 v2.0 核心 03wuxingju 鏈式推導（命宮干支 → nayin60），禁用月干直接映射捷徑",
-      "所有索引計算必須使用非負模運算：(x % 12 + 12) % 12",
-      "禁止在 JSON 內使用 ASCII 三點作省略符號、禁 TODO 佔位符、禁「等」字省略枚舉"
-    ],
-    "last_updated": "2026-07-04",
-    "calculation_steps_order": [
-      "S1_ming_shen_gong",
-      "S2_wuxing_ju",
-      "S3_ziwei_system",
-      "S4_tianfu_system",
-      "S5_auxiliary_stars",
-      "S6_brightness",
-      "S7_sihua",
-      "S8_dalian_xiaoxian",
-      "S9_doujun_liuyue",
-      "S10_qimen_xunshou",
-      "S11_qimen_sanyuan",
-      "S12_qimen_panbuild"
-    ],
-    "doctrine_locks": [
-      "S9 斗君公式（《全書·安斗君訣》逆生月、順生時）：含 +BirthHourIndex，保留閏月邊界斷言",
-      "S11 三元映射：子午卯酉=上元 / 寅申巳亥=中元 / 辰戌丑未=下元",
-      "S11 三元輸入源為符頭地支 XunshouZhiIdx（非 DayZhiIdx）",
-      "S12 天盤旋轉步驟採明確算法",
-      "S7 四化層級權重標記 MODERN_ENHANCEMENT_LAYER",
-      "庚干四化以文墨天機標準為唯一真值：天同科、天相忌",
-      "壬干四化以文墨天機標準為唯一真值：左輔科、武曲忌",
-      "S5b 雜曜十二神（博士/長生/歲前/將前）＋天傷天使＋截路旬空＋天馬",
-      "S7b 自化邏輯（宮干四化回照本宮）",
-      "重忌特例邏輯：生年忌與自化忌同星重疊之加重判斷規則",
-      "閏月採文墨天機「月中分界」預設；晚子時 lunar_day+=1（見 S1 late_zi_day_rollover）",
-      "辛干天魁鉞鎖定文墨天機「六辛逢虎馬(預設)」：魁寅鉞午",
-      "S7 四化鎖定為「用層」入口：本命/大限/流年/流月/流日 + S7b 自化；體用並列 0.5:0.5；禁 12 宮互飛"
-    ],
-    "_purpose": "與 core_engine_v2.1 完全同步的計算步驟中介層：把 SSOT 公式／靜態表以 12 步S1~S12 完整展開，作解讀引擎（卷一／卷二）之前的標準化中介。"
-  },
   "S5_auxiliary_stars": {
-    "step": "S5",
-    "name": "安輔星與煞星",
-    "purpose": "依生年天干、生年地支、農曆生月、生時地支查靜態表定位各輔星煞星",
     "lookup_tables": {
       "wenchang_by_hour_zhi": {
         "doc": "文昌：依生時地支查，逆佈",
@@ -337,10 +288,6 @@
     }
   },
   "S5b_minor_stars_12shen": {
-    "step": "S5b",
-    "name": "雜曜十二神、天傷天使、截路旬空、天馬",
-    "purpose": "補齊博士十二神、長生十二神、歲前十二神、將前十二神，以及天傷天使、截路空亡/旬空、三合天馬；所有查表以核心引擎 SSOT 為唯一真值源",
-    "source_of_truth": "core_engine.static_lookup_tables + core_engine.dynamic_mathematical_formulas（15~20 + tianma_table）",
     "boshi_12shen": {
       "sequence": [
         "博士",
@@ -477,13 +424,9 @@
         "11": 5
       },
       "source": "本命取生年支、流年盤取流年支"
-    },
-    "assertion": "四組十二神皆不可重宮或遺漏；天傷天使固定宮；截空/旬空各二支；天馬單宮"
+    }
   },
   "S6_brightness": {
-    "step": "S6",
-    "name": "定廟旺利平陷",
-    "purpose": "14主星在12地支宮位的亮度等級，全量靜態表",
     "brightness_encoding": {
       "廟": 4,
       "旺": 3,
@@ -696,9 +639,6 @@
     }
   },
   "S7_sihua": {
-    "step": "S7",
-    "name": "排四化",
-    "purpose": "年干決定化祿/化權/化科/化忌，本命/大限/流年各取對應年干查表，10干×4化=40條全量硬編碼",
     "anti_hallucination": "禁止憑記憶推導，必須全量查表",
     "lookup_tables": {
       "sihua_complete_table": {
@@ -890,10 +830,6 @@
     }
   },
   "S7b_zihua": {
-    "step": "S7b",
-    "name": "宮干引動（宮干四化回照本宮，俗稱自化）",
-    "purpose": "以各宮宮干（五虎遁）對本宮坐星查南派三合四化，若化曜即為本宮坐星則成宮干引動；屬三合盤可選用之輔助引動判讀",
-    "source_of_truth": "core_engine.dynamic_mathematical_formulas.21_zihua_self_transformation + sihua_matrix",
     "calculation_logic": {
       "step_a": "取本宮宮干 PalaceGan（由五虎遁月干法推得各宮天干）",
       "step_b": "查 sihua_matrix[PalaceGan] 得祿/權/科/忌四星",
@@ -908,27 +844,21 @@
     },
     "special_cases": {
       "double_taboo": {
-        "name": "重忌",
         "condition": "生年忌 + 自化忌同星重疊於同一宮位",
         "judgment": "能量極度耗損或糾纏，凶象加重，具備『不可逆』或『自我糾結』特徵",
         "weight_impact": "顯著提升"
       }
     },
-    "assertion": "只比對本宮宮干四化星與本宮坐星，不得跨宮誤判",
     "layer_note": "宮干引動建基於南派三合《全書》之宮干（五虎遁）與四化；屬三合盤可選輔助層，「自化」一名為後世引申、非《全書》原文名詞，不取飛星派互飛技法，亦不可覆蓋古典斷語"
   },
   "S8_dalian_xiaoxian": {
-    "step": "S8",
-    "name": "大限小限",
-    "purpose": "依五行局數N確定大限起始年齡，依性別順逆排布大限宮位；小限依出生年地支三合組確定起始地支，年長順/逆一宮",
     "dynamic_formulas": {
       "dalian": {
         "AgeStart_k0": "N（五行局數，2-6）",
         "male_shun": "DalianPalaceIdx(k) = k % 12",
         "female_ni": "DalianPalaceIdx(k) = (12 - k) % 12",
         "AgeStart_k": "N + k * 10",
-        "AgeEnd_k": "AgeStart_k + 9",
-        "assertion": "k from 0 to 9, 共10大限"
+        "AgeEnd_k": "AgeStart_k + 9"
       },
       "xiaoxian": {
         "start_source": "xiaoxian_start_table[BirthYearZhiIdx]",
@@ -1006,43 +936,33 @@
     }
   },
   "S10_qimen_xunshou": {
-    "step": "S10",
-    "name": "奇門尋首（定旬首）",
-    "purpose": "依時支與時干計算旬首地支，查表得六儀或三奇",
     "dynamic_formulas": {
-      "XunshouZhiIdx": "XunshouZhiIdx = (ShiZhiIdx - ShiGanIdx + 12) % 12",
-      "assertion": "XunshouZhiIdx in [0,2,4,6,8,10]（偶數）"
+      "XunshouZhiIdx": "XunshouZhiIdx = (ShiZhiIdx - ShiGanIdx + 12) % 12"
     },
     "lookup_tables": {
       "xunshou_liuyi_table": {
         "doc": "key=旬首地支索引（偶數），value=六儀/三奇名稱及六儀索引",
         "0": {
-          "name": "甲子旬",
           "liuyi": "戊",
           "liuyi_idx": 4
         },
         "10": {
-          "name": "甲戌旬",
           "liuyi": "己",
           "liuyi_idx": 5
         },
         "8": {
-          "name": "甲申旬",
           "liuyi": "庚",
           "liuyi_idx": 6
         },
         "6": {
-          "name": "甲午旬",
           "liuyi": "辛",
           "liuyi_idx": 7
         },
         "4": {
-          "name": "甲辰旬",
           "liuyi": "壬",
           "liuyi_idx": 8
         },
         "2": {
-          "name": "甲寅旬",
           "liuyi": "癸",
           "liuyi_idx": 9
         }
@@ -1074,8 +994,6 @@
   },
   "palace_judgment_table": {
     "module": "palace_judgment_library",
-    "version": "1.0",
-    "last_updated": "2026-08-03",
     "description": "紫微斗數十二宮論斷數據庫，包含各宮位星曜組合之吉凶斷語。數據源自《紫微斗數全書》卷二、卷三。",
     "palaces": {
       "命宮": {
@@ -3946,14 +3864,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "命宮",
-          "display_name": "命宮",
-          "legacy_aliases": [
-            "命身宮"
-          ]
-        }
+        ]
       },
       "兄弟": {
         "source_files": [
@@ -4114,14 +4025,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "兄弟",
-          "display_name": "兄弟宮",
-          "legacy_aliases": [
-            "兄弟宮"
-          ]
-        }
+        ]
       },
       "夫妻": {
         "source_files": [
@@ -4282,15 +4186,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "夫妻",
-          "display_name": "夫妻宮",
-          "legacy_aliases": [
-            "妻妾宮",
-            "配偶宮"
-          ]
-        }
+        ]
       },
       "子女": {
         "source_files": [
@@ -4472,14 +4368,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "子女",
-          "display_name": "子女宮",
-          "legacy_aliases": [
-            "子息宮"
-          ]
-        }
+        ]
       },
       "財帛": {
         "source_files": [
@@ -4647,15 +4536,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "財帛",
-          "display_name": "財帛宮",
-          "legacy_aliases": [
-            "財帛宮",
-            "錢財宮"
-          ]
-        }
+        ]
       },
       "疾厄": {
         "source_files": [
@@ -4816,15 +4697,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "疾厄",
-          "display_name": "疾厄宮",
-          "legacy_aliases": [
-            "疾厄宮",
-            "疾病宮"
-          ]
-        }
+        ]
       },
       "遷移": {
         "source_files": [
@@ -4999,15 +4872,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "遷移",
-          "display_name": "遷移宮",
-          "legacy_aliases": [
-            "遷移宮",
-            "出外宮"
-          ]
-        }
+        ]
       },
       "交友": {
         "source_files": [
@@ -5182,16 +5047,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "交友",
-          "display_name": "交友宮",
-          "legacy_aliases": [
-            "奴僕宮",
-            "僕役宮",
-            "朋友宮"
-          ]
-        }
+        ]
       },
       "官祿": {
         "source_files": [
@@ -5436,15 +5292,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "官祿",
-          "display_name": "官祿宮",
-          "legacy_aliases": [
-            "官祿宮",
-            "事業宮"
-          ]
-        }
+        ]
       },
       "田宅": {
         "source_files": [
@@ -5605,15 +5453,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "田宅",
-          "display_name": "田宅宮",
-          "legacy_aliases": [
-            "田宅宮",
-            "房產宮"
-          ]
-        }
+        ]
       },
       "福德": {
         "source_files": [
@@ -5788,14 +5628,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "福德",
-          "display_name": "福德宮",
-          "legacy_aliases": [
-            "福德宮"
-          ]
-        }
+        ]
       },
       "父母": {
         "source_files": [
@@ -5984,14 +5817,7 @@
             "tag": [],
             "tag_reason": ""
           }
-        ],
-        "metadata": {
-          "standard_key": "父母",
-          "display_name": "父母宮",
-          "legacy_aliases": [
-            "父母宮"
-          ]
-        }
+        ]
       }
     },
     "star_combinations": [
@@ -7494,8 +7320,6 @@
   },
   "thematic_judgment_table": {
     "module": "thematic_prose_library",
-    "version": "1.0",
-    "last_updated": "2026-08-03",
     "description": "紫微斗數專題判斷賦文庫，包含女命、童限、僧道、殘疾、聰明等九大專題判斷法則。",
     "topics": {
       "女命骨髓賦專題": {
@@ -7761,8 +7585,6 @@
     }
   },
   "S0_OCR_input": {
-    "step": "S0",
-    "name": "OCR 圖片辨識輸入",
     "description": "讀取文墨天機 App 截圖之原始 OCR 結果（含宮位、星曜、干支、五行局等）",
     "confidence_levels": [
       "清晰",
@@ -7771,15 +7593,11 @@
     ]
   },
   "S0b_palace_star_alignment": {
-    "step": "S0b",
-    "name": "OCR 結果與座標體系掛接",
     "description": "將 OCR 讀取之結果掛接至類別 B 座標對照表（十二宮序列、星曜屬性、廟旺表）",
     "check_protocol": "palace_star_alignment_check"
   },
   "misc_stars_table": {
     "module": "zaiyao_library",
-    "version": "1.0",
-    "last_updated": "2026-08-03",
     "description": "紫微斗數雜曜與小星數據庫，包含安星規律、五行屬性及斷語引用。數據源自《紫微斗數全書》卷二、卷三。",
     "categories": {
       "lucky_stars": [
@@ -7875,7 +7693,6 @@
     },
     "stars": [
       {
-        "name": "天傷",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -7897,7 +7714,6 @@
         ]
       },
       {
-        "name": "天使",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -7919,7 +7735,6 @@
         ]
       },
       {
-        "name": "天刑",
         "wuxing": "火",
         "category": "minor_stars",
         "citations": [
@@ -7936,7 +7751,6 @@
         ]
       },
       {
-        "name": "天姚",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -7953,7 +7767,6 @@
         ]
       },
       {
-        "name": "天哭",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -7970,7 +7783,6 @@
         ]
       },
       {
-        "name": "天虛",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -7987,7 +7799,6 @@
         ]
       },
       {
-        "name": "龍池",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": [
@@ -8004,7 +7815,6 @@
         ]
       },
       {
-        "name": "鳳閣",
         "wuxing": "土",
         "category": "minor_stars",
         "citations": [
@@ -8021,7 +7831,6 @@
         ]
       },
       {
-        "name": "台輔",
         "wuxing": "土",
         "category": "minor_stars",
         "citations": [
@@ -8033,7 +7842,6 @@
         ]
       },
       {
-        "name": "封誥",
         "wuxing": "土",
         "category": "minor_stars",
         "citations": [
@@ -8045,7 +7853,6 @@
         ]
       },
       {
-        "name": "三台",
         "wuxing": "火",
         "category": "minor_stars",
         "citations": [
@@ -8062,7 +7869,6 @@
         ]
       },
       {
-        "name": "八座",
         "wuxing": "土",
         "category": "minor_stars",
         "citations": [
@@ -8079,19 +7885,16 @@
         ]
       },
       {
-        "name": "紅鸞",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": []
       },
       {
-        "name": "天喜",
         "wuxing": "水",
         "category": "minor_stars",
         "citations": []
       },
       {
-        "name": "截路",
         "wuxing": "火",
         "category": "minor_stars",
         "citations": [
@@ -8103,19 +7906,16 @@
         ]
       },
       {
-        "name": "旬空",
         "wuxing": "火",
         "category": "minor_stars",
         "citations": []
       },
       {
-        "name": "解神",
         "wuxing": "火",
         "category": "minor_stars",
         "citations": []
       },
       {
-        "name": "博士",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8131,7 +7931,6 @@
         ]
       },
       {
-        "name": "力士",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8147,7 +7946,6 @@
         ]
       },
       {
-        "name": "青龍",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8163,7 +7961,6 @@
         ]
       },
       {
-        "name": "小耗",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8179,7 +7976,6 @@
         ]
       },
       {
-        "name": "將軍",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8195,7 +7991,6 @@
         ]
       },
       {
-        "name": "奏書",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8211,7 +8006,6 @@
         ]
       },
       {
-        "name": "蜚廉",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8227,7 +8021,6 @@
         ]
       },
       {
-        "name": "喜神",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8243,7 +8036,6 @@
         ]
       },
       {
-        "name": "病符",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8259,12 +8051,10 @@
         ]
       },
       {
-        "name": "大耗",
         "category": "twelve_gods_boshi",
         "citations": []
       },
       {
-        "name": "伏兵",
         "category": "twelve_gods_boshi",
         "citations": [
           {
@@ -8280,7 +8070,6 @@
         ]
       },
       {
-        "name": "官府",
         "category": "twelve_gods_boshi",
         "citations": []
       }

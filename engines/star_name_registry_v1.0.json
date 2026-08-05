@@ -1,6 +1,5 @@
 {
   "star_name_registry_version": "1.0",
-  "source_of_truth": "traditional_core_engine_v2.1.json",
   "categories": [
     "十四主星",
     "六吉星",
@@ -17,8 +16,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.紫微",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.紫微",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.紫微",
-      "notes": "帝星，命盤核心。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.紫微"
     },
     {
       "standard_key": "天機",
@@ -30,8 +28,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.天機",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天機",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天機",
-      "notes": "兄弟主，化氣為善。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天機"
     },
     {
       "standard_key": "太陽",
@@ -44,8 +41,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.太陽",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.太陽",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.太陽",
-      "notes": "官祿主，化氣為貴。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.太陽"
     },
     {
       "standard_key": "武曲",
@@ -57,8 +53,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.武曲",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.武曲",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.武曲",
-      "notes": "財帛主，化氣為財。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.武曲"
     },
     {
       "standard_key": "天同",
@@ -69,8 +64,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.天同",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天同",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天同",
-      "notes": "福德主，化氣為福。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天同"
     },
     {
       "standard_key": "廉貞",
@@ -82,8 +76,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.廉貞",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.廉貞",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.廉貞",
-      "notes": "官祿主，化氣為囚。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.廉貞"
     },
     {
       "standard_key": "天府",
@@ -95,8 +88,7 @@
         "令星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.天府",
-      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天府",
-      "notes": "財帛田宅主，化氣為賢能。"
+      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天府"
     },
     {
       "standard_key": "太陰",
@@ -109,8 +101,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.太陰",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.太陰",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.太陰",
-      "notes": "田宅主，化氣為富。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.太陰"
     },
     {
       "standard_key": "貪狼",
@@ -122,8 +113,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.貪狼",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.貪狼",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.貪狼",
-      "notes": "禍福主，化氣為桃花。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.貪狼"
     },
     {
       "standard_key": "巨門",
@@ -135,8 +125,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.巨門",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.巨門",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.巨門",
-      "notes": "是非主，化氣為暗。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.巨門"
     },
     {
       "standard_key": "天相",
@@ -147,8 +136,7 @@
         "印曜"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.天相",
-      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天相",
-      "notes": "官祿主，化氣為印。"
+      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天相"
     },
     {
       "standard_key": "天梁",
@@ -160,8 +148,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.天梁",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.天梁",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天梁",
-      "notes": "父母主，化氣為蔭。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.天梁"
     },
     {
       "standard_key": "七殺",
@@ -172,9 +159,7 @@
         "將星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.七殺",
-      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.七殺",
-      "disambiguation_note": "作為俗稱時為將星，不可與雜曜將前十二神之「將星」混淆。",
-      "notes": "肅殺之星，化氣為將。"
+      "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.七殺"
     },
     {
       "standard_key": "破軍",
@@ -185,8 +170,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.破軍",
       "interpretation_binding": "interpretation_engine.S6_brightness.brightness_table.破軍",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.破軍",
-      "notes": "夫妻子女田宅主，化氣為耗。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.破軍"
     },
     {
       "standard_key": "文昌",
@@ -197,8 +181,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.文昌",
       "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.文昌",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.文昌",
-      "notes": "司科甲之星。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.文昌"
     },
     {
       "standard_key": "文曲",
@@ -209,8 +192,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.文曲",
       "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.文曲",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.文曲",
-      "notes": "司科甲之星。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.文曲"
     },
     {
       "standard_key": "左輔",
@@ -221,8 +203,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.左輔",
       "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.左輔",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.左輔",
-      "notes": "助力之星。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.左輔"
     },
     {
       "standard_key": "右弼",
@@ -233,8 +214,7 @@
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.右弼",
       "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.右弼",
-      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.右弼",
-      "notes": "助力之星。"
+      "sihua_binding": "core_engine.static_lookup_tables.sihua_matrix.右弼"
     },
     {
       "standard_key": "天魁",
@@ -245,8 +225,7 @@
         "貴人星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.tiankui_tianyue_table",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.天魁",
-      "notes": "陽貴人。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.天魁"
     },
     {
       "standard_key": "天鉞",
@@ -257,8 +236,7 @@
         "貴人星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.tiankui_tianyue_table",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.天鉞",
-      "notes": "陰貴人。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.天鉞"
     },
     {
       "standard_key": "擎羊",
@@ -268,8 +246,7 @@
         "羊刃"
       ],
       "engine_binding": "core_engine.static_lookup_tables.luzun_qingyang_tuoluo_table",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.擎羊",
-      "notes": "刑殺之星。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.擎羊"
     },
     {
       "standard_key": "陀羅",
@@ -279,8 +256,7 @@
         "陀星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.luzun_qingyang_tuoluo_table",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.陀羅",
-      "notes": "忌星。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.陀羅"
     },
     {
       "standard_key": "火星",
@@ -290,8 +266,7 @@
         "火曜"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.火星",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.火星",
-      "notes": "殺星。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.火星"
     },
     {
       "standard_key": "鈴星",
@@ -301,8 +276,7 @@
         "鈴曜"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.鈴星",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.鈴星",
-      "notes": "殺星。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.鈴星"
     },
     {
       "standard_key": "地空",
@@ -313,8 +287,7 @@
         "天空"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.地空",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.palaces.sha_stars",
-      "notes": "空亡之星。注意：古籍中有時與天空混用。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.palaces.sha_stars"
     },
     {
       "standard_key": "地劫",
@@ -324,8 +297,7 @@
         "劫星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.star_strength_table.地劫",
-      "interpretation_binding": "interpretation_engine.palace_judgment_table.palaces.sha_stars",
-      "notes": "劫殺之星。"
+      "interpretation_binding": "interpretation_engine.palace_judgment_table.palaces.sha_stars"
     },
     {
       "standard_key": "祿存",
@@ -335,8 +307,7 @@
         "財祿星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.luzun_qingyang_tuoluo_table.祿存",
-      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.祿存",
-      "notes": "爵祿之星。"
+      "interpretation_binding": "interpretation_engine.S5_auxiliary_stars.calculation_logic.祿存"
     },
     {
       "standard_key": "天馬",
@@ -346,8 +317,7 @@
         "驛馬星"
       ],
       "engine_binding": "core_engine.static_lookup_tables.tianma_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.tianma",
-      "notes": "遷動之星。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.tianma"
     },
     {
       "standard_key": "將星",
@@ -356,9 +326,7 @@
       "system": "jiangqian_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.jiangqian_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.jiangqian_12shen",
-      "disambiguation_note": "此為將前十二神之首，不可與七殺俗稱「將星」混淆。",
-      "notes": "將前十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.jiangqian_12shen"
     },
     {
       "standard_key": "小耗",
@@ -367,9 +335,7 @@
       "system": "boshi_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen",
-      "disambiguation_note": "博士十二神中之小耗，需與歲前十二神中之小耗區分。",
-      "notes": "博士十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
     {
       "standard_key": "小耗",
@@ -378,9 +344,7 @@
       "system": "suiqian_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen",
-      "disambiguation_note": "歲前十二神中之小耗，需與博士十二神中之小耗區分。",
-      "notes": "歲前十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     },
     {
       "standard_key": "大耗",
@@ -389,9 +353,7 @@
       "system": "boshi_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen",
-      "disambiguation_note": "博士十二神中之大耗，需與歲前十二神中之大耗區分。",
-      "notes": "博士十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
     {
       "standard_key": "大耗",
@@ -400,9 +362,7 @@
       "system": "suiqian_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen",
-      "disambiguation_note": "歲前十二神中之大耗，需與博士十二神中之大耗區分。",
-      "notes": "歲前十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     },
     {
       "standard_key": "病符",
@@ -411,9 +371,7 @@
       "system": "boshi_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.boshi_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen",
-      "disambiguation_note": "博士十二神中之病符，需與歲前十二神中之病符區分。",
-      "notes": "博士十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.boshi_12shen"
     },
     {
       "standard_key": "病符",
@@ -422,16 +380,7 @@
       "system": "suiqian_12shen",
       "legacy_aliases": [],
       "engine_binding": "core_engine.static_lookup_tables.suiqian_12shen_table",
-      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen",
-      "disambiguation_note": "歲前十二神中之病符，需與博士十二神中之病符區分。",
-      "notes": "歲前十二神之一。"
+      "interpretation_binding": "interpretation_engine.S5b_minor_stars_12shen.suiqian_12shen"
     }
-  ],
-  "naming_lock_clause": "本表為星曜、輔星、煞星、雜曜命名唯一標準。除 star_name_registry 外，系統任何層級不得新增獨立星曜名稱作主鍵。現代俗稱、五行屬性別稱（如印星、財星、蔭星）只能作 legacy_aliases，不可取代 standard_key 進入運算層或報告輸出主鍵。",
-  "governance": {
-    "naming_standard": "mapping_contract_v1.1.json",
-    "lock_clause": "本模組之擴展標籤與解讀輸出必須嚴格遵循 palace_name_registry 之 standard_key 與 display_name 規範。",
-    "dependency": "Layer 2 Mapping Layer",
-    "ssot_integrity": "100% Verified against original texts"
-  }
+  ]
 }
