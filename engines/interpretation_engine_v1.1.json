@@ -716,7 +716,7 @@
       "step_d_flow_month": "流月四化：sihua_complete_table[流月干天干]",
       "step_e_flow_day": "流日四化：sihua_complete_table[流日干天干]"
     },
-    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干因歷代分歧，本表依用戶指定鎖定文墨天機標準：太陽化祿、武曲化權、天同化科、天相化忌（陽武同相），與《全書》三合主流之天同化科／太陰化忌不同",
+    "_sihua_version_lock": "九干依《全書》三合四化歌訣；庚干依文墨天機標準：太陽化祿、武曲化權、天同化科、天相化忌（陽武同相）",
     "ti_yong_layered_lock": {
       "body_school": "南派三合星曜派（見 S3~S6：主星/天府系/輔星/廟旺）",
       "use_school": "北派四化飛星（本 S7 + S7b 自化）",
