@@ -1653,6 +1653,97 @@
           "tag": "_custom",
           "design_origin": "古籍歌訣縮寫正規化"
         },
+        "⽉": {
+          "standard_key": "太陰",
+          "full_name": "太陰星",
+          "description": "太陰星之縮寫（康熙部首變體），常用於古籍。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "日": {
+          "standard_key": "太陽",
+          "full_name": "太陽星",
+          "description": "太陽星之縮寫，主陽火。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "⽇": {
+          "standard_key": "太陽",
+          "full_name": "太陽星",
+          "description": "太陽星之縮寫（康熙部首變體），常用於古籍。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "貞": {
+          "standard_key": "廉貞",
+          "full_name": "廉貞星",
+          "description": "廉貞星之縮寫，主火，司囚與桃花。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "⽂": {
+          "standard_key": "文曲",
+          "full_name": "文曲星",
+          "description": "文曲星之縮寫（康熙部首變體），主水。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⼦": {
+          "standard_key": "子",
+          "full_name": "子宮",
+          "description": "地支子位之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⽕": {
+          "standard_key": "火",
+          "full_name": "火星",
+          "description": "火星之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⽔": {
+          "standard_key": "水",
+          "full_name": "水局/水星",
+          "description": "水元素之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⽊": {
+          "standard_key": "木",
+          "full_name": "木局",
+          "description": "木元素之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⾦": {
+          "standard_key": "金",
+          "full_name": "金局",
+          "description": "金元素之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⼟": {
+          "standard_key": "土",
+          "full_name": "土局",
+          "description": "土元素之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⾨": {
+          "standard_key": "門",
+          "full_name": "奇門/巨門",
+          "description": "門字之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
+        "⽺": {
+          "standard_key": "羊",
+          "full_name": "擎羊",
+          "description": "擎羊之縮寫（康熙部首變體）。",
+          "tag": "_custom",
+          "design_origin": "異體字正規化"
+        },
         "弼": {
           "standard_key": "右弼",
           "full_name": "右弼星",
