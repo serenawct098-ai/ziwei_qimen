@@ -1,0 +1,27 @@
+{
+  "audit_meta": {
+    "status": "FINAL_LOCKED",
+    "timestamp": "2026-08-06T12:00:00Z",
+    "governance_standard": "Global Logic Review Protocol v1.1"
+  },
+  "verification_evidence": [
+    {
+      "case": "Sihua_Geng_Ren_Gui",
+      "expected": "Geng: Yang-Wu-Tong-Xiang, Ren: Liang-Zi-Zuo-Wu, Gui: Po-Ju-Yin-Tan",
+      "result": "PASS",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets"
+    },
+    {
+      "case": "Semantic_Detailed_Mapping",
+      "expected": "Detailed structure for Yue, Bi, Chang, Qu, Zuo, Yang, Yin",
+      "result": "PASS",
+      "engine_path": "engine_truth_registry_v1.mapping_contract.entity_normalization_map"
+    },
+    {
+      "case": "Physical_Isolation",
+      "expected": "Time-sensitive data moved to /overlays/",
+      "result": "PASS",
+      "path": "/home/ubuntu/ziwei_qimen/overlays/time_sensitive_overlays_v1.json"
+    }
+  ]
+}
