@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "name": "時效性數據附層",
+    "version": "1.0",
+    "valid_period": "2026-2027",
+    "status": "active"
+  },
+  "annual_sha_qi_resolution_table": {
+    "2026_bing_wu": {
+      "tai_sui_direction": "正南 (午)",
+      "sui_po_direction": "正北 (子)",
+      "san_sha_direction": "正北 (亥子丑)",
+      "wu_huang_direction": "正北 (坎宮)",
+      "resolution_strategy": "正北方位宜靜不宜動，忌動土、裝修；南方太歲位宜向不宜坐。"
+    }
+  },
+  "annual_flying_stars": {
+    "2026": {
+      "center": "一白",
+      "north": "五黃",
+      "south": "六白",
+      "east": "八白",
+      "west": "四綠",
+      "northeast": "九紫",
+      "northwest": "二黑",
+      "southeast": "七赤",
+      "southwest": "三碧"
+    }
+  }
+}

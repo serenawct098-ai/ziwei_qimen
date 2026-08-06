@@ -1616,13 +1616,162 @@
     "entity_normalization_map": {
       "name": "OCR名詞正規化映射",
       "palaces": {
-        "奴僕": "交友",
-        "妻妾": "夫妻",
-        "相貌": "父母"
+        "奴僕": {
+          "standard_key": "交友",
+          "full_name": "交友宮",
+          "description": "交友宮之古稱，主部屬、朋友、同事關係。",
+          "tag": "_custom",
+          "design_origin": "命理術語映射"
+        },
+        "妻妾": {
+          "standard_key": "夫妻",
+          "full_name": "夫妻宮",
+          "description": "夫妻宮之古稱，主配偶關係與感情對象。",
+          "tag": "_custom",
+          "design_origin": "命理術語映射"
+        },
+        "相貌": {
+          "standard_key": "父母",
+          "full_name": "父母宮",
+          "description": "父母宮之別稱，主遺傳、長輩關係與外貌特徵。",
+          "tag": "_custom",
+          "design_origin": "命理術語映射"
+        },
+        "事業": {
+          "standard_key": "官祿",
+          "full_name": "官祿宮",
+          "description": "官祿宮之現代稱呼，主職業、成就與學業。",
+          "tag": "_custom",
+          "design_origin": "命理術語映射"
+        }
       },
       "stars": {
-        "印星": "天相",
-        "將星": "七殺"
+        "月": {
+          "standard_key": "太陰",
+          "full_name": "太陰星",
+          "description": "太陰星之縮寫，常用於四化歌訣（如乙機梁紫月），主陰水，司財帛與田宅。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "弼": {
+          "standard_key": "右弼",
+          "full_name": "右弼星",
+          "description": "右弼星之縮寫，六吉星之一，主水，代表團隊助力，於戊干四化中化科。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "昌": {
+          "standard_key": "文昌",
+          "full_name": "文昌星",
+          "description": "文昌星之縮寫，六吉星之一，主金，司科甲名聲，於丙、辛干四化中出現。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "曲": {
+          "standard_key": "文曲",
+          "full_name": "文曲星",
+          "description": "文曲星之縮寫，六吉星之一，主水，司才藝辯才，於己、辛干四化中出現。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "左": {
+          "standard_key": "左輔",
+          "full_name": "左輔星",
+          "description": "左輔星之縮寫，六吉星之一，主土，代表領導力，於壬干四化中化科。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "陽": {
+          "standard_key": "太陽",
+          "full_name": "太陽星",
+          "description": "太陽星之縮寫，主陽火，司博愛與名譽，於甲、庚、辛干四化中出現。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "陰": {
+          "standard_key": "太陰",
+          "full_name": "太陰星",
+          "description": "太陰星之縮寫，與「月」同義，於乙、丁、戊、癸干四化中出現。",
+          "tag": "_custom",
+          "design_origin": "古籍歌訣縮寫正規化"
+        },
+        "機": {
+          "standard_key": "天機",
+          "full_name": "天機星",
+          "description": "天機星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "梁": {
+          "standard_key": "天梁",
+          "full_name": "天梁星",
+          "description": "天梁星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "紫": {
+          "standard_key": "紫微",
+          "full_name": "紫微星",
+          "description": "紫微星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "同": {
+          "standard_key": "天同",
+          "full_name": "天同星",
+          "description": "天同星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "廉": {
+          "standard_key": "廉貞",
+          "full_name": "廉貞星",
+          "description": "廉貞星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "府": {
+          "standard_key": "天府",
+          "full_name": "天府星",
+          "description": "天府星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "貪": {
+          "standard_key": "貪狼",
+          "full_name": "貪狼星",
+          "description": "貪狼星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "巨": {
+          "standard_key": "巨門",
+          "full_name": "巨門星",
+          "description": "巨門星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "相": {
+          "standard_key": "天相",
+          "full_name": "天相星",
+          "description": "天相星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "殺": {
+          "standard_key": "七殺",
+          "full_name": "七殺星",
+          "description": "七殺星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        },
+        "破": {
+          "standard_key": "破軍",
+          "full_name": "破軍星",
+          "description": "破軍星縮寫",
+          "tag": "_custom",
+          "design_origin": "歌訣正規化"
+        }
       },
       "status": "active"
     },
@@ -1631,6 +1780,14 @@
   "documentation_layer": [
     {
       "rule_sentence": "整合命盤基本架構與四化動態系統，並加入天魁天鉞安星細節、晚子時換日規則、重忌邏輯，共七大模組。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "庚、壬、癸三干四化採用陽武同相／梁紫左武／破巨陰貪版本，源自文墨天機安星碼決策。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "四化歌訣中所有縮寫代號（如月、弼、昌、曲、左、陽、陰）一律正規化為太陰、右弼、文昌、文曲、左輔、太陽、太陰。",
       "status": "active"
     },
     {

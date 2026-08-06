@@ -195,5 +195,13 @@
       "rule_sentence": "- **架構安全性高**：具備成熟的融合層與安全斷言機制。",
       "status": "active"
     }
-  ]
+  ],
+  "heavy_taboo_logic": {
+    "name": "重忌疊加邏輯",
+    "description": "生年忌、大限忌、流年忌三重疊於同宮時，凶象力度倍增。",
+    "trigger_conditions": "count(ji_stars_in_palace) >= 3",
+    "action": "output_heavy_taboo_warning",
+    "tag": "_custom",
+    "design_origin": "全局邏輯審查指令"
+  }
 }

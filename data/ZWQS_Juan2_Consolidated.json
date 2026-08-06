@@ -10378,6 +10378,11 @@
     {
       "line_id": "ZWQS_Juan2_AnSihua_L001",
       "original_quote": "甲廉破武陽為伴，乙機梁紫月交侵，丙同機昌廉貞位，丁月同機巨門尋，",
+      "alias_map": {
+        "陽": "太陽",
+        "月": "太陰",
+        "昌": "文昌"
+      },
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10391,6 +10396,15 @@
     {
       "line_id": "ZWQS_Juan2_AnSihua_L002",
       "original_quote": "戊貪月弼機為主，己武貪梁曲最平，庚日武陰同為首，辛巨陽曲昌至臨，",
+      "alias_map": {
+        "月": "太陰",
+        "弼": "右弼",
+        "曲": "文曲",
+        "日": "太陽",
+        "陰": "太陰",
+        "陽": "太陽",
+        "昌": "文昌"
+      },
       "tag": [
         "non_classical"
       ],
@@ -10406,6 +10420,10 @@
     {
       "line_id": "ZWQS_Juan2_AnSihua_L003",
       "original_quote": "壬梁紫府武宿是，癸破巨陰貪狼停。",
+      "alias_map": {
+        "府": "天府",
+        "陰": "太陰"
+      },
       "tag": [
         "non_classical"
       ],

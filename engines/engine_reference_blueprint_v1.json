@@ -1,9 +1,9 @@
 {
   "meta": {
-    "version": "1.0",
+    "version": "1.1",
     "role": "L0_Constitution",
-    "status": "LOCKED",
-    "last_updated": "2026-08-05"
+    "status": "LOCKED (Sihua Sync Complete)",
+    "last_updated": "2026-08-06"
   },
   "five_layer_mapping": {
     "L1_Data": "data/*.json",
@@ -45,7 +45,8 @@
       "used_by": [
         "engine_truth_registry_v1",
         "engine_interpretation_fusion_v1"
-      ]
+      ],
+      "notes": "四化歌訣行已加 alias_map，用於 RAG 層語義對齊，不更動正文。"
     },
     "ZWQS_Juan3_Consolidated.json": {
       "role": "限運 / 應期 / 追加斷語",

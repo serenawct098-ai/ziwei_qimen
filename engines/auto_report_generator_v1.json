@@ -39,6 +39,15 @@
       ]
     },
     {
+      "id": "wealth",
+      "title": "財富與資產",
+      "components": [
+        "original_quotes",
+        "modern_translation",
+        "wealth_risk_analysis"
+      ]
+    },
+    {
       "id": "inner_spirit_resilience",
       "title": "精神內在與心理韌性",
       "components": [
