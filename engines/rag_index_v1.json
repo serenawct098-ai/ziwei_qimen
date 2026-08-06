@@ -366,7 +366,7 @@
       "original_quote_preview": "如與祿存同宮,謂之祿⾺交馳,⼜⽈折鞭⾺;紫府同宮謂之扶轝⾺;",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "如與化祿存天同宮,謂之化祿⾺交馳,⼜⽈折鞭⾺;紫微天府天同宮謂之扶轝⾺;"
+      "normalized_preview": "如與祿存天同宮,謂之化祿⾺交馳,⼜⽈折鞭⾺;紫微天府天同宮謂之扶轝⾺;"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[2]",
@@ -375,7 +375,7 @@
       "original_quote_preview": "機月同梁作吏人命在寅申方論，加吉不論無吉無殺亦是平常人，凶殺空劫化忌為下格。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機太陰天同天梁作吏人命在寅申方論，加吉不論無吉無七殺亦是平常人，凶七殺地空地劫化忌為下格。"
+      "normalized_preview": "天機太陰天同天梁作吏人命在寅申方論，加吉不論無吉無七殺亦是平常人，凶七殺地空地劫化化忌為下格。"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[3]",
@@ -393,7 +393,7 @@
       "original_quote_preview": "祿存厚重多衣食,府相朝垣命必榮｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "化祿存厚重多衣食,天府天相朝垣命必榮｡"
+      "normalized_preview": "祿存厚重多衣食,天府天相朝垣命必榮｡"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sha_po_lang",
@@ -476,7 +476,7 @@
       "original_quote_preview": "武曲已亥逢,六甲帥邊庭,貪狼居卯,遇火作公卿,",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲已亥逢,六甲帥邊庭,貪狼居卯,遇火作公卿,"
+      "normalized_preview": "武曲已亥逢,六甲帥邊庭,貪狼居卯,遇火星作公卿,"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.stems[1]",
@@ -539,7 +539,7 @@
       "original_quote_preview": "科星居於陷地,燈火辛勤｡昌曲在於凶鄉,林泉冷淡｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "化科星居於陷地,燈火辛勤｡文昌文曲在於凶鄉,林泉冷淡｡"
+      "normalized_preview": "化科星居於陷地,燈火星辛勤｡文昌文曲在於凶鄉,林泉冷淡｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.stems[8]",
@@ -566,7 +566,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.branches[1]",
@@ -611,7 +611,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.branches[6]",
@@ -665,7 +665,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[0]",
@@ -683,7 +683,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[2]",
@@ -692,7 +692,7 @@
       "original_quote_preview": "紫微土，南北斗化帝座，為官祿主。紫微面紫色或白青，腰背肥滿，為人忠厚老成，謙恭耿直，其威制七殺降火鈴。若與府相左右日月昌曲三合嘉會極急，食祿千鍾巨富大貴。與祿存...",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "紫微土，南北斗化帝座，為官化祿主。紫微面紫微色或白青，腰背肥滿，為人忠厚老成，謙恭耿直，其威制七殺降火鈴星。若與天府天相左輔右弼太陽太陰文昌文曲三合嘉會極急，食化祿千鍾巨門富大貴。與化祿存..."
+      "normalized_preview": "紫微土，南北斗化帝座，為官祿主。紫微面紫微色或白青，腰背肥滿，為人忠厚老成，謙恭耿直，其威制七殺降火星鈴星。若與天府天相左輔右弼太陽太陰文昌文曲三合嘉會極急，食化祿千鍾巨門富大貴。與祿存..."
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[3]",
@@ -701,7 +701,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[4]",
@@ -755,7 +755,7 @@
       "original_quote_preview": "六丁到乾名為「火到天門」，吉。丙丁巳午日有赤色雲氣從正南方來助，客勝。一名「玉女游天門」，又名「火照天門」。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "六丁到乾名為「火到天門」，吉。丙丁巳午太陽有赤色雲氣從正南方來助，客勝。一名「玉女游天門」，又名「火照天門」。"
+      "normalized_preview": "六丁到乾名為「火星到天門」，吉。丙丁巳午太陽有赤色雲氣從正南方來助，客勝。一名「玉女游天門」，又名「火星照天門」。"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[5]",
@@ -782,7 +782,7 @@
       "original_quote_preview": "武曲金，北斗化財，為財帛主。武曲性剛果決，心直無毒，形小聲高而量大，有毛髮之異。最喜甲己生人福厚，入廟與昌曲同行，則出將入相，武職最旺，文人多學多能。會貪遇火化...",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲金，北斗化財，為財帛主。武文曲性剛果決，心直無毒，形小聲高而量大，有毛髮之異。最喜甲己生人福厚，入廟與文昌文曲天同行，則出將入天相，武職最旺，文人多學多能。會貪狼遇火化..."
+      "normalized_preview": "武曲金，北斗化財，為財帛主。武曲性剛果決，心直無毒，形小聲高而量大，有毛髮之異。最喜甲己生人福厚，入廟與文昌文曲天同行，則出將入天相，武職最旺，文人多學多能。會貪狼遇火星化..."
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[0].standard_key",
@@ -872,7 +872,7 @@
       "original_quote_preview": "夫妻宮男女俱不得美,疾厄與⽺陀暗殺交併,酒⾊之病｡遷移若坐",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "夫妻宮男女俱不得美,疾厄與羊陀羅暗七殺交併,酒⾊之病｡遷移若坐"
+      "normalized_preview": "夫妻宮男女俱不得美,疾厄與擎羊陀羅暗七殺交併,酒⾊之病｡遷移若坐"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].legacy_aliases[0]",
@@ -881,7 +881,7 @@
       "original_quote_preview": "夫妻宮男女俱不得美,疾厄與⽺陀暗殺交併,酒⾊之病｡遷移若坐",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "夫妻宮男女俱不得美,疾厄與羊陀羅暗七殺交併,酒⾊之病｡遷移若坐"
+      "normalized_preview": "夫妻宮男女俱不得美,疾厄與擎羊陀羅暗七殺交併,酒⾊之病｡遷移若坐"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].engine_binding",
@@ -908,7 +908,7 @@
       "original_quote_preview": "凡看子女先看本宮星宿主有幾子。若加羊陀火玲空劫殺忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子昌盛貴顯...",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "凡看子女先看本宮星宿主有幾子。若加羊陀羅火玲地空地劫七殺化忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子文昌盛貴顯..."
+      "normalized_preview": "凡看子女先看本宮星宿主有幾子。若加擎羊陀羅火星玲地空地劫七殺化忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子文昌盛貴顯..."
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].legacy_aliases[0]",
@@ -917,7 +917,7 @@
       "original_quote_preview": "凡看子女先看本宮星宿主有幾子。若加羊陀火玲空劫殺忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子昌盛貴顯...",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "凡看子女先看本宮星宿主有幾子。若加羊陀羅火玲地空地劫七殺化忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子文昌盛貴顯..."
+      "normalized_preview": "凡看子女先看本宮星宿主有幾子。若加擎羊陀羅火星玲地空地劫七殺化忌主生子女有刑剋，次看對宮有沖刑否。如本宮無星曜專看對宮有何星宿主有幾子。若善星貴星守子女宮必主其人生子文昌盛貴顯..."
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].engine_binding",
@@ -971,7 +971,7 @@
       "original_quote_preview": "先看命宮星落陷,加⽺陀火鈴劫空忌宿,⼜看疾厄宮星廟陷吉凶⽽",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "先看命宮星落陷,加羊陀羅火鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
+      "normalized_preview": "先看命宮星落陷,加擎羊陀羅火星鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[5].display_name",
@@ -980,7 +980,7 @@
       "original_quote_preview": "先看命宮星落陷,加⽺陀火鈴劫空忌宿,⼜看疾厄宮星廟陷吉凶⽽",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "先看命宮星落陷,加羊陀羅火鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
+      "normalized_preview": "先看命宮星落陷,加擎羊陀羅火星鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[5].legacy_aliases[0]",
@@ -989,7 +989,7 @@
       "original_quote_preview": "先看命宮星落陷,加⽺陀火鈴劫空忌宿,⼜看疾厄宮星廟陷吉凶⽽",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "先看命宮星落陷,加羊陀羅火鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
+      "normalized_preview": "先看命宮星落陷,加擎羊陀羅火星鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[5].engine_binding",
@@ -998,7 +998,7 @@
       "original_quote_preview": "先看命宮星落陷,加⽺陀火鈴劫空忌宿,⼜看疾厄宮星廟陷吉凶⽽",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "先看命宮星落陷,加羊陀羅火鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
+      "normalized_preview": "先看命宮星落陷,加擎羊陀羅火星鈴星地劫地空化忌宿,⼜看疾厄宮星廟陷吉凶⽽"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[6].standard_key",
@@ -1088,7 +1088,7 @@
       "original_quote_preview": "官祿遇紫府,富⽽且貴｡⽥宅遇破軍,先破後成｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "官化祿遇紫微天府,富⽽且貴｡⽥宅遇破軍,先破軍後成｡"
+      "normalized_preview": "官祿遇紫微天府,富⽽且貴｡⽥宅遇破軍,先破軍後成｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].display_name",
@@ -1097,7 +1097,7 @@
       "original_quote_preview": "紫微原屬⼟,官祿宮主星,有相為有⽤,無相為孤君,諸宮皆",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "紫微原屬土,官化祿宮主星,有天相為有⽤,無天相為孤君,諸宮皆"
+      "normalized_preview": "紫微原屬土,官祿宮主星,有天相為有⽤,無天相為孤君,諸宮皆"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[0]",
@@ -1106,7 +1106,7 @@
       "original_quote_preview": "紫微原屬⼟,官祿宮主星,有相為有⽤,無相為孤君,諸宮皆",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "紫微原屬土,官化祿宮主星,有天相為有⽤,無天相為孤君,諸宮皆"
+      "normalized_preview": "紫微原屬土,官祿宮主星,有天相為有⽤,無天相為孤君,諸宮皆"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]",
@@ -1124,7 +1124,7 @@
       "original_quote_preview": "官祿遇紫府,富⽽且貴｡⽥宅遇破軍,先破後成｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "官化祿遇紫微天府,富⽽且貴｡⽥宅遇破軍,先破軍後成｡"
+      "normalized_preview": "官祿遇紫微天府,富⽽且貴｡⽥宅遇破軍,先破軍後成｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].standard_key",
@@ -1295,7 +1295,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[3].display_name",
@@ -1304,7 +1304,7 @@
       "original_quote_preview": "問武曲星所主為何?",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "問武文曲星所主為何?"
+      "normalized_preview": "問武曲星所主為何?"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[3].legacy_aliases[0]",
@@ -1313,7 +1313,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[4].standard_key",
@@ -1421,7 +1421,7 @@
       "original_quote_preview": "論貪狼遇火名為火貴格三合照⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論貪狼遇火名為火貴格三合照⾝命是也"
+      "normalized_preview": "論貪狼遇火星名為火星貴格三合照⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[8].display_name",
@@ -1439,7 +1439,7 @@
       "original_quote_preview": "論貪狼遇火名為火貴格三合照⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論貪狼遇火名為火貴格三合照⾝命是也"
+      "normalized_preview": "論貪狼遇火星名為火星貴格三合照⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].standard_key",
@@ -1448,7 +1448,7 @@
       "original_quote_preview": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加羊陀羅火鈴星地空地劫一生有成有敗。"
+      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加擎羊陀羅火星鈴星地空地劫一生有成有敗。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].legacy_aliases[0]",
@@ -1457,7 +1457,7 @@
       "original_quote_preview": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加羊陀羅火鈴星地空地劫一生有成有敗。"
+      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加擎羊陀羅火星鈴星地空地劫一生有成有敗。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[10].standard_key",
@@ -1592,7 +1592,7 @@
       "original_quote_preview": "文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒輩。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火鈴星地空敗寒儒輩。"
+      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火星鈴星地空敗寒儒輩。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].display_name",
@@ -1601,7 +1601,7 @@
       "original_quote_preview": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。"
+      "normalized_preview": "子午人火星玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].legacy_aliases[0]",
@@ -1610,7 +1610,7 @@
       "original_quote_preview": "文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒輩。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火鈴星地空敗寒儒輩。"
+      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火星鈴星地空敗寒儒輩。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].standard_key",
@@ -1619,7 +1619,7 @@
       "original_quote_preview": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加羊陀羅火鈴星地空地劫家化忌，東來西去成敗不遂。"
+      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加擎羊陀羅火星鈴星地空地劫家化忌，東來西去成敗不遂。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].display_name",
@@ -1637,7 +1637,7 @@
       "original_quote_preview": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加羊陀羅火鈴星地空地劫家化忌，東來西去成敗不遂。"
+      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加擎羊陀羅火星鈴星地空地劫家化忌，東來西去成敗不遂。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].standard_key",
@@ -1646,7 +1646,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].legacy_aliases[0]",
@@ -1655,7 +1655,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[17].standard_key",
@@ -1664,7 +1664,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[17].display_name",
@@ -1682,7 +1682,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[18].standard_key",
@@ -1808,7 +1808,7 @@
       "original_quote_preview": "七殺守照歲限擎羊午生人命安卯西宮主凶亡餘宮亦忌命限三合殺，流年羊刃到命，即七殺重逢，申酉宮忌，多忌限",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "七殺守照歲限擎羊午生人命安卯西宮主凶亡餘宮亦化忌命限三合七殺，流年羊刃到命，即七殺重逢，申酉宮化忌，多化忌限"
+      "normalized_preview": "七殺守照歲限擎羊午生人命安卯西宮主凶亡餘宮亦化忌命限三合七殺，流年擎羊刃到命，即七殺重逢，申酉宮化忌，多化忌限"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[23].standard_key",
@@ -1844,7 +1844,7 @@
       "original_quote_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天空地劫所主若何?",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
+      "normalized_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].standard_key",
@@ -1853,7 +1853,7 @@
       "original_quote_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天空地劫所主若何?",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
+      "normalized_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].legacy_aliases[0]",
@@ -1862,7 +1862,7 @@
       "original_quote_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天空地劫所主若何?",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
+      "normalized_preview": "武曲併貪狼,⼀世招凶惡,疾厄若逢之,四時不離著,只宜⼭問天地空地劫所主若何?"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[26].standard_key",
@@ -1871,7 +1871,7 @@
       "original_quote_preview": "論對⾯朝⽃格⼦午宮逢祿存是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論對⾯朝⽃格子午宮逢化祿存是也"
+      "normalized_preview": "論對⾯朝⽃格子午宮逢祿存是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[26].display_name",
@@ -1880,7 +1880,7 @@
       "original_quote_preview": "問祿存星所主若何?",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "問化祿存星所主若何?"
+      "normalized_preview": "問祿存星所主若何?"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[26].legacy_aliases[0]",
@@ -1889,7 +1889,7 @@
       "original_quote_preview": "論對⾯朝⽃格⼦午宮逢祿存是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論對⾯朝⽃格子午宮逢化祿存是也"
+      "normalized_preview": "論對⾯朝⽃格子午宮逢祿存是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].standard_key",
@@ -1898,7 +1898,7 @@
       "original_quote_preview": "天馬火，最喜會祿存，極忌截路空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加殺不美，加權祿照臨，必主男為官，女封贈。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天馬火，最喜會化祿存，極化忌截路地空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加七殺不美，加化權化祿照臨，必主男為官，女封贈。"
+      "normalized_preview": "天馬火星，最喜會祿存，極化忌截路地空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加七殺不美，加化權化祿照臨，必主男為官，女封贈。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].display_name",
@@ -1916,7 +1916,7 @@
       "original_quote_preview": "天馬火，最喜會祿存，極忌截路空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加殺不美，加權祿照臨，必主男為官，女封贈。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天馬火，最喜會化祿存，極化忌截路地空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加七殺不美，加化權化祿照臨，必主男為官，女封贈。"
+      "normalized_preview": "天馬火星，最喜會祿存，極化忌截路地空亡。如命在辰戌丑未，遇寅申巳亥有天馬在夫妻宮，加吉會者富貴，加七殺不美，加化權化祿照臨，必主男為官，女封贈。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].standard_key",
@@ -1997,7 +1997,7 @@
       "original_quote_preview": "武曲之宿為寡宿｡破軍⼀曜性難明｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲之宿為寡宿｡破軍⼀曜性難明｡"
+      "normalized_preview": "武曲之宿為寡宿｡破軍⼀曜性難明｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[33].legacy_aliases[0]",
@@ -2006,7 +2006,7 @@
       "original_quote_preview": "武曲之宿為寡宿｡破軍⼀曜性難明｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲之宿為寡宿｡破軍⼀曜性難明｡"
+      "normalized_preview": "武曲之宿為寡宿｡破軍⼀曜性難明｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[34].standard_key",
@@ -2150,7 +2150,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.甲.化忌",
@@ -2222,7 +2222,7 @@
       "original_quote_preview": "文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒輩。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火鈴星地空敗寒儒輩。"
+      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火星鈴星地空敗寒儒輩。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丙.化忌",
@@ -2267,7 +2267,7 @@
       "original_quote_preview": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加羊陀羅火鈴星地空地劫一生有成有敗。"
+      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加擎羊陀羅火星鈴星地空地劫一生有成有敗。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊.化祿",
@@ -2276,7 +2276,7 @@
       "original_quote_preview": "論貪狼遇火名為火貴格三合照⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論貪狼遇火名為火貴格三合照⾝命是也"
+      "normalized_preview": "論貪狼遇火星名為火星貴格三合照⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊.化權",
@@ -2294,7 +2294,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊.化忌",
@@ -2312,7 +2312,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己.化權",
@@ -2321,7 +2321,7 @@
       "original_quote_preview": "論貪狼遇火名為火貴格三合照⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論貪狼遇火名為火貴格三合照⾝命是也"
+      "normalized_preview": "論貪狼遇火星名為火星貴格三合照⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己.化科",
@@ -2339,7 +2339,7 @@
       "original_quote_preview": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加羊陀羅火鈴星地空地劫家化忌，東來西去成敗不遂。"
+      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加擎羊陀羅火星鈴星地空地劫家化忌，東來西去成敗不遂。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚.化祿",
@@ -2357,7 +2357,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚.化科",
@@ -2384,7 +2384,7 @@
       "original_quote_preview": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加羊陀羅火鈴星地空地劫一生有成有敗。"
+      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加擎羊陀羅火星鈴星地空地劫一生有成有敗。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛.化權",
@@ -2402,7 +2402,7 @@
       "original_quote_preview": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加羊陀羅火鈴星地空地劫家化忌，東來西去成敗不遂。"
+      "normalized_preview": "文曲入廟富足，加吉星得貴人財，加擎羊陀羅火星鈴星地空地劫家化忌，東來西去成敗不遂。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛.化忌",
@@ -2411,7 +2411,7 @@
       "original_quote_preview": "文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒輩。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火鈴星地空敗寒儒輩。"
+      "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀羅火星鈴星地空敗寒儒輩。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬.化祿",
@@ -2438,7 +2438,7 @@
       "original_quote_preview": "⽂曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "文曲武文曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
+      "normalized_preview": "文曲武曲為⼈多學多能,左輔右弼稟性克寬克厚｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬.化忌",
@@ -2447,7 +2447,7 @@
       "original_quote_preview": "論兼⽂武格⽂曲武曲在⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論兼文武格文曲武文曲在⾝命是也"
+      "normalized_preview": "論兼文武格文曲武曲在⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸.化祿",
@@ -2465,7 +2465,7 @@
       "original_quote_preview": "天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰同陷宮成敗，加羊陀火鈴空劫一生有成有敗。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加羊陀羅火鈴星地空地劫一生有成有敗。"
+      "normalized_preview": "天機勞心費力生財，巨門天同鬧中求取，天梁天同天機關巧計生外財，太陰天同陷宮成敗，加擎羊陀羅火星鈴星地空地劫一生有成有敗。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸.化科",
@@ -2483,7 +2483,7 @@
       "original_quote_preview": "論貪狼遇火名為火貴格三合照⾝命是也",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "論貪狼遇火名為火貴格三合照⾝命是也"
+      "normalized_preview": "論貪狼遇火星名為火星貴格三合照⾝命是也"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.甲.kui",
@@ -2546,7 +2546,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.乙.yue",
@@ -2564,7 +2564,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.己.yue",
@@ -2582,7 +2582,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.丙.yue",
@@ -2600,7 +2600,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.丁.yue",
@@ -2645,7 +2645,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.癸.kui",
@@ -2663,7 +2663,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.甲",
@@ -2690,7 +2690,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.丁",
@@ -2708,7 +2708,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.己",
@@ -2744,7 +2744,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.癸",
@@ -2753,7 +2753,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.寅",
@@ -2816,7 +2816,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.酉",
@@ -2825,7 +2825,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.丑",
@@ -2834,7 +2834,7 @@
       "original_quote_preview": "亥安命亥宮貪火天梁同,飄蕩浪⼦走⻄東,若還富貴也年促,不",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "亥安命亥宮貪狼火天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
+      "normalized_preview": "亥安命亥宮貪狼火星天梁天同,飄蕩浪子走⻄東,若還富貴也年促,不"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.亥",
@@ -2843,7 +2843,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.卯",
@@ -2852,7 +2852,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.未",
@@ -2861,7 +2861,7 @@
       "original_quote_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚，武曲同守巳亥宮，東來西去，紫微同先去後生，廉貞同勞碌生財，先難後遂，加空劫極貧。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武文曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
+      "normalized_preview": "破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破軍不祖聚，武曲天同守巳亥宮，東來西去，紫微天同先去後生，廉貞天同勞碌生財，先難後遂，加地空地劫極貧。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luoshu_9palace.1",
@@ -2915,7 +2915,7 @@
       "original_quote_preview": "武曲居乾戌亥上,最怕太陰逢貪狼｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲居乾戌亥上,最怕太陰逢貪狼｡"
+      "normalized_preview": "武曲居乾戌亥上,最怕太陰逢貪狼｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luoshu_9palace.7",
@@ -2924,7 +2924,7 @@
       "original_quote_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火來兌上禍難藏，",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火來兌上禍難藏，"
+      "normalized_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火星來兌上禍難藏，"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luoshu_9palace.8",
@@ -2933,7 +2933,7 @@
       "original_quote_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火來兌上禍難藏，",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火來兌上禍難藏，"
+      "normalized_preview": "金人遇坎命須傷，木命落離有禍殃，水遇艮宮應蹇滯，火星來兌上禍難藏，"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luoshu_9palace.9",
@@ -2942,7 +2942,7 @@
       "original_quote_preview": "⼤耗會廉貞於官祿枷杻囚徒,官符會刑殺於遷移離鄉遠配｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "⼤耗會廉貞於官化祿枷杻囚徒,官值符會刑七殺於遷移離鄉遠配｡"
+      "normalized_preview": "⼤耗會廉貞於官祿枷杻囚徒,官值符會刑七殺於遷移離鄉遠配｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.子",
@@ -2960,7 +2960,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.寅",
@@ -2969,7 +2969,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.卯",
@@ -2978,7 +2978,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.辰",
@@ -2996,7 +2996,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.午",
@@ -3005,7 +3005,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.未",
@@ -3014,7 +3014,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.申",
@@ -3032,7 +3032,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.紫微.戌",
@@ -3059,7 +3059,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天機.丑",
@@ -3086,7 +3086,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天機.辰",
@@ -3113,7 +3113,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天機.未",
@@ -3140,7 +3140,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天機.戌",
@@ -3185,7 +3185,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陽.卯",
@@ -3194,7 +3194,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陽.辰",
@@ -3203,7 +3203,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陽.巳",
@@ -3212,7 +3212,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陽.午",
@@ -3221,7 +3221,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陽.未",
@@ -3275,7 +3275,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.丑",
@@ -3284,7 +3284,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.寅",
@@ -3311,7 +3311,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.巳",
@@ -3329,7 +3329,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.未",
@@ -3338,7 +3338,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.申",
@@ -3365,7 +3365,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.武曲.亥",
@@ -3383,7 +3383,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天同.丑",
@@ -3410,7 +3410,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天同.辰",
@@ -3428,7 +3428,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天同.午",
@@ -3455,7 +3455,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天同.酉",
@@ -3482,7 +3482,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.子",
@@ -3509,7 +3509,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.卯",
@@ -3527,7 +3527,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.巳",
@@ -3545,7 +3545,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.未",
@@ -3563,7 +3563,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.酉",
@@ -3581,7 +3581,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.廉貞.亥",
@@ -3599,7 +3599,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.丑",
@@ -3608,7 +3608,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.寅",
@@ -3617,7 +3617,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.卯",
@@ -3635,7 +3635,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.巳",
@@ -3653,7 +3653,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.未",
@@ -3662,7 +3662,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.申",
@@ -3671,7 +3671,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.酉",
@@ -3689,7 +3689,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天府.亥",
@@ -3707,7 +3707,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陰.丑",
@@ -3716,7 +3716,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陰.寅",
@@ -3788,7 +3788,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陰.戌",
@@ -3797,7 +3797,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.太陰.亥",
@@ -3806,7 +3806,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.子",
@@ -3815,7 +3815,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.丑",
@@ -3824,7 +3824,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.寅",
@@ -3851,7 +3851,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.巳",
@@ -3869,7 +3869,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.未",
@@ -3878,7 +3878,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.申",
@@ -3905,7 +3905,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.貪狼.亥",
@@ -3923,7 +3923,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.丑",
@@ -3941,7 +3941,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.卯",
@@ -3950,7 +3950,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.辰",
@@ -3968,7 +3968,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.午",
@@ -3977,7 +3977,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.未",
@@ -3995,7 +3995,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.酉",
@@ -4004,7 +4004,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.巨門.戌",
@@ -4022,7 +4022,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.子",
@@ -4031,7 +4031,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.丑",
@@ -4040,7 +4040,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.寅",
@@ -4049,7 +4049,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.卯",
@@ -4076,7 +4076,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.午",
@@ -4085,7 +4085,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.未",
@@ -4094,7 +4094,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.申",
@@ -4103,7 +4103,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天相.酉",
@@ -4130,7 +4130,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.子",
@@ -4139,7 +4139,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.丑",
@@ -4148,7 +4148,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.寅",
@@ -4157,7 +4157,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.卯",
@@ -4166,7 +4166,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.辰",
@@ -4175,7 +4175,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.巳",
@@ -4193,7 +4193,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.未",
@@ -4202,7 +4202,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.申",
@@ -4211,7 +4211,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.酉",
@@ -4229,7 +4229,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.天梁.亥",
@@ -4247,7 +4247,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.丑",
@@ -4256,7 +4256,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.寅",
@@ -4265,7 +4265,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.卯",
@@ -4274,7 +4274,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.辰",
@@ -4283,7 +4283,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.巳",
@@ -4301,7 +4301,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.未",
@@ -4310,7 +4310,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.申",
@@ -4319,7 +4319,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.酉",
@@ -4328,7 +4328,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.戌",
@@ -4337,7 +4337,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.七殺.亥",
@@ -4355,7 +4355,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.丑",
@@ -4364,7 +4364,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.寅",
@@ -4391,7 +4391,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.巳",
@@ -4400,7 +4400,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.午",
@@ -4409,7 +4409,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.未",
@@ -4418,7 +4418,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.申",
@@ -4445,7 +4445,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.star_strength_table.破軍.亥",
@@ -4454,7 +4454,7 @@
       "original_quote_preview": "廟旺地有無吉凶星辰,如在陷地加殺化忌必主刑剋,第⼆⼜看妻妾",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化忌必主刑剋,第⼆⼜看妻妾"
+      "normalized_preview": "廟旺地有無吉凶星辰,如在陷地加七殺化化忌必主刑剋,第⼆⼜看妻妾"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
@@ -4535,7 +4535,7 @@
       "original_quote_preview": "官府發於吉曜,流殺怕逢破軍｡⽺陀憑太歲以引⾏,病符官符皆作",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "官天府發於吉曜,流七殺怕逢破軍｡羊陀羅憑太歲以引⾏,病值符官值符皆作"
+      "normalized_preview": "官天府發於吉曜,流七殺怕逢破軍｡擎羊陀羅憑太歲以引⾏,病值符官值符皆作"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[9]",
@@ -4544,7 +4544,7 @@
       "original_quote_preview": "武曲單居旺地，得祖父大業，陷地退後方成，破軍大耗同破蕩家產，有也不耐久，天相同先見破後方有，七殺同心不欲，天府同守見成家業，貪狼同晚置，見火鈴星同極美，田產茂盛...",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "武文曲單居旺地，得祖父大業，陷地退後方成，破軍大耗天同破軍蕩家產，有也不耐久，天相天同先見破軍後方有，七殺天同心不欲，天府天同守見成家業，貪狼天同晚置，見火鈴星天同極美，田產茂盛..."
+      "normalized_preview": "武曲單居旺地，得祖父大業，陷地退後方成，破軍大耗天同破軍蕩家產，有也不耐久，天相天同先見破軍後方有，七殺天同心不欲，天府天同守見成家業，貪狼天同晚置，見火星鈴星天同極美，田產茂盛..."
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
@@ -4562,7 +4562,7 @@
       "original_quote_preview": "官府發於吉曜,流殺怕逢破軍｡⽺陀憑太歲以引⾏,病符官符皆作",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "官天府發於吉曜,流七殺怕逢破軍｡羊陀羅憑太歲以引⾏,病值符官值符皆作"
+      "normalized_preview": "官天府發於吉曜,流七殺怕逢破軍｡擎羊陀羅憑太歲以引⾏,病值符官值符皆作"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[0]",
@@ -4607,7 +4607,7 @@
       "original_quote_preview": "主陣亡掠死｡合太陽巨⾨會帝旺之鄉則吉,處空亡犯刑殺遭禍不輕｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "主陣亡掠死｡合太陽巨門門會帝旺之鄉則吉,處地空亡犯刑七殺遭禍不輕｡"
+      "normalized_preview": "主陣亡掠死｡合太陽巨門會帝旺之鄉則吉,處地空亡犯刑七殺遭禍不輕｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[5]",
@@ -4634,7 +4634,7 @@
       "original_quote_preview": "七殺臨於陷地流年必⾒死亡,耗殺忌逢破軍火鈴嫌逢太歲｡",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "七殺臨於陷地流年必⾒死亡,耗七殺化忌逢破軍火鈴星嫌逢太歲｡"
+      "normalized_preview": "七殺臨於陷地流年必⾒死亡,耗七殺化忌逢破軍火星鈴星嫌逢太歲｡"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[8]",
@@ -4661,7 +4661,7 @@
       "original_quote_preview": "紫微災少，天府同亦少，天相同皮胎勞，如加破軍血氣不和，同羊鈴主有暗疾，加空劫主疢疾心氣疾。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "紫微災少，天府天同亦少，天相天同皮胎勞，如加破軍血氣不和，天同羊鈴星主有暗疾，加地空地劫主疢疾心氣疾。"
+      "normalized_preview": "紫微災少，天府天同亦少，天相天同皮胎勞，如加破軍血氣不和，天同擎羊鈴星主有暗疾，加地空地劫主疢疾心氣疾。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[11]",
@@ -4679,7 +4679,7 @@
       "original_quote_preview": "甲戊庚牛羊，乙己鼠猴鄉，六辛逢虎馬，壬癸免蛇藏，丙丁豬狗位，此是貴人方。",
       "verification_status": "verified",
       "design_origin_note": "",
-      "normalized_preview": "甲戊庚牛羊，乙己鼠猴鄉，六辛逢虎馬，壬癸免蛇藏，丙丁豬狗位，此是貴人方。"
+      "normalized_preview": "甲戊庚牛擎羊，乙己鼠猴鄉，六辛逢虎馬，壬癸免蛇藏，丙丁豬狗位，此是貴人方。"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.qimen_compute[0]",
