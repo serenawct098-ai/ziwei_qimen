@@ -1698,82 +1698,212 @@
         "機": {
           "standard_key": "天機",
           "full_name": "天機星",
-          "description": "天機星縮寫",
+          "description": "天機星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "梁": {
           "standard_key": "天梁",
           "full_name": "天梁星",
-          "description": "天梁星縮寫",
+          "description": "天梁星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "紫": {
           "standard_key": "紫微",
           "full_name": "紫微星",
-          "description": "紫微星縮寫",
+          "description": "紫微星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "同": {
           "standard_key": "天同",
           "full_name": "天同星",
-          "description": "天同星縮寫",
+          "description": "天同星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "廉": {
           "standard_key": "廉貞",
           "full_name": "廉貞星",
-          "description": "廉貞星縮寫",
+          "description": "廉貞星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "府": {
           "standard_key": "天府",
           "full_name": "天府星",
-          "description": "天府星縮寫",
+          "description": "天府星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "貪": {
           "standard_key": "貪狼",
           "full_name": "貪狼星",
-          "description": "貪狼星縮寫",
+          "description": "貪狼星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "巨": {
           "standard_key": "巨門",
           "full_name": "巨門星",
-          "description": "巨門星縮寫",
+          "description": "巨門星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "相": {
           "standard_key": "天相",
           "full_name": "天相星",
-          "description": "天相星縮寫",
+          "description": "天相星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "殺": {
           "standard_key": "七殺",
           "full_name": "七殺星",
-          "description": "七殺星縮寫",
+          "description": "七殺星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
         },
         "破": {
           "standard_key": "破軍",
           "full_name": "破軍星",
-          "description": "破軍星縮寫",
+          "description": "破軍星之縮寫，常用於古籍歌訣與排盤速記。",
           "tag": "_custom",
           "design_origin": "歌訣正規化"
+        },
+        "羊": {
+          "standard_key": "擎羊",
+          "full_name": "擎羊星",
+          "description": "擎羊星之縮寫，六煞星之一，主金，司刑傷與衝擊。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "陀": {
+          "standard_key": "陀羅",
+          "full_name": "陀羅星",
+          "description": "陀羅星之縮寫，六煞星之一，主金，司拖延與暗傷。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "火": {
+          "standard_key": "火星",
+          "full_name": "火星",
+          "description": "火星之縮寫，六煞星之一，主火，司暴躁與明損。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "鈴": {
+          "standard_key": "鈴星",
+          "full_name": "鈴星",
+          "description": "鈴星之縮寫，六煞星之一，主火，司陰沉與驚嚇。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "空": {
+          "standard_key": "地空",
+          "full_name": "地空星",
+          "description": "地空星之縮寫，六煞星之一，主火，司空亡與精神耗損。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "劫": {
+          "standard_key": "地劫",
+          "full_name": "地劫星",
+          "description": "地劫星之縮寫，六煞星之一，主火，司破財與物質損失。",
+          "tag": "_custom",
+          "design_origin": "命理術語縮寫"
+        },
+        "祿": {
+          "standard_key": "化祿",
+          "full_name": "化祿星",
+          "description": "化祿之縮寫，主春季生發，司機遇與財祿。",
+          "tag": "_custom",
+          "design_origin": "四化術語縮寫"
+        },
+        "權": {
+          "standard_key": "化權",
+          "full_name": "化權星",
+          "description": "化權之縮寫，主夏季擴張，司權力與執行。",
+          "tag": "_custom",
+          "design_origin": "四化術語縮寫"
+        },
+        "科": {
+          "standard_key": "化科",
+          "full_name": "化科星",
+          "description": "化科之縮寫，主秋季收成，司名譽與平順。",
+          "tag": "_custom",
+          "design_origin": "四化術語縮寫"
+        },
+        "忌": {
+          "standard_key": "化忌",
+          "full_name": "化忌星",
+          "description": "化忌之縮寫，主冬季收斂，司執著與阻滯。",
+          "tag": "_custom",
+          "design_origin": "四化術語縮寫"
+        },
+        "符": {
+          "standard_key": "值符",
+          "full_name": "值符神",
+          "description": "奇門值符之縮寫，主領導與核心氣場。",
+          "tag": "_custom",
+          "design_origin": "奇門術語縮寫"
+        },
+        "使": {
+          "standard_key": "值使",
+          "full_name": "值使門",
+          "description": "奇門值使之縮寫，主執行與具體事務。",
+          "tag": "_custom",
+          "design_origin": "奇門術語縮寫"
+        },
+        "奇": {
+          "standard_key": "三奇",
+          "full_name": "乙丙丁三奇",
+          "description": "奇門三奇之總稱，代表天地人之靈氣。",
+          "tag": "_custom",
+          "design_origin": "奇門術語縮寫"
+        },
+        "儀": {
+          "standard_key": "六儀",
+          "full_name": "戊己庚辛壬癸六儀",
+          "description": "奇門六儀之總稱，代表遁甲之陣式。",
+          "tag": "_custom",
+          "design_origin": "奇門術語縮寫"
         }
       },
-      "status": "active"
+      "status": "active",
+      "terms": {
+        "羊陀": {
+          "standard_key": "擎羊陀羅",
+          "description": "擎羊與陀羅之合稱，主刑傷與阻滯。",
+          "tag": "_custom",
+          "design_origin": "命理術語合稱"
+        },
+        "空劫": {
+          "standard_key": "地空地劫",
+          "description": "地空與地劫之合稱，主精神與物質之雙重耗損。",
+          "tag": "_custom",
+          "design_origin": "命理術語合稱"
+        },
+        "昌曲": {
+          "standard_key": "文昌文曲",
+          "description": "文昌與文曲之合稱，主科甲才藝與文書。",
+          "tag": "_custom",
+          "design_origin": "命理術語合稱"
+        },
+        "輔弼": {
+          "standard_key": "左輔右弼",
+          "description": "左輔與右弼之合稱，主領導力與團隊助力。",
+          "tag": "_custom",
+          "design_origin": "命理術語合稱"
+        },
+        "魁鉞": {
+          "standard_key": "天魁天鉞",
+          "description": "天魁與天鉞之合稱，主陽貴人與陰貴人。",
+          "tag": "_custom",
+          "design_origin": "命理術語合稱"
+        }
+      }
     },
     "status": "active"
   },
