@@ -1,39 +1,37 @@
-# Ziwei × Qimen Decision Engine (Phase 2 Complete)
+# Ziwei × Qimen Decision Engine (v2.0: Full Structure Integration)
 
 ## 專案概述
-本專案旨在構建一個可驗證、可追溯且具備自動化診斷能力的「紫微斗數 × 奇門遁甲」雙軌決策引擎。系統採用六層責任架構（L0-L5），確保從古典文本（SSOT）到現代解讀邏輯的物理對齊。
+本專案旨在構建一個具備**物理級可追溯性**與**契約化運算能力**的「紫微斗數 × 奇門遁甲」雙軌決策引擎。系統嚴格執行《全局邏輯審查指令 v4.0》，確保從古籍原文（SSOT）到動態疊盤運算的每一條邏輯均具備物理反查路徑。
 
-## 當前進度：Phase 2 完工
-目前已完成 **AI 輔助診斷與 RAG 知識庫建置**。系統已具備 11 個核心維度的自動化診斷路由與報告生成能力。
+## 當前進度：v2.0 全量結構併入 (Phase 3 Initial)
+目前已完成**三合紫微與奇門轉盤結構**的物理落地。系統已從「語義描述層」升級為「結構化契約層」，實現了跨檔案的物理閉環。
 
-### 1. 核心維度覆蓋 (11 Dimensions)
-| 分類 | 維度名稱 | 核心宮位 / 邏輯 |
+### 1. 核心憲法鎖定 (L0 Constitution)
+*   **奇門盤層**：固定採用**轉盤**規則；值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，嚴禁混入飛盤邏輯。
+*   **四化矩陣**：庚干（陽武同相）、壬干（梁紫左武）等十干四化已鎖定為文墨天機標準，禁止覆寫。
+*   **換日規則**：晚子時（23:00–23:59）一律視為次日子時，時支恆為子。
+
+### 2. 五層責任架構 (L0-L5)
+| 層級 | 責任定義 | 當前狀態 |
 | :--- | :--- | :--- |
-| **基礎維度** | 事業、感情、健康、財富 | 官祿、夫妻、疾厄、財帛 |
-| **新增維度** | 心理韌性、原生家庭、人際網絡、外顯形象、居住資產、晚輩管理、運限轉折 | 福德、父母、交友/兄弟、遷移、田宅、子女、大限流年 |
-| **奇門擴充** | 戰略局勢、空間風水、隱秘神煞、事件應期、出行避險、失物定位 | 日干對峙、九宮佈局、神煞感應、三元應期 |
+| **L0 憲法層** | `engine_reference_blueprint_v1.json` 負責全局引用合約與版本鎖定。 | **v1.2 已鎖定** |
+| **L1 真值層** | `engine_truth_registry_v1.json` 提供標準鍵、物理對宮表與 100% 溯源的結構表。 | **已併入奇門四盤與副曜神煞** |
+| **L2 運算層** | `engine_compute_protocol_v1.json` 定義安星法、疊盤步驟與 Fail-closed 驗證閘。 | **結構化契約化完成** |
+| **L3 融合層** | `engine_interpretation_fusion_v1.json` 實現紫微格局與奇門格局的物理橋接。 | **格局庫溯源修正完成** |
+| **L4 治理層** | `engine_overlay_governance_v1.json` 管理斷語與風水 Overlay，禁止回寫核心。 | **持續迭代中** |
 
-### 2. 五層系統架構 (L1-L5)
-- **L1 Data (文本層)**：6 份經審計的 JSON SSOT 文本，提供 word-by-word 的原始引述。
-- **L2 Mapping (映射層)**：統一的宮位與星曜註冊表，鎖定標準鍵與別名治理。
-- **L3 Compute (運算層)**：安星定局、四化鎖定（文墨天機標準）、動態疊盤協議。
-- **L4 Fusion (融合層)**：紫微 12 宮與奇門 9 宮的物理橋接，實現雙軌同步診斷。
-- **L5 Governance (治理層)**：斷語庫與風水 Overlay，禁止回寫核心引擎，確保算演分離。
-- **L0 Reference (憲法層)**：`engine_reference_blueprint_v1.json` 負責全局引用合約。
-
-### 3. RAG 索引庫 (rag_index_v1.json)
-- **條目總數**：787 條。
-- **Verified**：484 條（直接對齊古籍 `line_id`）。
-- **Unverified**：303 條（標註系統設計來源，防止 AI 幻覺）。
+### 3. 核心功能更新 (v2.0)
+*   **物理路徑閉環**：所有 Router 意圖（如出行避險、方位風水）均已連結至具備 `type` 與 `path` 的可執行 Selector，消除了 `lookup_miss`。
+*   **疊盤判斷合約**：動態疊盤已從文字敘述升級為具備 `inputs`、`alignment_key` 與 `action` 的運算合約，並物理區分了「本命體用」與「年月體用」。
+*   **粒度級溯源**：每一條奇門結構化數據（值符值使、旬空、驛馬）均已精確標註至 `QMDJ_Juan1_L[XXX]`，實現物理反查。
 
 ## 檔案結構
-- `/data`: 原始文本 SSOT。
-- `/engines`: 核心引擎主檔（Truth, Compute, Fusion, Governance, Blueprint）。
-- `/engines/diagnosis_router_module_v1.json`: 診斷意圖路由中心。
-- `/engines/auto_report_generator_v1.json`: 報告生成組件與約束。
-- `/engines/rag_index_v1.json`: 100% 溯源的 RAG 知識索引。
+- `/data`: 原始古籍 SSOT (ZWQS, QMDJ)。
+- `/engines`: 核心引擎主檔（Blueprint, Truth, Compute, Fusion, Governance）。
+- `/engines/diagnosis_router_module_v1.json`: 具備意圖層級驗證的路由中心。
+- `/engines/cross_file_logic_audit_evidence.json`: **治理核心**，記錄所有 Task 的 Before/After Diff 與驗證實證。
 
 ---
-**Author**: Manus AI (L10 Strategist)
-**Status**: Phase 2 Integrated & Verified
-**Date**: 2026-08-06
+**Author**: LUNA (Autonomous COO & System Architect)
+**Status**: v2.0 Architecture Integrated & Verified (Pending Instruction v4.0 Full Audit)
+**Date**: 2026-08-07

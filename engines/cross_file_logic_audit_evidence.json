@@ -106,6 +106,13 @@
       "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings.",
       "after_snippet": "Blueprint v1.2; Integrated sanhe_full_structure and qimen_full_chart_structure_mapping; Citation ledger updated.",
       "verification_status": "verified (L0 Constitution Update)"
+    },
+    {
+      "task_id": "Task 11",
+      "file_changed": "README.md",
+      "before_snippet": "Phase 2 Complete; lacks v2.0 structure and Qimen panlayer lock.",
+      "after_snippet": "v2.0 Full Structure Integration; reflects Qimen Zhuanpan lock and L0-L5 contract upgrade.",
+      "verification_status": "verified (Documentation Sync)"
     }
   ]
 }
