@@ -1538,9 +1538,22 @@
       },
       "boshi_12_series": {
         "name": "博士十二神",
-        "stars": ["博士", "力士", "青龍", "小耗", "將軍", "奏書", "蜚廉", "喜神", "病符", "大耗", "伏兵", "官府"],
+        "stars": [
+          { "standard_key": "博士", "original_name": "博士" },
+          { "standard_key": "力士", "original_name": "力士" },
+          { "standard_key": "青龍", "original_name": "青龍" },
+          { "standard_key": "小耗", "original_name": "小耗" },
+          { "standard_key": "將軍", "original_name": "將軍" },
+          { "standard_key": "奏書", "original_name": "奏書" },
+          { "standard_key": "蜚廉", "original_name": "蜚廉" },
+          { "standard_key": "喜神", "original_name": "喜神" },
+          { "standard_key": "病符", "original_name": "病符" },
+          { "standard_key": "大耗", "original_name": "天耗", "design_origin_note": "原文 L001 寫為天耗，系統依現代慣例正規化為大耗" },
+          { "standard_key": "伏兵", "original_name": "伏兵" },
+          { "standard_key": "官府", "original_name": "官府" }
+        ],
         "verification_status": "verified",
-        "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
+        "line_ids": ["ZWQS_Juan2_AnTaisuisha_L001", "ZWQS_Juan2_AnTaisuisha_L002"]
       },
       "jiangqian_12_series": {
         "name": "將前十二神",
