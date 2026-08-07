@@ -563,7 +563,33 @@
       { "standard_key": "九地", "display_name": "九地", "legacy_aliases": ["地"], "engine_binding": "qimen_engine.shenpan.九地" },
       { "standard_key": "九天", "display_name": "九天", "legacy_aliases": ["天"], "engine_binding": "qimen_engine.shenpan.九天" },
       { "standard_key": "太常", "display_name": "太常", "legacy_aliases": ["常"], "engine_binding": "qimen_engine.shenpan.太常", "note": "飛盤專用" }
-    ]
+    ],
+    "qimen_yongshen_registry": {
+      "stems_mapping": {
+        "日幹": { "role": "求測人/命主", "standard_key": "day_stem" },
+        "時幹": { "role": "所測之事/子孫", "standard_key": "hour_stem" },
+        "月幹": { "role": "同行/同事/兄弟姊妹", "standard_key": "month_stem" },
+        "年幹": { "role": "長輩/領導/上級機構", "standard_key": "year_stem" }
+      },
+      "theme_bindings": {
+        "career_lawsuit": {
+          "yongshen": ["開門", "值符", "景門"],
+          "description": "開門主工作、值符主領導/法官、景門主合約/訴訟"
+        },
+        "wealth_business": {
+          "yongshen": ["生門", "戊", "壬", "癸"],
+          "description": "生門主利潤、戊主資本、壬癸主資金流動"
+        },
+        "relationship": {
+          "yongshen": ["乙", "庚", "六合"],
+          "description": "乙主女方、庚主男方、六合主婚姻狀況"
+        },
+        "health": {
+          "yongshen": ["天芮", "乙", "丙", "丁", "天心", "傷門"],
+          "description": "天芮主病灶、乙丙丁主醫藥、天心/傷門主醫療手段"
+        }
+      }
+    }
   },
   "static_truth_tables": {
     "sihua_matrix_presets": {
