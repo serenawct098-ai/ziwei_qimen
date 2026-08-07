@@ -86,6 +86,14 @@
         }
       ],
       "status": "active"
+    },
+    "palace_opposition_map": {
+      "子": "午", "午": "子",
+      "丑": "未", "未": "丑",
+      "寅": "申", "申": "寅",
+      "卯": "酉", "酉": "卯",
+      "辰": "戌", "戌": "辰",
+      "巳": "亥", "亥": "巳"
     }
   },
   "name_registries": {
@@ -1825,17 +1833,7 @@
     "late_zi_hour_rule": "23:00-23:59 換日，時支恆為子",
     "leap_month_rule_mode": "sanhe_star_school_middle_split",
     "qimen_panlayer_lock": "轉盤（值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，非飛盤）",
-    "expansion_forbidden": true,
-    "global_coordinate_system": {
-      "palace_opposition_map": {
-        "子": "午", "午": "子",
-        "丑": "未", "未": "丑",
-        "寅": "申", "申": "寅",
-        "卯": "酉", "酉": "卯",
-        "辰": "戌", "戌": "辰",
-        "巳": "亥", "亥": "巳"
-      }
-    }
+    "expansion_forbidden": true
   },
   "mapping_contract": {
     "entity_normalization_map": {

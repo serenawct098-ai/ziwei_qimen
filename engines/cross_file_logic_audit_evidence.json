@@ -95,10 +95,10 @@
     {
       "task_id": "Task 9",
       "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
-      "before_snippet": "heavy_taboo_logic used generic count and conceptual opposite().",
-      "after_snippet": "Upgraded to layer-aware contracts (decade+annual) and physical opposition map lookup.",
+      "before_snippet": "heavy_taboo_logic used generic count and conceptual opposite(); palace_opposition_map misplaced in canonical_locks.",
+      "after_snippet": "Upgraded to layer-aware contracts; palace_opposition_map relocated to top-level global_coordinate_system.",
       "verification_status": "unverified (design_rule)",
-      "revision_note": "REVISION_HALT_FIXED: Established layer-aware trigger for double_taboo; Injected physical palace_opposition_map into L1; Converted lu_ji_clash into executable contract with explicit inputs and actions."
+      "revision_note": "REVISION_HALT_FIXED: Corrected JSON hierarchy for palace_opposition_map (moved to top-level global_coordinate_system); Aligned lu_ji_clash input paths; Established layer-aware triggers for double_taboo."
     }
   ]
 }
