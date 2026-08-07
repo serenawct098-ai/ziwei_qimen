@@ -88,8 +88,9 @@
       "task_id": "Task 8",
       "file_changed": "engines/engine_compute_protocol_v1.json",
       "before_snippet": "dynamic_overlay_compute lacks structured judgment steps.",
-      "after_snippet": "Added overlay_judgment_steps with step1_overlay to step4_sihua.",
-      "verification_status": "verified (System Architecture Alignment)"
+      "after_snippet": "Refactored overlay_judgment_steps into executable contracts with inputs/output; Disambiguated Ti-Yong scopes.",
+      "verification_status": "unverified (design_rule; pending ZWQS trace)",
+      "revision_note": "REVISION_HALT_FIXED: Upgraded descriptive text to structured contracts (inputs, output, conditions); Disambiguated 'natal_lifecycle_ti_yong' vs 'annual_monthly_ti_yong'; Downgraded status to unverified per audit guidelines."
     }
   ]
 }

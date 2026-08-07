@@ -171,10 +171,42 @@
   },
   "dynamic_overlay_compute": {
     "overlay_judgment_steps": {
-      "step1_overlay": "本命/大限/流年/流月/流日盤層層對齊十二宮位",
-      "step2_ti_yong": "流年盤為體定年度方向，流月盤為用看月度波動",
-      "step3_focus": "檢視命/財/官/遷/夫/疾在各層盤重疊落點",
-      "step4_sihua": "檢視各級四化飛入/沖/會/夾焦點宮位"
+      "step1_overlay": {
+        "inputs": ["raw_natal_matrix.palaces", "raw_dynamic_layers.decade_palace", "raw_dynamic_layers.annual_sihua", "raw_dynamic_layers.flow_stars"],
+        "alignment_key": "palace_standard_key",
+        "output": "overlay_matrix_by_palace",
+        "verification_status": "unverified",
+        "source_type": "design_rule",
+        "design_origin_note": "來源：三合派紫微斗數命盤完整架構；待逐條對齊 ZWQS SSOT。"
+      },
+      "step2_ti_yong_scope": {
+        "natal_lifecycle_ti_yong": {
+          "substance_ti": "raw_natal_matrix.sihua",
+          "function_yong": "raw_dynamic_layers.decade_sihua",
+          "logic": "先天定格局，大限定發動"
+        },
+        "annual_monthly_ti_yong": {
+          "substance_ti": "raw_dynamic_layers.annual_sihua",
+          "function_yong": "raw_dynamic_layers.monthly_sihua",
+          "logic": "流年定方向，流月看波動"
+        },
+        "verification_status": "unverified",
+        "source_type": "design_rule"
+      },
+      "step3_focus": {
+        "focus_palaces": ["命宮", "財帛宮", "官祿宮", "遷移宮", "夫妻宮", "疾厄宮"],
+        "action": "identify_overlapping_palace_types",
+        "output": "active_focal_points",
+        "verification_status": "unverified",
+        "source_type": "design_rule"
+      },
+      "step4_sihua_interaction": {
+        "modes": ["飛入", "沖", "會", "夾"],
+        "trigger_conditions": "cross_layer_sihua_hits_focus_palace",
+        "output": "sihua_impact_report",
+        "verification_status": "unverified",
+        "source_type": "design_rule"
+      }
     },
     "daxian_start": "依五行局定起限歲數",
     "daxian_direction": "陽男陰女順行，陰男陽女逆行",
