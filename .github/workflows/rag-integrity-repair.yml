@@ -1,15 +1,19 @@
-name: RAG Integrity Repair
+name: RAG Integrity and Global Logic Audit
 on:
   push:
     branches:
       - fix/rag-integrity-regression
     paths:
+      - data/**
+      - engines/**
+      - audit/**
       - tools/repair_rag_integrity.py
+      - tools/audit_global_logic.py
       - .github/workflows/rag-integrity-repair.yml
 permissions:
   contents: write
 jobs:
-  repair:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,6 +21,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: python tools/repair_rag_integrity.py
+      - id: global_audit
+        run: python tools/audit_global_logic.py
+        continue-on-error: true
       - run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -24,3 +31,5 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'Repair RAG previews from SSOT'
           git push
+      - if: steps.global_audit.outcome == 'failure'
+        run: exit 1
