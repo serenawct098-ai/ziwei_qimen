@@ -83,6 +83,13 @@
       "after_snippet": "Boshi 12 refined with L001/L002 trace and 'Tianhao' disambiguation; Suiqian 12 moved to dynamic_overlay_compute; Verfication status aligned per step.",
       "verification_status": "partial_verified (Boshi via Juan2_L001/L002; others design_rule)",
       "revision_note": "REVISION_HALT_FIXED: Refined verification granularity for Boshi 12; Downgraded 'Dahao' entry to unverified/design_rule due to normalization from original 'Tianhao'; Maintained partial_verified status for the series."
+    },
+    {
+      "task_id": "Task 8",
+      "file_changed": "engines/engine_compute_protocol_v1.json",
+      "before_snippet": "dynamic_overlay_compute lacks structured judgment steps.",
+      "after_snippet": "Added overlay_judgment_steps with step1_overlay to step4_sihua.",
+      "verification_status": "verified (System Architecture Alignment)"
     }
   ]
 }

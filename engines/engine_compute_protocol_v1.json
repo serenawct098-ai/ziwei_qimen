@@ -170,6 +170,12 @@
     }
   },
   "dynamic_overlay_compute": {
+    "overlay_judgment_steps": {
+      "step1_overlay": "本命/大限/流年/流月/流日盤層層對齊十二宮位",
+      "step2_ti_yong": "流年盤為體定年度方向，流月盤為用看月度波動",
+      "step3_focus": "檢視命/財/官/遷/夫/疾在各層盤重疊落點",
+      "step4_sihua": "檢視各級四化飛入/沖/會/夾焦點宮位"
+    },
     "daxian_start": "依五行局定起限歲數",
     "daxian_direction": "陽男陰女順行，陰男陽女逆行",
     "liunian_palace": "以流年地支所在宮位為流年命宮",
