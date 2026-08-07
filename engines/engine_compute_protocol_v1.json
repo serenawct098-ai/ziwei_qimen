@@ -129,7 +129,20 @@
     "raw_qimen_state": {
       "nine_palaces": "object",
       "ju_number": "number",
-      "dun_type": "string"
+      "dun_type": "string",
+      "zhifu": "string",
+      "zhishi": "string",
+      "day_stem": "string",
+      "hour_stem": "string",
+      "day_branch": "string",
+      "target_direction": "string|null",
+      "current_jieqi_exact_timestamp": "ISO-8601 string",
+      "qimen_stems": {
+        "type": "object",
+        "properties": {
+          "乙": "string", "丙": "string", "丁": "string", "戊": "string", "己": "string", "庚": "string", "辛": "string", "壬": "string", "癸": "string"
+        }
+      }
     }
   },
   "natal_chart_compute": {

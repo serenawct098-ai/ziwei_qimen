@@ -66,7 +66,14 @@
       "before_snippet": "qimen_yongshen_registry missing; Router lacks registry references.",
       "after_snippet": "Expanded theme_bindings for 6 Qimen intents; Precision routing injected into Router.",
       "verification_status": "unverified (design_rule pending QMDJ trace)",
-      "revision_note": "REVISION_HALT_FIXED: Upgraded all theme_bindings to structured 'selectors' with explicit types (registry_key, engine_field, etc.) to ensure physical execution; Standardized day/hour_stem keys; Resolved Qimen intent semantic misalignment."
+      "revision_note": "REVISION_HALT_FIXED: Corrected semantic misalignment; Added 6 dedicated theme_bindings (relational_strategy, spatial_fengshui, etc.) to match Qimen intents; Router references updated to specific bindings."
+    },
+    {
+      "task_id": "Task 6.1",
+      "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
+      "before_snippet": "L2 Output Contract incomplete; Selectors lack lookup_key.",
+      "after_snippet": "L2 Output Contract expanded with 11 Qimen fields; Selectors refined with lookup_key (day_branch_trine/hour_xunshou).",
+      "verification_status": "verified (Contract Alignment)"
     }
   ]
 }

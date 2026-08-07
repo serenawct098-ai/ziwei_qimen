@@ -650,7 +650,7 @@
             { "type": "engine_field", "path": "target_direction" },
             { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
             { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
-            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table" }
+            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table", "lookup_key": "day_branch_trine" }
           ],
           "description": "出行避險、路途安全與方向選擇"
         },
@@ -658,7 +658,7 @@
           "selectors": [
             { "type": "engine_field", "path": "nine_palace_layout" },
             { "type": "engine_field", "path": "hour_stem" },
-            { "type": "truth_table", "path": "static_truth_tables.xunkong_table" }
+            { "type": "truth_table", "path": "static_truth_tables.xunkong_table", "lookup_key": "hour_xunshou" }
           ],
           "description": "失物尋人、物品方位與環境特徵"
         }
