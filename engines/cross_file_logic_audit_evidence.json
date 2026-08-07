@@ -103,10 +103,10 @@
     {
       "task_id": "Task 10",
       "file_changed": "engines/engine_reference_blueprint_v1.json",
-      "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings; Citation ledger had composite IDs, ellipsis, and illegal slice syntax [0:2].",
-      "after_snippet": "Blueprint v1.2; Refined sanhe/qimen full mappings; Split citation ledger by line_id; Removed all ellipsis, placeholders, and slice syntax.",
+      "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings; Citation ledger had composite IDs, ellipsis, and illegal index slice syntax.",
+      "after_snippet": "Blueprint v1.2; Refined sanhe/qimen full mappings; Split citation ledger by 1:1 key granularity; Removed all ellipsis, placeholders, and slice syntax.",
       "verification_status": "partial_verified (Verified for ancient texts; Unverified for design rules; Paths standardized)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected Qimen pattern library path; Expanded Sanhe full structure mapping; Split Citation Ledger by granularity; Removed all ellipsis from value_summary; Removed placeholders; Fixed illegal JSON path slice syntax ([0:2]) to standard physical paths."
+      "revision_note": "REVISION_HALT_FIXED: Corrected Qimen pattern library path; Expanded Sanhe full structure mapping; Achieved 1:1 granularity for Citation Ledger entries (one entry per physical key); Removed all ellipsis from value_summary; Removed placeholders; Replaced illegal JSON path slice syntax with standard physical paths."
     },
     {
       "task_id": "Task 11",
