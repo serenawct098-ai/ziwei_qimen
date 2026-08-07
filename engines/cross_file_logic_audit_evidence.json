@@ -64,9 +64,9 @@
       "task_id": "Task 6",
       "file_changed": "engines/engine_truth_registry_v1.json, engines/diagnosis_router_module_v1.json",
       "before_snippet": "qimen_yongshen_registry missing; Router lacks registry references.",
-      "after_snippet": "Added qimen_yongshen_registry (unverified); Injected yongshen_registry_path into 6 Qimen intents in Router.",
+      "after_snippet": "Expanded theme_bindings for 6 Qimen intents; Precision routing injected into Router.",
       "verification_status": "unverified (design_rule pending QMDJ trace)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected verification_status to unverified; Physical routing references established in diagnosis_router_module_v1.json."
+      "revision_note": "REVISION_HALT_FIXED: Corrected semantic misalignment; Added 6 dedicated theme_bindings (relational_strategy, spatial_fengshui, etc.) to match Qimen intents; Router references updated to specific bindings."
     }
   ]
 }

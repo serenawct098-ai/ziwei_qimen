@@ -211,7 +211,7 @@
         "qimen_use_god"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "relationship",
+      "yongshen_theme_binding": "relational_strategy",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -224,7 +224,7 @@
         "target_direction"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "career_lawsuit",
+      "yongshen_theme_binding": "spatial_fengshui",
       "palace_priority": [
         "nine_palace_layout"
       ],
@@ -236,7 +236,7 @@
         "shenpan_deity_allocation"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "health",
+      "yongshen_theme_binding": "hidden_forces",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -250,7 +250,7 @@
         "current_jieqi_exact_timestamp"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "career_lawsuit",
+      "yongshen_theme_binding": "timing_omen",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -263,7 +263,7 @@
         "nine_palace_layout"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "career_lawsuit",
+      "yongshen_theme_binding": "travel_risk",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -277,7 +277,7 @@
         "renpan_door_allocation"
       ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
-      "yongshen_theme_binding": "wealth_business",
+      "yongshen_theme_binding": "search_location",
       "palace_priority": [
         "mapped_qimen_palace"
       ],

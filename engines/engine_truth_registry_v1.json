@@ -590,6 +590,30 @@
         "health": {
           "yongshen": ["天芮", "乙", "丙", "丁", "天心", "傷門"],
           "description": "天芮主病灶、乙丙丁主醫藥、天心/傷門主醫療手段"
+        },
+        "relational_strategy": {
+          "yongshen": ["日干", "時干", "值符", "庚"],
+          "description": "人際博弈、戰略對峙與我方對手關係"
+        },
+        "spatial_fengshui": {
+          "yongshen": ["方位", "星門宮位生剋", "生門", "死門"],
+          "description": "環境空間佈局與方位吉凶"
+        },
+        "hidden_forces": {
+          "yongshen": ["八神", "九地", "九天", "螣蛇"],
+          "description": "神煞隱秘、潛在暗力與不可見因素"
+        },
+        "timing_omen": {
+          "yongshen": ["元局", "節氣", "值使", "時干"],
+          "description": "事態發展時序與應期推算"
+        },
+        "travel_risk": {
+          "yongshen": ["方向", "值符", "值使", "驛馬"],
+          "description": "出行避險、路途安全與方向選擇"
+        },
+        "search_location": {
+          "yongshen": ["方位", "環境特徵星門", "時干", "空亡"],
+          "description": "失物尋人、物品方位與環境特徵"
         }
       }
     }
