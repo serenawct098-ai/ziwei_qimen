@@ -62,10 +62,11 @@
     },
     {
       "task_id": "Task 6",
-      "file_changed": "engines/engine_truth_registry_v1.json",
-      "before_snippet": "End of qimen_shenpan_shen_registry",
-      "after_snippet": "Added qimen_yongshen_registry with stems_mapping and theme_bindings.",
-      "verification_status": "verified (System Architecture Alignment)"
+      "file_changed": "engines/engine_truth_registry_v1.json, engines/diagnosis_router_module_v1.json",
+      "before_snippet": "qimen_yongshen_registry missing; Router lacks registry references.",
+      "after_snippet": "Added qimen_yongshen_registry (unverified); Injected yongshen_registry_path into 6 Qimen intents in Router.",
+      "verification_status": "unverified (design_rule pending QMDJ trace)",
+      "revision_note": "REVISION_HALT_FIXED: Corrected verification_status to unverified; Physical routing references established in diagnosis_router_module_v1.json."
     }
   ]
 }

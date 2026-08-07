@@ -210,6 +210,8 @@
         "qimen_other_stems",
         "qimen_use_god"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "relationship",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -221,6 +223,8 @@
         "qimen_palace_status",
         "target_direction"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "career_lawsuit",
       "palace_priority": [
         "nine_palace_layout"
       ],
@@ -231,6 +235,8 @@
       "required_engine_fields": [
         "shenpan_deity_allocation"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "health",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -243,6 +249,8 @@
         "ju_number",
         "current_jieqi_exact_timestamp"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "career_lawsuit",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -254,6 +262,8 @@
         "target_direction",
         "nine_palace_layout"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "career_lawsuit",
       "palace_priority": [
         "mapped_qimen_palace"
       ],
@@ -266,6 +276,8 @@
         "tianpan_star_allocation",
         "renpan_door_allocation"
       ],
+      "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
+      "yongshen_theme_binding": "wealth_business",
       "palace_priority": [
         "mapped_qimen_palace"
       ],

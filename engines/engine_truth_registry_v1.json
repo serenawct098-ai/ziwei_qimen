@@ -565,6 +565,9 @@
       { "standard_key": "太常", "display_name": "太常", "legacy_aliases": ["常"], "engine_binding": "qimen_engine.shenpan.太常", "note": "飛盤專用" }
     ],
     "qimen_yongshen_registry": {
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "來源：客戶提供【奇門遁甲命盤完整架構圖譜】，待逐條對齊 QMDJ SSOT。",
       "stems_mapping": {
         "日幹": { "role": "求測人/命主", "standard_key": "day_stem" },
         "時幹": { "role": "所測之事/子孫", "standard_key": "hour_stem" },
