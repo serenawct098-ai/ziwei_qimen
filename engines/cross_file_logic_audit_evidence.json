@@ -70,11 +70,11 @@
     },
     {
       "task_id": "Task 6.1",
-      "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
-      "before_snippet": "L2 Output Contract incomplete; Selectors lack lookup_key.",
-      "after_snippet": "L2 Output Contract expanded with 11 Qimen fields; Selectors refined with lookup_key (day_branch_trine/hour_xunshou).",
+      "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json, engines/diagnosis_router_module_v1.json",
+      "before_snippet": "L2 Output Contract incomplete; Global direction enforcement in L2.",
+      "after_snippet": "L2 Contract refined; Direction enforcement moved to Router intent-level (travel_risk only).",
       "verification_status": "unverified (design_rule; pending executable-path validation)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected Selector path hierarchy (raw_qimen_state prefix); Aligned nine_palaces naming; Added day_branch_trine and hour_xunshou to L2 Output Contract; Enforced Fail-closed for target_direction."
+      "revision_note": "REVISION_HALT_FIXED: Decoupled target_direction from global L2 Halt; Established intent-specific validation in Router for travel_risk; Maintained physical path integrity."
     },
     {
       "task_id": "Task 7",

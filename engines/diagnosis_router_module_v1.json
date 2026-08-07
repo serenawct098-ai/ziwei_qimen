@@ -262,6 +262,9 @@
         "target_direction",
         "nine_palace_layout"
       ],
+      "validation_rules": [
+        "HALT if target_direction is null"
+      ],
       "yongshen_registry_path": "engine_truth_registry_v1.name_registries.qimen_yongshen_registry",
       "yongshen_theme_binding": "travel_risk",
       "palace_priority": [
