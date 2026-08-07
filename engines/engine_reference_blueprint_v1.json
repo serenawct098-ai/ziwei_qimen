@@ -1,9 +1,9 @@
 {
   "meta": {
-    "version": "1.1",
+    "version": "1.2",
     "role": "L0_Constitution",
-    "status": "LOCKED (Sihua Sync Complete)",
-    "last_updated": "2026-08-06"
+    "status": "LOCKED (v2.0: Full Sanhe + Qimen Structures Integrated; Qimen Panlayer Locked to Zhuanpan)",
+    "last_updated": "2026-08-07"
   },
   "five_layer_mapping": {
     "L1_Data": "data/*.json",
@@ -14,23 +14,18 @@
   },
   "ziwei_full_chart_structure_mapping": {
     "palaces": [
-      "命宮",
-      "兄弟",
-      "夫妻",
-      "子女",
-      "財帛",
-      "疾厄",
-      "遷移",
-      "交友",
-      "官祿",
-      "田宅",
-      "福德",
-      "父母"
+      "命宮", "兄弟", "夫妻", "子女", "財帛", "疾厄", "遷移", "交友", "官祿", "田宅", "福德", "父母"
     ],
+    "sanhe_full_structure": "engine_truth_registry_v1.static_truth_tables.shensha_table (boshi_12_series, jiangqian_12_series, suiqian_12_series)",
     "structure_layer": "engine_truth_registry_v1.global_coordinate_system.palaces_axis + star_strength_table",
     "pattern_layer": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library",
     "time_layer": "engine_compute_protocol_v1.dynamic_overlay_compute",
     "event_layer": "engine_interpretation_fusion_v1.modern_resonance_block"
+  },
+  "qimen_full_chart_structure_mapping": {
+    "qimen_full_structure": "engine_truth_registry_v1.static_truth_tables (zhifu_zhishi_table, xunkong_table, qimen_yima_table, neiwaipan_table) + name_registries (qimen_tianpan_star_registry, qimen_renpan_men_registry, qimen_shenpan_shen_registry)",
+    "pattern_layer": "engine_interpretation_fusion_v1.traditional_interpretation_block.qimen_pattern_library",
+    "diagnosis_layer": "diagnosis_router_module_v1.diagnosis_intents (qimen_*)"
   },
   "engine_to_text_source": {
     "ZWQS_Juan1_Consolidated.json": {
@@ -335,6 +330,41 @@
       "line_id": "QMDJ_Preface_L002",
       "value_summary": "對齊原文: 竊惟黃帝戰蚩尤於涿鹿，夢天神授符，而命風後演就奇門，此遁甲所...",
       "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table",
+      "data_file": "QMDJ_ShangJuan_Consolidated.json",
+      "line_id": "QMDJ_Preface_L004",
+      "value_summary": "對齊原文: 坎宮認天蓬為符...乾宮配開為使",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.xunkong_table",
+      "data_file": "QMDJ_ShangJuan_Consolidated.json",
+      "line_id": "QMDJ_Juan1_L151, L152",
+      "value_summary": "對齊原文: 甲子旬中戌亥空...甲午旬中辰巳空",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.qimen_yima_table",
+      "data_file": "QMDJ_ShangJuan_Consolidated.json",
+      "line_id": "QMDJ_Juan1_L148, L149",
+      "value_summary": "對齊原文: 寅午戌日馬在申...巳酉丑日馬在亥",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001, L002",
+      "value_summary": "對齊原文: 博士力士青龍續...要知不論男女命尋祿存星起",
+      "status": "partial_verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.canonical_locks.qimen_panlayer_lock",
+      "data_file": "SYSTEM_DESIGN_BLUEPRINT_V2.0",
+      "line_id": "N/A",
+      "value_summary": "系統設計決策：奇門鎖定為轉盤",
+      "status": "unverified"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[6]",

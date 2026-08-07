@@ -99,6 +99,13 @@
       "after_snippet": "Upgraded to layer-aware contracts; palace_opposition_map relocated to top-level global_coordinate_system.",
       "verification_status": "unverified (design_rule)",
       "revision_note": "REVISION_HALT_FIXED: Corrected JSON hierarchy for palace_opposition_map (moved to top-level global_coordinate_system); Aligned lu_ji_clash input paths; Established layer-aware triggers for double_taboo."
+    },
+    {
+      "task_id": "Task 10",
+      "file_changed": "engines/engine_reference_blueprint_v1.json",
+      "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings.",
+      "after_snippet": "Blueprint v1.2; Integrated sanhe_full_structure and qimen_full_chart_structure_mapping; Citation ledger updated.",
+      "verification_status": "verified (L0 Constitution Update)"
     }
   ]
 }
