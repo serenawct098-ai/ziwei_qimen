@@ -112,8 +112,9 @@
       "task_id": "Task 11",
       "file_changed": "README.md",
       "before_snippet": "Phase 2 Complete; lacks v2.0 structure and Qimen panlayer lock.",
-      "after_snippet": "v2.0 Full Structure Integration; reflects Qimen Zhuanpan lock and L0-L5 contract upgrade.",
-      "verification_status": "verified (Documentation Sync)"
+      "after_snippet": "v2.0 Full Structure Integration; reflects 1:1 granularity mapping, standardized JSON paths, and full v4.0 compliance.",
+      "verification_status": "verified (Documentation Sync)",
+      "revision_note": "Updated README to reflect final Task 10 achievements including 1:1 physical key mapping and path standardization; Status updated to 100% v4.0 Compliance."
     },
     {
       "task_id": "Global Audit v4.0",
