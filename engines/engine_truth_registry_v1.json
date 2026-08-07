@@ -88,12 +88,18 @@
       "status": "active"
     },
     "palace_opposition_map": {
-      "子": "午", "午": "子",
-      "丑": "未", "未": "丑",
-      "寅": "申", "申": "寅",
-      "卯": "酉", "酉": "卯",
-      "辰": "戌", "戌": "辰",
-      "巳": "亥", "亥": "巳"
+      "子": "午",
+      "午": "子",
+      "丑": "未",
+      "未": "丑",
+      "寅": "申",
+      "申": "寅",
+      "卯": "酉",
+      "酉": "卯",
+      "辰": "戌",
+      "戌": "辰",
+      "巳": "亥",
+      "亥": "巳"
     }
   },
   "name_registries": {
@@ -541,132 +547,458 @@
       }
     ],
     "qimen_tianpan_star_registry": [
-      { "standard_key": "天蓬", "display_name": "天蓬星", "legacy_aliases": ["天蓬"], "engine_binding": "qimen_engine.tianpan.天蓬" },
-      { "standard_key": "天芮", "display_name": "天芮星", "legacy_aliases": ["天芮"], "engine_binding": "qimen_engine.tianpan.天芮" },
-      { "standard_key": "天衝", "display_name": "天衝星", "legacy_aliases": ["天衝"], "engine_binding": "qimen_engine.tianpan.天衝" },
-      { "standard_key": "天輔", "display_name": "天輔星", "legacy_aliases": ["天輔"], "engine_binding": "qimen_engine.tianpan.天輔" },
-      { "standard_key": "天禽", "display_name": "天禽星", "legacy_aliases": ["天禽"], "engine_binding": "qimen_engine.tianpan.天禽" },
-      { "standard_key": "天心", "display_name": "天心星", "legacy_aliases": ["天心"], "engine_binding": "qimen_engine.tianpan.天心" },
-      { "standard_key": "天柱", "display_name": "天柱星", "legacy_aliases": ["天柱"], "engine_binding": "qimen_engine.tianpan.天柱" },
-      { "standard_key": "天任", "display_name": "天任星", "legacy_aliases": ["天任"], "engine_binding": "qimen_engine.tianpan.天任" },
-      { "standard_key": "天英", "display_name": "天英星", "legacy_aliases": ["天英"], "engine_binding": "qimen_engine.tianpan.天英" }
+      {
+        "standard_key": "天蓬",
+        "display_name": "天蓬星",
+        "legacy_aliases": [
+          "天蓬"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天蓬"
+      },
+      {
+        "standard_key": "天芮",
+        "display_name": "天芮星",
+        "legacy_aliases": [
+          "天芮"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天芮"
+      },
+      {
+        "standard_key": "天衝",
+        "display_name": "天衝星",
+        "legacy_aliases": [
+          "天衝"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天衝"
+      },
+      {
+        "standard_key": "天輔",
+        "display_name": "天輔星",
+        "legacy_aliases": [
+          "天輔"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天輔"
+      },
+      {
+        "standard_key": "天禽",
+        "display_name": "天禽星",
+        "legacy_aliases": [
+          "天禽"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天禽"
+      },
+      {
+        "standard_key": "天心",
+        "display_name": "天心星",
+        "legacy_aliases": [
+          "天心"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天心"
+      },
+      {
+        "standard_key": "天柱",
+        "display_name": "天柱星",
+        "legacy_aliases": [
+          "天柱"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天柱"
+      },
+      {
+        "standard_key": "天任",
+        "display_name": "天任星",
+        "legacy_aliases": [
+          "天任"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天任"
+      },
+      {
+        "standard_key": "天英",
+        "display_name": "天英星",
+        "legacy_aliases": [
+          "天英"
+        ],
+        "engine_binding": "qimen_engine.tianpan.天英"
+      }
     ],
     "qimen_renpan_men_registry": [
-      { "standard_key": "休門", "display_name": "休門", "legacy_aliases": ["休"], "engine_binding": "qimen_engine.renpan.休門" },
-      { "standard_key": "生門", "display_name": "生門", "legacy_aliases": ["生"], "engine_binding": "qimen_engine.renpan.生門" },
-      { "standard_key": "傷門", "display_name": "傷門", "legacy_aliases": ["傷"], "engine_binding": "qimen_engine.renpan.傷門" },
-      { "standard_key": "杜門", "display_name": "杜門", "legacy_aliases": ["杜"], "engine_binding": "qimen_engine.renpan.杜門" },
-      { "standard_key": "景門", "display_name": "景門", "legacy_aliases": ["景"], "engine_binding": "qimen_engine.renpan.景門" },
-      { "standard_key": "死門", "display_name": "死門", "legacy_aliases": ["死"], "engine_binding": "qimen_engine.renpan.死門" },
-      { "standard_key": "驚門", "display_name": "驚門", "legacy_aliases": ["驚"], "engine_binding": "qimen_engine.renpan.驚門" },
-      { "standard_key": "開門", "display_name": "開門", "legacy_aliases": ["開"], "engine_binding": "qimen_engine.renpan.開門" }
+      {
+        "standard_key": "休門",
+        "display_name": "休門",
+        "legacy_aliases": [
+          "休"
+        ],
+        "engine_binding": "qimen_engine.renpan.休門"
+      },
+      {
+        "standard_key": "生門",
+        "display_name": "生門",
+        "legacy_aliases": [
+          "生"
+        ],
+        "engine_binding": "qimen_engine.renpan.生門"
+      },
+      {
+        "standard_key": "傷門",
+        "display_name": "傷門",
+        "legacy_aliases": [
+          "傷"
+        ],
+        "engine_binding": "qimen_engine.renpan.傷門"
+      },
+      {
+        "standard_key": "杜門",
+        "display_name": "杜門",
+        "legacy_aliases": [
+          "杜"
+        ],
+        "engine_binding": "qimen_engine.renpan.杜門"
+      },
+      {
+        "standard_key": "景門",
+        "display_name": "景門",
+        "legacy_aliases": [
+          "景"
+        ],
+        "engine_binding": "qimen_engine.renpan.景門"
+      },
+      {
+        "standard_key": "死門",
+        "display_name": "死門",
+        "legacy_aliases": [
+          "死"
+        ],
+        "engine_binding": "qimen_engine.renpan.死門"
+      },
+      {
+        "standard_key": "驚門",
+        "display_name": "驚門",
+        "legacy_aliases": [
+          "驚"
+        ],
+        "engine_binding": "qimen_engine.renpan.驚門"
+      },
+      {
+        "standard_key": "開門",
+        "display_name": "開門",
+        "legacy_aliases": [
+          "開"
+        ],
+        "engine_binding": "qimen_engine.renpan.開門"
+      }
     ],
     "qimen_shenpan_shen_registry": [
-      { "standard_key": "值符", "display_name": "值符", "legacy_aliases": ["符"], "engine_binding": "qimen_engine.shenpan.值符" },
-      { "standard_key": "螣蛇", "display_name": "螣蛇", "legacy_aliases": ["蛇"], "engine_binding": "qimen_engine.shenpan.螣蛇" },
-      { "standard_key": "太陰", "display_name": "太陰", "legacy_aliases": ["陰"], "engine_binding": "qimen_engine.shenpan.太陰", "disambiguation_note": "奇門八神之太陰，與紫微十四主星之太陰星不同" },
-      { "standard_key": "六合", "display_name": "六合", "legacy_aliases": ["合"], "engine_binding": "qimen_engine.shenpan.六合" },
-      { "standard_key": "白虎", "display_name": "白虎", "legacy_aliases": ["虎", "勾陳"], "engine_binding": "qimen_engine.shenpan.白虎" },
-      { "standard_key": "玄武", "display_name": "玄武", "legacy_aliases": ["武", "朱雀"], "engine_binding": "qimen_engine.shenpan.玄武" },
-      { "standard_key": "九地", "display_name": "九地", "legacy_aliases": ["地"], "engine_binding": "qimen_engine.shenpan.九地" },
-      { "standard_key": "九天", "display_name": "九天", "legacy_aliases": ["天"], "engine_binding": "qimen_engine.shenpan.九天" },
-      { "standard_key": "太常", "display_name": "太常", "legacy_aliases": ["常"], "engine_binding": "qimen_engine.shenpan.太常", "note": "飛盤專用" }
+      {
+        "standard_key": "值符",
+        "display_name": "值符",
+        "legacy_aliases": [
+          "符"
+        ],
+        "engine_binding": "qimen_engine.shenpan.值符"
+      },
+      {
+        "standard_key": "螣蛇",
+        "display_name": "螣蛇",
+        "legacy_aliases": [
+          "蛇"
+        ],
+        "engine_binding": "qimen_engine.shenpan.螣蛇"
+      },
+      {
+        "standard_key": "太陰",
+        "display_name": "太陰",
+        "legacy_aliases": [
+          "陰"
+        ],
+        "engine_binding": "qimen_engine.shenpan.太陰",
+        "disambiguation_note": "奇門八神之太陰，與紫微十四主星之太陰星不同"
+      },
+      {
+        "standard_key": "六合",
+        "display_name": "六合",
+        "legacy_aliases": [
+          "合"
+        ],
+        "engine_binding": "qimen_engine.shenpan.六合"
+      },
+      {
+        "standard_key": "白虎",
+        "display_name": "白虎",
+        "legacy_aliases": [
+          "虎",
+          "勾陳"
+        ],
+        "engine_binding": "qimen_engine.shenpan.白虎"
+      },
+      {
+        "standard_key": "玄武",
+        "display_name": "玄武",
+        "legacy_aliases": [
+          "武",
+          "朱雀"
+        ],
+        "engine_binding": "qimen_engine.shenpan.玄武"
+      },
+      {
+        "standard_key": "九地",
+        "display_name": "九地",
+        "legacy_aliases": [
+          "地"
+        ],
+        "engine_binding": "qimen_engine.shenpan.九地"
+      },
+      {
+        "standard_key": "九天",
+        "display_name": "九天",
+        "legacy_aliases": [
+          "天"
+        ],
+        "engine_binding": "qimen_engine.shenpan.九天"
+      },
+      {
+        "standard_key": "太常",
+        "display_name": "太常",
+        "legacy_aliases": [
+          "常"
+        ],
+        "engine_binding": "qimen_engine.shenpan.太常",
+        "note": "飛盤專用"
+      }
     ],
     "qimen_yongshen_registry": {
       "verification_status": "unverified",
       "source_type": "design_rule",
       "design_origin_note": "來源：客戶提供【奇門遁甲命盤完整架構圖譜】，待逐條對齊 QMDJ SSOT。",
       "stems_mapping": {
-        "日幹": { "role": "求測人/命主", "standard_key": "day_stem" },
-        "時幹": { "role": "所測之事/子孫", "standard_key": "hour_stem" },
-        "月幹": { "role": "同行/同事/兄弟姊妹", "standard_key": "month_stem" },
-        "年幹": { "role": "長輩/領導/上級機構", "standard_key": "year_stem" }
+        "day_stem": {
+          "role": "求測人/命主",
+          "standard_key": "day_stem"
+        },
+        "hour_stem": {
+          "role": "所測之事/子孫",
+          "standard_key": "hour_stem"
+        },
+        "month_stem": {
+          "role": "同行/同事/兄弟姊妹",
+          "standard_key": "month_stem"
+        },
+        "year_stem": {
+          "role": "長輩/領導/上級機構",
+          "standard_key": "year_stem"
+        }
       },
       "theme_bindings": {
         "career_lawsuit": {
           "selectors": [
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "開門" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "景門" }
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "開門"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "值符"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "景門"
+            }
           ],
           "description": "開門主工作、值符主領導/法官、景門主合約/訴訟"
         },
         "wealth_business": {
           "selectors": [
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.戊" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.壬" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.癸" }
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "生門"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.戊"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.壬"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.癸"
+            }
           ],
           "description": "生門主利潤、戊主資本、壬癸主資金流動"
         },
         "relationship": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.乙" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.庚" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "六合" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.乙"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.庚"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "六合"
+            }
           ],
           "description": "乙主女方、庚主男方、六合主婚姻狀況"
         },
         "health": {
           "selectors": [
-            { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天芮" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.乙" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.丙" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.丁" },
-            { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天心" },
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "傷門" }
+            {
+              "type": "registry_key",
+              "path": "qimen_tianpan_star_registry",
+              "key": "天芮"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.乙"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.丙"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.丁"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_tianpan_star_registry",
+              "key": "天心"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "傷門"
+            }
           ],
           "description": "天芮主病灶、乙丙丁主醫藥、天心/傷門主醫療手段"
         },
         "relational_strategy": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.day_stem" },
-            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
-            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.庚" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.day_stem"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.hour_stem"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "值符"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.qimen_stems.庚"
+            }
           ],
           "description": "人際博弈、戰略對峙與我方對手關係"
         },
         "spatial_fengshui": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.nine_palaces" },
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
-            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "死門" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.nine_palaces"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "生門"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_renpan_men_registry",
+              "key": "死門"
+            }
           ],
           "description": "環境空間佈局與方位吉凶"
         },
         "hidden_forces": {
           "selectors": [
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "九地" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "九天" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "螣蛇" }
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "九地"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "九天"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "螣蛇"
+            }
           ],
           "description": "神煞隱秘、潛在暗力與不可見因素"
         },
         "timing_omen": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.ju_number" },
-            { "type": "engine_field", "path": "raw_qimen_state.current_jieqi_exact_timestamp" },
-            { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
-            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.ju_number"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.current_jieqi_exact_timestamp"
+            },
+            {
+              "type": "computed_field",
+              "path": "raw_qimen_state.zhishi"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.hour_stem"
+            }
           ],
           "description": "事態發展時序與應期推算"
         },
         "travel_risk": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.target_direction" },
-            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
-            { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
-            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table", "lookup_key": "raw_qimen_state.day_branch_trine" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.target_direction"
+            },
+            {
+              "type": "registry_key",
+              "path": "qimen_shenpan_shen_registry",
+              "key": "值符"
+            },
+            {
+              "type": "computed_field",
+              "path": "raw_qimen_state.zhishi"
+            },
+            {
+              "type": "truth_table",
+              "path": "static_truth_tables.qimen_yima_table",
+              "lookup_key": "raw_qimen_state.day_branch_trine"
+            }
           ],
           "description": "出行避險、路途安全與方向選擇"
         },
         "search_location": {
           "selectors": [
-            { "type": "engine_field", "path": "raw_qimen_state.nine_palaces" },
-            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" },
-            { "type": "truth_table", "path": "static_truth_tables.xunkong_table", "lookup_key": "raw_qimen_state.hour_xunshou" }
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.nine_palaces"
+            },
+            {
+              "type": "engine_field",
+              "path": "raw_qimen_state.hour_stem"
+            },
+            {
+              "type": "truth_table",
+              "path": "static_truth_tables.xunkong_table",
+              "lookup_key": "raw_qimen_state.hour_xunshou"
+            }
           ],
           "description": "失物尋人、物品方位與環境特徵"
         }
@@ -1016,42 +1348,150 @@
     "zhifu_zhishi_table": {
       "name": "六儀旬首與值符值使對應表",
       "data": {
-        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門", "line_id": "QMDJ_Preface_L004" },
-        "甲戌己": { "zhifu": "天芮", "zhishi": "死門", "line_id": "QMDJ_Preface_L004" },
-        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門", "line_id": "QMDJ_Preface_L004" },
-        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門", "line_id": "QMDJ_Preface_L004" },
-        "甲辰壬": { "zhifu": "天禽", "zhishi": "死門", "line_id": "QMDJ_Preface_L007" },
-        "甲寅癸": { "zhifu": "天心", "zhishi": "開門", "line_id": "QMDJ_Preface_L004" }
+        "甲子戊": {
+          "zhifu": "天蓬",
+          "zhishi": "休門",
+          "line_id": "QMDJ_Preface_L004"
+        },
+        "甲戌己": {
+          "zhifu": "天芮",
+          "zhishi": "死門",
+          "line_id": "QMDJ_Preface_L004"
+        },
+        "甲申庚": {
+          "zhifu": "天衝",
+          "zhishi": "傷門",
+          "line_id": "QMDJ_Preface_L004"
+        },
+        "甲午辛": {
+          "zhifu": "天輔",
+          "zhishi": "杜門",
+          "line_id": "QMDJ_Preface_L004"
+        },
+        "甲辰壬": {
+          "zhifu": "天禽",
+          "zhishi": "死門",
+          "line_id": "QMDJ_Preface_L007"
+        },
+        "甲寅癸": {
+          "zhifu": "天心",
+          "zhishi": "開門",
+          "line_id": "QMDJ_Preface_L004"
+        }
       },
-      "verification_status": "verified"
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "Downgraded due to missing physical trace fields per v4.0."
     },
     "xunkong_table": {
       "name": "時柱干支旬空表",
       "data": {
-        "甲子": { "empty": ["戌", "亥"], "line_id": "QMDJ_Juan1_L151" },
-        "甲戌": { "empty": ["申", "酉"], "line_id": "QMDJ_Juan1_L151" },
-        "甲申": { "empty": ["午", "未"], "line_id": "QMDJ_Juan1_L151" },
-        "甲午": { "empty": ["辰", "巳"], "line_id": "QMDJ_Juan1_L152" },
-        "甲辰": { "empty": ["寅", "卯"], "line_id": "QMDJ_Juan1_L152" },
-        "甲寅": { "empty": ["子", "丑"], "line_id": "QMDJ_Juan1_L152" }
+        "甲子": {
+          "empty": [
+            "戌",
+            "亥"
+          ],
+          "line_id": "QMDJ_Juan1_L151"
+        },
+        "甲戌": {
+          "empty": [
+            "申",
+            "酉"
+          ],
+          "line_id": "QMDJ_Juan1_L151"
+        },
+        "甲申": {
+          "empty": [
+            "午",
+            "未"
+          ],
+          "line_id": "QMDJ_Juan1_L151"
+        },
+        "甲午": {
+          "empty": [
+            "辰",
+            "巳"
+          ],
+          "line_id": "QMDJ_Juan1_L152"
+        },
+        "甲辰": {
+          "empty": [
+            "寅",
+            "卯"
+          ],
+          "line_id": "QMDJ_Juan1_L152"
+        },
+        "甲寅": {
+          "empty": [
+            "子",
+            "丑"
+          ],
+          "line_id": "QMDJ_Juan1_L152"
+        }
       },
-      "verification_status": "verified"
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "Downgraded due to missing physical trace fields per v4.0."
     },
     "qimen_yima_table": {
       "name": "奇門驛馬劫煞表",
       "data": {
-        "寅午戌": { "ma": "申", "jie": "亥", "line_id": "QMDJ_Juan1_L148" },
-        "申子辰": { "ma": "寅", "jie": "巳", "line_id": "QMDJ_Juan1_L148" },
-        "巳酉丑": { "ma": "亥", "jie": "寅", "line_id": "QMDJ_Juan1_L149" },
-        "亥卯未": { "ma": "巳", "jie": "申", "line_id": "QMDJ_Juan1_L149" }
+        "寅午戌": {
+          "ma": "申",
+          "jie": "亥",
+          "line_id": "QMDJ_Juan1_L148"
+        },
+        "申子辰": {
+          "ma": "寅",
+          "jie": "巳",
+          "line_id": "QMDJ_Juan1_L148"
+        },
+        "巳酉丑": {
+          "ma": "亥",
+          "jie": "寅",
+          "line_id": "QMDJ_Juan1_L149"
+        },
+        "亥卯未": {
+          "ma": "巳",
+          "jie": "申",
+          "line_id": "QMDJ_Juan1_L149"
+        }
       },
-      "verification_status": "verified"
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "Downgraded due to missing physical trace fields per v4.0."
     },
     "neiwaipan_table": {
       "name": "奇門內外盤對照表",
       "data": {
-        "yang_dun": { "nei": ["坎", "艮", "震", "巽"], "wai": ["離", "坤", "兌", "乾"] },
-        "yin_dun": { "nei": ["離", "坤", "兌", "乾"], "wai": ["坎", "艮", "震", "巽"] }
+        "yang_dun": {
+          "nei": [
+            "坎",
+            "艮",
+            "震",
+            "巽"
+          ],
+          "wai": [
+            "離",
+            "坤",
+            "兌",
+            "乾"
+          ]
+        },
+        "yin_dun": {
+          "nei": [
+            "離",
+            "坤",
+            "兌",
+            "乾"
+          ],
+          "wai": [
+            "坎",
+            "艮",
+            "震",
+            "巽"
+          ]
+        }
       },
       "verification_status": "unverified",
       "design_origin_note": "根據【奇門遁甲命盤完整架構圖譜】定義，待古籍進一步細化對齊"
@@ -1547,38 +1987,100 @@
       "boshi_12_series": {
         "name": "博士十二神",
         "stars": [
-          { "standard_key": "博士", "original_name": "博士" },
-          { "standard_key": "力士", "original_name": "力士" },
-          { "standard_key": "青龍", "original_name": "青龍" },
-          { "standard_key": "小耗", "original_name": "小耗" },
-          { "standard_key": "將軍", "original_name": "將軍" },
-          { "standard_key": "奏書", "original_name": "奏書" },
-          { "standard_key": "蜚廉", "original_name": "蜚廉" },
-          { "standard_key": "喜神", "original_name": "喜神" },
-          { "standard_key": "病符", "original_name": "病符" },
-          { 
-            "standard_key": "大耗", 
-            "original_name": "天耗", 
+          {
+            "standard_key": "博士",
+            "original_name": "博士"
+          },
+          {
+            "standard_key": "力士",
+            "original_name": "力士"
+          },
+          {
+            "standard_key": "青龍",
+            "original_name": "青龍"
+          },
+          {
+            "standard_key": "小耗",
+            "original_name": "小耗"
+          },
+          {
+            "standard_key": "將軍",
+            "original_name": "將軍"
+          },
+          {
+            "standard_key": "奏書",
+            "original_name": "奏書"
+          },
+          {
+            "standard_key": "蜚廉",
+            "original_name": "蜚廉"
+          },
+          {
+            "standard_key": "喜神",
+            "original_name": "喜神"
+          },
+          {
+            "standard_key": "病符",
+            "original_name": "病符"
+          },
+          {
+            "standard_key": "大耗",
+            "original_name": "天耗",
             "verification_status": "unverified",
             "source_type": "design_rule",
-            "design_origin_note": "原文 L001 寫為天耗，系統依現代慣例正規化為大耗" 
+            "design_origin_note": "原文 L001 寫為天耗，系統依現代慣例正規化為大耗"
           },
-          { "standard_key": "伏兵", "original_name": "伏兵" },
-          { "standard_key": "官府", "original_name": "官府" }
+          {
+            "standard_key": "伏兵",
+            "original_name": "伏兵"
+          },
+          {
+            "standard_key": "官府",
+            "original_name": "官府"
+          }
         ],
         "verification_status": "partial_verified",
-        "line_ids": ["ZWQS_Juan2_AnTaisuisha_L001", "ZWQS_Juan2_AnTaisuisha_L002"]
+        "line_ids": [
+          "ZWQS_Juan2_AnTaisuisha_L001",
+          "ZWQS_Juan2_AnTaisuisha_L002"
+        ]
       },
       "jiangqian_12_series": {
         "name": "將前十二神",
-        "stars": ["將星", "攀鞍", "歲驛", "息神", "華蓋", "劫殺", "災煞", "天煞", "指背", "咸池", "月煞", "亡神"],
+        "stars": [
+          "將星",
+          "攀鞍",
+          "歲驛",
+          "息神",
+          "華蓋",
+          "劫殺",
+          "災煞",
+          "天煞",
+          "指背",
+          "咸池",
+          "月煞",
+          "亡神"
+        ],
         "verification_status": "unverified",
         "source_type": "design_rule",
         "design_origin_note": "來源：三合派紫微斗數命盤完整架構，待對齊 ZWQS SSOT。"
       },
       "suiqian_12_series": {
         "name": "歲前十二神",
-        "stars": ["歲建", "晦氣", "喪門", "貫索", "官符", "小耗", "大耗", "龍德", "白虎", "天德", "弔客", "病符"],
+        "stars": [
+          "歲建",
+          "晦氣",
+          "喪門",
+          "貫索",
+          "官符",
+          "小耗",
+          "大耗",
+          "龍德",
+          "白虎",
+          "天德",
+          "弔客",
+          "病符"
+        ],
         "verification_status": "unverified",
         "source_type": "design_rule",
         "design_origin_note": "來源：三合派紫微斗數命盤完整架構，待對齊 ZWQS SSOT。"
@@ -2384,11 +2886,11 @@
       "status": "active"
     },
     {
-      "rule_sentence": "| 流月 | 先定「斗君」：以流年太歲所在宮起正月，逆數至本命生月宮，再從該宮起子時順數至本命生時宮，落點即斗君（正月流月命宮）；其後各月順時針每月一宮 | 以五虎遁月法，依流年干定各月干（甲己之年丙作首……），飛出流月四化 |",
+      "rule_sentence": "| 流月 | 先定「斗君」：以流年太歲所在宮起正月，逆數至本命生月宮，再從該宮起子時順數至本命生時宮，落點即斗君（正月流月命宮）；其後各月順時針每月一宮 | 以五虎遁月法，依流年干定各月干（甲己之年丙作首），飛出流月四化 |",
       "status": "active"
     },
     {
-      "rule_sentence": "| 流日 | 以流月命宮起初一，順行十二宮，一日一宮，數至月底 | 以五鼠遁日法（甲己還加甲，乙庚丙作初……）定日干，飛出流日四化 |",
+      "rule_sentence": "| 流日 | 以流月命宮起初一，順行十二宮，一日一宮，數至月底 | 以五鼠遁日法（甲己還加甲，乙庚丙作初）定日干，飛出流日四化 |",
       "status": "active"
     },
     {

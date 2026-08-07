@@ -148,7 +148,15 @@
       "qimen_stems": {
         "type": "object",
         "properties": {
-          "乙": "string", "丙": "string", "丁": "string", "戊": "string", "己": "string", "庚": "string", "辛": "string", "壬": "string", "癸": "string"
+          "乙": "string",
+          "丙": "string",
+          "丁": "string",
+          "戊": "string",
+          "己": "string",
+          "庚": "string",
+          "辛": "string",
+          "壬": "string",
+          "癸": "string"
         }
       }
     }
@@ -175,7 +183,12 @@
   "dynamic_overlay_compute": {
     "overlay_judgment_steps": {
       "step1_overlay": {
-        "inputs": ["raw_natal_matrix.palaces", "raw_dynamic_layers.decade_palace", "raw_dynamic_layers.annual_sihua", "raw_dynamic_layers.flow_stars"],
+        "inputs": [
+          "raw_natal_matrix.palaces",
+          "raw_dynamic_layers.decade_palace",
+          "raw_dynamic_layers.annual_sihua",
+          "raw_dynamic_layers.flow_stars"
+        ],
         "alignment_key": "palace_standard_key",
         "action": "align_layers_by_palace_standard_key",
         "output": "overlay_matrix_by_palace",
@@ -198,14 +211,26 @@
         "source_type": "design_rule"
       },
       "step3_focus": {
-        "focus_palaces": ["命宮", "財帛宮", "官祿宮", "遷移宮", "夫妻宮", "疾厄宮"],
+        "focus_palaces": [
+          "命宮",
+          "財帛宮",
+          "官祿宮",
+          "遷移宮",
+          "夫妻宮",
+          "疾厄宮"
+        ],
         "action": "identify_overlapping_palace_types",
         "output": "active_focal_points",
         "verification_status": "unverified",
         "source_type": "design_rule"
       },
       "step4_sihua_interaction": {
-        "modes": ["飛入", "沖", "會", "夾"],
+        "modes": [
+          "飛入",
+          "沖",
+          "會",
+          "夾"
+        ],
         "trigger_conditions": "cross_layer_sihua_hits_focus_palace",
         "output": "sihua_impact_report",
         "verification_status": "unverified",
@@ -289,7 +314,10 @@
       "name": "雙忌疊加",
       "description": "大限忌＋流年忌同宮",
       "trigger_conditions": {
-        "required_layers": ["raw_dynamic_layers.decade_sihua", "raw_dynamic_layers.annual_sihua"],
+        "required_layers": [
+          "raw_dynamic_layers.decade_sihua",
+          "raw_dynamic_layers.annual_sihua"
+        ],
         "same_palace": true,
         "required_transform": "化忌"
       },
