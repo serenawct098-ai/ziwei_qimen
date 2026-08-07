@@ -56,8 +56,9 @@
       "task_id": "Task 5",
       "file_changed": "engines/engine_interpretation_fusion_v1.json",
       "before_snippet": "\"pattern_library\": { \"sanfang_sizheng\": ... }",
-      "after_snippet": "Added qimen_pattern_library with stem_combinations, punishments, clashes, deceptions, and falses.",
-      "verification_status": "verified (Verbatim Trace for classical patterns)"
+      "after_snippet": "Corrected Qimen pattern effects to verbatim; Refined line_id for punishments/tombs; Fixed clash logic.",
+      "verification_status": "verified (Verbatim Alignment)",
+      "revision_note": "REVISION_HALT_FIXED: Aligned stem patterns with Preface_L009; Fixed Qimen Yima (Day-branch based); Removed unverified tomb entries; Fixed clash/迫 logic per Juan1_L055."
     }
   ]
 }
