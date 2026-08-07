@@ -94,11 +94,11 @@
     },
     {
       "task_id": "Task 9",
-      "file_changed": "engines/engine_compute_protocol_v1.json",
-      "before_snippet": "heavy_taboo_logic only covers triple taboo.",
-      "after_snippet": "Expanded heavy_taboo_logic with double_taboo and lu_ji_clash rules.",
+      "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
+      "before_snippet": "heavy_taboo_logic used generic count and conceptual opposite().",
+      "after_snippet": "Upgraded to layer-aware contracts (decade+annual) and physical opposition map lookup.",
       "verification_status": "unverified (design_rule)",
-      "revision_note": "Added double_taboo (count==2) and lu_ji_clash (opposite positions) rules; Tagged as unverified per design_rule from Global Audit Instruction."
+      "revision_note": "REVISION_HALT_FIXED: Established layer-aware trigger for double_taboo; Injected physical palace_opposition_map into L1; Converted lu_ji_clash into executable contract with explicit inputs and actions."
     }
   ]
 }

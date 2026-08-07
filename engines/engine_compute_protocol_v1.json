@@ -288,7 +288,12 @@
     "double_taboo": {
       "name": "雙忌疊加",
       "description": "大限忌＋流年忌同宮",
-      "trigger_conditions": "count(ji_stars_in_palace) == 2",
+      "trigger_conditions": {
+        "required_layers": ["raw_dynamic_layers.decade_sihua", "raw_dynamic_layers.annual_sihua"],
+        "same_palace": true,
+        "required_transform": "化忌"
+      },
+      "action": "output_double_taboo_warning",
       "effect_note": "當年壓力極大",
       "verification_status": "unverified",
       "source_type": "design_rule",
@@ -297,7 +302,18 @@
     "lu_ji_clash": {
       "name": "祿忌相沖",
       "description": "化祿與化忌分落對宮",
-      "trigger_conditions": "lu_star_pos == opposite(ji_star_pos)",
+      "inputs": [
+        "overlay_matrix_by_palace",
+        "engine_truth_registry_v1.global_coordinate_system.palace_opposition_map"
+      ],
+      "conditions": {
+        "lu_transform": "化祿",
+        "ji_transform": "化忌",
+        "same_time_layer": true,
+        "palace_relation": "opposition"
+      },
+      "action": "output_lu_ji_clash_notice",
+      "output": "lu_ji_clash_hits",
       "effect_note": "該宮有得有失，起伏動盪",
       "verification_status": "unverified",
       "source_type": "design_rule",
