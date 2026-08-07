@@ -43,7 +43,7 @@
       "before_snippet": "\"star_strength_table\": {",
       "after_snippet": "Corrected granularity for zhifu, xunkong, yima with individual line_id mapping.",
       "verification_status": "verified (100% Verbatim Trace)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), and granularity of line_id per entry."
+      "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), granularity of line_id per entry, and refined citation accuracy for zhifu_zhishi_table (linked to numerical definition in Preface_L004)."
     }
   ]
 }

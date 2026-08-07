@@ -876,10 +876,10 @@
     "zhifu_zhishi_table": {
       "name": "六儀旬首與值符值使對應表",
       "data": {
-        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門", "line_id": "QMDJ_Juan1_L008" },
-        "甲戌己": { "zhifu": "天芮", "zhishi": "死門", "line_id": "QMDJ_Juan1_L008" },
-        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門", "line_id": "QMDJ_Juan1_L008" },
-        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門", "line_id": "QMDJ_Juan1_L008" },
+        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門", "line_id": "QMDJ_Preface_L004" },
+        "甲戌己": { "zhifu": "天芮", "zhishi": "死門", "line_id": "QMDJ_Preface_L004" },
+        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門", "line_id": "QMDJ_Preface_L004" },
+        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門", "line_id": "QMDJ_Preface_L004" },
         "甲辰壬": { "zhifu": "天禽", "zhishi": "死門", "line_id": "QMDJ_Preface_L007" },
         "甲寅癸": { "zhifu": "天心", "zhishi": "開門", "line_id": "QMDJ_Preface_L004" }
       },
