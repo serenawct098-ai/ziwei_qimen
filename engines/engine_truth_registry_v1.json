@@ -576,43 +576,90 @@
       },
       "theme_bindings": {
         "career_lawsuit": {
-          "yongshen": ["開門", "值符", "景門"],
+          "selectors": [
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "開門" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "景門" }
+          ],
           "description": "開門主工作、值符主領導/法官、景門主合約/訴訟"
         },
         "wealth_business": {
-          "yongshen": ["生門", "戊", "壬", "癸"],
+          "selectors": [
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
+            { "type": "engine_field", "path": "qimen_stems.戊" },
+            { "type": "engine_field", "path": "qimen_stems.壬" },
+            { "type": "engine_field", "path": "qimen_stems.癸" }
+          ],
           "description": "生門主利潤、戊主資本、壬癸主資金流動"
         },
         "relationship": {
-          "yongshen": ["乙", "庚", "六合"],
+          "selectors": [
+            { "type": "engine_field", "path": "qimen_stems.乙" },
+            { "type": "engine_field", "path": "qimen_stems.庚" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "六合" }
+          ],
           "description": "乙主女方、庚主男方、六合主婚姻狀況"
         },
         "health": {
-          "yongshen": ["天芮", "乙", "丙", "丁", "天心", "傷門"],
+          "selectors": [
+            { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天芮" },
+            { "type": "engine_field", "path": "qimen_stems.乙" },
+            { "type": "engine_field", "path": "qimen_stems.丙" },
+            { "type": "engine_field", "path": "qimen_stems.丁" },
+            { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天心" },
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "傷門" }
+          ],
           "description": "天芮主病灶、乙丙丁主醫藥、天心/傷門主醫療手段"
         },
         "relational_strategy": {
-          "yongshen": ["日干", "時干", "值符", "庚"],
+          "selectors": [
+            { "type": "engine_field", "path": "day_stem" },
+            { "type": "engine_field", "path": "hour_stem" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
+            { "type": "engine_field", "path": "qimen_stems.庚" }
+          ],
           "description": "人際博弈、戰略對峙與我方對手關係"
         },
         "spatial_fengshui": {
-          "yongshen": ["方位", "星門宮位生剋", "生門", "死門"],
+          "selectors": [
+            { "type": "engine_field", "path": "nine_palace_layout" },
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
+            { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "死門" }
+          ],
           "description": "環境空間佈局與方位吉凶"
         },
         "hidden_forces": {
-          "yongshen": ["八神", "九地", "九天", "螣蛇"],
+          "selectors": [
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "九地" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "九天" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "螣蛇" }
+          ],
           "description": "神煞隱秘、潛在暗力與不可見因素"
         },
         "timing_omen": {
-          "yongshen": ["元局", "節氣", "值使", "時干"],
+          "selectors": [
+            { "type": "engine_field", "path": "ju_number" },
+            { "type": "engine_field", "path": "current_jieqi_exact_timestamp" },
+            { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
+            { "type": "engine_field", "path": "hour_stem" }
+          ],
           "description": "事態發展時序與應期推算"
         },
         "travel_risk": {
-          "yongshen": ["方向", "值符", "值使", "驛馬"],
+          "selectors": [
+            { "type": "engine_field", "path": "target_direction" },
+            { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
+            { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
+            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table" }
+          ],
           "description": "出行避險、路途安全與方向選擇"
         },
         "search_location": {
-          "yongshen": ["方位", "環境特徵星門", "時干", "空亡"],
+          "selectors": [
+            { "type": "engine_field", "path": "nine_palace_layout" },
+            { "type": "engine_field", "path": "hour_stem" },
+            { "type": "truth_table", "path": "static_truth_tables.xunkong_table" }
+          ],
           "description": "失物尋人、物品方位與環境特徵"
         }
       }

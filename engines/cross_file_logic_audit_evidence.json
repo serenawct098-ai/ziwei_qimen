@@ -66,7 +66,7 @@
       "before_snippet": "qimen_yongshen_registry missing; Router lacks registry references.",
       "after_snippet": "Expanded theme_bindings for 6 Qimen intents; Precision routing injected into Router.",
       "verification_status": "unverified (design_rule pending QMDJ trace)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected semantic misalignment; Added 6 dedicated theme_bindings (relational_strategy, spatial_fengshui, etc.) to match Qimen intents; Router references updated to specific bindings."
+      "revision_note": "REVISION_HALT_FIXED: Upgraded all theme_bindings to structured 'selectors' with explicit types (registry_key, engine_field, etc.) to ensure physical execution; Standardized day/hour_stem keys; Resolved Qimen intent semantic misalignment."
     }
   ]
 }
