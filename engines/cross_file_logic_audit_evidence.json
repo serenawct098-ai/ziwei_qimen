@@ -29,6 +29,13 @@
       "before_snippet": "\"leap_month_rule_mode\": \"sanhe_star_school_middle_split\",\\n    \"expansion_forbidden\": true",
       "after_snippet": "\"leap_month_rule_mode\": \"sanhe_star_school_middle_split\",\\n    \"qimen_panlayer_lock\": \"轉盤（值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，非飛盤）\",\\n    \"expansion_forbidden\": true",
       "verification_status": "verified (design_origin_note added)"
+    },
+    {
+      "task_id": "Task 2",
+      "file_changed": "engines/engine_compute_protocol_v1.json",
+      "before_snippet": "\"qimen_compute\": [\\n      \"Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)\",\\n      \"Step 13: 佈地盤奇儀 (ju_number, dun_type)\",\\n      \"Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)\"\\n    ]",
+      "after_snippet": "\"qimen_compute\": [\\n      \"Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)\",\\n      \"pre_step13_check: HALT if canonical_locks.qimen_panlayer_lock is undefined or null\",\\n      \"Step 13: 佈地盤奇儀 (ju_number, dun_type)\",\\n      \"Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)\"\\n    ]",
+      "verification_status": "verified (design_origin_note added)"
     }
   ]
 }

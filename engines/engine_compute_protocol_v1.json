@@ -56,6 +56,7 @@
     ],
     "qimen_compute": [
       "Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)",
+      "pre_step13_check: HALT if canonical_locks.qimen_panlayer_lock is undefined or null",
       "Step 13: 佈地盤奇儀 (ju_number, dun_type)",
       "Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)"
     ],
@@ -100,7 +101,7 @@
     "check_gender_required": "gender must be male or female"
   },
   "halt_assertions": {
-    "missing_dependency": "HALT if core_truth_registry is unavailable",
+    "missing_dependency": "HALT if core_truth_registry is unavailable or qimen_panlayer_lock is missing",
     "invalid_lookup": "HALT if key not in static_truth_tables",
     "calculation_error": "HALT if modulo result < 0",
     "validation_rules": [
