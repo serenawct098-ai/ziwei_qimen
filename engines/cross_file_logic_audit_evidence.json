@@ -36,6 +36,13 @@
       "before_snippet": "\"qimen_compute\": [\\n      \"Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)\",\\n      \"Step 13: 佈地盤奇儀 (ju_number, dun_type)\",\\n      \"Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)\"\\n    ]",
       "after_snippet": "\"qimen_compute\": [\\n      \"Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)\",\\n      \"pre_step13_check: HALT if canonical_locks.qimen_panlayer_lock is undefined or null\",\\n      \"Step 13: 佈地盤奇儀 (ju_number, dun_type)\",\\n      \"Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)\"\\n    ]",
       "verification_status": "verified (design_origin_note added)"
+    },
+    {
+      "task_id": "Task 3",
+      "file_changed": "engines/engine_truth_registry_v1.json",
+      "before_snippet": "\"star_strength_table\": {",
+      "after_snippet": "\"zhifu_zhishi_table\": {...}, \"xunkong_table\": {...}, \"qimen_yima_table\": {...}, \"neiwaipan_table\": {...}, \"star_strength_table\": {",
+      "verification_status": "verified (zhifu/xunkong/yima) / unverified (neiwaipan)"
     }
   ]
 }

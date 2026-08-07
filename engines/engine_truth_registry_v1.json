@@ -873,6 +873,48 @@
         "type": "yin"
       }
     },
+    "zhifu_zhishi_table": {
+      "name": "六儀旬首與值符值使對應表",
+      "data": {
+        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門" },
+        "甲戌己": { "zhifu": "天芮", "zhishi": "死門" },
+        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門" },
+        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門" },
+        "甲辰壬": { "zhifu": "天禽", "zhishi": "死門" },
+        "甲寅癸": { "zhifu": "天芮", "zhishi": "死門" }
+      },
+      "verification_status": "verified",
+      "line_id": "QMDJ_ShangJuan_306, 318"
+    },
+    "xunkong_table": {
+      "name": "時柱干支旬空表",
+      "data": {
+        "甲子": ["戌", "亥"], "甲戌": ["申", "酉"], "甲申": ["午", "未"],
+        "甲午": ["辰", "巳"], "甲辰": ["寅", "卯"], "甲寅": ["子", "丑"]
+      },
+      "verification_status": "verified",
+      "line_id": "QMDJ_ShangJuan_2010"
+    },
+    "qimen_yima_table": {
+      "name": "奇門時支驛馬表",
+      "data": {
+        "申": "寅", "子": "寅", "辰": "寅",
+        "亥": "巳", "卯": "巳", "未": "巳",
+        "寅": "申", "午": "申", "戌": "申",
+        "巳": "亥", "酉": "亥", "丑": "亥"
+      },
+      "verification_status": "verified",
+      "line_id": "QMDJ_ShangJuan_1974"
+    },
+    "neiwaipan_table": {
+      "name": "奇門內外盤對照表",
+      "data": {
+        "yang_dun": { "nei": ["坎", "艮", "震", "巽"], "wai": ["離", "坤", "兌", "乾"] },
+        "yin_dun": { "nei": ["離", "坤", "兌", "乾"], "wai": ["坎", "艮", "震", "巽"] }
+      },
+      "verification_status": "unverified",
+      "design_origin_note": "根據【奇門遁甲命盤完整架構圖譜】定義，待古籍進一步細化對齊"
+    },
     "star_strength_table": {
       "紫微": {
         "子": "平",
