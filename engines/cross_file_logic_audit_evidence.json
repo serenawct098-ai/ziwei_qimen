@@ -73,7 +73,8 @@
       "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
       "before_snippet": "L2 Output Contract incomplete; Selectors lack lookup_key.",
       "after_snippet": "L2 Output Contract expanded with 11 Qimen fields; Selectors refined with lookup_key (day_branch_trine/hour_xunshou).",
-      "verification_status": "verified (Contract Alignment)"
+      "verification_status": "unverified (design_rule; pending executable-path validation)",
+      "revision_note": "REVISION_HALT_FIXED: Corrected Selector path hierarchy (raw_qimen_state prefix); Aligned nine_palaces naming; Added day_branch_trine and hour_xunshou to L2 Output Contract; Enforced Fail-closed for target_direction."
     },
     {
       "task_id": "Task 7",

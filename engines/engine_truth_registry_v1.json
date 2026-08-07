@@ -586,16 +586,16 @@
         "wealth_business": {
           "selectors": [
             { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
-            { "type": "engine_field", "path": "qimen_stems.戊" },
-            { "type": "engine_field", "path": "qimen_stems.壬" },
-            { "type": "engine_field", "path": "qimen_stems.癸" }
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.戊" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.壬" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.癸" }
           ],
           "description": "生門主利潤、戊主資本、壬癸主資金流動"
         },
         "relationship": {
           "selectors": [
-            { "type": "engine_field", "path": "qimen_stems.乙" },
-            { "type": "engine_field", "path": "qimen_stems.庚" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.乙" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.庚" },
             { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "六合" }
           ],
           "description": "乙主女方、庚主男方、六合主婚姻狀況"
@@ -603,9 +603,9 @@
         "health": {
           "selectors": [
             { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天芮" },
-            { "type": "engine_field", "path": "qimen_stems.乙" },
-            { "type": "engine_field", "path": "qimen_stems.丙" },
-            { "type": "engine_field", "path": "qimen_stems.丁" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.乙" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.丙" },
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.丁" },
             { "type": "registry_key", "path": "qimen_tianpan_star_registry", "key": "天心" },
             { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "傷門" }
           ],
@@ -613,16 +613,16 @@
         },
         "relational_strategy": {
           "selectors": [
-            { "type": "engine_field", "path": "day_stem" },
-            { "type": "engine_field", "path": "hour_stem" },
+            { "type": "engine_field", "path": "raw_qimen_state.day_stem" },
+            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" },
             { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
-            { "type": "engine_field", "path": "qimen_stems.庚" }
+            { "type": "engine_field", "path": "raw_qimen_state.qimen_stems.庚" }
           ],
           "description": "人際博弈、戰略對峙與我方對手關係"
         },
         "spatial_fengshui": {
           "selectors": [
-            { "type": "engine_field", "path": "nine_palace_layout" },
+            { "type": "engine_field", "path": "raw_qimen_state.nine_palaces" },
             { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "生門" },
             { "type": "registry_key", "path": "qimen_renpan_men_registry", "key": "死門" }
           ],
@@ -638,27 +638,27 @@
         },
         "timing_omen": {
           "selectors": [
-            { "type": "engine_field", "path": "ju_number" },
-            { "type": "engine_field", "path": "current_jieqi_exact_timestamp" },
+            { "type": "engine_field", "path": "raw_qimen_state.ju_number" },
+            { "type": "engine_field", "path": "raw_qimen_state.current_jieqi_exact_timestamp" },
             { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
-            { "type": "engine_field", "path": "hour_stem" }
+            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" }
           ],
           "description": "事態發展時序與應期推算"
         },
         "travel_risk": {
           "selectors": [
-            { "type": "engine_field", "path": "target_direction" },
+            { "type": "engine_field", "path": "raw_qimen_state.target_direction" },
             { "type": "registry_key", "path": "qimen_shenpan_shen_registry", "key": "值符" },
             { "type": "computed_field", "path": "raw_qimen_state.zhishi" },
-            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table", "lookup_key": "day_branch_trine" }
+            { "type": "truth_table", "path": "static_truth_tables.qimen_yima_table", "lookup_key": "raw_qimen_state.day_branch_trine" }
           ],
           "description": "出行避險、路途安全與方向選擇"
         },
         "search_location": {
           "selectors": [
-            { "type": "engine_field", "path": "nine_palace_layout" },
-            { "type": "engine_field", "path": "hour_stem" },
-            { "type": "truth_table", "path": "static_truth_tables.xunkong_table", "lookup_key": "hour_xunshou" }
+            { "type": "engine_field", "path": "raw_qimen_state.nine_palaces" },
+            { "type": "engine_field", "path": "raw_qimen_state.hour_stem" },
+            { "type": "truth_table", "path": "static_truth_tables.xunkong_table", "lookup_key": "raw_qimen_state.hour_xunshou" }
           ],
           "description": "失物尋人、物品方位與環境特徵"
         }
