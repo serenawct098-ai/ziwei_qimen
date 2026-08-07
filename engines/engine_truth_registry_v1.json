@@ -1535,6 +1535,26 @@
           "封誥"
         ],
         "status": "active"
+      },
+      "boshi_12_series": {
+        "name": "博士十二神",
+        "stars": ["博士", "力士", "青龍", "小耗", "將軍", "奏書", "蜚廉", "喜神", "病符", "大耗", "伏兵", "官府"],
+        "verification_status": "verified",
+        "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
+      },
+      "jiangqian_12_series": {
+        "name": "將前十二神",
+        "stars": ["將星", "攀鞍", "歲驛", "息神", "華蓋", "劫殺", "災煞", "天煞", "指背", "咸池", "月煞", "亡神"],
+        "verification_status": "unverified",
+        "source_type": "design_rule",
+        "design_origin_note": "來源：三合派紫微斗數命盤完整架構，待對齊 ZWQS SSOT。"
+      },
+      "suiqian_12_series": {
+        "name": "歲前十二神",
+        "stars": ["歲建", "晦氣", "喪門", "貫索", "官符", "小耗", "大耗", "龍德", "白虎", "天德", "弔客", "病符"],
+        "verification_status": "unverified",
+        "source_type": "design_rule",
+        "design_origin_note": "來源：三合派紫微斗數命盤完整架構，待對齊 ZWQS SSOT。"
       }
     },
     "star_brightness_matrix": {

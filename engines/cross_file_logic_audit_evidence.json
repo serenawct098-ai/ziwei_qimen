@@ -74,6 +74,14 @@
       "before_snippet": "L2 Output Contract incomplete; Selectors lack lookup_key.",
       "after_snippet": "L2 Output Contract expanded with 11 Qimen fields; Selectors refined with lookup_key (day_branch_trine/hour_xunshou).",
       "verification_status": "verified (Contract Alignment)"
+    },
+    {
+      "task_id": "Task 7",
+      "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
+      "before_snippet": "Step 07 lacks detailed sub-steps for secondary stars; shensha_table lacks 12-star series.",
+      "after_snippet": "Step 07 expanded with 07a/b/c; boshi_12 (verified), jiangqian_12 (unverified), suiqian_12 (unverified) added to shensha_table.",
+      "verification_status": "partial_verified (Boshi via Juan2_L001; others design_rule)",
+      "revision_note": "Added Boshi/Jiangqian/Suiqian 12-star series and compute steps. Boshi traced to ZWQS_Juan2_AnTaisuisha_L001; others based on design blueprint."
     }
   ]
 }

@@ -47,6 +47,9 @@
       "Step 05: 安十四主星 (ziwei_idx)",
       "Step 06: 安六吉六煞 (year_gan, hour_zhi, birth_month)",
       "Step 07: 安雜曜十二神 (luzun_idx, year_zhi, flow_year_zhi)",
+      "  - Step 07a: 安博士十二神 (trigger: luzun_pos, movement: gender_yin_yang_順逆)",
+      "  - Step 07b: 安將前十二神 (trigger: year_zhi_trine_將星位)",
+      "  - Step 07c: 安歲前十二神 (trigger: flow_year_zhi_歲建位)",
       "Step 08: 定命主身主 (minggong_zhi_idx, year_zhi)"
     ],
     "dynamic_overlay_compute": [
@@ -150,7 +153,22 @@
     "wuxing_ju": "依命宮干支納音定 (水二、木三、金四、土五、火六)",
     "ziwei_star_pos": "依五行局與生日查表定位",
     "tianfu_star_pos": "與紫微星在寅申軸對稱定位",
-    "palace_axis": "命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)"
+    "palace_axis": "命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)",
+    "boshi_12_compute": {
+      "trigger": "祿存所在宮位起博士",
+      "direction": "陽男陰女順行，陰男陽女逆行",
+      "table_ref": "static_truth_tables.shensha_table.boshi_12_series"
+    },
+    "jiangqian_12_compute": {
+      "trigger": "生年支三合局定將星位 (寅午戌在申，申子辰在寅，巳酉丑在亥，亥卯未在巳)",
+      "direction": "順行",
+      "table_ref": "static_truth_tables.shensha_table.jiangqian_12_series"
+    },
+    "suiqian_12_compute": {
+      "trigger": "流年地支所在宮位起歲建",
+      "direction": "順行",
+      "table_ref": "static_truth_tables.shensha_table.suiqian_12_series"
+    }
   },
   "dynamic_overlay_compute": {
     "daxian_start": "依五行局定起限歲數",
