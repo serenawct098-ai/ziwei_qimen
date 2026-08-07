@@ -26,8 +26,8 @@
         "stem_combinations": {
           "青龍返首": { "trigger": "天盤甲子戊加地盤丙奇", "effect": "動作無阻", "line_id": "QMDJ_Preface_L009" },
           "飛鳥跌穴": { "trigger": "天盤丙奇加地盤甲子戊", "effect": "運用有成", "line_id": "QMDJ_Preface_L009" },
-          "青龍逃走": { "trigger": "天盤乙奇加地盤六庚", "effect": "財物廢墜，奴僕逃走", "line_id": "QMDJ_Preface_L009" },
-          "白虎猖狂": { "trigger": "天盤六辛加地盤乙奇", "effect": "身體毀傷，遠行必敗", "line_id": "QMDJ_Preface_L009" },
+          "青龍逃走": { "trigger": "天盤乙奇加地盤六庚", "effect": "財物廢墜", "line_id": "QMDJ_Preface_L009" },
+          "白虎猖狂": { "trigger": "天盤六辛加地盤乙奇", "effect": "身體毀傷", "line_id": "QMDJ_Preface_L009" },
           "朱雀投江": { "trigger": "天盤六丁加地盤六癸", "effect": "訟獄所由起", "line_id": "QMDJ_Preface_L009" },
           "螣蛇夭矯": { "trigger": "天盤六癸加地盤六丁", "effect": "憂惶之事必至", "line_id": "QMDJ_Preface_L009" },
           "伏宮格": { "trigger": "天盤六庚加地盤值符", "effect": "不利其主，而利其客", "line_id": "QMDJ_Preface_L009" },
