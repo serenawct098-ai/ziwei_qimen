@@ -41,8 +41,9 @@
       "task_id": "Task 3",
       "file_changed": "engines/engine_truth_registry_v1.json",
       "before_snippet": "\"star_strength_table\": {",
-      "after_snippet": "\"zhifu_zhishi_table\": {...}, \"xunkong_table\": {...}, \"qimen_yima_table\": {...}, \"neiwaipan_table\": {...}, \"star_strength_table\": {",
-      "verification_status": "verified (zhifu/xunkong/yima) / unverified (neiwaipan)"
+      "after_snippet": "Corrected granularity for zhifu, xunkong, yima with individual line_id mapping.",
+      "verification_status": "verified (100% Verbatim Trace)",
+      "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), and granularity of line_id per entry."
     }
   ]
 }

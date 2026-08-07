@@ -876,35 +876,36 @@
     "zhifu_zhishi_table": {
       "name": "六儀旬首與值符值使對應表",
       "data": {
-        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門" },
-        "甲戌己": { "zhifu": "天芮", "zhishi": "死門" },
-        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門" },
-        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門" },
-        "甲辰壬": { "zhifu": "天禽", "zhishi": "死門" },
-        "甲寅癸": { "zhifu": "天芮", "zhishi": "死門" }
+        "甲子戊": { "zhifu": "天蓬", "zhishi": "休門", "line_id": "QMDJ_Juan1_L008" },
+        "甲戌己": { "zhifu": "天芮", "zhishi": "死門", "line_id": "QMDJ_Juan1_L008" },
+        "甲申庚": { "zhifu": "天衝", "zhishi": "傷門", "line_id": "QMDJ_Juan1_L008" },
+        "甲午辛": { "zhifu": "天輔", "zhishi": "杜門", "line_id": "QMDJ_Juan1_L008" },
+        "甲辰壬": { "zhifu": "天禽", "zhishi": "死門", "line_id": "QMDJ_Preface_L007" },
+        "甲寅癸": { "zhifu": "天心", "zhishi": "開門", "line_id": "QMDJ_Preface_L004" }
       },
-      "verification_status": "verified",
-      "line_id": "QMDJ_ShangJuan_306, 318"
+      "verification_status": "verified"
     },
     "xunkong_table": {
       "name": "時柱干支旬空表",
       "data": {
-        "甲子": ["戌", "亥"], "甲戌": ["申", "酉"], "甲申": ["午", "未"],
-        "甲午": ["辰", "巳"], "甲辰": ["寅", "卯"], "甲寅": ["子", "丑"]
+        "甲子": { "empty": ["戌", "亥"], "line_id": "QMDJ_Juan1_L151" },
+        "甲戌": { "empty": ["申", "酉"], "line_id": "QMDJ_Juan1_L151" },
+        "甲申": { "empty": ["午", "未"], "line_id": "QMDJ_Juan1_L151" },
+        "甲午": { "empty": ["辰", "巳"], "line_id": "QMDJ_Juan1_L152" },
+        "甲辰": { "empty": ["寅", "卯"], "line_id": "QMDJ_Juan1_L152" },
+        "甲寅": { "empty": ["子", "丑"], "line_id": "QMDJ_Juan1_L152" }
       },
-      "verification_status": "verified",
-      "line_id": "QMDJ_ShangJuan_2010"
+      "verification_status": "verified"
     },
     "qimen_yima_table": {
-      "name": "奇門時支驛馬表",
+      "name": "奇門驛馬劫煞表",
       "data": {
-        "申": "寅", "子": "寅", "辰": "寅",
-        "亥": "巳", "卯": "巳", "未": "巳",
-        "寅": "申", "午": "申", "戌": "申",
-        "巳": "亥", "酉": "亥", "丑": "亥"
+        "寅午戌": { "ma": "申", "jie": "亥", "line_id": "QMDJ_Juan1_L148" },
+        "申子辰": { "ma": "寅", "jie": "巳", "line_id": "QMDJ_Juan1_L148" },
+        "巳酉丑": { "ma": "亥", "jie": "寅", "line_id": "QMDJ_Juan1_L149" },
+        "亥卯未": { "ma": "巳", "jie": "申", "line_id": "QMDJ_Juan1_L149" }
       },
-      "verification_status": "verified",
-      "line_id": "QMDJ_ShangJuan_1974"
+      "verification_status": "verified"
     },
     "neiwaipan_table": {
       "name": "奇門內外盤對照表",
