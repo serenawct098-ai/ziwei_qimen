@@ -90,7 +90,7 @@
       "before_snippet": "dynamic_overlay_compute lacks structured judgment steps.",
       "after_snippet": "Refactored overlay_judgment_steps into executable contracts with inputs/output; Disambiguated Ti-Yong scopes.",
       "verification_status": "unverified (design_rule; pending ZWQS trace)",
-      "revision_note": "REVISION_HALT_FIXED: Upgraded descriptive text to structured contracts (inputs, output, conditions); Disambiguated 'natal_lifecycle_ti_yong' vs 'annual_monthly_ti_yong'; Downgraded status to unverified per audit guidelines."
+      "revision_note": "REVISION_HALT_FIXED: Upgraded descriptive text to structured contracts (inputs, output, conditions); Disambiguated 'natal_lifecycle_ti_yong' vs 'annual_monthly_ti_yong'; Downgraded status to unverified per audit guidelines; Established physical path closure by adding missing fields (natal_sihua, decade_sihua, monthly_sihua) to L2 Output Contract."
     }
   ]
 }

@@ -122,11 +122,14 @@
     "raw_natal_matrix": {
       "palaces": "array[12] of star_indices",
       "wuxing_ju": "string",
-      "mingzhu_shenzhu": "object"
+      "mingzhu_shenzhu": "object",
+      "natal_sihua": "object"
     },
     "raw_dynamic_layers": {
       "decade_palace": "index",
+      "decade_sihua": "object",
       "annual_sihua": "object",
+      "monthly_sihua": "object",
       "flow_stars": "object"
     },
     "raw_qimen_state": {
@@ -174,6 +177,7 @@
       "step1_overlay": {
         "inputs": ["raw_natal_matrix.palaces", "raw_dynamic_layers.decade_palace", "raw_dynamic_layers.annual_sihua", "raw_dynamic_layers.flow_stars"],
         "alignment_key": "palace_standard_key",
+        "action": "align_layers_by_palace_standard_key",
         "output": "overlay_matrix_by_palace",
         "verification_status": "unverified",
         "source_type": "design_rule",
@@ -181,7 +185,7 @@
       },
       "step2_ti_yong_scope": {
         "natal_lifecycle_ti_yong": {
-          "substance_ti": "raw_natal_matrix.sihua",
+          "substance_ti": "raw_natal_matrix.natal_sihua",
           "function_yong": "raw_dynamic_layers.decade_sihua",
           "logic": "先天定格局，大限定發動"
         },
