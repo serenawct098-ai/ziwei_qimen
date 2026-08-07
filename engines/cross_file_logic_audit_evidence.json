@@ -91,6 +91,14 @@
       "after_snippet": "Refactored overlay_judgment_steps into executable contracts with inputs/output; Disambiguated Ti-Yong scopes.",
       "verification_status": "unverified (design_rule; pending ZWQS trace)",
       "revision_note": "REVISION_HALT_FIXED: Upgraded descriptive text to structured contracts (inputs, output, conditions); Disambiguated 'natal_lifecycle_ti_yong' vs 'annual_monthly_ti_yong'; Downgraded status to unverified per audit guidelines; Established physical path closure by adding missing fields (natal_sihua, decade_sihua, monthly_sihua) to L2 Output Contract."
+    },
+    {
+      "task_id": "Task 9",
+      "file_changed": "engines/engine_compute_protocol_v1.json",
+      "before_snippet": "heavy_taboo_logic only covers triple taboo.",
+      "after_snippet": "Expanded heavy_taboo_logic with double_taboo and lu_ji_clash rules.",
+      "verification_status": "unverified (design_rule)",
+      "revision_note": "Added double_taboo (count==2) and lu_ji_clash (opposite positions) rules; Tagged as unverified per design_rule from Global Audit Instruction."
     }
   ]
 }

@@ -276,11 +276,32 @@
     }
   ],
   "heavy_taboo_logic": {
-    "name": "重忌疊加邏輯",
-    "description": "生年忌、大限忌、流年忌三重疊於同宮時，凶象力度倍增。",
-    "trigger_conditions": "count(ji_stars_in_palace) >= 3",
-    "action": "output_heavy_taboo_warning",
-    "tag": "_custom",
-    "design_origin": "全局邏輯審查指令"
+    "triple_taboo": {
+      "name": "三重忌疊加",
+      "description": "生年忌、大限忌、流年忌三重疊於同宮時，凶象力度倍增。",
+      "trigger_conditions": "count(ji_stars_in_palace) >= 3",
+      "action": "output_heavy_taboo_warning",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "來源：全局邏輯審查指令"
+    },
+    "double_taboo": {
+      "name": "雙忌疊加",
+      "description": "大限忌＋流年忌同宮",
+      "trigger_conditions": "count(ji_stars_in_palace) == 2",
+      "effect_note": "當年壓力極大",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "來源：全局邏輯審查指令"
+    },
+    "lu_ji_clash": {
+      "name": "祿忌相沖",
+      "description": "化祿與化忌分落對宮",
+      "trigger_conditions": "lu_star_pos == opposite(ji_star_pos)",
+      "effect_note": "該宮有得有失，起伏動盪",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "來源：全局邏輯審查指令"
+    }
   }
 }
