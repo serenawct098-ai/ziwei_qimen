@@ -1,0 +1,1536 @@
+{
+  "generated_at_utc": "2026-08-07T11:38:24.504631+00:00",
+  "source_records_indexed": 5397,
+  "rag_entries_scanned": 787,
+  "original_quote_preview_repaired": 0,
+  "normalized_preview_repaired": 366,
+  "unresolved_entries": [
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.energy_density_calc"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_pressure_test"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.decision_band"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.natal"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.decade"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.annual"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.monthly"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.conflict_policy"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.子"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.丑"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.寅"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.卯"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.辰"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.巳"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.午"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.未"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.申"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.酉"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.戌"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.亥"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.five_element_relation"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.conflict_policy.mode"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.conflict_policy.rule"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.alignment_policy.resolution"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.structured_findings"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.narrative_text"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.next_action"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.safety_consumption_rules.writeback_forbidden"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.safety_consumption_rules.consume_only_verified_outputs"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.judgment_library.star_combinations"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.judgment_library.palace_status_quotes"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.judgment_library.qimen_gate_door_quotes"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.judgment_library.core_logic.star_combinations"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.judgment_library.core_logic.palace_status"
+    },
+    {
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_Pattern_L005",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sha_po_lang"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_matching"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.thematic_analysis[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.thematic_analysis[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[4]"
+    },
+    {
+      "data_file": "NONE",
+      "line_id": "NOT_FOUND",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.heavy_taboo_logic"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.alignment_policy.pattern"
+    },
+    {
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnDouJun_L001",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuyue_doujun"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[4]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].legacy_aliases[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].legacy_aliases[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].section_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[4]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].section_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[0].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[1].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[2].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[3].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[4].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[5].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[5].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[6].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[7].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[8].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[10].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[10].disambiguation_note"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[11].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[12].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[12].disambiguation_note"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[13].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[17].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[18].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[18].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[19].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[20].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[21].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[23].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].standard_key"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].disambiguation_note"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[26].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[30].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[30].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[31].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[31].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].standard_key"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[33].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[33].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[34].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[35].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].standard_key"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].legacy_aliases[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[38].display_name"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[38].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[39].system"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.canonical_locks.sihua_lock"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.canonical_locks.late_zi_hour_rule"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.canonical_locks.leap_month_rule_mode"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_truth_registry_v1.canonical_locks.expansion_forbidden"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.required[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.required[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.required[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.required[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.required[4]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.optional[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.optional[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.optional[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.input_contract.optional[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.jieqi_precision"
+    },
+    {
+      "data_file": "NONE",
+      "line_id": "NOT_FOUND",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.late_zi_rollover"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[4]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[5]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[6]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[7]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.qimen_compute[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.calculation_pipeline.qimen_compute[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.sihua"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.kui_yue"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.leap_month"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.validation_gate.check_longitude_range"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.validation_gate.check_datetime_validity"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.validation_gate.check_gender_required"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.missing_dependency"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.invalid_lookup"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.calculation_error"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.palaces"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.wuxing_ju"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.mingzhu_shenzhu"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.decade_palace"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.annual_sihua"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.flow_stars"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.nine_palaces"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.ju_number"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.dun_type"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute.wuxing_ju"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute.ziwei_star_pos"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute.tianfu_star_pos"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.natal_chart_compute.palace_axis"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daxian_start"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daxian_direction"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liunian_palace"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuri_start"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.governance_rules.naming_lock"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.governance_rules.ssot_alignment"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.governance_rules.writeback_policy"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.governance_rules.writeback_forbidden"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.fengshui_overlay.direction_objects"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.fengshui_overlay.layout_suggestions"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.annual_time_sensitive_tables.2026_sha_qi"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.annual_time_sensitive_tables.annual_flying_stars"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.theme_router.ASK_WEALTH[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.theme_router.ASK_CAREER[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.theme_router.ASK_MARRIAGE[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.theme_router.ASK_MARRIAGE[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[3]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[0]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[1]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[2]"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.overlay_validation_rules.must_cite_source"
+    },
+    {
+      "data_file": "UNKNOWN",
+      "line_id": "UNKNOWN",
+      "engine_path": "engine_overlay_governance_v1.overlay_validation_rules.forbidden_direct_fabrication"
+    }
+  ],
+  "unresolved_entry_count": 305,
+  "normalization_policy": "normalized_preview is restored to original_quote until an authorized context-safe normalization transform is implemented"
+}
