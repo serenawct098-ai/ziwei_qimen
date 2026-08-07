@@ -556,7 +556,7 @@
     "qimen_shenpan_shen_registry": [
       { "standard_key": "值符", "display_name": "值符", "legacy_aliases": ["符"], "engine_binding": "qimen_engine.shenpan.值符" },
       { "standard_key": "螣蛇", "display_name": "螣蛇", "legacy_aliases": ["蛇"], "engine_binding": "qimen_engine.shenpan.螣蛇" },
-      { "standard_key": "太陰", "display_name": "太陰", "legacy_aliases": ["陰"], "engine_binding": "qimen_engine.shenpan.太陰" },
+      { "standard_key": "太陰", "display_name": "太陰", "legacy_aliases": ["陰"], "engine_binding": "qimen_engine.shenpan.太陰", "disambiguation_note": "奇門八神之太陰，與紫微十四主星之太陰星不同" },
       { "standard_key": "六合", "display_name": "六合", "legacy_aliases": ["合"], "engine_binding": "qimen_engine.shenpan.六合" },
       { "standard_key": "白虎", "display_name": "白虎", "legacy_aliases": ["虎", "勾陳"], "engine_binding": "qimen_engine.shenpan.白虎" },
       { "standard_key": "玄武", "display_name": "玄武", "legacy_aliases": ["武", "朱雀"], "engine_binding": "qimen_engine.shenpan.玄武" },

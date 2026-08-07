@@ -22,6 +22,30 @@
     ],
     "pattern_library": {
       "sanfang_sizheng": "命、財、官為三方，加對宮遷移為四正",
+      "qimen_pattern_library": {
+        "stem_combinations": {
+          "青龍返首": { "trigger": "天盤甲子戊加地盤丙奇", "effect": "動作無阻，大吉", "line_id": "QMDJ_Preface_L009" },
+          "飛鳥跌穴": { "trigger": "天盤丙奇加地盤甲子戊", "effect": "運用有成，百事洞澈", "line_id": "QMDJ_Preface_L009" },
+          "青龍逃走": { "trigger": "天盤乙奇加地盤六庚", "effect": "財物廢墜，奴僕逃走", "line_id": "QMDJ_Preface_L009" },
+          "白虎猖狂": { "trigger": "天盤六辛加地盤乙奇", "effect": "身體毀傷，遠行必敗", "line_id": "QMDJ_Preface_L009" },
+          "朱雀投江": { "trigger": "天盤六丁加地盤六癸", "effect": "訟獄起，文書失", "line_id": "QMDJ_Preface_L009" },
+          "螣蛇夭矯": { "trigger": "天盤六癸加地盤六丁", "effect": "憂惶之事，官司不已", "line_id": "QMDJ_Preface_L009" },
+          "伏宮格": { "trigger": "天盤六庚加地盤值符", "effect": "不利主，利客", "line_id": "QMDJ_Preface_L009" },
+          "飛宮格": { "trigger": "天盤值符加地盤六庚", "effect": "貴謀，不貴戰", "line_id": "QMDJ_Preface_L009" }
+        },
+        "punishments_and_tombs": {
+          "六儀擊刑": { "trigger": "甲子戊落震三，甲戌己落坤二，甲申庚落艮八，甲午辛落離九，甲辰壬落巽四，甲寅癸落巽四", "effect": "至惡，不可使用", "line_id": "QMDJ_Preface_L005" },
+          "奇儀入墓": { "trigger": "乙奇落乾六、乙奇落坤二；丙奇落乾六；丁奇落艮八", "effect": "所為無成", "line_id": "QMDJ_Preface_L005" }
+        },
+        "clashes": {
+          "門迫": { "trigger": "門剋宮 (如開門落震三)", "effect": "人事受阻，壓力大", "tag": "_custom" },
+          "宮迫": { "trigger": "宮剋門 (如坎一落景門)", "effect": "環境壓制", "tag": "_custom" }
+        },
+        "deceptions_and_falses": {
+          "三詐": { "trigger": "開休生三吉門合乙丙丁三奇，上臨太陰、六合、九地", "effect": "舉動皆利", "line_id": "QMDJ_Preface_L011" },
+          "五假": { "trigger": "杜死驚傷景合九地、太陰、六合，乙丙丁己癸", "effect": "各有吉凶", "line_id": "QMDJ_Preface_L012" }
+        }
+      },
       "major_patterns": [
         "極向離明",
         "紫府同宮",

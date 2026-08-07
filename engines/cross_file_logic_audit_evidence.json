@@ -49,8 +49,15 @@
       "task_id": "Task 4",
       "file_changed": "engines/engine_truth_registry_v1.json",
       "before_snippet": "End of star_name_registry",
-      "after_snippet": "Added qimen_tianpan_star_registry, qimen_renpan_men_registry, qimen_shenpan_shen_registry",
+      "after_snippet": "Added qimen_tianpan_star_registry, qimen_renpan_men_registry, qimen_shenpan_shen_registry (with Taiyin disambiguation)",
       "verification_status": "verified (System Architecture Alignment)"
+    },
+    {
+      "task_id": "Task 5",
+      "file_changed": "engines/engine_interpretation_fusion_v1.json",
+      "before_snippet": "\"pattern_library\": { \"sanfang_sizheng\": ... }",
+      "after_snippet": "Added qimen_pattern_library with stem_combinations, punishments, clashes, deceptions, and falses.",
+      "verification_status": "verified (Verbatim Trace for classical patterns)"
     }
   ]
 }
