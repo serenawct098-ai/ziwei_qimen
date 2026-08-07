@@ -21,7 +21,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: raw_natal_matrix",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: raw_natal_matrix"
     },
     {
@@ -30,7 +30,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: raw_dynamic_layers",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: raw_dynamic_layers"
     },
     {
@@ -39,7 +39,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: raw_qimen_state",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: raw_qimen_state"
     },
     {
@@ -48,7 +48,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 計算宮位能量飽和度與衝突係數",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 計算宮位能量飽和度與衝突係數"
     },
     {
@@ -57,7 +57,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 模擬大限流年沖擊下的系統穩定性",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 模擬大限流年沖擊下的系統穩定性"
     },
     {
@@ -66,7 +66,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 輸出決策建議區間 (如：激進、穩健、規避)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 輸出決策建議區間 (如：激進、穩健、規避)"
     },
     {
@@ -75,7 +75,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1.0",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1.0"
     },
     {
@@ -84,7 +84,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 0.5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 0.5"
     },
     {
@@ -93,7 +93,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 0.3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 0.3"
     },
     {
@@ -102,7 +102,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 0.1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 0.1"
     },
     {
@@ -111,7 +111,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: parallel_annotation",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: parallel_annotation"
     },
     {
@@ -120,7 +120,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -129,7 +129,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -138,7 +138,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -147,7 +147,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -156,7 +156,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -165,7 +165,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -174,7 +174,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -183,7 +183,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -192,7 +192,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -201,7 +201,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -210,7 +210,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -219,7 +219,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -228,7 +228,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 生剋制化矩陣",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 生剋制化矩陣"
     },
     {
@@ -237,7 +237,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: parallel_annotation",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: parallel_annotation"
     },
     {
@@ -246,7 +246,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 體用衝突時不做單邊裁決，並列呈現傳統與現代結論，加註視角差異",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 體用衝突時不做單邊裁決，並列呈現傳統與現代結論，加註視角差異"
     },
     {
@@ -255,7 +255,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 升級為高一致性風險提示",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 升級為高一致性風險提示"
     },
     {
@@ -264,7 +264,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: JSON object of logical hits",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: JSON object of logical hits"
     },
     {
@@ -273,7 +273,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Markdown formatted interpretation strings",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Markdown formatted interpretation strings"
     },
     {
@@ -282,7 +282,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Concrete advisory step",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Concrete advisory step"
     },
     {
@@ -291,7 +291,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     },
     {
@@ -300,7 +300,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     },
     {
@@ -309,7 +309,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 星曜組合斷語 (如：機梁同臨)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 星曜組合斷語 (如：機梁同臨)"
     },
     {
@@ -318,7 +318,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 宮位狀態斷語 (如：財帛宮化忌)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 宮位狀態斷語 (如：財帛宮化忌)"
     },
     {
@@ -327,7 +327,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 奇門門星組合斷語",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 奇門門星組合斷語"
     },
     {
@@ -336,7 +336,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 依據卷二、卷三斷語進行星曜組合判定",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 依據卷二、卷三斷語進行星曜組合判定"
     },
     {
@@ -345,7 +345,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 依據四化落宮與宮位狀態輸出敘事",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 依據四化落宮與宮位狀態輸出敘事"
     }
   ],
@@ -400,8 +400,8 @@
       "data_file": "ZWQS_Juan1_PatternText.json",
       "line_id": "ZWQS_Juan1_Pattern_L005",
       "original_quote_preview": "No quote found",
-      "verification_status": "verified",
-      "design_origin_note": "",
+      "verification_status": "unverified",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "No quote found"
     },
     {
@@ -410,7 +410,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 掃描成格與破格條件 (如：極向離明、馬落空亡)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 掃描成格與破格條件 (如：極向離明、馬落空亡)"
     },
     {
@@ -419,7 +419,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 女命專論",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 女命專論"
     },
     {
@@ -428,7 +428,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 疾厄災咎",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 疾厄災咎"
     },
     {
@@ -437,7 +437,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 極向離明",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 極向離明"
     },
     {
@@ -446,7 +446,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 巨日同宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 巨日同宮"
     },
     {
@@ -455,7 +455,7 @@
       "line_id": "NOT_FOUND",
       "original_quote_preview": "三重疊忌凶象倍增規則 (藍圖硬性設定)",
       "verification_status": "unverified",
-      "design_origin_note": "系統核心禁忌邏輯，源於藍圖 L5 治理層設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "三重疊化忌凶象倍增規則 (藍圖硬性設定)"
     },
     {
@@ -464,7 +464,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: tradition_warning_modern_warning",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: tradition_warning_modern_warning"
     }
   ],
@@ -4704,8 +4704,8 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnDouJun_L001",
       "original_quote_preview": "No quote found",
-      "verification_status": "verified",
-      "design_origin_note": "",
+      "verification_status": "unverified",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "No quote found"
     },
     {
@@ -4768,7 +4768,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 水二局",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 水二局"
     },
     {
@@ -4777,7 +4777,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 木三局",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 木三局"
     },
     {
@@ -4786,7 +4786,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 金四局",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 金四局"
     },
     {
@@ -4795,7 +4795,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 土五局",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 土五局"
     },
     {
@@ -4804,7 +4804,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 火六局",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 火六局"
     },
     {
@@ -4813,7 +4813,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 妻妾宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 妻妾宮"
     },
     {
@@ -4822,7 +4822,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 配偶宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 配偶宮"
     },
     {
@@ -4831,7 +4831,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 論妻妾",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 論妻妾"
     },
     {
@@ -4840,7 +4840,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 交友宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 交友宮"
     },
     {
@@ -4849,7 +4849,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 交友宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 交友宮"
     },
     {
@@ -4858,7 +4858,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 僕役宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 僕役宮"
     },
     {
@@ -4867,7 +4867,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 朋友宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 朋友宮"
     },
     {
@@ -4876,7 +4876,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 論奴僕",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 論奴僕"
     },
     {
@@ -4885,7 +4885,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 事業宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 事業宮"
     },
     {
@@ -4894,7 +4894,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 田宅宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 田宅宮"
     },
     {
@@ -4903,7 +4903,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 田宅宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 田宅宮"
     },
     {
@@ -4912,7 +4912,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 父母宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 父母宮"
     },
     {
@@ -4921,7 +4921,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 父母宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 父母宮"
     },
     {
@@ -4930,7 +4930,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4939,7 +4939,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4948,7 +4948,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4957,7 +4957,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4966,7 +4966,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4975,7 +4975,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 廉貞星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 廉貞星"
     },
     {
@@ -4984,7 +4984,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -4993,7 +4993,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5002,7 +5002,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5011,7 +5011,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5020,7 +5020,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 巨門星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 巨門星"
     },
     {
@@ -5029,7 +5029,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5038,7 +5038,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5047,7 +5047,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 天相俗稱印星，不得作 core key",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 天相俗稱印星，不得作 core key"
     },
     {
@@ -5056,7 +5056,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5065,7 +5065,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5074,7 +5074,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 七殺俗稱將星，與將前十二神之將星不同",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 七殺俗稱將星，與將前十二神之將星不同"
     },
     {
@@ -5083,7 +5083,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 14_principal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 14_principal"
     },
     {
@@ -5092,7 +5092,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5101,7 +5101,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5110,7 +5110,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 左輔星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 左輔星"
     },
     {
@@ -5119,7 +5119,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5128,7 +5128,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5137,7 +5137,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 天魁星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 天魁星"
     },
     {
@@ -5146,7 +5146,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5155,7 +5155,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_lucky",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_lucky"
     },
     {
@@ -5164,7 +5164,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5173,7 +5173,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5182,7 +5182,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 擎羊星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 擎羊星"
     },
     {
@@ -5191,7 +5191,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5200,7 +5200,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5209,7 +5209,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 地空",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 地空"
     },
     {
@@ -5218,7 +5218,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 地空星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 地空星"
     },
     {
@@ -5227,7 +5227,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 地空",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 地空"
     },
     {
@@ -5236,7 +5236,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5245,7 +5245,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 地空於部分流派稱天空，與歲前十二神之天空不同",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 地空於部分流派稱天空，與歲前十二神之天空不同"
     },
     {
@@ -5254,7 +5254,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 地劫星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 地劫星"
     },
     {
@@ -5263,7 +5263,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6_malefic",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6_malefic"
     },
     {
@@ -5272,7 +5272,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5281,7 +5281,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5290,7 +5290,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 龍池星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 龍池星"
     },
     {
@@ -5299,7 +5299,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5308,7 +5308,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 鳳閣星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 鳳閣星"
     },
     {
@@ -5317,7 +5317,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5326,7 +5326,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 紅鸞星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 紅鸞星"
     },
     {
@@ -5335,7 +5335,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5344,7 +5344,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 天喜星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 天喜星"
     },
     {
@@ -5353,7 +5353,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5362,7 +5362,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 孤辰",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 孤辰"
     },
     {
@@ -5371,7 +5371,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 孤辰星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 孤辰星"
     },
     {
@@ -5380,7 +5380,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 孤辰",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 孤辰"
     },
     {
@@ -5389,7 +5389,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5398,7 +5398,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 寡宿星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 寡宿星"
     },
     {
@@ -5407,7 +5407,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5416,7 +5416,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5425,7 +5425,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5434,7 +5434,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 解神星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 解神星"
     },
     {
@@ -5443,7 +5443,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5452,7 +5452,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 陰煞",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 陰煞"
     },
     {
@@ -5461,7 +5461,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 陰煞星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 陰煞星"
     },
     {
@@ -5470,7 +5470,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 陰煞",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 陰煞"
     },
     {
@@ -5479,7 +5479,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5488,7 +5488,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 天哭星",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 天哭星"
     },
     {
@@ -5497,7 +5497,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5506,7 +5506,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: auxiliary",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: auxiliary"
     },
     {
@@ -5515,7 +5515,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -5524,7 +5524,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -5533,7 +5533,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -5542,7 +5542,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5551,7 +5551,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -5560,7 +5560,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -5569,7 +5569,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -5578,7 +5578,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5587,7 +5587,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -5596,7 +5596,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -5605,7 +5605,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -5614,7 +5614,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5623,7 +5623,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -5632,7 +5632,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -5641,7 +5641,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -5650,7 +5650,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5659,7 +5659,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -5668,7 +5668,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -5677,7 +5677,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -5686,7 +5686,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5695,7 +5695,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -5704,7 +5704,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -5713,7 +5713,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -5722,7 +5722,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5731,7 +5731,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -5740,7 +5740,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -5749,7 +5749,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -5758,7 +5758,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5767,7 +5767,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -5776,7 +5776,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -5785,7 +5785,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -5794,7 +5794,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5803,7 +5803,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -5812,7 +5812,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -5821,7 +5821,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -5830,7 +5830,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5839,7 +5839,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -5848,7 +5848,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -5857,7 +5857,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -5866,7 +5866,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5875,7 +5875,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -5884,7 +5884,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -5893,7 +5893,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -5902,7 +5902,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5911,7 +5911,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -5920,7 +5920,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -5929,7 +5929,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -5938,7 +5938,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yang",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yang"
     },
     {
@@ -5947,7 +5947,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -5956,7 +5956,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -5965,7 +5965,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -5974,7 +5974,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -5983,7 +5983,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -5992,7 +5992,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -6001,7 +6001,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -6010,7 +6010,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6019,7 +6019,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -6028,7 +6028,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -6037,7 +6037,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -6046,7 +6046,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6055,7 +6055,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -6064,7 +6064,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -6073,7 +6073,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -6082,7 +6082,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6091,7 +6091,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -6100,7 +6100,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -6109,7 +6109,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -6118,7 +6118,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6127,7 +6127,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -6136,7 +6136,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -6145,7 +6145,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -6154,7 +6154,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6163,7 +6163,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -6172,7 +6172,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -6181,7 +6181,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -6190,7 +6190,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6199,7 +6199,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -6208,7 +6208,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -6217,7 +6217,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -6226,7 +6226,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6235,7 +6235,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -6244,7 +6244,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -6253,7 +6253,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -6262,7 +6262,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6271,7 +6271,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 6",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 6"
     },
     {
@@ -6280,7 +6280,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 9",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 9"
     },
     {
@@ -6289,7 +6289,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 3",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 3"
     },
     {
@@ -6298,7 +6298,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6307,7 +6307,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 5",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 5"
     },
     {
@@ -6316,7 +6316,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 8",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 8"
     },
     {
@@ -6325,7 +6325,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2"
     },
     {
@@ -6334,7 +6334,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6343,7 +6343,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 4",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 4"
     },
     {
@@ -6352,7 +6352,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 7",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 7"
     },
     {
@@ -6361,7 +6361,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 1"
     },
     {
@@ -6370,7 +6370,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: yin",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: yin"
     },
     {
@@ -6379,7 +6379,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: wenmo_tianji_standard",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: wenmo_tianji_standard"
     },
     {
@@ -6388,7 +6388,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 23:00-23:59 換日，時支恆為子",
       "verification_status": "unverified",
-      "design_origin_note": "晚子時換日規則，系統起盤協議設定。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 23:00-23:59 換日，時支恆為子"
     },
     {
@@ -6397,7 +6397,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: sanhe_star_school_middle_split",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: sanhe_star_school_middle_split"
     },
     {
@@ -6406,7 +6406,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     },
     {
@@ -6415,7 +6415,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: birth_datetime_iso8601",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: birth_datetime_iso8601"
     },
     {
@@ -6424,7 +6424,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: birth_longitude",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: birth_longitude"
     },
     {
@@ -6433,7 +6433,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: birth_latitude",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: birth_latitude"
     },
     {
@@ -6442,7 +6442,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: birth_timezone_iana",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: birth_timezone_iana"
     },
     {
@@ -6451,7 +6451,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: gender",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: gender"
     },
     {
@@ -6460,7 +6460,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: flow_year_zhi",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: flow_year_zhi"
     },
     {
@@ -6469,7 +6469,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: flow_month_index",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: flow_month_index"
     },
     {
@@ -6478,7 +6478,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: qimen_method",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: qimen_method"
     },
     {
@@ -6487,7 +6487,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: leap_month_rule_mode",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: leap_month_rule_mode"
     },
     {
@@ -6496,7 +6496,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: TrueSolarTime = BirthStandardTime + (birth_longitude - 120) *",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: TrueSolarTime = BirthStandardTime + (birth_longitude - 120) *"
     },
     {
@@ -6505,7 +6505,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 必須使用天文交節精確時刻，精確至秒",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 必須使用天文交節精確時刻，精確至秒"
     },
     {
@@ -6514,7 +6514,7 @@
       "line_id": "NOT_FOUND",
       "original_quote_preview": "未在 data 層找到對應原文；依【三合派完整架構】藍圖執行 23:00 換日規則",
       "verification_status": "unverified",
-      "design_origin_note": "晚子時換日規則，系統起盤協議設定。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "未在 data 層找到對應原文；依【三合派完整架構】藍圖執行 23:00 換太陽規則"
     },
     {
@@ -6523,7 +6523,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 01: 定命身宮 (lunar_month, hour_zhi)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 01: 定命身宮 (lunar_month, hour_zhi)"
     },
     {
@@ -6532,7 +6532,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 02: 定十二宮地支位 (minggong_zhi_idx)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 02: 定十二宮地支位 (minggong_zhi_idx)"
     },
     {
@@ -6541,7 +6541,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 03: 定五行局 (minggong_zhi_idx, year_gan)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 03: 定五行局 (minggong_zhi_idx, year_gan)"
     },
     {
@@ -6550,7 +6550,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 04: 起紫微星 (lunar_day, wuxing_ju)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 04: 起紫微星 (lunar_day, wuxing_ju)"
     },
     {
@@ -6559,7 +6559,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 05: 安十四主星 (ziwei_idx)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 05: 安十四主星 (ziwei_idx)"
     },
     {
@@ -6568,7 +6568,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 06: 安六吉六煞 (year_gan, hour_zhi, birth_month)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 06: 安六吉六煞 (year_gan, hour_zhi, birth_month)"
     },
     {
@@ -6577,7 +6577,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 07: 安雜曜十二神 (luzun_idx, year_zhi, flow_year_zhi)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 07: 安雜曜十二神 (luzun_idx, year_zhi, flow_year_zhi)"
     },
     {
@@ -6586,7 +6586,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 08: 定命主身主 (minggong_zhi_idx, year_zhi)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 08: 定命主身主 (minggong_zhi_idx, year_zhi)"
     },
     {
@@ -6595,7 +6595,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 09: 起大限 (wuxing_ju, gender, year_gan_yin_yang)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 09: 起大限 (wuxing_ju, gender, year_gan_yin_yang)"
     },
     {
@@ -6604,7 +6604,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 10: 起小限 (year_zhi, age, gender)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 10: 起小限 (year_zhi, age, gender)"
     },
     {
@@ -6613,7 +6613,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 11: 疊加流年/流月/流日四化 (sihua_matrix_presets)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 11: 疊加流年/流月/流日四化 (sihua_matrix_presets)"
     },
     {
@@ -6622,7 +6622,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 13: 佈地盤奇儀 (ju_number, dun_type)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 13: 佈地盤奇儀 (ju_number, dun_type)"
     },
     {
@@ -6631,7 +6631,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Step 14: 佈天盤星、人盤門、神盤神 (hour_ganzhi, zhifu, zhishi)"
     },
     {
@@ -6640,7 +6640,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: wenmo_tianji_standard",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: wenmo_tianji_standard"
     },
     {
@@ -6649,7 +6649,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 魁寅鉞午",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 魁寅鉞午"
     },
     {
@@ -6658,7 +6658,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 月中分界",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 月中分界"
     },
     {
@@ -6667,7 +6667,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: abs(birth_longitude - 120) < 15",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: abs(birth_longitude - 120) < 15"
     },
     {
@@ -6676,7 +6676,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: ISO-8601 format check",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: ISO-8601 format check"
     },
     {
@@ -6685,7 +6685,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: gender must be male or female",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: gender must be male or female"
     },
     {
@@ -6694,7 +6694,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: HALT if core_truth_registry is unavailable",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: HALT if core_truth_registry is unavailable"
     },
     {
@@ -6703,7 +6703,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: HALT if key not in static_truth_tables",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: HALT if key not in static_truth_tables"
     },
     {
@@ -6712,7 +6712,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: HALT if modulo result < 0",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: HALT if modulo result < 0"
     },
     {
@@ -6721,7 +6721,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: abs(birth_longitude - 120) < 15",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: abs(birth_longitude - 120) < 15"
     },
     {
@@ -6730,7 +6730,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: ISO-8601 format check",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: ISO-8601 format check"
     },
     {
@@ -6739,7 +6739,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: gender in ['male', 'female']",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: gender in ['male', 'female']"
     },
     {
@@ -6748,7 +6748,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: late_zi_rollover_23:00",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: late_zi_rollover_23:00"
     },
     {
@@ -6757,7 +6757,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: array[12] of star_indices",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: array[12] of star_indices"
     },
     {
@@ -6766,7 +6766,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: string",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: string"
     },
     {
@@ -6775,7 +6775,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: object",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: object"
     },
     {
@@ -6784,7 +6784,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: index",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: index"
     },
     {
@@ -6793,7 +6793,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: object",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: object"
     },
     {
@@ -6802,7 +6802,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: object",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: object"
     },
     {
@@ -6811,7 +6811,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: object",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: object"
     },
     {
@@ -6820,7 +6820,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: number",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: number"
     },
     {
@@ -6829,7 +6829,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: string",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: string"
     },
     {
@@ -6838,7 +6838,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 依命宮干支納音定 (水二、木三、金四、土五、火六)",
       "verification_status": "unverified",
-      "design_origin_note": "五行局推算邏輯，源於安星定局算法設計。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 依命宮干支納音定 (水二、木三、金四、土五、火六)"
     },
     {
@@ -6847,7 +6847,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 依五行局與生日查表定位",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 依五行局與生日查表定位"
     },
     {
@@ -6856,7 +6856,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 與紫微星在寅申軸對稱定位",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 與紫微星在寅申軸對稱定位"
     },
     {
@@ -6865,7 +6865,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)"
     },
     {
@@ -6874,7 +6874,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 依五行局定起限歲數",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 依五行局定起限歲數"
     },
     {
@@ -6883,7 +6883,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 陽男陰女順行，陰男陽女逆行",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 陽男陰女順行，陰男陽女逆行"
     },
     {
@@ -6892,7 +6892,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 以流年地支所在宮位為流年命宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 以流年地支所在宮位為流年命宮"
     },
     {
@@ -6901,7 +6901,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 流月命宮起初一，順行一日一宮",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 流月命宮起初一，順行一日一宮"
     },
     {
@@ -6910,7 +6910,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: Registry Standard Only",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: Registry Standard Only"
     },
     {
@@ -6919,7 +6919,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 所有運算必須引用 engine_truth_registry_v1",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 所有運算必須引用 engine_truth_registry_v1"
     },
     {
@@ -6928,7 +6928,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 禁止任何 Overlay 內容回寫 Compute 層",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 禁止任何 Overlay 內容回寫 Compute 層"
     },
     {
@@ -6937,7 +6937,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     },
     {
@@ -6946,7 +6946,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 各方位對應風水物件 (如：西北置金屬)",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 各方位對應風水物件 (如：西北置金屬)"
     },
     {
@@ -6955,7 +6955,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 室內佈局優化建議",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 室內佈局優化建議"
     },
     {
@@ -6964,7 +6964,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 2026 年度化煞方位與對策",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 2026 年度化煞方位與對策"
     },
     {
@@ -6973,7 +6973,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 流年九宮飛星圖",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 流年九宮飛星圖"
     },
     {
@@ -6982,7 +6982,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 論財帛",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 論財帛"
     },
     {
@@ -6991,7 +6991,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 論官祿",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 論官祿"
     },
     {
@@ -7000,7 +7000,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 論夫妻",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 論夫妻"
     },
     {
@@ -7009,7 +7009,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 淫奔大行",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: 淫奔大行"
     },
     {
@@ -7018,7 +7018,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: natal",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: natal"
     },
     {
@@ -7027,7 +7027,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: decade",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: decade"
     },
     {
@@ -7036,7 +7036,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: annual",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: annual"
     },
     {
@@ -7045,7 +7045,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: overlay_only",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: overlay_only"
     },
     {
@@ -7054,7 +7054,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: verified",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: verified"
     },
     {
@@ -7063,7 +7063,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: partial",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: partial"
     },
     {
@@ -7072,7 +7072,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: unverified",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: unverified"
     },
     {
@@ -7081,7 +7081,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     },
     {
@@ -7090,7 +7090,7 @@
       "line_id": "UNKNOWN",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: True",
       "verification_status": "unverified",
-      "design_origin_note": "源於系統藍圖或運作架構設計，非直接引述古籍。",
+      "design_origin_note": "Physical trace missing in current SSOT consolidated files; downgraded to unverified.",
       "normalized_preview": "此規則為系統設計決策或硬性設定值: True"
     }
   ]
