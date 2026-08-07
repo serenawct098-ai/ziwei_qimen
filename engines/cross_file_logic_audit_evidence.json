@@ -103,9 +103,10 @@
     {
       "task_id": "Task 10",
       "file_changed": "engines/engine_reference_blueprint_v1.json",
-      "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings.",
-      "after_snippet": "Blueprint v1.2; Integrated sanhe_full_structure and qimen_full_chart_structure_mapping; Citation ledger updated.",
-      "verification_status": "verified (L0 Constitution Update)"
+      "before_snippet": "Blueprint v1.1; Lacks sanhe/qimen full structure mappings; Citation ledger had composite IDs and ellipsis.",
+      "after_snippet": "Blueprint v1.2; Refined sanhe/qimen full mappings; Split citation ledger by line_id; Removed all ellipsis and placeholders (N/A).",
+      "verification_status": "partial_verified (Verified for ancient texts; Unverified for design rules)",
+      "revision_note": "REVISION_HALT_FIXED: Corrected Qimen pattern library path; Expanded Sanhe full structure mapping; Split Citation Ledger by granularity; Removed all ellipsis from value_summary; Removed N/A placeholders per v4.0 Instruction."
     },
     {
       "task_id": "Task 11",
