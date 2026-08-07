@@ -531,6 +531,38 @@
         ],
         "system": "auxiliary"
       }
+    ],
+    "qimen_tianpan_star_registry": [
+      { "standard_key": "天蓬", "display_name": "天蓬星", "legacy_aliases": ["天蓬"], "engine_binding": "qimen_engine.tianpan.天蓬" },
+      { "standard_key": "天芮", "display_name": "天芮星", "legacy_aliases": ["天芮"], "engine_binding": "qimen_engine.tianpan.天芮" },
+      { "standard_key": "天衝", "display_name": "天衝星", "legacy_aliases": ["天衝"], "engine_binding": "qimen_engine.tianpan.天衝" },
+      { "standard_key": "天輔", "display_name": "天輔星", "legacy_aliases": ["天輔"], "engine_binding": "qimen_engine.tianpan.天輔" },
+      { "standard_key": "天禽", "display_name": "天禽星", "legacy_aliases": ["天禽"], "engine_binding": "qimen_engine.tianpan.天禽" },
+      { "standard_key": "天心", "display_name": "天心星", "legacy_aliases": ["天心"], "engine_binding": "qimen_engine.tianpan.天心" },
+      { "standard_key": "天柱", "display_name": "天柱星", "legacy_aliases": ["天柱"], "engine_binding": "qimen_engine.tianpan.天柱" },
+      { "standard_key": "天任", "display_name": "天任星", "legacy_aliases": ["天任"], "engine_binding": "qimen_engine.tianpan.天任" },
+      { "standard_key": "天英", "display_name": "天英星", "legacy_aliases": ["天英"], "engine_binding": "qimen_engine.tianpan.天英" }
+    ],
+    "qimen_renpan_men_registry": [
+      { "standard_key": "休門", "display_name": "休門", "legacy_aliases": ["休"], "engine_binding": "qimen_engine.renpan.休門" },
+      { "standard_key": "生門", "display_name": "生門", "legacy_aliases": ["生"], "engine_binding": "qimen_engine.renpan.生門" },
+      { "standard_key": "傷門", "display_name": "傷門", "legacy_aliases": ["傷"], "engine_binding": "qimen_engine.renpan.傷門" },
+      { "standard_key": "杜門", "display_name": "杜門", "legacy_aliases": ["杜"], "engine_binding": "qimen_engine.renpan.杜門" },
+      { "standard_key": "景門", "display_name": "景門", "legacy_aliases": ["景"], "engine_binding": "qimen_engine.renpan.景門" },
+      { "standard_key": "死門", "display_name": "死門", "legacy_aliases": ["死"], "engine_binding": "qimen_engine.renpan.死門" },
+      { "standard_key": "驚門", "display_name": "驚門", "legacy_aliases": ["驚"], "engine_binding": "qimen_engine.renpan.驚門" },
+      { "standard_key": "開門", "display_name": "開門", "legacy_aliases": ["開"], "engine_binding": "qimen_engine.renpan.開門" }
+    ],
+    "qimen_shenpan_shen_registry": [
+      { "standard_key": "值符", "display_name": "值符", "legacy_aliases": ["符"], "engine_binding": "qimen_engine.shenpan.值符" },
+      { "standard_key": "螣蛇", "display_name": "螣蛇", "legacy_aliases": ["蛇"], "engine_binding": "qimen_engine.shenpan.螣蛇" },
+      { "standard_key": "太陰", "display_name": "太陰", "legacy_aliases": ["陰"], "engine_binding": "qimen_engine.shenpan.太陰" },
+      { "standard_key": "六合", "display_name": "六合", "legacy_aliases": ["合"], "engine_binding": "qimen_engine.shenpan.六合" },
+      { "standard_key": "白虎", "display_name": "白虎", "legacy_aliases": ["虎", "勾陳"], "engine_binding": "qimen_engine.shenpan.白虎" },
+      { "standard_key": "玄武", "display_name": "玄武", "legacy_aliases": ["武", "朱雀"], "engine_binding": "qimen_engine.shenpan.玄武" },
+      { "standard_key": "九地", "display_name": "九地", "legacy_aliases": ["地"], "engine_binding": "qimen_engine.shenpan.九地" },
+      { "standard_key": "九天", "display_name": "九天", "legacy_aliases": ["天"], "engine_binding": "qimen_engine.shenpan.九天" },
+      { "standard_key": "太常", "display_name": "太常", "legacy_aliases": ["常"], "engine_binding": "qimen_engine.shenpan.太常", "note": "飛盤專用" }
     ]
   },
   "static_truth_tables": {

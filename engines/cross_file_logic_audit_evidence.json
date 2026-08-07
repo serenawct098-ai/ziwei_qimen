@@ -44,6 +44,13 @@
       "after_snippet": "Corrected granularity for zhifu, xunkong, yima with individual line_id mapping.",
       "verification_status": "verified (100% Verbatim Trace)",
       "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), granularity of line_id per entry, and refined citation accuracy for zhifu_zhishi_table (linked to numerical definition in Preface_L004)."
+    },
+    {
+      "task_id": "Task 4",
+      "file_changed": "engines/engine_truth_registry_v1.json",
+      "before_snippet": "End of star_name_registry",
+      "after_snippet": "Added qimen_tianpan_star_registry, qimen_renpan_men_registry, qimen_shenpan_shen_registry",
+      "verification_status": "verified (System Architecture Alignment)"
     }
   ]
 }
