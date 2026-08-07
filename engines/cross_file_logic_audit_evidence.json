@@ -43,7 +43,7 @@
       "before_snippet": "\"star_strength_table\": {",
       "after_snippet": "Corrected granularity for zhifu, xunkong, yima with individual line_id mapping.",
       "verification_status": "verified (100% Verbatim Trace)",
-      "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), granularity of line_id per entry, and refined citation accuracy for zhifu_zhishi_table (linked to numerical definition in Preface_L004)."
+      "revision_note": "REVISION_HALT_FIXED: Corrected Line ID format, yima logic (Day-branch based), granularity of line_id per entry, and refined citation accuracy for zhifu_zhishi_table (linked to numerical definition in QMDJ_Preface_L004)."
     },
     {
       "task_id": "Task 4",
@@ -58,7 +58,7 @@
       "before_snippet": "\"pattern_library\": { \"sanfang_sizheng\":  }",
       "after_snippet": "Corrected Qimen pattern effects to verbatim; Refined line_id for punishments/tombs; Fixed clash logic.",
       "verification_status": "verified (Verbatim Alignment)",
-      "revision_note": "REVISION_HALT_FIXED: Aligned stem patterns with Preface_L009 (Strict Verbatim); Fixed Qimen Yima (Day-branch based); Removed unverified tomb entries; Fixed clash/迫 logic per Juan1_L055."
+      "revision_note": "REVISION_HALT_FIXED: Aligned stem patterns with QMDJ_Preface_L009 (Strict Verbatim); Fixed Qimen Yima (Day-branch based); Removed unverified tomb entries; Fixed clash/迫 logic per QMDJ_Juan1_L055."
     },
     {
       "task_id": "Task 6",
@@ -81,7 +81,7 @@
       "file_changed": "engines/engine_compute_protocol_v1.json, engines/engine_truth_registry_v1.json",
       "before_snippet": "Step 07 lacks detailed sub-steps for secondary stars; boshi_12 lacks L002 trace; suiqian_12 in natal compute.",
       "after_snippet": "Boshi 12 refined with L001/L002 trace and 'Tianhao' disambiguation; Suiqian 12 moved to dynamic_overlay_compute; Verfication status aligned per step.",
-      "verification_status": "partial_verified (Boshi via Juan2_L001/L002; others design_rule)",
+      "verification_status": "partial_verified (Boshi via QMDJ_Juan2_L001/L002; others design_rule)",
       "revision_note": "REVISION_HALT_FIXED: Refined verification granularity for Boshi 12; Downgraded 'Dahao' entry to unverified/design_rule due to normalization from original 'Tianhao'; Maintained partial_verified status for the series."
     },
     {

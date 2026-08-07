@@ -1,0 +1,153 @@
+{
+  "category": "十干四化原文實體來源檔（飛星四化）",
+  "meta": {
+    "purpose": "本檔案為十干四化（飛星四化／北派四化）之原文實體來源檔，物理獨立於《紫微斗數全書》三合派主文本（ZWQS_Juan1/2/3_Consolidated.json），避免與三合派原文混淆，同時保留可供引擎層引用之來源。",
+    "source_school": "文墨天機安星碼標準（通行版本），庚干、壬干依系統鎖定版本收錄為唯一版本",
+    "lock_note": "庚干：陽武同相（太陽化祿、武曲化權、天同化科、天相化忌）為唯一鎖定版本，不採其他版本比較。壬干：梁紫左武（天梁化祿、紫微化權、左輔化科、武曲化忌）為唯一鎖定版本。其餘八干（甲乙丙丁戊己辛癸）維持通行版本原樣寫入，不另作比較篩選。",
+    "last_updated": "2026-08-08"
+  },
+  "entries": [
+    {
+      "line_id": "SHZH_TenStemSihua_L001",
+      "stem": "甲",
+      "hua_lu": "廉貞",
+      "hua_quan": "破軍",
+      "hua_ke": "武曲",
+      "hua_ji": "太陽",
+      "original_quote": "甲廉破武陽",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L002",
+      "stem": "乙",
+      "hua_lu": "天機",
+      "hua_quan": "天梁",
+      "hua_ke": "紫微",
+      "hua_ji": "太陰",
+      "original_quote": "乙機梁紫陰",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L003",
+      "stem": "丙",
+      "hua_lu": "天同",
+      "hua_quan": "天機",
+      "hua_ke": "文昌",
+      "hua_ji": "廉貞",
+      "original_quote": "丙同機昌廉",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L004",
+      "stem": "丁",
+      "hua_lu": "太陰",
+      "hua_quan": "天同",
+      "hua_ke": "天機",
+      "hua_ji": "巨門",
+      "original_quote": "丁陰同機巨",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L005",
+      "stem": "戊",
+      "hua_lu": "貪狼",
+      "hua_quan": "太陰",
+      "hua_ke": "右弼",
+      "hua_ji": "天機",
+      "original_quote": "戊貪陰右機",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L006",
+      "stem": "己",
+      "hua_lu": "武曲",
+      "hua_quan": "貪狼",
+      "hua_ke": "天梁",
+      "hua_ji": "文曲",
+      "original_quote": "己武貪梁曲",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L007",
+      "stem": "庚",
+      "hua_lu": "太陽",
+      "hua_quan": "武曲",
+      "hua_ke": "天同",
+      "hua_ji": "天相",
+      "original_quote": "庚：陽武同相",
+      "tag": ["_locked_single_version"],
+      "tag_reason": "系統鎖定唯一版本，不比較其他庚干四化版本（如陽武府同等異說）",
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "此為系統唯一鎖定版本"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L008",
+      "stem": "辛",
+      "hua_lu": "巨門",
+      "hua_quan": "太陽",
+      "hua_ke": "文曲",
+      "hua_ji": "文昌",
+      "original_quote": "辛巨陽曲昌",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L009",
+      "stem": "壬",
+      "hua_lu": "天梁",
+      "hua_quan": "紫微",
+      "hua_ke": "左輔",
+      "hua_ji": "武曲",
+      "original_quote": "壬：梁紫左武",
+      "tag": ["_locked_single_version"],
+      "tag_reason": "系統鎖定唯一版本，不比較其他壬干四化版本",
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "此為系統唯一鎖定版本"
+      }
+    },
+    {
+      "line_id": "SHZH_TenStemSihua_L010",
+      "stem": "癸",
+      "hua_lu": "破軍",
+      "hua_quan": "巨門",
+      "hua_ke": "太陰",
+      "hua_ji": "貪狼",
+      "original_quote": "癸破巨陰貪",
+      "tag": [],
+      "_source": {
+        "text": "十干四化歌訣（文墨天機安星碼標準）",
+        "note": "通行版本，未涉及庚壬版本爭議"
+      }
+    }
+  ]
+}

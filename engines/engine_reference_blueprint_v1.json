@@ -80,6 +80,13 @@
         "engine_interpretation_fusion_v1",
         "engine_overlay_governance_v1"
       ]
+    },
+    "SHZH_TenStemSihua_Source.json": {
+      "role": "十干四化（飛星四化）原文實體來源，物理獨立於三合派主文本",
+      "used_by": [
+        "engine_truth_registry_v1"
+      ],
+      "notes": "庚干、壬干鎖定為唯一版本（陽武同相／梁紫左武），其餘八干為通行版本原樣收錄，不與《紫微斗數全書》三合派正文混淆。"
     }
   },
   "citation_ledger": [
@@ -451,7 +458,8 @@
       "value_summary": "系統設計決策：奇門鎖定為轉盤",
       "verification_status": "unverified",
       "source_type": "design_rule",
-      "design_origin_note": "來源：用戶指定《Ziwei × Qimen 五層系統架構與運作藍圖》2.0 實作層規範"
+      "design_origin_note": "來源：用戶指定《Ziwei × Qimen 五層系統架構與運作藍圖》2.0 實作層規範",
+      "status": "unverified"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[6]",
@@ -5345,7 +5353,7 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daxian_start",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.decadal_rules",
       "value_summary": "此規則為系統設計決策或硬性設定值: 依五行局定起限歲數",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5353,7 +5361,7 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daxian_direction",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.decadal_rules.direction",
       "value_summary": "此規則為系統設計決策或硬性設定值: 陽男陰女順行，陰男陽女逆行",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5361,7 +5369,7 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liunian_palace",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.annual_rules",
       "value_summary": "此規則為系統設計決策或硬性設定值: 以流年地支所在宮位為流年命宮",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5371,12 +5379,12 @@
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuyue_doujun",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnDouJun_L001",
-      "value_summary": "安斗君公式：流年太歲宮起正月逆數月順數時",
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
+      "value_summary": "對齊原文: 於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君",
       "status": "verified"
     },
     {
-      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuri_start",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daily_hourly_rules.liuri",
       "value_summary": "此規則為系統設計決策或硬性設定值: 流月命宮起初一，順行一日一宮",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5409,10 +5417,11 @@
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.palace_judgment_logic",
-      "data_file": "ZWQS_Juan1_Consolidated.json",
-      "line_id": "ZWQS_Juan1_FuguiLun_L001",
-      "value_summary": "依據三方四正拱照進行吉凶判定之邏輯基礎",
-      "status": "verified"
+      "value_summary": "此規則為系統設計決策或硬性設定值：依據星曜廟旺、三方四正、四化落宮進行吉凶判定（三方四正為後世命理界操作性定義，全書原文無單一逐字定義句，僅有零散引用如 ZWQS_Juan2_LunMingGong_L350／ZWQS_Juan3_TanXingYaoLun_L028）",
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "System design rule; 三方四正操作定義非古籍逐字原文，古籍僅有零散應用實例，非結構性定義句。"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_matching",
@@ -5447,10 +5456,11 @@
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sanfang_sizheng",
-      "data_file": "ZWQS_Juan1_Consolidated.json",
-      "line_id": "ZWQS_Juan1_FuguiLun_L001",
-      "value_summary": "三方四正架構定義，引用卷一諸星得地富貴論",
-      "status": "verified"
+      "value_summary": "此規則為系統設計決策或硬性設定值：命、財、官為三方，加對宮遷移為四正",
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "System design rule; 三方四正操作定義非古籍逐字原文，古籍僅有零散應用實例，非結構性定義句。"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[0]",
@@ -5989,9 +5999,429 @@
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sha_po_lang",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_LunMingGong_L019",
+      "value_summary": "對齊原文: 紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷（三方殺破狼＝七殺、破軍、貪狼分居三方四正）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.財蔭夾印",
       "data_file": "ZWQS_Juan1_PatternText.json",
-      "line_id": "ZWQS_Juan1_Pattern_L005",
-      "value_summary": "七殺、破軍、貪狼分居三方四正",
+      "line_id": "ZWQS_Juan1_DingFuJu_L001",
+      "value_summary": "對齊原文: 財蔭夾印相守命武梁來夾是也,⽥宅宮亦然｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月夾財",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingFuJu_L002",
+      "value_summary": "對齊原文: ⽇⽉夾財武守命⽇⽉來夾是也,財帛宮亦然｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.財祿夾馬",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingFuJu_L003",
+      "value_summary": "對齊原文: 財祿夾⾺⾺守命武祿來夾是也,逢⽣旺尤妙｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.蔭印拱身",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingFuJu_L004",
+      "value_summary": "對齊原文: 蔭印拱⾝⾝臨⽥宅梁相拱沖是也,勿坐空亡｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月照壁",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingFuJu_L005",
+      "value_summary": "對齊原文: ⽇⽉照璧⽇⽉臨⽥宅宮是也,喜居墓庫｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.金燦光輝",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingFuJu_L006",
+      "value_summary": "對齊原文: ⾦燦光輝太陽單守,命在午宮是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月夾命",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L001",
+      "value_summary": "對齊原文: ⽇⽉夾命不坐空亡遇逢本宮有吉星是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日出扶桑",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L002",
+      "value_summary": "對齊原文: ⽇出扶桑⽇在卯守命是也,守官祿宮亦然｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.月落亥宮",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L003",
+      "value_summary": "對齊原文: ⽉落亥宫⽉在亥守命是也,⼜名⽉朗天⾨｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.月朗天門",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L003",
+      "value_summary": "對齊原文: ⽉落亥宫⽉在亥守命是也,⼜名⽉朗天⾨｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.月生滄海",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L004",
+      "value_summary": "對齊原文: ⽉⽣滄海⽉在⼦宮守⽥宅是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.輔弼拱主",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L005",
+      "value_summary": "對齊原文: 輔弼拱主紫微守命⼆星來拱是也,夾之亦然｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.君臣慶會",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L006",
+      "value_summary": "對齊原文: 君⾂慶會紫微左右同守命是也,更會相武陰妙上｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.財印夾祿",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L007",
+      "value_summary": "對齊原文: 財印夾祿祿守命梁相來夾是也,入財亦然｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.祿馬佩印",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L008",
+      "value_summary": "對齊原文: 祿⾺佩印⾺前有祿印星同宮是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.坐貴向貴",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L009",
+      "value_summary": "對齊原文: 坐貴向貴謂魁鉞在命迭相坐拱是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.馬頭帶劍",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L010",
+      "value_summary": "對齊原文: ⾺頭帶劍謂⾺有刃是也不是居午格｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.七殺朝斗",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L011",
+      "value_summary": "對齊原文: 七殺朝⽃⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月並明",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L012",
+      "value_summary": "對齊原文: ⽇⽉並明⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.明珠出海",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L013",
+      "value_summary": "對齊原文: 明珠出海⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月同臨",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L014",
+      "value_summary": "對齊原文: ⽇⽉同臨⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.刑囚夾印",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L015",
+      "value_summary": "對齊原文: 刑囚夾印天刑廉貞同臨⾝命主武勇之⼈｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.科權祿拱",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L016",
+      "value_summary": "對齊原文: 科權祿拱⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.貪火相逢",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L017",
+      "value_summary": "對齊原文: 貪火相逢謂⼆星守命同居廟旺是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.武曲守垣",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L018",
+      "value_summary": "對齊原文: 武曲守垣武守命卯宮是也,餘不是｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.府相朝垣",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L019",
+      "value_summary": "對齊原文: 府相朝垣⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.紫府朝垣",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L020",
+      "value_summary": "對齊原文: 紫府朝垣⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.文星暗拱",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L021",
+      "value_summary": "對齊原文: ⽂星暗拱⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.權祿生逢",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L022",
+      "value_summary": "對齊原文: 權祿⽣逢⼆星守命廟旺是也,陷不是｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.羊刃入廟",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L023",
+      "value_summary": "對齊原文: ⽺刃入廟辰戌丑未守命遇吉是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.巨機居卯",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L024",
+      "value_summary": "對齊原文: 巨機居卯⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.明祿暗祿",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L025",
+      "value_summary": "對齊原文: 明祿暗祿⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.科明暗祿",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L026",
+      "value_summary": "對齊原文: 科明暗祿⾒前註解",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.金輿扶駕",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingGuiJu_L027",
+      "value_summary": "對齊原文: ⾦輿扶駕紫微守命前後有⽇⽉來夾是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.生不逢時",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L001",
+      "value_summary": "對齊原文: ⽣不逢時命坐空亡逢廉貞是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.祿逢兩殺",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L002",
+      "value_summary": "對齊原文: 祿逢兩殺祿坐空亡⼜逢空劫殺星是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.馬落空亡",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L003",
+      "value_summary": "對齊原文: ⾺落空亡⾺既落亡雖祿沖會無⽤主奔波｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.日月藏輝",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L004",
+      "value_summary": "對齊原文: ⽇⽉藏輝⽇⽉反背⼜逢巨暗是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.財與囚仇",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L005",
+      "value_summary": "對齊原文: 財與囚仇武貞同守⾝命是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.一生孤貧",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L006",
+      "value_summary": "對齊原文: ⼀⽣孤貧謂破守命星陷地是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.君子在野",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L007",
+      "value_summary": "對齊原文: 君⼦在野謂四殺守⾝命⽽⾔臨陷地是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.兩重華蓋",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingPinJianJu_L008",
+      "value_summary": "對齊原文: 兩重華蓋謂祿存化祿坐命遇空劫是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.風雲際會",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L001",
+      "value_summary": "對齊原文: 風雲際會⾝命雖弱⼆限逢祿⾺是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.錦上添花",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L002",
+      "value_summary": "對齊原文: 錦上添花謂限破惡星⽽⾏吉地是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.祿衰馬困",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L003",
+      "value_summary": "對齊原文: 祿衰⾺困限逢七殺祿⾺空亡是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.衣錦還鄉",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L004",
+      "value_summary": "對齊原文: 衣錦還鄉少年不遂四⼗後⾏墓運是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.步數無依",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L005",
+      "value_summary": "對齊原文: 步數無依前限接後限連綿不分是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.水上駕星",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L006",
+      "value_summary": "對齊原文: ⽔上駕星⼀年好⼀年不好是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.吉凶相伴",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L007",
+      "value_summary": "對齊原文: 吉凶相伴命有主星限前則發限衰不發是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.枯木逢春",
+      "data_file": "ZWQS_Juan1_PatternText.json",
+      "line_id": "ZWQS_Juan1_DingZaJu_L008",
+      "value_summary": "對齊原文: 枯⽊逢春謂命衰限好是也｡",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.甲",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L001",
+      "value_summary": "對齊原文: 甲廉破武陽（甲干：化祿廉貞、化權破軍、化科武曲、化忌太陽）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.乙",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L002",
+      "value_summary": "對齊原文: 乙機梁紫陰（乙干：化祿天機、化權天梁、化科紫微、化忌太陰）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丙",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L003",
+      "value_summary": "對齊原文: 丙同機昌廉（丙干：化祿天同、化權天機、化科文昌、化忌廉貞）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丁",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L004",
+      "value_summary": "對齊原文: 丁陰同機巨（丁干：化祿太陰、化權天同、化科天機、化忌巨門）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L005",
+      "value_summary": "對齊原文: 戊貪陰右機（戊干：化祿貪狼、化權太陰、化科右弼、化忌天機）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L006",
+      "value_summary": "對齊原文: 己武貪梁曲（己干：化祿武曲、化權貪狼、化科天梁、化忌文曲）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L007",
+      "value_summary": "對齊原文: 庚：陽武同相（庚干：化祿太陽、化權武曲、化科天同、化忌天相）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L008",
+      "value_summary": "對齊原文: 辛巨陽曲昌（辛干：化祿巨門、化權太陽、化科文曲、化忌文昌）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L009",
+      "value_summary": "對齊原文: 壬：梁紫左武（壬干：化祿天梁、化權紫微、化科左輔、化忌武曲）",
+      "status": "verified"
+    },
+    {
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸",
+      "data_file": "SHZH_TenStemSihua_Source.json",
+      "line_id": "SHZH_TenStemSihua_L010",
+      "value_summary": "對齊原文: 癸破巨陰貪（癸干：化祿破軍、化權巨門、化科太陰、化忌貪狼）",
       "status": "verified"
     }
   ]

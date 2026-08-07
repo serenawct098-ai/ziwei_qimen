@@ -110,170 +110,519 @@
           }
         }
       },
-      "major_patterns": [
-        "極向離明",
-        "紫府同宮",
-        "機月同梁",
-        "殺破狼",
-        "巨日同宮",
-        "府相朝垣"
-      ],
       "heavy_taboo_logic": {
         "name": "重忌邏輯",
         "trigger_conditions": "生年忌 + 大限忌 + 流年忌三重疊於同宮",
         "effect_summary": "凶象力度倍增",
         "status": "active"
       },
-      "zifu_chaoyuan": {
-        "name": "紫府朝垣",
-        "trigger_conditions": {
+      "major_patterns": [
+        "財蔭夾印",
+        "日月夾財",
+        "財祿夾馬",
+        "蔭印拱身",
+        "日月照壁",
+        "金燦光輝",
+        "日月夾命",
+        "日出扶桑",
+        "月落亥宮",
+        "月朗天門",
+        "月生滄海",
+        "輔弼拱主",
+        "君臣慶會",
+        "財印夾祿",
+        "祿馬佩印",
+        "坐貴向貴",
+        "馬頭帶劍",
+        "七殺朝斗",
+        "日月並明",
+        "明珠出海",
+        "日月同臨",
+        "刑囚夾印",
+        "科權祿拱",
+        "貪火相逢",
+        "武曲守垣",
+        "府相朝垣",
+        "紫府朝垣",
+        "文星暗拱",
+        "權祿生逢",
+        "羊刃入廟",
+        "巨機居卯",
+        "明祿暗祿",
+        "科明暗祿",
+        "金輿扶駕",
+        "生不逢時",
+        "祿逢兩殺",
+        "馬落空亡",
+        "日月藏輝",
+        "財與囚仇",
+        "一生孤貧",
+        "君子在野",
+        "兩重華蓋",
+        "風雲際會",
+        "錦上添花",
+        "祿衰馬困",
+        "衣錦還鄉",
+        "步數無依",
+        "水上駕星",
+        "吉凶相伴",
+        "枯木逢春",
+        "紫府同宮",
+        "紫府朝垣_主星版",
+        "極向離明",
+        "殺破狼",
+        "機月同梁",
+        "巨日同宮",
+        "石中隱玉",
+        "日照雷門",
+        "文桂文華",
+        "左右同宮"
+      ],
+      "ziwei_ancient_patterns": {
+        "財蔭夾印": {
+          "category": "定富局",
+          "trigger": "財帛守命，武曲、天梁來夾（田宅宮亦然）",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L001",
+          "status": "active"
+        },
+        "日月夾財": {
+          "category": "定富局",
+          "trigger": "武曲守命，太陽、太陰來夾（財帛宮亦然）",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L002",
+          "status": "active"
+        },
+        "財祿夾馬": {
+          "category": "定富局",
+          "trigger": "天馬守命，武曲、祿存來夾，逢生旺尤妙",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L003",
+          "status": "active"
+        },
+        "蔭印拱身": {
+          "category": "定富局",
+          "trigger": "身宮臨田宅，天梁、天相拱沖，勿坐空亡",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L004",
+          "status": "active"
+        },
+        "日月照壁": {
+          "category": "定富局",
+          "trigger": "太陽、太陰臨田宅宮，喜居墓庫",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L005",
+          "status": "active"
+        },
+        "金燦光輝": {
+          "category": "定富局",
+          "trigger": "太陽單守，命在午宮",
+          "effect_summary": "主富",
+          "line_id": "ZWQS_Juan1_DingFuJu_L006",
+          "status": "active"
+        },
+        "日月夾命": {
+          "category": "定貴局",
+          "trigger": "不坐空亡，遇本宮有吉星，太陽太陰來夾",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L001",
+          "status": "active"
+        },
+        "日出扶桑": {
+          "category": "定貴局",
+          "trigger": "太陽在卯守命（守官祿宮亦然）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L002",
+          "status": "active"
+        },
+        "月落亥宮": {
+          "category": "定貴局",
+          "trigger": "太陰在亥守命，又名月朗天門",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L003",
+          "status": "active"
+        },
+        "月朗天門": {
+          "category": "定貴局",
+          "trigger": "太陰在亥守命（月落亥宮之又名）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L003",
+          "status": "active"
+        },
+        "月生滄海": {
+          "category": "定貴局",
+          "trigger": "太陰在子宮守田宅",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L004",
+          "status": "active"
+        },
+        "輔弼拱主": {
+          "category": "定貴局",
+          "trigger": "紫微守命，左輔右弼二星來拱（夾之亦然）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L005",
+          "status": "active"
+        },
+        "君臣慶會": {
+          "category": "定貴局",
+          "trigger": "紫微、左右同守命，更會天相、武曲、太陰妙上",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L006",
+          "status": "active"
+        },
+        "財印夾祿": {
+          "category": "定貴局",
+          "trigger": "祿存守命，天梁、天相來夾（入財宮亦然）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L007",
+          "status": "active"
+        },
+        "祿馬佩印": {
+          "category": "定貴局",
+          "trigger": "天馬前有祿存、天相星同宮",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L008",
+          "status": "active"
+        },
+        "坐貴向貴": {
+          "category": "定貴局",
+          "trigger": "天魁、天鉞在命，迭相坐拱",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L009",
+          "status": "active"
+        },
+        "馬頭帶劍": {
+          "category": "定貴局",
+          "trigger": "天馬有擎羊同宮（非居午格）",
+          "effect_summary": "主貴，威權出眾",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L010",
+          "status": "active"
+        },
+        "七殺朝斗": {
+          "category": "定貴局",
+          "trigger": "七殺入廟朝斗（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L011",
+          "status": "active"
+        },
+        "日月並明": {
+          "category": "定貴局",
+          "trigger": "太陽太陰並明（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L012",
+          "status": "active"
+        },
+        "明珠出海": {
+          "category": "定貴局",
+          "trigger": "詳見格局註解",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L013",
+          "status": "active"
+        },
+        "日月同臨": {
+          "category": "定貴局",
+          "trigger": "太陽太陰同臨（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L014",
+          "status": "active"
+        },
+        "刑囚夾印": {
+          "category": "定貴局",
+          "trigger": "天刑、廉貞同臨身命",
+          "effect_summary": "主武勇之人",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L015",
+          "status": "active"
+        },
+        "科權祿拱": {
+          "category": "定貴局",
+          "trigger": "化科、化權、化祿拱命（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L016",
+          "status": "active"
+        },
+        "貪火相逢": {
+          "category": "定貴局",
+          "trigger": "貪狼、火星二星守命，同居廟旺",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L017",
+          "status": "active"
+        },
+        "武曲守垣": {
+          "category": "定貴局",
+          "trigger": "武曲守命卯宮（餘宮不是）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L018",
+          "status": "active"
+        },
+        "府相朝垣": {
+          "category": "定貴局",
+          "trigger": "天府、天相會照命宮（詳見格局註解）",
+          "effect_summary": "主貴，衣食無憂，有貴人扶持",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L019",
+          "status": "active"
+        },
+        "紫府朝垣": {
+          "category": "定貴局",
+          "trigger": "紫微、天府會照命宮（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L020",
+          "status": "active"
+        },
+        "文星暗拱": {
+          "category": "定貴局",
+          "trigger": "文昌、文曲暗拱命宮（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L021",
+          "status": "active"
+        },
+        "權祿生逢": {
+          "category": "定貴局",
+          "trigger": "化權、化祿二星守命，同居廟旺（陷地不是）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L022",
+          "status": "active"
+        },
+        "羊刃入廟": {
+          "category": "定貴局",
+          "trigger": "擎羊入廟辰戌丑未守命，遇吉星",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L023",
+          "status": "active"
+        },
+        "巨機居卯": {
+          "category": "定貴局",
+          "trigger": "巨門、天機同居卯宮（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L024",
+          "status": "active"
+        },
+        "明祿暗祿": {
+          "category": "定貴局",
+          "trigger": "祿存與暗祿同會（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L025",
+          "status": "active"
+        },
+        "科明暗祿": {
+          "category": "定貴局",
+          "trigger": "化科與暗祿同會（詳見格局註解）",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L026",
+          "status": "active"
+        },
+        "金輿扶駕": {
+          "category": "定貴局",
+          "trigger": "紫微守命，前後有太陽太陰來夾",
+          "effect_summary": "主貴",
+          "line_id": "ZWQS_Juan1_DingGuiJu_L027",
+          "status": "active"
+        },
+        "生不逢時": {
+          "category": "定貧賤局",
+          "trigger": "命坐空亡，逢廉貞",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L001",
+          "status": "active"
+        },
+        "祿逢兩殺": {
+          "category": "定貧賤局",
+          "trigger": "祿存坐空亡，又逢空劫殺星",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L002",
+          "status": "active"
+        },
+        "馬落空亡": {
+          "category": "定貧賤局",
+          "trigger": "天馬落亡，雖有祿沖會亦無用，主奔波",
+          "effect_summary": "主貧賤，奔波勞碌",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L003",
+          "status": "active"
+        },
+        "日月藏輝": {
+          "category": "定貧賤局",
+          "trigger": "太陽太陰反背，又逢巨門暗曜",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L004",
+          "status": "active"
+        },
+        "財與囚仇": {
+          "category": "定貧賤局",
+          "trigger": "武曲、廉貞同守身命",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L005",
+          "status": "active"
+        },
+        "一生孤貧": {
+          "category": "定貧賤局",
+          "trigger": "破軍守命，星陷地",
+          "effect_summary": "主孤貧",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L006",
+          "status": "active"
+        },
+        "君子在野": {
+          "category": "定貧賤局",
+          "trigger": "四煞星守身命，臨陷地",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L007",
+          "status": "active"
+        },
+        "兩重華蓋": {
+          "category": "定貧賤局",
+          "trigger": "祿存、化祿坐命，遇空劫",
+          "effect_summary": "主貧賤",
+          "line_id": "ZWQS_Juan1_DingPinJianJu_L008",
+          "status": "active"
+        },
+        "風雲際會": {
+          "category": "定雜局",
+          "trigger": "身命雖弱，二限逢祿馬",
+          "effect_summary": "限運翻轉，先弱後發",
+          "line_id": "ZWQS_Juan1_DingZaJu_L001",
+          "status": "active"
+        },
+        "錦上添花": {
+          "category": "定雜局",
+          "trigger": "限破惡星而行吉地",
+          "effect_summary": "限運轉吉，錦上添花",
+          "line_id": "ZWQS_Juan1_DingZaJu_L002",
+          "status": "active"
+        },
+        "祿衰馬困": {
+          "category": "定雜局",
+          "trigger": "限逢七殺，祿馬空亡",
+          "effect_summary": "限運困頓",
+          "line_id": "ZWQS_Juan1_DingZaJu_L003",
+          "status": "active"
+        },
+        "衣錦還鄉": {
+          "category": "定雜局",
+          "trigger": "少年不遂，四十後行墓運",
+          "effect_summary": "大器晚成",
+          "line_id": "ZWQS_Juan1_DingZaJu_L004",
+          "status": "active"
+        },
+        "步數無依": {
+          "category": "定雜局",
+          "trigger": "前限接後限，連綿不分",
+          "effect_summary": "限運銜接不清，難以定論",
+          "line_id": "ZWQS_Juan1_DingZaJu_L005",
+          "status": "active"
+        },
+        "水上駕星": {
+          "category": "定雜局",
+          "trigger": "一年好一年不好",
+          "effect_summary": "限運起伏不定",
+          "line_id": "ZWQS_Juan1_DingZaJu_L006",
+          "status": "active"
+        },
+        "吉凶相伴": {
+          "category": "定雜局",
+          "trigger": "命有主星，限前則發，限衰不發",
+          "effect_summary": "吉凶隨限運交替",
+          "line_id": "ZWQS_Juan1_DingZaJu_L007",
+          "status": "active"
+        },
+        "枯木逢春": {
+          "category": "定雜局",
+          "trigger": "命衰限好",
+          "effect_summary": "命局雖弱，逢好限而發",
+          "line_id": "ZWQS_Juan1_DingZaJu_L008",
+          "status": "active"
+        }
+      },
+      "ziwei_main_star_patterns": {
+        "紫府同宮": {
           "main_stars": [
             "紫微",
             "天府"
           ],
-          "palaces_required": [
-            "命宮",
-            "官祿"
-          ],
-          "brightness_min": "旺"
+          "distribution": "同宮或會照",
+          "effect_summary": "格局宏大，資源與權威兼具",
+          "status": "active"
         },
-        "effect_summary": "主格局，事業權威、資源集中",
-        "status": "active"
-      },
-      "sha_po_lang": {
-        "name": "殺破狼",
-        "trigger_conditions": {
+        "紫府朝垣_主星版": {
+          "main_stars": [
+            "紫微",
+            "天府"
+          ],
+          "distribution": "會照於命宮、官祿宮",
+          "effect_summary": "主格局，事業權威、資源集中",
+          "status": "active"
+        },
+        "極向離明": {
+          "main_stars": [
+            "紫微"
+          ],
+          "distribution": "紫微守命於午宮，日月來會",
+          "effect_summary": "主極貴之格",
+          "status": "active"
+        },
+        "殺破狼": {
           "main_stars": [
             "七殺",
             "破軍",
             "貪狼"
           ],
-          "distribution": "分居三方四正"
+          "distribution": "分居三方四正",
+          "effect_summary": "大起大落，變動強烈，適合風險型行業",
+          "line_id": "ZWQS_Juan2_LunMingGong_L019",
+          "status": "active"
         },
-        "effect_summary": "大起大落，變動強烈，適合風險型行業",
-        "status": "active"
-      },
-      "jiyue_tongliang": {
-        "name": "機月同梁",
-        "trigger_conditions": {
+        "機月同梁": {
           "main_stars": [
             "天機",
             "太陰",
             "天同",
             "天梁"
           ],
-          "distribution": "會照於命宮三方四正"
+          "distribution": "會照於命宮三方四正",
+          "effect_summary": "穩定、公職、輔佐之才",
+          "status": "active"
         },
-        "effect_summary": "穩定、公職、輔佐之才",
-        "status": "active"
-      },
-      "ju_ri_tonggong": {
-        "name": "巨日同宮",
-        "trigger_conditions": {
+        "巨日同宮": {
           "main_stars": [
             "巨門",
             "太陽"
           ],
-          "palace": "寅宮或申宮"
+          "distribution": "寅宮或申宮同守",
+          "effect_summary": "食祿、名聲，適合外交與演說",
+          "status": "active"
         },
-        "effect_summary": "食祿、名聲，適合外交與演說",
-        "status": "active"
-      },
-      "fuxiang_chaoyuan": {
-        "name": "府相朝垣",
-        "trigger_conditions": {
+        "石中隱玉": {
           "main_stars": [
-            "天府",
-            "天相"
+            "巨門"
           ],
-          "distribution": "會照於命宮"
+          "distribution": "巨門居子午宮守命",
+          "effect_summary": "先隱後顯，終身福厚",
+          "line_id": "ZWQS_Juan2_LunMingGong_L004",
+          "status": "active"
         },
-        "effect_summary": "衣食無憂，有貴人扶持",
-        "status": "active"
-      },
-      "紫府同宮": {
-        "name": "紫府同宮",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "紫府朝垣": {
-        "name": "紫府朝垣",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "極向離明": {
-        "name": "極向離明",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "殺破狼": {
-        "name": "殺破狼",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "機月同梁": {
-        "name": "機月同梁",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "巨日同宮": {
-        "name": "巨日同宮",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "府相朝垣": {
-        "name": "府相朝垣",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "石中隱玉": {
-        "name": "石中隱玉",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "明珠出海": {
-        "name": "明珠出海",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "月朗天門": {
-        "name": "月朗天門",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "日照雷門": {
-        "name": "日照雷門",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "金燦光輝": {
-        "name": "金燦光輝",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "文桂文華": {
-        "name": "文桂文華",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
-      },
-      "左右同宮": {
-        "name": "左右同宮",
-        "trigger_conditions": "三方四正特定組合",
-        "effect_summary": "格局象義",
-        "status": "active"
+        "日照雷門": {
+          "main_stars": [
+            "太陽"
+          ],
+          "distribution": "太陽居卯宮守命",
+          "effect_summary": "主貴，日出扶桑之延伸格",
+          "status": "active"
+        },
+        "文桂文華": {
+          "main_stars": [
+            "文昌",
+            "文曲"
+          ],
+          "distribution": "會照命宮三方四正",
+          "effect_summary": "主科甲文貴",
+          "status": "active"
+        },
+        "左右同宮": {
+          "main_stars": [
+            "左輔",
+            "右弼"
+          ],
+          "distribution": "同宮守命",
+          "effect_summary": "主貴人扶持，助力宏大",
+          "status": "active"
+        }
       }
     }
   },
@@ -366,7 +715,7 @@
       "status": "active"
     },
     {
-      "rule_sentence": "- **`modern_quantum_resonance_engine_v2.1.json`**：負責能量密度、決策帶等現代壓測量化指標。",
+      "rule_sentence": "- **`engine_interpretation_fusion_v1.modern_resonance_block`**：負責能量密度、決策帶等現代壓測量化指標（現為內建區塊，非獨立引擎檔）。",
       "status": "active"
     },
     {

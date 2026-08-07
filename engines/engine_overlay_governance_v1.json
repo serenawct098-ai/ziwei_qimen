@@ -89,27 +89,7 @@
   },
   "documentation_layer": [
     {
-      "rule_sentence": "本系統嚴格執行《全局邏輯審查指令》(Global Logic Review) 五項核心條款：",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "1. SSOT 硬性不可變設定：庚陽武同相、壬梁紫左武、辛魁寅鉞午、晚子時換日、重忌疊加、_custom 標籤治理。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "2. 核心審查規範：100% 原文忠實、語義斷句交付、禁用表情符號。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "3. AI 安全稽核 (AI FENCE)：強制執行 CoT、衝突 HALT 機制、物理驗證 (Before/After Diff)。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "4. 全局逐字溯源協議：引文精確複製、反向搜尋驗證、定位證據附隨。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "5. 三合派命盤架構：晚子時＋1日、身宮六宮定位、宮干五虎遁、三方四正聯動判斷。",
+      "rule_sentence": "本引擎僅負責 L4 治理層：judgment_library（斷語庫）、fengshui_overlay（風水模組）、theme_router（主題路由）與 application_boundaries（應用邊界）。核心運算與古籍溯源規則見 engine_truth_registry_v1 / engine_compute_protocol_v1 / engine_interpretation_fusion_v1。",
       "status": "active"
     }
   ]

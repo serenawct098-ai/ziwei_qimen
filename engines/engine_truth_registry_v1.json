@@ -1012,61 +1012,81 @@
           "化祿": "廉貞",
           "化權": "破軍",
           "化科": "武曲",
-          "化忌": "太陽"
+          "化忌": "太陽",
+          "line_id": "SHZH_TenStemSihua_L001",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "乙": {
           "化祿": "天機",
           "化權": "天梁",
           "化科": "紫微",
-          "化忌": "太陰"
+          "化忌": "太陰",
+          "line_id": "SHZH_TenStemSihua_L002",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "丙": {
           "化祿": "天同",
           "化權": "天機",
           "化科": "文昌",
-          "化忌": "廉貞"
+          "化忌": "廉貞",
+          "line_id": "SHZH_TenStemSihua_L003",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "丁": {
           "化祿": "太陰",
           "化權": "天同",
           "化科": "天機",
-          "化忌": "巨門"
+          "化忌": "巨門",
+          "line_id": "SHZH_TenStemSihua_L004",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "戊": {
           "化祿": "貪狼",
           "化權": "太陰",
           "化科": "右弼",
-          "化忌": "天機"
+          "化忌": "天機",
+          "line_id": "SHZH_TenStemSihua_L005",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "己": {
           "化祿": "武曲",
           "化權": "貪狼",
           "化科": "天梁",
-          "化忌": "文曲"
+          "化忌": "文曲",
+          "line_id": "SHZH_TenStemSihua_L006",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "庚": {
           "化祿": "太陽",
           "化權": "武曲",
           "化科": "天同",
-          "化忌": "天相"
+          "化忌": "天相",
+          "line_id": "SHZH_TenStemSihua_L007",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "辛": {
           "化祿": "巨門",
           "化權": "太陽",
           "化科": "文曲",
-          "化忌": "文昌"
+          "化忌": "文昌",
+          "line_id": "SHZH_TenStemSihua_L008",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "壬": {
           "化祿": "天梁",
           "化權": "紫微",
           "化科": "左輔",
-          "化忌": "武曲"
+          "化忌": "武曲",
+          "line_id": "SHZH_TenStemSihua_L009",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         },
         "癸": {
           "化祿": "破軍",
           "化權": "巨門",
           "化科": "太陰",
-          "化忌": "貪狼"
+          "化忌": "貪狼",
+          "line_id": "SHZH_TenStemSihua_L010",
+          "data_file": "SHZH_TenStemSihua_Source.json"
         }
       }
     },
@@ -1722,204 +1742,6 @@
       "胎",
       "養"
     ],
-    "star_brightness_table": {
-      "紫微": {
-        "子": "平",
-        "丑": "廟",
-        "寅": "廟",
-        "卯": "旺",
-        "辰": "得",
-        "巳": "旺",
-        "午": "廟",
-        "未": "廟",
-        "申": "得",
-        "酉": "旺",
-        "戌": "得",
-        "亥": "平"
-      },
-      "天機": {
-        "子": "廟",
-        "丑": "陷",
-        "寅": "得",
-        "卯": "旺",
-        "辰": "利",
-        "巳": "平",
-        "午": "廟",
-        "未": "陷",
-        "申": "得",
-        "酉": "旺",
-        "戌": "利",
-        "亥": "平"
-      },
-      "太陽": {
-        "子": "陷",
-        "丑": "陷",
-        "寅": "旺",
-        "卯": "廟",
-        "辰": "廟",
-        "巳": "廟",
-        "午": "廟",
-        "未": "得",
-        "申": "得",
-        "酉": "平",
-        "戌": "陷",
-        "亥": "陷"
-      },
-      "武曲": {
-        "子": "旺",
-        "丑": "廟",
-        "寅": "得",
-        "卯": "陷",
-        "辰": "廟",
-        "巳": "得",
-        "午": "旺",
-        "未": "廟",
-        "申": "得",
-        "酉": "陷",
-        "戌": "廟",
-        "亥": "得"
-      },
-      "天同": {
-        "子": "旺",
-        "丑": "陷",
-        "寅": "利",
-        "卯": "廟",
-        "辰": "陷",
-        "巳": "廟",
-        "午": "陷",
-        "未": "陷",
-        "申": "旺",
-        "酉": "平",
-        "戌": "陷",
-        "亥": "廟"
-      },
-      "廉貞": {
-        "子": "平",
-        "丑": "利",
-        "寅": "廟",
-        "卯": "陷",
-        "辰": "廟",
-        "巳": "陷",
-        "午": "廟",
-        "未": "利",
-        "申": "廟",
-        "酉": "陷",
-        "戌": "廟",
-        "亥": "陷"
-      },
-      "天府": {
-        "子": "廟",
-        "丑": "廟",
-        "寅": "廟",
-        "卯": "得",
-        "辰": "廟",
-        "巳": "得",
-        "午": "廟",
-        "未": "廟",
-        "申": "廟",
-        "酉": "得",
-        "戌": "廟",
-        "亥": "得"
-      },
-      "太陰": {
-        "子": "廟",
-        "丑": "廟",
-        "寅": "陷",
-        "卯": "陷",
-        "辰": "陷",
-        "巳": "陷",
-        "午": "陷",
-        "未": "陷",
-        "申": "得",
-        "酉": "旺",
-        "戌": "廟",
-        "亥": "廟"
-      },
-      "貪狼": {
-        "子": "旺",
-        "丑": "廟",
-        "寅": "平",
-        "卯": "利",
-        "辰": "廟",
-        "巳": "陷",
-        "午": "旺",
-        "未": "廟",
-        "申": "平",
-        "酉": "利",
-        "戌": "廟",
-        "亥": "陷"
-      },
-      "巨門": {
-        "子": "廟",
-        "丑": "陷",
-        "寅": "廟",
-        "卯": "廟",
-        "辰": "陷",
-        "巳": "旺",
-        "午": "廟",
-        "未": "陷",
-        "申": "廟",
-        "酉": "廟",
-        "戌": "陷",
-        "亥": "旺"
-      },
-      "天相": {
-        "子": "廟",
-        "丑": "廟",
-        "寅": "廟",
-        "卯": "陷",
-        "辰": "得",
-        "巳": "旺",
-        "午": "廟",
-        "未": "廟",
-        "申": "廟",
-        "酉": "陷",
-        "戌": "得",
-        "亥": "旺"
-      },
-      "天梁": {
-        "子": "廟",
-        "丑": "廟",
-        "寅": "廟",
-        "卯": "旺",
-        "辰": "廟",
-        "巳": "陷",
-        "午": "廟",
-        "未": "廟",
-        "申": "廟",
-        "酉": "得",
-        "戌": "廟",
-        "亥": "陷"
-      },
-      "七殺": {
-        "子": "旺",
-        "丑": "廟",
-        "寅": "廟",
-        "卯": "旺",
-        "辰": "廟",
-        "巳": "平",
-        "午": "旺",
-        "未": "廟",
-        "申": "廟",
-        "酉": "旺",
-        "戌": "廟",
-        "亥": "平"
-      },
-      "破軍": {
-        "子": "廟",
-        "丑": "旺",
-        "寅": "陷",
-        "卯": "陷",
-        "辰": "旺",
-        "巳": "廟",
-        "午": "廟",
-        "未": "旺",
-        "申": "陷",
-        "酉": "陷",
-        "戌": "旺",
-        "亥": "廟"
-      }
-    },
     "ju_definitions": {
       "水二局": {
         "value": 2,
@@ -2286,45 +2108,6 @@
           "戌": "旺",
           "亥": "廟"
         }
-      },
-      "status": "active"
-    },
-    "shensha_registry": {
-      "taohua": {
-        "name": "桃花系",
-        "stars": [
-          "紅鸞",
-          "天喜",
-          "天姚",
-          "咸池",
-          "沐浴"
-        ],
-        "status": "active"
-      },
-      "xingpou": {
-        "name": "刑剖系",
-        "stars": [
-          "天刑",
-          "天空",
-          "寡宿",
-          "孤辰",
-          "蜩螓"
-        ],
-        "status": "active"
-      },
-      "guiren": {
-        "name": "貴人系",
-        "stars": [
-          "天官",
-          "天福",
-          "恩光",
-          "天貴",
-          "三台",
-          "八座",
-          "台輔",
-          "封誥"
-        ],
-        "status": "active"
       },
       "status": "active"
     }
@@ -2958,7 +2741,35 @@
       "status": "active"
     },
     {
-      "rule_sentence": "| **L3** | **Compute 層 (運算層)** | 座標運算、四化安星、奇門起局 | `traditional_core_engine`, `full_compute_flow` | **是** (計算真值) |",
+      "rule_sentence": "| **L3** | **Compute 層 (運算層)** | 座標運算、四化安星、奇門起局 | `engine_compute_protocol_v1.json`, `engine_truth_registry_v1.json` | **是** (計算真值) |",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **`engine_truth_registry_v1.json`（SSOT Core）**：提供干支／宮位／星曜 Registry、四化矩陣、名詞正規化。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **庚干四化鎖定**：陽武同相（太陽化祿、武曲化權、天同化科、天相化忌）。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **辛干魁鉞鎖定**：魁寅鉞午。",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "| **定局** | `engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table` 等 | 已落地 |",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "| **星曜安星** | `engine_truth_registry_v1.static_truth_tables.star_strength_table` / `star_brightness_matrix` | 已落地 |",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "| **生年四化** | `engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets` | 已落地 |",
+      "status": "active"
+    },
+    {
+      "rule_sentence": "- **共用輸入合約**：全系統共用輸入欄位定義於 `engine_compute_protocol_v1.input_contract`，確保各引擎輸入一致性。",
       "status": "active"
     },
     {
@@ -3006,35 +2817,7 @@
       "status": "active"
     },
     {
-      "rule_sentence": "- **`traditional_core_engine_v2.1.json` (SSOT Core)**：",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "- **庚干四化鎖定**：太陽祿、武曲權、太陰科、天同忌。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "- **辛干魁鉞鎖定**：魁寅鉞午。",
-      "status": "active"
-    },
-    {
       "rule_sentence": "- **設計原則**：硬編碼所有 `static_lookup_tables`，禁止 AI 公式推導。",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "| **定局** | `core_engine.static_lookup_tables.nayin_60` 等 | 已落地 |",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "| **星曜安星** | `core_engine.static_lookup_tables.star_strength_table` | 已落地 |",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "| **生年四化** | `core_engine.static_lookup_tables.sihua_matrix` | 已落地 |",
-      "status": "active"
-    },
-    {
-      "rule_sentence": "- **`dual_engine_standardized_matrix`**：全系統共用的輸入合約，確保輸入一致性。",
       "status": "active"
     },
     {

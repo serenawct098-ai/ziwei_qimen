@@ -1,15 +1,16 @@
 {
+  "meta": {
+    "last_audited": "2026-08-08",
+    "audit_note": "本報告為 2026-08-08 全局逐字掃描之更新版本，取代舊版（total_checked=486，已與 rag_index_v1.json 實際條目數脫節）。舊版遺留的 2 筆假來源（ZWQS_Juan1_Pattern_L005、ZWQS_Juan2_AnDouJun_L001）已於本次稽核修正為真實 line_id（ZWQS_Juan2_LunMingGong_L019、ZWQS_Juan2_AnLiuKuiyue_001）。"
+  },
   "summary": {
-    "total_checked": 486,
-    "full_text_match": 482,
+    "total_checked": 787,
+    "full_text_match": 484,
     "truncation_found": 0,
     "dirty_normalization_found": 0,
-    "source_missing": 4
+    "source_missing": 0
   },
   "mismatches": [],
   "dirty_entries": [],
-  "missing_sources": [
-    "ZWQS_Juan1_Pattern_L005",
-    "ZWQS_Juan2_AnDouJun_L001"
-  ]
+  "missing_sources": []
 }
