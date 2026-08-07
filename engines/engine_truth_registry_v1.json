@@ -1610,6 +1610,7 @@
     "tiankui_tianyue_lock": "六辛逢虎馬(魁寅鉞午)",
     "late_zi_hour_rule": "23:00-23:59 換日，時支恆為子",
     "leap_month_rule_mode": "sanhe_star_school_middle_split",
+    "qimen_panlayer_lock": "轉盤（值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，非飛盤）",
     "expansion_forbidden": true
   },
   "mapping_contract": {
@@ -1996,7 +1997,8 @@
         }
       }
     },
-    "status": "active"
+    "status": "active",
+    "design_origin_note": "qimen_panlayer_lock 鎖定為系統設計決策（客戶指定），非古籍單一定論，古籍原文對轉盤／飛盤兩派並存需保留引述。"
   },
   "documentation_layer": [
     {

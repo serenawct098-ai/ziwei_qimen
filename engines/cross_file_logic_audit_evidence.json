@@ -22,6 +22,13 @@
       "expected": "Time-sensitive data moved to /overlays/",
       "result": "PASS",
       "path": "/home/ubuntu/ziwei_qimen/overlays/time_sensitive_overlays_v1.json"
+    },
+    {
+      "task_id": "Task 1",
+      "file_changed": "engines/engine_truth_registry_v1.json",
+      "before_snippet": "\"leap_month_rule_mode\": \"sanhe_star_school_middle_split\",\\n    \"expansion_forbidden\": true",
+      "after_snippet": "\"leap_month_rule_mode\": \"sanhe_star_school_middle_split\",\\n    \"qimen_panlayer_lock\": \"轉盤（值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，非飛盤）\",\\n    \"expansion_forbidden\": true",
+      "verification_status": "verified (design_origin_note added)"
     }
   ]
 }
