@@ -5698,8 +5698,8 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053",
-      "original_quote": "又子午卯酉面向天，寅申巳亥側身眠，辰戌丑未臉伏地，臨盆當試用心堅。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053a",
+      "original_quote": "又",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -5707,7 +5707,20 @@
         "text": "紫微斗數全書",
         "juan": "卷三",
         "section": "談星要論",
-        "line_ref": "第65-66行"
+        "line_ref": "第65行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053b",
+      "original_quote": "子午卯酉面向天，寅申巳亥側身眠，辰戌丑未臉伏地，臨盆當試用心堅。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第66行"
       }
     },
     {
