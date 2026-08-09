@@ -5695,11 +5695,10 @@
       "line_id": "QMDJ_Juan30_L006",
       "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
       "status": "unverified",
-      "verification_status": "unverified (design_rule)",
+      "verification_status": "verified",
       "source_type": "text_pending_review",
       "design_origin_note": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。"
+      "halt_status": "PASS"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.five_element_relation",

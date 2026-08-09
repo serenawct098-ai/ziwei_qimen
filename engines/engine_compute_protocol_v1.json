@@ -237,8 +237,9 @@
     "monthly_rules": {
       "name": "流月起法（斗君定點）",
       "trigger_conditions": "流年太歲宮起正月，逆至本生月，再從本生月起子時順數至本生時，落點即為斗君（正月流月命宮），其後各月順時針每月一宮",
-      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
-      "status": "active"
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
+      "status": "active",
+      "original_quote": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。"
     },
     "suiqian_12_compute": {
       "trigger": "流年地支所在宮位起歲建",
