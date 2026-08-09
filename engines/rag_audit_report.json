@@ -1,6 +1,6 @@
 {
   "audit_metadata": {
-    "last_updated": "2026-08-09T12:39:36.551598",
+    "last_audited": "2026-08-09T13:39:25.274154",
     "total_indices": 793,
     "verified_indices": 477,
     "unverified_indices": 316,
@@ -9,1583 +9,2216 @@
   "unverified_details": [
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.palace_judgment_logic",
-      "status": "unverified",
-      "reason": "System design rule; 三方四正操作定義非古籍逐字原文（原文僅有零散應用實例，如 ZWQS_Juan2_LunMingGong_L350／ZWQS_Juan3_TanXingYaoLun_L028）。"
+      "verification_status": "unverified",
+      "reason": "System design rule; 三方四正操作定義非古籍逐字原文（原文僅有零散應用實例，如 ZWQS_Juan2_LunMingGong_L350／ZWQS_Juan3_TanXingYaoLun_L028）。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.input_matrix_contract.required_blocks[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.energy_density_calc",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_pressure_test",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.decision_band",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.natal",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.decade",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.annual",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.sihua_weights.monthly",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.modern_resonance_block.risk_test_params.conflict_policy",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.子",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.丑",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.寅",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.卯",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.辰",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.巳",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.午",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.未",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.申",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.酉",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.戌",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.zhi_to_qimen_palace_map.亥",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.five_element_relation",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.conflict_policy.mode",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.conflict_policy.rule",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.alignment_policy.resolution",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.structured_findings",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.narrative_text",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.narrative_output_contract.next_action",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.safety_consumption_rules.writeback_forbidden",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.safety_consumption_rules.consume_only_verified_outputs",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.judgment_library.star_combinations",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.judgment_library.palace_status_quotes",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.judgment_library.qimen_gate_door_quotes",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.judgment_library.core_logic.star_combinations",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.judgment_library.core_logic.palace_status",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.甲",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.乙",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丙",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丁",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸",
-      "status": "unverified",
-      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+      "verification_status": "unverified",
+      "reason": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.kun_2_redirect_rule",
-      "status": "unverified (design_rule)",
-      "reason": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。"
+      "verification_status": "unverified (design_rule)",
+      "reason": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。",
+      "data_file": "QMDJ_XiaJuan_Consolidated.json",
+      "line_id": "QMDJ_Juan30_L006"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.wuxing_ju[4]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].legacy_aliases[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].legacy_aliases[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[2].section_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[4]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].section_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[0].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[1].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[2].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[3].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[4].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[5].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[5].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[6].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[7].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[8].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[10].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[10].disambiguation_note",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[11].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[12].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[12].disambiguation_note",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[13].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[16].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[17].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[18].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[18].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[19].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[20].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[21].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[23].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].standard_key",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[24].disambiguation_note",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[25].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[26].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[30].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[30].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[31].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[31].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].standard_key",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[32].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[33].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[33].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[34].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[35].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].standard_key",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].legacy_aliases[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[37].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[38].display_name",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[38].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[39].system",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.冬至.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小寒.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大寒.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立春.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.雨水.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.驚蟄.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.春分.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.清明.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.穀雨.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立夏.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小滿.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.芒種.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.夏至.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小暑.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大暑.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立秋.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.處暑.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.白露.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.秋分.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.寒露.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.霜降.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.立冬.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.小雪.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.ju[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.jieqi_3yuan_ju_table.大雪.type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.sihua_lock",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.late_zi_hour_rule",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.leap_month_rule_mode",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.expansion_forbidden",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.required[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.required[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.required[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.required[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.required[4]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.optional[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.optional[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.optional[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.input_contract.optional[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.jieqi_precision",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.late_zi_rollover",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[4]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[5]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[6]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.natal_chart_compute[7]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.dynamic_overlay_compute[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.qimen_compute[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calculation_pipeline.qimen_compute[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.sihua",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.kui_yue",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.faction_presets.sanhe_nanfang_default.leap_month",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.validation_gate.check_longitude_range",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.validation_gate.check_datetime_validity",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.validation_gate.check_gender_required",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.missing_dependency",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.invalid_lookup",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.calculation_error",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.halt_assertions.validation_rules[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.palaces",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.wuxing_ju",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_natal_matrix.mingzhu_shenzhu",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.decade_palace",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.annual_sihua",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_dynamic_layers.flow_stars",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.nine_palaces",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.ju_number",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.output_contract.raw_qimen_state.dun_type",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.wuxing_ju",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.ziwei_star_pos",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.tianfu_star_pos",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.palace_axis",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.decadal_rules",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.decadal_rules.direction",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.annual_rules",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daily_hourly_rules.liuri",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.governance_rules.naming_lock",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.governance_rules.ssot_alignment",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.governance_rules.writeback_policy",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.governance_rules.writeback_forbidden",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.fengshui_overlay.direction_objects",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.fengshui_overlay.layout_suggestions",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "time_sensitive_overlays_v1.annual_sha_qi_resolution_table.2026_bing_wu",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "time_sensitive_overlays_v1.annual_flying_stars.2026",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.theme_router.ASK_WEALTH[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.theme_router.ASK_CAREER[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.theme_router.ASK_MARRIAGE[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.theme_router.ASK_MARRIAGE[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.layer_scope[3]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[0]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[1]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.application_boundaries.validation_status[2]",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.overlay_validation_rules.must_cite_source",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_overlay_governance_v1.overlay_validation_rules.forbidden_direct_fabrication",
-      "status": "unverified",
-      "reason": "System design rule or structural logic; physical ancient text trace not applicable."
+      "verification_status": "unverified",
+      "reason": "System design rule or structural logic; physical ancient text trace not applicable.",
+      "data_file": "N/A",
+      "line_id": "N/A"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
-      "status": "unverified",
-      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "unverified",
+      "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "data_file": "ZWQS_Juan2_Consolidated.json",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L002"
     }
-  ]
+  ],
+  "audit_conclusion": "PASS_WITH_EXCEPTIONS"
 }
