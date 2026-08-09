@@ -29,7 +29,8 @@
       "effect": "同時產出當日與次日兩張命盤進行定盤",
       "status": "active",
       "design_origin_note": "此為系統實務建議（design_rule），古籍未明確規定雙盤對照法，僅取晚子時換日規則本身為古籍共識。"
-    }
+    },
+    "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy."
   },
   "calculation_pipeline": {
     "natal_chart_compute": [

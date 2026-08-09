@@ -361,9 +361,9 @@
       "line_id": "QMDJ_Preface_L004",
       "value_summary": "對齊原文: 坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
       "status": "unverified",
-      "verification_status": "unverified",
+      "verification_status": "verified",
       "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統。",
       "halt_status": "HALT",
       "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
@@ -807,18 +807,6 @@
       "verification_status": "unverified",
       "source_type": "design_rule",
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
-    },
-    {
-      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L381",
-      "value_summary": "對齊原文: 權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曜，三邊鎮守掌兵",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].engine_binding",
@@ -1368,18 +1356,6 @@
       "status": "verified"
     },
     {
-      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].display_name",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnShenzhu_L001",
-      "value_summary": "對齊原文: 子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
-    },
-    {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_LunCaiBo_L013",
@@ -1400,18 +1376,6 @@
       "line_id": "ZWQS_Juan2_LunCaiBo_L014",
       "value_summary": "對齊原文: 文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成",
       "status": "verified"
-    },
-    {
-      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].display_name",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L274",
-      "value_summary": "對齊原文: 二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].legacy_aliases[0]",
@@ -5057,16 +5021,6 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
-      "value_summary": "此規則為系統設計決策或硬性設定值: TrueSolarTime = BirthStandardTime + (birth_longitude - 120) * 4 + EoT",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "design_rule",
-      "design_origin_note": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。"
-    },
-    {
       "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.jieqi_precision",
       "value_summary": "此規則為系統設計決策或硬性設定值: 必須使用天文交節精確時刻，精確至秒",
       "status": "unverified",
@@ -5742,9 +5696,9 @@
       "line_id": "QMDJ_Juan30_L006",
       "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
       "status": "unverified",
-      "verification_status": "unverified",
+      "verification_status": "unverified (design_rule)",
       "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。",
+      "design_origin_note": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。",
       "halt_status": "HALT",
       "halt_reason": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。"
     },

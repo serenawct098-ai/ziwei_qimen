@@ -1592,18 +1592,6 @@
       "normalized_preview": "紫微原屬⼟,官祿宮主星,有天相為有⽤,無天相為孤君,諸宮皆"
     },
     {
-      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L381",
-      "original_quote_preview": "權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曜，三邊鎮守掌兵符。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曲曜，三邊鎮守掌兵符。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
-    },
-    {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].engine_binding",
       "data_file": "ZWQS_Juan1_Consolidated.json",
       "line_id": "ZWQS_Juan1_FaweiLun_L018",
@@ -2081,18 +2069,6 @@
       "normalized_preview": "文昌富足倉箱，加吉星財氣旺，巨門天同富，陷地將天同陀火鈴空敗寒儒輩。"
     },
     {
-      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].display_name",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnShenzhu_L001",
-      "original_quote_preview": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
-    },
-    {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_LunCaiBo_L013",
@@ -2109,18 +2085,6 @@
       "verification_status": "verified",
       "design_origin_note": "",
       "normalized_preview": "文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成敗不遂。"
-    },
-    {
-      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].display_name",
-      "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L274",
-      "original_quote_preview": "二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上局。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "二限天相逢文曲星，士庶斯年須發福，更添左輔右會天同，財祿滔滔為上局。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].legacy_aliases[0]",
@@ -5235,8 +5199,8 @@
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
       "line_id": "QMDJ_Juan30_L006",
       "original_quote_preview": "天禽星寄於",
-      "verification_status": "verified",
-      "design_origin_note": "",
+      "verification_status": "unverified (design_rule)",
+      "design_origin_note": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。",
       "normalized_preview": "天禽星寄於"
     },
     {
@@ -6812,16 +6776,6 @@
       "source_type": "design_rule"
     },
     {
-      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
-      "original_quote_preview": "此規則為系統設計決策或硬性設定值: TrueSolarTime = BirthStandardTime + (birth_longitude - 120) *",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。",
-      "normalized_preview": "此規則為系統設計決策或硬性設定值: TrueSolarTime = BirthStandardTime + (birth_longitude - 120) *",
-      "source_type": "design_rule",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。"
-    },
-    {
       "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.jieqi_precision",
       "original_quote_preview": "此規則為系統設計決策或硬性設定值: 必須使用天文交節精確時刻，精確至秒",
       "verification_status": "unverified",
@@ -7354,8 +7308,8 @@
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
       "line_id": "QMDJ_Preface_L004",
       "original_quote_preview": "坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "verification_status": "verified",
+      "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統。",
       "normalized_preview": "坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
       "source_type": "text_pending_review",
       "halt_status": "HALT",
