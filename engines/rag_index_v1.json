@@ -1198,7 +1198,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[0]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L005",
+      "line_id": "QMDJ_Auto_01759",
       "original_quote_preview": "六乙到坎名為「玉兔投泉」，吉。天英加一宮在秋冬月或壬癸亥子日，有黑色雲氣從正北方來助，主勝。一名「玉兔飲泉」。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -1216,7 +1216,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[2]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L010",
+      "line_id": "QMDJ_Auto_01764",
       "original_quote_preview": "六丁到艮名為「玉女乘雲」，吉。甲乙寅卯日有青色雲氣從正東或東南方來助，客勝。一名「玉女游鬼門」。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -1234,7 +1234,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[4]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L004",
+      "line_id": "QMDJ_Auto_01758",
       "original_quote_preview": "六丁到乾名為「火到天門」，吉。丙丁巳午日有赤色雲氣從正南方來助，客勝。一名「玉女游天門」，又名「火照天門」。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -1252,7 +1252,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[6]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L013",
+      "line_id": "QMDJ_Auto_01767",
       "original_quote_preview": "六丁到震名曰「最明」，吉。庚辛申酉日有白雲氣從正西或西北方來助，客勝。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -1531,7 +1531,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].standard_key",
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan23_L111",
+      "line_id": "QMDJ_Auto_00258",
       "original_quote_preview": "以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉。蓋六甲內管五行，而動靜無方，其五行而舍勝，有相生相剋之道，左手象天，右手法地，神靈好靜，故書五行相制，運化之道，無不兼該。若欲出兵，大將左手中用朱書「強」字，將手捏住，行六十步左轉入太陰，能欺弱制勝之道也。若見貴人、求官，及二千石令長，左手中書「天」字。若商賈、興販、和結交友、嫁娶、立契，則書「和」字。若入山、捕獵、畋獵，則書「獅」字。若部工居眾，則書「強」字。若過河、治水，則書「土」字或「戊」字。若波浪騰聲，舟楫將溺，尤忌八風、觸水龍、招搖、咸池之日，宜書「戊」字。若游山、入道，則書「龍」字，龍不敢動。值符臨其方，前行六十步左轉入太陰中，得此者天道亨，此五行制勝之妙用也。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -1558,7 +1558,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].engine_binding",
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan23_L111",
+      "line_id": "QMDJ_Auto_00258",
       "original_quote_preview": "以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉。蓋六甲內管五行，而動靜無方，其五行而舍勝，有相生相剋之道，左手象天，右手法地，神靈好靜，故書五行相制，運化之道，無不兼該。若欲出兵，大將左手中用朱書「強」字，將手捏住，行六十步左轉入太陰，能欺弱制勝之道也。若見貴人、求官，及二千石令長，左手中書「天」字。若商賈、興販、和結交友、嫁娶、立契，則書「和」字。若入山、捕獵、畋獵，則書「獅」字。若部工居眾，則書「強」字。若過河、治水，則書「土」字或「戊」字。若波浪騰聲，舟楫將溺，尤忌八風、觸水龍、招搖、咸池之日，宜書「戊」字。若游山、入道，則書「龍」字，龍不敢動。值符臨其方，前行六十步左轉入太陰中，得此者天道亨，此五行制勝之妙用也。",
       "verification_status": "verified",
       "design_origin_note": "",
@@ -5215,7 +5215,7 @@
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.report_template.vol_2",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan2_L000",
+      "line_id": "QMDJ_Auto_00191",
       "original_quote_preview": "《卷二》",
       "verification_status": "verified",
       "design_origin_note": "",

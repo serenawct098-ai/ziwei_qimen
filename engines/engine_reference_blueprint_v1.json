@@ -316,7 +316,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[0]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L005",
+      "line_id": "QMDJ_Auto_01759",
       "value_summary": "對齊原文: 六乙到坎名為「玉兔投泉」，吉。天英加一宮在秋冬月或壬癸亥子日",
       "status": "verified"
     },
@@ -330,7 +330,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[2]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L010",
+      "line_id": "QMDJ_Auto_01764",
       "value_summary": "對齊原文: 六丁到艮名為「玉女乘雲」，吉。甲乙寅卯日有青色雲氣從正東或東",
       "status": "verified"
     },
@@ -344,7 +344,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[4]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L004",
+      "line_id": "QMDJ_Auto_01758",
       "value_summary": "對齊原文: 六丁到乾名為「火到天門」，吉。丙丁巳午日有赤色雲氣從正南方來",
       "status": "verified"
     },
@@ -472,7 +472,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[6]",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan17_L013",
+      "line_id": "QMDJ_Auto_01767",
       "value_summary": "對齊原文: 六丁到震名曰「最明」，吉。庚辛申酉日有白雲氣從正西或西北方來",
       "status": "verified"
     },
@@ -713,7 +713,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].standard_key",
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan23_L111",
+      "line_id": "QMDJ_Auto_00258",
       "value_summary": "對齊原文: 以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉",
       "status": "verified"
     },
@@ -774,7 +774,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].engine_binding",
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan23_L111",
+      "line_id": "QMDJ_Auto_00258",
       "value_summary": "對齊原文: 以上六甲管轄，五行尊神，體統好靜，行事之時，書相制之字則吉",
       "status": "verified"
     },
@@ -5750,7 +5750,7 @@
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.report_template.vol_2",
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
-      "line_id": "QMDJ_Juan2_L000",
+      "line_id": "QMDJ_Auto_00191",
       "value_summary": "對齊原文: 《卷二》",
       "status": "verified"
     },
