@@ -769,7 +769,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnSihua_L003",
-      "original_quote": "",
+      "original_quote": "亥上起子順安劫，逆向便是天空鄉。",
       "alias_map": {
         "府": "天府",
         "陰": "太陰"
@@ -780,8 +780,8 @@
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安祿權科忌訣",
-        "line_ref": "第57行"
+        "section": "天空地劫訣",
+        "line_ref": "第59行"
       }
     },
     {
@@ -798,20 +798,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00059",
-      "original_quote": "亥上起子順安劫，逆向便是天空鄉。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "天空地劫訣",
-        "line_ref": "第59行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnKongjie_L000",
       "original_quote": "如子時生者劫空俱在亥宮。若丑時生者劫順在子宮，空逆在戌宮。若午時生者，劫空俱在巳上安之。餘宮倣此。",
       "tag": [],
@@ -826,15 +812,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnKongjie_L001",
-      "original_quote": "",
+      "original_quote": "命前六位是天傷，命後六位天使當。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安天空地劫訣",
-        "line_ref": "第61行"
+        "section": "安天傷天使訣",
+        "line_ref": "第63行"
       }
     },
     {
@@ -851,20 +837,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00063",
-      "original_quote": "命前六位是天傷，命後六位天使當。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安天傷天使訣",
-        "line_ref": "第63行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnShangshi_L000",
       "original_quote": "順數命前六位是天傷，命後六位是天使，天傷安在奴僕宮，天使安在疾厄宮。身與歲限夾在傷使中間，謂之加夾地更加惡曜多凶。 ",
       "tag": [],
@@ -879,15 +851,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnShangshi_L001",
-      "original_quote": "",
+      "original_quote": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安天傷天使訣",
-        "line_ref": "第65行"
+        "section": "安十二宮太歲殺祿訣",
+        "line_ref": "第67行"
       }
     },
     {
@@ -904,7 +876,7 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00067",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L000",
       "original_quote": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
       "tag": [],
       "tag_reason": "",
@@ -914,20 +886,6 @@
         "juan": "卷二",
         "section": "安十二宮太歲殺祿訣",
         "line_ref": "第67行"
-      },
-      "standard_key": "安星"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L000",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安十二宮太歲殺祿訣",
-        "line_ref": "第68行"
       }
     },
     {
@@ -971,30 +929,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00072",
-      "original_quote": "病符帶疾耗退祖，伏兵宮府口舌纏，生年坐守十二殺，方敢斷人禍福源。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安十二宮太歲殺祿訣",
-        "line_ref": "第72行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnTaisuisha_L003",
-      "original_quote": "",
+      "original_quote": "天刑星從酉上起正月順至本生月便安之。天姚星從丑上起正月順至本生月即安之。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安十二宮太歲殺祿訣",
-        "line_ref": "第73行"
+        "section": "安天刑天姚星訣",
+        "line_ref": "第75行"
       }
     },
     {
@@ -1011,30 +955,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00075",
-      "original_quote": "天刑星從酉上起正月順至本生月便安之。天姚星從丑上起正月順至本生月即安之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安天刑天姚星訣",
-        "line_ref": "第75行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnTianxingTianyao_L000",
-      "original_quote": "",
+      "original_quote": "三台尋左輔將初一日加在左輔宮，順數至本生日安之。八座尋右弼將初一加右弼宮逆數至本生日安之是也。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安天刑天姚星訣",
-        "line_ref": "第76行"
+        "section": "安三台八座二星訣",
+        "line_ref": "第78行"
       }
     },
     {
@@ -1051,30 +981,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00078",
-      "original_quote": "三台尋左輔將初一日加在左輔宮，順數至本生日安之。八座尋右弼將初一加右弼宮逆數至本生日安之是也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安三台八座二星訣",
-        "line_ref": "第78行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnSantaiBazuo_L000",
-      "original_quote": "",
+      "original_quote": "天哭天虛起午宮。午宮起子兩分蹤。哭逆巳兮虛順未。數到生年便居中。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安三台八座二星訣",
-        "line_ref": "第79行"
+        "section": "安天哭天虛星訣",
+        "line_ref": "第81行"
       }
     },
     {
@@ -1091,30 +1007,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00081",
-      "original_quote": "天哭天虛起午宮。午宮起子兩分蹤。哭逆巳兮虛順未。數到生年便居中。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安天哭天虛星訣",
-        "line_ref": "第81行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnKuxu_L000",
-      "original_quote": "",
+      "original_quote": "龍池子順辰，鳳閣子戌逆。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安天哭天虛星訣",
-        "line_ref": "第82行"
+        "section": "安龍池鳳閣訣",
+        "line_ref": "第84行"
       }
     },
     {
@@ -1131,30 +1033,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00084",
-      "original_quote": "龍池子順辰，鳳閣子戌逆。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安龍池鳳閣訣",
-        "line_ref": "第84行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnLongfeng_L000",
-      "original_quote": "",
+      "original_quote": "由午宮起子順數至本生時安之。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安龍池鳳閣訣",
-        "line_ref": "第85行"
+        "section": "安台輔封訣",
+        "line_ref": "第87行"
       }
     },
     {
@@ -1171,30 +1059,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00087",
-      "original_quote": "由午宮起子順數至本生時安之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安台輔封訣",
-        "line_ref": "第87行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnTaifu_L000",
-      "original_quote": "",
+      "original_quote": "由寅起宮子順數至本生時安之。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安台輔星訣",
-        "line_ref": "第88行"
+        "section": "安封誥訣",
+        "line_ref": "第90行"
       }
     },
     {
@@ -1211,30 +1085,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00090",
-      "original_quote": "由寅起宮子順數至本生時安之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安封誥訣",
-        "line_ref": "第90行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnFenggao_L000",
-      "original_quote": "",
+      "original_quote": "火局命寅起長生。木局命亥起長生。水局命申起長生。金局命巳起長生。土局命申起長生。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安封誥星訣",
-        "line_ref": "第91行"
+        "section": "安長生十二神訣",
+        "line_ref": "第93行"
       }
     },
     {
@@ -1251,30 +1111,16 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00093",
-      "original_quote": "火局命寅起長生。木局命亥起長生。水局命申起長生。金局命巳起長生。土局命申起長生。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安長生十二神訣",
-        "line_ref": "第93行"
-      },
-      "standard_key": "長生"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnChangsheng_L000",
-      "original_quote": "",
+      "original_quote": "卯上起子逆數之，數到當生太歲支，坐守此宮紅鸞位，對宮天喜不差移，",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安長生等十二神訣",
-        "line_ref": "第94行"
+        "section": "安紅鸞天喜訣",
+        "line_ref": "第96行"
       }
     },
     {
@@ -1291,20 +1137,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00096",
-      "original_quote": "卯上起子逆數之，數到當生太歲支，坐守此宮紅鸞位，對宮天喜不差移，",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安紅鸞天喜訣",
-        "line_ref": "第96行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnDaxian_L000",
       "original_quote": "年少婚姻喜事奇，老人必主喪其妻，三十年前為吉曜，五十年後不相宜。 ",
       "tag": [],
@@ -1319,15 +1151,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnDaxian_L001",
-      "original_quote": "",
+      "original_quote": "流年太歲前二位是喪門，後二位是吊客，喪門對照安白虎，吊客對照安官府。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安大限訣",
-        "line_ref": "第98行"
+        "section": "安四飛星訣",
+        "line_ref": "第100行"
       }
     },
     {
@@ -1342,20 +1174,6 @@
         "section": "安小限訣",
         "line_ref": "第99行"
       }
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00100",
-      "original_quote": "流年太歲前二位是喪門，後二位是吊客，喪門對照安白虎，吊客對照安官府。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第100行"
-      },
-      "standard_key": "安星"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L00101",
@@ -1399,20 +1217,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00104",
-      "original_quote": "於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第104行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
       "original_quote": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。",
       "tag": [],
@@ -1427,15 +1231,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
-      "original_quote": "",
+      "original_quote": "天德星從酉上起子，順數至流年太歲上是也。月德星從子上起子，順數至流年太歲上是也。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安流魁流鉞訣",
-        "line_ref": "第106行"
+        "section": "安四飛星訣",
+        "line_ref": "第108行"
       }
     },
     {
@@ -1452,20 +1256,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00108",
-      "original_quote": "天德星從酉上起子，順數至流年太歲上是也。月德星從子上起子，順數至流年太歲上是也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第108行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnLiuLuanxi_000",
       "original_quote": "解神從戌上起子，逆數至當生年太歲上是也。",
       "tag": [],
@@ -1480,15 +1270,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnLiuLuanxi_001",
-      "original_quote": "",
+      "original_quote": "寅午戍年飛入亥卯未宮。申子辰年飛入巳酉丑宮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安流鸞流喜訣",
-        "line_ref": "第110行"
+        "section": "安四飛星訣",
+        "line_ref": "第112行"
       }
     },
     {
@@ -1505,20 +1295,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00112",
-      "original_quote": "寅午戍年飛入亥卯未宮。申子辰年飛入巳酉丑宮。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第112行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnDoujun_000",
       "original_quote": "亥卯未年飛入申子辰宮。巳酉丑年飛入寅午戌宮。 ",
       "tag": [],
@@ -1533,15 +1309,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnDoujun_001",
-      "original_quote": "",
+      "original_quote": "寅午戍年飛入亥卯未宮。申子辰年飛入巳酉丑宮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安斗君訣",
-        "line_ref": "第114行"
+        "section": "安四飛星訣",
+        "line_ref": "第112行"
       }
     },
     {
@@ -1585,8 +1361,8 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00118",
-      "original_quote": "甲己申酉宮，乙庚午未宮，丙辛辰巳宮，丁壬寅卯宮，戊癸子丑宮。",
+      "line_id": "ZWQS_Juan2_AnLiushi_000",
+      "original_quote": "甲子旬中空戌亥，甲寅旬中空子丑，甲辰旬中空寅卯，",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -1594,21 +1370,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "安四飛星訣",
-        "line_ref": "第118行"
-      },
-      "standard_key": "安星"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AnLiushi_000",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安流時訣",
-        "line_ref": "第119行"
+        "line_ref": "第121行"
       }
     },
     {
@@ -1623,20 +1385,6 @@
         "section": "安流時訣",
         "line_ref": "第120行"
       }
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00121",
-      "original_quote": "甲子旬中空戌亥，甲寅旬中空子丑，甲辰旬中空寅卯，",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第121行"
-      },
-      "standard_key": "安星"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L00122",
@@ -1751,44 +1499,16 @@
       "standard_key": "安星"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00130",
-      "original_quote": "安童限訣",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第130行"
-      },
-      "standard_key": "安星"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00131",
-      "original_quote": "一命二財三疾厄，四妻五福六官祿，餘年一派順流行，十五命宮看端的。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第131行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnTongxian_Limit_L000",
-      "original_quote": "",
+      "original_quote": "貪狼子宮，巨門丑亥宮，祿存寅戌宮，文曲卯酉宮，廉真申辰宮，武曲巳未宮，破軍午宮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安童限訣",
-        "line_ref": "第132行"
+        "section": "安四飛星訣",
+        "line_ref": "第134行"
       }
     },
     {
@@ -1805,20 +1525,6 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00134",
-      "original_quote": "貪狼子宮，巨門丑亥宮，祿存寅戌宮，文曲卯酉宮，廉真申辰宮，武曲巳未宮，破軍午宮。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第134行"
-      },
-      "standard_key": "安星"
-    },
-    {
       "line_id": "ZWQS_Juan2_AnMingzhu_L000",
       "original_quote": "假如午宮安命尋破軍星在何宮即命主也，子宮安命尋貪狼星在何宮即命主也，左輔隨丑至午，右弼隨亥至午。",
       "tag": [],
@@ -1833,15 +1539,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_AnMingzhu_L001",
-      "original_quote": "",
+      "original_quote": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "安命主",
-        "line_ref": "第136行"
+        "section": "安四飛星訣",
+        "line_ref": "第138行"
       }
     },
     {
@@ -1858,8 +1564,8 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00138",
-      "original_quote": "子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌人文昌星，巳亥人天機星。",
+      "line_id": "ZWQS_Juan2_AnShenzhu_L000",
+      "original_quote": "當從戌上起子年，順數行年月逆推，日又順數時逆轉，小兒壽夭可先知。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -1867,21 +1573,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "安四飛星訣",
-        "line_ref": "第138行"
-      },
-      "standard_key": "安星"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AnShenzhu_L000",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安身主",
-        "line_ref": "第139行"
+        "line_ref": "第141行"
       }
     },
     {
@@ -1896,20 +1588,6 @@
         "section": "安身主",
         "line_ref": "第140行"
       }
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00141",
-      "original_quote": "當從戌上起子年，順數行年月逆推，日又順數時逆轉，小兒壽夭可先知。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "安四飛星訣",
-        "line_ref": "第141行"
-      },
-      "standard_key": "安星"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L00142",
@@ -7135,7 +6813,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L007",
-      "original_quote": "",
+      "original_quote": "紫微天中第一星，命身相遇福財興，若逢相佐宮中會，富貴雙全播令名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7143,7 +6821,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第515行"
+        "line_ref": "第517行"
       },
       "standard_key": "命宮"
     },
@@ -7158,20 +6836,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第516行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00517",
-      "original_quote": "紫微天中第一星，命身相遇福財興，若逢相佐宮中會，富貴雙全播令名。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第517行"
       },
       "standard_key": "命宮"
     },
@@ -7219,7 +6883,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L012",
-      "original_quote": "",
+      "original_quote": "紫微女命守身宮，天府尊星同到宮，更得吉星同主照，金冠封贈福滔滔。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7227,7 +6891,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第521行"
+        "line_ref": "第523行"
       },
       "standard_key": "命宮"
     },
@@ -7242,20 +6906,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第522行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00523",
-      "original_quote": "紫微女命守身宮，天府尊星同到宮，更得吉星同主照，金冠封贈福滔滔。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第523行"
       },
       "standard_key": "命宮"
     },
@@ -7275,7 +6925,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L015",
-      "original_quote": "",
+      "original_quote": "紫微垣內吉星臨，二限相逢福祿興，常人得遇多財富，官員逢之職位陞。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7283,7 +6933,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第525行"
+        "line_ref": "第527行"
       },
       "standard_key": "命宮"
     },
@@ -7298,20 +6948,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第526行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00527",
-      "original_quote": "紫微垣內吉星臨，二限相逢福祿興，常人得遇多財富，官員逢之職位陞。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第527行"
       },
       "standard_key": "命宮"
     },
@@ -7331,7 +6967,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L018",
-      "original_quote": "",
+      "original_quote": "紫微垣內吉星臨，二限相逢福祿興，常人得遇多財富，官員逢之職位陞。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7339,7 +6975,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第529行"
+        "line_ref": "第527行"
       },
       "standard_key": "命宮"
     },
@@ -7457,7 +7093,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L025",
-      "original_quote": "",
+      "original_quote": "機月天梁合太陽，常人富足置田庄，官員得遇科權祿，職位高遷面帝王。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7465,7 +7101,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第538行"
+        "line_ref": "第540行"
       },
       "standard_key": "命宮"
     },
@@ -7480,20 +7116,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第539行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00540",
-      "original_quote": "機月天梁合太陽，常人富足置田庄，官員得遇科權祿，職位高遷面帝王。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第540行"
       },
       "standard_key": "命宮"
     },
@@ -7513,7 +7135,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L028",
-      "original_quote": "",
+      "original_quote": "天機女命吉星扶，作事操持過丈夫，權祿宮中逢守照，榮膺誥命貴無倫。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7521,7 +7143,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第542行"
+        "line_ref": "第544行"
       },
       "standard_key": "命宮"
     },
@@ -7536,20 +7158,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第543行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00544",
-      "original_quote": "天機女命吉星扶，作事操持過丈夫，權祿宮中逢守照，榮膺誥命貴無倫。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第544行"
       },
       "standard_key": "命宮"
     },
@@ -7569,7 +7177,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L031",
-      "original_quote": "",
+      "original_quote": "男女二限值天機，科權祿逢大有為，出入經營多遇貴，發財發福少人知。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7577,7 +7185,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第546行"
+        "line_ref": "第548行"
       },
       "standard_key": "命宮"
     },
@@ -7592,20 +7200,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第547行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00548",
-      "original_quote": "男女二限值天機，科權祿逢大有為，出入經營多遇貴，發財發福少人知。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第548行"
       },
       "standard_key": "命宮"
     },
@@ -7625,7 +7219,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L034",
-      "original_quote": "",
+      "original_quote": "男女二限值天機，科權祿逢大有為，出入經營多遇貴，發財發福少人知。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7633,7 +7227,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第550行"
+        "line_ref": "第548行"
       },
       "standard_key": "命宮"
     },
@@ -7751,7 +7345,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L041",
-      "original_quote": "",
+      "original_quote": "命裡逢陽福壽濃，更兼權祿兩相逢，魁昌左右來相湊，富貴雙全比石崇。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7759,7 +7353,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第559行"
+        "line_ref": "第561行"
       },
       "standard_key": "命宮"
     },
@@ -7774,20 +7368,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第560行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00561",
-      "original_quote": "命裡逢陽福壽濃，更兼權祿兩相逢，魁昌左右來相湊，富貴雙全比石崇。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第561行"
       },
       "standard_key": "命宮"
     },
@@ -7821,7 +7401,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L045",
-      "original_quote": "",
+      "original_quote": "太陽正照婦人身，姿貌殊常性格貞，更得吉星同主照，金冠封贈作夫人。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7829,7 +7409,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第564行"
+        "line_ref": "第566行"
       },
       "standard_key": "命宮"
     },
@@ -7844,20 +7424,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第565行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00566",
-      "original_quote": "太陽正照婦人身，姿貌殊常性格貞，更得吉星同主照，金冠封贈作夫人。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第566行"
       },
       "standard_key": "命宮"
     },
@@ -7891,7 +7457,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L049",
-      "original_quote": "",
+      "original_quote": "二限偏宜見太陽，添財進業福非常，婚姻和合添嗣續，仕者高遷坐廟堂。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7899,7 +7465,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第569行"
+        "line_ref": "第571行"
       },
       "standard_key": "命宮"
     },
@@ -7914,20 +7480,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第570行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00571",
-      "original_quote": "二限偏宜見太陽，添財進業福非常，婚姻和合添嗣續，仕者高遷坐廟堂。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第571行"
       },
       "standard_key": "命宮"
     },
@@ -7947,7 +7499,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L052",
-      "original_quote": "",
+      "original_quote": "二限偏宜見太陽，添財進業福非常，婚姻和合添嗣續，仕者高遷坐廟堂。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -7955,7 +7507,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第573行"
+        "line_ref": "第571行"
       },
       "standard_key": "命宮"
     },
@@ -8073,7 +7625,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L059",
-      "original_quote": "",
+      "original_quote": "武曲守命化為權，吉曜來臨福壽全，志氣崢嶸多出眾，超凡入聖向人前。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8081,7 +7633,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第582行"
+        "line_ref": "第584行"
       },
       "standard_key": "命宮"
     },
@@ -8096,20 +7648,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第583行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00584",
-      "original_quote": "武曲守命化為權，吉曜來臨福壽全，志氣崢嶸多出眾，超凡入聖向人前。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第584行"
       },
       "standard_key": "命宮"
     },
@@ -8129,7 +7667,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L062",
-      "original_quote": "",
+      "original_quote": "女人武曲命中逢，天府加之志氣雄，左右祿存相逢聚，富貴雙全美無窮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8137,7 +7675,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第586行"
+        "line_ref": "第588行"
       },
       "standard_key": "命宮"
     },
@@ -8152,20 +7690,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第587行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00588",
-      "original_quote": "女人武曲命中逢，天府加之志氣雄，左右祿存相逢聚，富貴雙全美無窮。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第588行"
       },
       "standard_key": "命宮"
     },
@@ -8185,7 +7709,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L065",
-      "original_quote": "",
+      "original_quote": "大小二限逢武曲，若還入廟主財興，更加文昌臨左右，福祿雙全得稱心。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8193,7 +7717,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第590行"
+        "line_ref": "第592行"
       },
       "standard_key": "命宮"
     },
@@ -8208,20 +7732,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第591行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00592",
-      "original_quote": "大小二限逢武曲，若還入廟主財興，更加文昌臨左右，福祿雙全得稱心。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第592行"
       },
       "standard_key": "命宮"
     },
@@ -8255,7 +7765,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L069",
-      "original_quote": "",
+      "original_quote": "女命會吉星作命婦，旺夫益子極賢能，若居巳亥雖美而淫。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8263,7 +7773,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第595行"
+        "line_ref": "第597行"
       },
       "standard_key": "命宮"
     },
@@ -8282,22 +7792,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00597",
-      "original_quote": "女命會吉星作命婦，旺夫益子極賢能，若居巳亥雖美而淫。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第597行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L071",
-      "original_quote": "",
+      "original_quote": "卯酉宮和平，乙丙辛生人財官格。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8305,7 +7801,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第598行"
+        "line_ref": "第600行"
       },
       "standard_key": "命宮"
     },
@@ -8320,20 +7816,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第599行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00600",
-      "original_quote": "卯酉宮和平，乙丙辛生人財官格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第600行"
       },
       "standard_key": "命宮"
     },
@@ -8395,7 +7877,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L077",
-      "original_quote": "",
+      "original_quote": "天同坐命性溫良，福祿悠悠壽更長，若是福人居廟旺，定教食祿譽傳揚。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8403,7 +7885,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第605行"
+        "line_ref": "第607行"
       },
       "standard_key": "命宮"
     },
@@ -8418,20 +7900,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第606行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00607",
-      "original_quote": "天同坐命性溫良，福祿悠悠壽更長，若是福人居廟旺，定教食祿譽傳揚。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第607行"
       },
       "standard_key": "命宮"
     },
@@ -8465,7 +7933,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L081",
-      "original_quote": "",
+      "original_quote": "天同守命婦人身，性格聰明伶俐人，昌曲更來相會處，悠悠財祿自天伸。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8473,7 +7941,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第610行"
+        "line_ref": "第612行"
       },
       "standard_key": "命宮"
     },
@@ -8488,20 +7956,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第611行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00612",
-      "original_quote": "天同守命婦人身，性格聰明伶俐人，昌曲更來相會處，悠悠財祿自天伸。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第612行"
       },
       "standard_key": "命宮"
     },
@@ -8521,7 +7975,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L084",
-      "original_quote": "",
+      "original_quote": "人生二限值天同，喜氣盈門萬事榮，財祿增添宜創造，從今家道得豐榮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8529,7 +7983,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第614行"
+        "line_ref": "第616行"
       },
       "standard_key": "命宮"
     },
@@ -8544,20 +7998,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第615行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00616",
-      "original_quote": "人生二限值天同，喜氣盈門萬事榮，財祿增添宜創造，從今家道得豐榮。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第616行"
       },
       "standard_key": "命宮"
     },
@@ -8577,7 +8017,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L087",
-      "original_quote": "",
+      "original_quote": "人生二限值天同，喜氣盈門萬事榮，財祿增添宜創造，從今家道得豐榮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8585,7 +8025,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第618行"
+        "line_ref": "第616行"
       },
       "standard_key": "命宮"
     },
@@ -8703,7 +8143,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L094",
-      "original_quote": "",
+      "original_quote": "廉貞守命亦非常，賦性巍巍志氣強，格故鼎新官大貴，為官清顯姓名香。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8711,7 +8151,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第627行"
+        "line_ref": "第629行"
       },
       "standard_key": "命宮"
     },
@@ -8726,20 +8166,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第628行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00629",
-      "original_quote": "廉貞守命亦非常，賦性巍巍志氣強，格故鼎新官大貴，為官清顯姓名香。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第629行"
       },
       "standard_key": "命宮"
     },
@@ -8773,7 +8199,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L098",
-      "original_quote": "",
+      "original_quote": "女人身命值廉貞，內政清廉格局新，諸吉拱照無殺破，定教封贈在青春。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8781,7 +8207,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第632行"
+        "line_ref": "第634行"
       },
       "standard_key": "命宮"
     },
@@ -8796,20 +8222,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第633行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00634",
-      "original_quote": "女人身命值廉貞，內政清廉格局新，諸吉拱照無殺破，定教封贈在青春。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第634行"
       },
       "standard_key": "命宮"
     },
@@ -8829,7 +8241,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L101",
-      "original_quote": "",
+      "original_quote": "廉貞入限旺宮臨，喜逢吉曜福駢臻，財物自然多蓄積，任人得意位高陞。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8837,7 +8249,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第636行"
+        "line_ref": "第638行"
       },
       "standard_key": "命宮"
     },
@@ -8852,20 +8264,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第637行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00638",
-      "original_quote": "廉貞入限旺宮臨，喜逢吉曜福駢臻，財物自然多蓄積，任人得意位高陞。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第638行"
       },
       "standard_key": "命宮"
     },
@@ -8885,7 +8283,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L104",
-      "original_quote": "",
+      "original_quote": "廉貞入限旺宮臨，喜逢吉曜福駢臻，財物自然多蓄積，任人得意位高陞。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -8893,7 +8291,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第640行"
+        "line_ref": "第638行"
       },
       "standard_key": "命宮"
     },
@@ -9011,7 +8409,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L111",
-      "original_quote": "",
+      "original_quote": "天府之星守命宮，加之權祿喜相逢，魁昌左右來相會，附鳳攀龍上九重。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9019,7 +8417,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第649行"
+        "line_ref": "第651行"
       },
       "standard_key": "命宮"
     },
@@ -9034,20 +8432,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第650行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00651",
-      "original_quote": "天府之星守命宮，加之權祿喜相逢，魁昌左右來相會，附鳳攀龍上九重。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第651行"
       },
       "standard_key": "命宮"
     },
@@ -9067,7 +8451,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L114",
-      "original_quote": "",
+      "original_quote": "女人天府命身宮，性格聰明花樣容，更得紫微三合照，金冠霞佩受皇封。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9075,7 +8459,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第653行"
+        "line_ref": "第655行"
       },
       "standard_key": "命宮"
     },
@@ -9090,20 +8474,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第654行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00655",
-      "original_quote": "女人天府命身宮，性格聰明花樣容，更得紫微三合照，金冠霞佩受皇封。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第655行"
       },
       "standard_key": "命宮"
     },
@@ -9123,7 +8493,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L117",
-      "original_quote": "",
+      "original_quote": "限臨天府能司祿，士庶逢之多發福，添財進喜永無災，且也潤身也潤屋。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9131,7 +8501,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第657行"
+        "line_ref": "第659行"
       },
       "standard_key": "命宮"
     },
@@ -9146,20 +8516,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第658行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00659",
-      "original_quote": "限臨天府能司祿，士庶逢之多發福，添財進喜永無災，且也潤身也潤屋。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第659行"
       },
       "standard_key": "命宮"
     },
@@ -9179,7 +8535,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L120",
-      "original_quote": "",
+      "original_quote": "限臨天府能司祿，士庶逢之多發福，添財進喜永無災，且也潤身也潤屋。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9187,7 +8543,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第661行"
+        "line_ref": "第659行"
       },
       "standard_key": "命宮"
     },
@@ -9277,7 +8633,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L125",
-      "original_quote": "",
+      "original_quote": "太陰原是水之精，身命逢之福自生，酉戌亥垣為得地，光輝揚顯姓名亨。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9285,7 +8641,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第668行"
+        "line_ref": "第670行"
       },
       "standard_key": "命宮"
     },
@@ -9300,20 +8656,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第669行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00670",
-      "original_quote": "太陰原是水之精，身命逢之福自生，酉戌亥垣為得地，光輝揚顯姓名亨。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第670行"
       },
       "standard_key": "命宮"
     },
@@ -9361,7 +8703,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L130",
-      "original_quote": "",
+      "original_quote": "月會同陽在命宮，三方吉拱必盈豐，不見凶殺來沖會，富貴雙全保到終。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9369,7 +8711,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第674行"
+        "line_ref": "第676行"
       },
       "standard_key": "命宮"
     },
@@ -9384,20 +8726,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第675行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00676",
-      "original_quote": "月會同陽在命宮，三方吉拱必盈豐，不見凶殺來沖會，富貴雙全保到終。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第676行"
       },
       "standard_key": "命宮"
     },
@@ -9417,7 +8745,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L133",
-      "original_quote": "",
+      "original_quote": "太陰星曜限中逢，財祿豐盈百事通，嫁娶迎親添嗣續，常人得此旺門風。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9425,7 +8753,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第678行"
+        "line_ref": "第680行"
       },
       "standard_key": "命宮"
     },
@@ -9440,20 +8768,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第679行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00680",
-      "original_quote": "太陰星曜限中逢，財祿豐盈百事通，嫁娶迎親添嗣續，常人得此旺門風。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第680行"
       },
       "standard_key": "命宮"
     },
@@ -9613,7 +8927,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L144",
-      "original_quote": "",
+      "original_quote": "四墓宮中福氣濃，提兵指日立邊功，火星拱會誠為貴，名震諸夷定有封。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9621,7 +8935,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第692行"
+        "line_ref": "第694行"
       },
       "standard_key": "命宮"
     },
@@ -9636,20 +8950,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第693行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00694",
-      "original_quote": "四墓宮中福氣濃，提兵指日立邊功，火星拱會誠為貴，名震諸夷定有封。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第694行"
       },
       "standard_key": "命宮"
     },
@@ -9683,7 +8983,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L148",
-      "original_quote": "",
+      "original_quote": "四墓宮中多吉利，更逢左右方為貴，祿財豐富旺夫君，性格剛強多志氣。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9691,7 +8991,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第697行"
+        "line_ref": "第699行"
       },
       "standard_key": "命宮"
     },
@@ -9706,20 +9006,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第698行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00699",
-      "original_quote": "四墓宮中多吉利，更逢左右方為貴，祿財豐富旺夫君，性格剛強多志氣。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第699行"
       },
       "standard_key": "命宮"
     },
@@ -9739,7 +9025,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L151",
-      "original_quote": "",
+      "original_quote": "北斗貪狼入限來，若還入廟事和諧，科權仕路多成就，必主當年發橫財。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9747,7 +9033,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第701行"
+        "line_ref": "第703行"
       },
       "standard_key": "命宮"
     },
@@ -9762,20 +9048,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第702行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00703",
-      "original_quote": "北斗貪狼入限來，若還入廟事和諧，科權仕路多成就，必主當年發橫財。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第703行"
       },
       "standard_key": "命宮"
     },
@@ -9823,7 +9095,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L156",
-      "original_quote": "",
+      "original_quote": "女命入廟，六癸六辛生人享福，陷地傷夫剋子，丁人遇極淫，此星在女命多有瑕玷。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9831,7 +9103,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第707行"
+        "line_ref": "第709行"
       },
       "standard_key": "命宮"
     },
@@ -9850,22 +9122,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00709",
-      "original_quote": "女命入廟，六癸六辛生人享福，陷地傷夫剋子，丁人遇極淫，此星在女命多有瑕玷。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第709行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L158",
-      "original_quote": "",
+      "original_quote": "卯酉宮入廟，與天機同度，乙辛己丙生人財官格，丁戊生人有成敗。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9873,7 +9131,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第710行"
+        "line_ref": "第712行"
       },
       "standard_key": "命宮"
     },
@@ -9888,20 +9146,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第711行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00712",
-      "original_quote": "卯酉宮入廟，與天機同度，乙辛己丙生人財官格，丁戊生人有成敗。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第712行"
       },
       "standard_key": "命宮"
     },
@@ -9963,7 +9207,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L164",
-      "original_quote": "",
+      "original_quote": "巨門子午二宮逢，局中得遇以為榮，三合化吉科權祿，官高極品衣紫袍。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -9971,7 +9215,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第717行"
+        "line_ref": "第719行"
       },
       "standard_key": "命宮"
     },
@@ -9986,20 +9230,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第718行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00719",
-      "original_quote": "巨門子午二宮逢，局中得遇以為榮，三合化吉科權祿，官高極品衣紫袍。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第719行"
       },
       "standard_key": "命宮"
     },
@@ -10033,7 +9263,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L168",
-      "original_quote": "",
+      "original_quote": "巨門旺地多生吉，左右加臨壽更長，女人得此誠為貴，簾捲珍珠坐繡房。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10041,7 +9271,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第722行"
+        "line_ref": "第724行"
       },
       "standard_key": "命宮"
     },
@@ -10056,20 +9286,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第723行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00724",
-      "original_quote": "巨門旺地多生吉，左右加臨壽更長，女人得此誠為貴，簾捲珍珠坐繡房。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第724行"
       },
       "standard_key": "命宮"
     },
@@ -10089,7 +9305,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L171",
-      "original_quote": "",
+      "original_quote": "巨門主限化權星，最喜求謀萬事成，雖有官災並口舌，逢凶化吉得安寧。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10097,7 +9313,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第726行"
+        "line_ref": "第728行"
       },
       "standard_key": "命宮"
     },
@@ -10112,20 +9328,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第727行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00728",
-      "original_quote": "巨門主限化權星，最喜求謀萬事成，雖有官災並口舌，逢凶化吉得安寧。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第728行"
       },
       "standard_key": "命宮"
     },
@@ -10159,7 +9361,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L175",
-      "original_quote": "",
+      "original_quote": "女命入廟性溫和，衣祿遂心，僧道屯吉。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10167,7 +9369,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第731行"
+        "line_ref": "第733行"
       },
       "standard_key": "命宮"
     },
@@ -10186,22 +9388,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00733",
-      "original_quote": "女命入廟性溫和，衣祿遂心，僧道屯吉。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第733行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L177",
-      "original_quote": "",
+      "original_quote": "卯酉宮陷地，乙辛生人吉。甲庚生人主困。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10209,7 +9397,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第734行"
+        "line_ref": "第736行"
       },
       "standard_key": "命宮"
     },
@@ -10224,20 +9412,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第735行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00736",
-      "original_quote": "卯酉宮陷地，乙辛生人吉。甲庚生人主困。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第736行"
       },
       "standard_key": "命宮"
     },
@@ -10299,7 +9473,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L183",
-      "original_quote": "",
+      "original_quote": "天相星辰貴等倫，照守身命喜無垠，為官必主居元宰，三合相逢福不輕。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10307,7 +9481,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第741行"
+        "line_ref": "第743行"
       },
       "standard_key": "命宮"
     },
@@ -10322,20 +9496,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第742行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00743",
-      "original_quote": "天相星辰貴等倫，照守身命喜無垠，為官必主居元宰，三合相逢福不輕。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第743行"
       },
       "standard_key": "命宮"
     },
@@ -10369,7 +9529,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L187",
-      "original_quote": "",
+      "original_quote": "女人之命天相星，性格聰明百事寧，衣祿豐盈財帛足，旺夫貴子顯門庭。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10377,7 +9537,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第746行"
+        "line_ref": "第748行"
       },
       "standard_key": "命宮"
     },
@@ -10392,20 +9552,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第747行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00748",
-      "original_quote": "女人之命天相星，性格聰明百事寧，衣祿豐盈財帛足，旺夫貴子顯門庭。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第748行"
       },
       "standard_key": "命宮"
     },
@@ -10425,7 +9571,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L190",
-      "original_quote": "",
+      "original_quote": "天相之星敢主財，照臨二限悉無災，動作謀為皆遂意，悠游享福自然來。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10433,7 +9579,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第750行"
+        "line_ref": "第752行"
       },
       "standard_key": "命宮"
     },
@@ -10448,20 +9594,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第751行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00752",
-      "original_quote": "天相之星敢主財，照臨二限悉無災，動作謀為皆遂意，悠游享福自然來。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第752行"
       },
       "standard_key": "命宮"
     },
@@ -10495,7 +9627,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L194",
-      "original_quote": "",
+      "original_quote": "女命有男子之志，入廟富貴，陷地加殺傷夫剋子又淫賤。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10503,7 +9635,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第755行"
+        "line_ref": "第757行"
       },
       "standard_key": "命宮"
     },
@@ -10522,22 +9654,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00757",
-      "original_quote": "女命有男子之志，入廟富貴，陷地加殺傷夫剋子又淫賤。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第757行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L196",
-      "original_quote": "",
+      "original_quote": "卯宮入廟酉宮得地，與太陽同度，乙壬辛生人財官格。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10545,7 +9663,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第758行"
+        "line_ref": "第760行"
       },
       "standard_key": "命宮"
     },
@@ -10560,20 +9678,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第759行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00760",
-      "original_quote": "卯宮入廟酉宮得地，與太陽同度，乙壬辛生人財官格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第760行"
       },
       "standard_key": "命宮"
     },
@@ -10621,7 +9725,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L201",
-      "original_quote": "",
+      "original_quote": "天梁之曜數中強，形神穩重性溫良，左右昌曲來會合，管教富貴列朝綱。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10629,7 +9733,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第764行"
+        "line_ref": "第766行"
       },
       "standard_key": "命宮"
     },
@@ -10644,20 +9748,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第765行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00766",
-      "original_quote": "天梁之曜數中強，形神穩重性溫良，左右昌曲來會合，管教富貴列朝綱。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第766行"
       },
       "standard_key": "命宮"
     },
@@ -10705,7 +9795,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L206",
-      "original_quote": "",
+      "original_quote": "天梁化蔭吉星和，二限逢之福必多，若加吉曜逢廟地，貴極一品輔山河。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10713,7 +9803,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第770行"
+        "line_ref": "第772行"
       },
       "standard_key": "命宮"
     },
@@ -10728,20 +9818,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第771行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00772",
-      "original_quote": "天梁化蔭吉星和，二限逢之福必多，若加吉曜逢廟地，貴極一品輔山河。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第772行"
       },
       "standard_key": "命宮"
     },
@@ -10901,7 +9977,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L217",
-      "original_quote": "",
+      "original_quote": "七殺寅申子午宮，四夷拱手服英雄，魁鉞左右文昌會，科祿名高食萬鍾。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10909,7 +9985,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第784行"
+        "line_ref": "第786行"
       },
       "standard_key": "命宮"
     },
@@ -10924,20 +10000,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第785行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00786",
-      "original_quote": "七殺寅申子午宮，四夷拱手服英雄，魁鉞左右文昌會，科祿名高食萬鍾。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第786行"
       },
       "standard_key": "命宮"
     },
@@ -10971,7 +10033,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L221",
-      "original_quote": "",
+      "original_quote": "女命愁逢七殺星，作事果斷又聰明，氣高志大無男女，不免刑夫歷苦辛。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -10979,7 +10041,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第789行"
+        "line_ref": "第791行"
       },
       "standard_key": "命宮"
     },
@@ -10994,20 +10056,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第790行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00791",
-      "original_quote": "女命愁逢七殺星，作事果斷又聰明，氣高志大無男女，不免刑夫歷苦辛。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第791行"
       },
       "standard_key": "命宮"
     },
@@ -11027,7 +10075,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L224",
-      "original_quote": "",
+      "original_quote": "二限雖然逢七殺，從容和緩家道發，對宮天府正來朝，仕宦逢之名顯達。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11035,7 +10083,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第793行"
+        "line_ref": "第795行"
       },
       "standard_key": "命宮"
     },
@@ -11050,20 +10098,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第794行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00795",
-      "original_quote": "二限雖然逢七殺，從容和緩家道發，對宮天府正來朝，仕宦逢之名顯達。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第795行"
       },
       "standard_key": "命宮"
     },
@@ -11083,7 +10117,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L227",
-      "original_quote": "",
+      "original_quote": "二限雖然逢七殺，從容和緩家道發，對宮天府正來朝，仕宦逢之名顯達。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11091,7 +10125,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第797行"
+        "line_ref": "第795行"
       },
       "standard_key": "命宮"
     },
@@ -11223,7 +10257,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L235",
-      "original_quote": "",
+      "original_quote": "破軍七殺與貪狼，入廟英雄不可當，關羽命逢為上將，庶人富足置田莊。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11231,7 +10265,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第807行"
+        "line_ref": "第809行"
       },
       "standard_key": "命宮"
     },
@@ -11246,20 +10280,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第808行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00809",
-      "original_quote": "破軍七殺與貪狼，入廟英雄不可當，關羽命逢為上將，庶人富足置田莊。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第809行"
       },
       "standard_key": "命宮"
     },
@@ -11307,7 +10327,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L240",
-      "original_quote": "",
+      "original_quote": "破軍子午為入廟，女命逢之福壽昌，性格有能偏出眾，旺夫益子姓名香。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11315,7 +10335,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第813行"
+        "line_ref": "第815行"
       },
       "standard_key": "命宮"
     },
@@ -11330,20 +10350,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第814行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00815",
-      "original_quote": "破軍子午為入廟，女命逢之福壽昌，性格有能偏出眾，旺夫益子姓名香。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第815行"
       },
       "standard_key": "命宮"
     },
@@ -11363,7 +10369,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L243",
-      "original_quote": "",
+      "original_quote": "破軍入限要推詳，廟地方知福祿昌，更遇文昌同魁鉞，限臨此地極風光。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11371,7 +10377,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第817行"
+        "line_ref": "第819行"
       },
       "standard_key": "命宮"
     },
@@ -11386,20 +10392,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第818行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00819",
-      "original_quote": "破軍入限要推詳，廟地方知福祿昌，更遇文昌同魁鉞，限臨此地極風光。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第819行"
       },
       "standard_key": "命宮"
     },
@@ -11531,7 +10523,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L252",
-      "original_quote": "",
+      "original_quote": "文昌坐命旺宮臨，志大財高抵萬金，文藝精華心壯大，須教平步上青雲。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11539,7 +10531,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第829行"
+        "line_ref": "第831行"
       },
       "standard_key": "命宮"
     },
@@ -11554,20 +10546,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第830行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00831",
-      "original_quote": "文昌坐命旺宮臨，志大財高抵萬金，文藝精華心壯大，須教平步上青雲。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第831行"
       },
       "standard_key": "命宮"
     },
@@ -11587,7 +10565,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L255",
-      "original_quote": "",
+      "original_quote": "女人身命值文昌，秀麗清奇福更長，紫府對沖三合照，管教富貴著霞裳。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11595,7 +10573,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第833行"
+        "line_ref": "第835行"
       },
       "standard_key": "命宮"
     },
@@ -11610,20 +10588,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第834行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00835",
-      "original_quote": "女人身命值文昌，秀麗清奇福更長，紫府對沖三合照，管教富貴著霞裳。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第835行"
       },
       "standard_key": "命宮"
     },
@@ -11643,7 +10607,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L258",
-      "original_quote": "",
+      "original_quote": "文昌之星最為清，斗數之中第二星，若遇太歲與二限，士人值此占科名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11651,7 +10615,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第837行"
+        "line_ref": "第839行"
       },
       "standard_key": "命宮"
     },
@@ -11666,20 +10630,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第838行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00839",
-      "original_quote": "文昌之星最為清，斗數之中第二星，若遇太歲與二限，士人值此占科名。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第839行"
       },
       "standard_key": "命宮"
     },
@@ -11699,7 +10649,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L261",
-      "original_quote": "",
+      "original_quote": "文昌之星最為清，斗數之中第二星，若遇太歲與二限，士人值此占科名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11707,7 +10657,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第841行"
+        "line_ref": "第839行"
       },
       "standard_key": "命宮"
     },
@@ -11797,7 +10747,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L266",
-      "original_quote": "",
+      "original_quote": "文曲守命最為良，相貌堂堂志氣昂，士庶逢之應福厚，丈夫得此受金章。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11805,7 +10755,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第848行"
+        "line_ref": "第850行"
       },
       "standard_key": "命宮"
     },
@@ -11820,20 +10770,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第849行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00850",
-      "original_quote": "文曲守命最為良，相貌堂堂志氣昂，士庶逢之應福厚，丈夫得此受金章。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第850行"
       },
       "standard_key": "命宮"
     },
@@ -11881,7 +10817,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L271",
-      "original_quote": "",
+      "original_quote": "二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上局。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11889,7 +10825,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第854行"
+        "line_ref": "第856行"
       },
       "standard_key": "命宮"
     },
@@ -11904,20 +10840,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第855行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00856",
-      "original_quote": "二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上局。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第856行"
       },
       "standard_key": "命宮"
     },
@@ -11937,7 +10859,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L274",
-      "original_quote": "",
+      "original_quote": "二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上局。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -11945,7 +10867,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第858行"
+        "line_ref": "第856行"
       },
       "standard_key": "命宮"
     },
@@ -11992,20 +10914,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00862",
-      "original_quote": "左輔尊星能降福，風流敦厚通今古，紫府祿權貪武會，文官武職多清貴。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第862行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L277",
       "original_quote": "      羊陀火鈴三方照，縱有財官非吉兆，廉貞破巨更來沖，若不傷殘終是夭。",
       "tag": [],
@@ -12021,7 +10929,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L278",
-      "original_quote": "",
+      "original_quote": "女命左輔主賢豪，能幹能為又氣高，更與紫微天府合，金冠封贈過滔滔。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12029,7 +10937,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第864行"
+        "line_ref": "第866行"
       },
       "standard_key": "命宮"
     },
@@ -12044,20 +10952,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第865行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00866",
-      "original_quote": "女命左輔主賢豪，能幹能為又氣高，更與紫微天府合，金冠封贈過滔滔。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第866行"
       },
       "standard_key": "命宮"
     },
@@ -12077,7 +10971,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L281",
-      "original_quote": "",
+      "original_quote": "左輔限行福氣深，常人富足累千金，官員更得科權照，職位高遷佐聖君",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12085,7 +10979,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第868行"
+        "line_ref": "第870行"
       },
       "standard_key": "命宮"
     },
@@ -12100,20 +10994,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第869行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00870",
-      "original_quote": "左輔限行福氣深，常人富足累千金，官員更得科權照，職位高遷佐聖君",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第870行"
       },
       "standard_key": "命宮"
     },
@@ -12133,7 +11013,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L284",
-      "original_quote": "",
+      "original_quote": "左輔限行福氣深，常人富足累千金，官員更得科權照，職位高遷佐聖君",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12141,7 +11021,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第872行"
+        "line_ref": "第870行"
       },
       "standard_key": "命宮"
     },
@@ -12188,20 +11068,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00876",
-      "original_quote": "右弼天機上宰星，命逢重厚最聰明，若無火忌羊陀會，加吉財官冠世英。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第876行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L287",
       "original_quote": "      右弼尊星入命宮，若還殺湊主常庸，羊陀空劫三方湊，須知帶疾免災凶。",
       "tag": [],
@@ -12217,7 +11083,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L288",
-      "original_quote": "",
+      "original_quote": "右弼入限最為榮，入財興旺必多能，官員遷擢僧道喜，士子攻書必顯名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12225,7 +11091,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第878行"
+        "line_ref": "第880行"
       },
       "standard_key": "命宮"
     },
@@ -12240,20 +11106,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第879行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00880",
-      "original_quote": "右弼入限最為榮，入財興旺必多能，官員遷擢僧道喜，士子攻書必顯名。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第880行"
       },
       "standard_key": "命宮"
     },
@@ -12273,7 +11125,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L291",
-      "original_quote": "",
+      "original_quote": "右弼入限最為榮，入財興旺必多能，官員遷擢僧道喜，士子攻書必顯名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12281,7 +11133,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第882行"
+        "line_ref": "第880行"
       },
       "standard_key": "命宮"
     },
@@ -12328,20 +11180,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00886",
-      "original_quote": "人生若遇祿存星，性格剛強百事成，官員遷兮昌曲會，滔滔衣祿顯門庭。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第886行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L294",
       "original_quote": "      祿存守命莫逢沖，陀火交加福不全，天機空劫忌相會，空門僧道得清閒。",
       "tag": [],
@@ -12357,7 +11195,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L295",
-      "original_quote": "",
+      "original_quote": "女命若遇祿存星，紫府加臨百事寧，更遇同貞相湊合，必然註定是夫人。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12365,7 +11203,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第888行"
+        "line_ref": "第890行"
       },
       "standard_key": "命宮"
     },
@@ -12380,20 +11218,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第889行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00890",
-      "original_quote": "女命若遇祿存星，紫府加臨百事寧，更遇同貞相湊合，必然註定是夫人。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第890行"
       },
       "standard_key": "命宮"
     },
@@ -12413,7 +11237,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L298",
-      "original_quote": "",
+      "original_quote": "祿存主限最為良，作事求謀盡吉祥，仕吏逢之多轉職，庶人遇此足錢糧。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12421,7 +11245,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第892行"
+        "line_ref": "第894行"
       },
       "standard_key": "命宮"
     },
@@ -12436,20 +11260,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第893行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00894",
-      "original_quote": "祿存主限最為良，作事求謀盡吉祥，仕吏逢之多轉職，庶人遇此足錢糧。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第894行"
       },
       "standard_key": "命宮"
     },
@@ -12552,7 +11362,7 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00902",
+      "line_id": "ZWQS_Juan2_LunMingGong_L306",
       "original_quote": "魁鉞命身限遇昌，常人得此足錢糧，官員遇此高遷擢，必定當年面帝王。",
       "tag": [],
       "tag_reason": "",
@@ -12562,20 +11372,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第902行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_LunMingGong_L306",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第903行"
       },
       "standard_key": "命宮"
     },
@@ -12622,22 +11418,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00907",
-      "original_quote": "子午卯酉陷地。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第907行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L309",
-      "original_quote": "",
+      "original_quote": "祿前一位安擎羊，上將逢之福祿加，更得貴人相守照，兵權萬里壯皇家。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12645,7 +11427,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第908行"
+        "line_ref": "第910行"
       },
       "standard_key": "命宮"
     },
@@ -12660,20 +11442,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第909行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00910",
-      "original_quote": "祿前一位安擎羊，上將逢之福祿加，更得貴人相守照，兵權萬里壯皇家。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第910行"
       },
       "standard_key": "命宮"
     },
@@ -12707,7 +11475,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L313",
-      "original_quote": "",
+      "original_quote": "北斗浮星女命逢，火機巨忌必常庸，三方凶殺兼來湊，不夭終須浪滾濤。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12715,7 +11483,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第913行"
+        "line_ref": "第915行"
       },
       "standard_key": "命宮"
     },
@@ -12734,22 +11502,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00915",
-      "original_quote": "北斗浮星女命逢，火機巨忌必常庸，三方凶殺兼來湊，不夭終須浪滾濤。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第915行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L315",
-      "original_quote": "",
+      "original_quote": "擎羊守限細推詳，四墓生人免災殃，若遇紫微昌府會，財官顯達福悠長。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12757,7 +11511,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第916行"
+        "line_ref": "第918行"
       },
       "standard_key": "命宮"
     },
@@ -12772,20 +11526,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第917行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00918",
-      "original_quote": "擎羊守限細推詳，四墓生人免災殃，若遇紫微昌府會，財官顯達福悠長。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第918行"
       },
       "standard_key": "命宮"
     },
@@ -12874,22 +11614,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00925",
-      "original_quote": "寅申巳亥陷地。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第925行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L322",
-      "original_quote": "",
+      "original_quote": "陀羅命內坐中存，更喜人生四墓中，再得紫微昌府合，財祿豐盈遠播名。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12897,7 +11623,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第926行"
+        "line_ref": "第928行"
       },
       "standard_key": "命宮"
     },
@@ -12912,20 +11638,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第927行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00928",
-      "original_quote": "陀羅命內坐中存，更喜人生四墓中，再得紫微昌府合，財祿豐盈遠播名。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第928行"
       },
       "standard_key": "命宮"
     },
@@ -12945,7 +11657,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L325",
-      "original_quote": "",
+      "original_quote": "陀羅一曜女命逢，遇吉加臨淫蕩容，凶殺三方相照破，須防相別主人翁。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12953,7 +11665,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第930行"
+        "line_ref": "第932行"
       },
       "standard_key": "命宮"
     },
@@ -12972,22 +11684,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00932",
-      "original_quote": "陀羅一曜女命逢，遇吉加臨淫蕩容，凶殺三方相照破，須防相別主人翁。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第932行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L327",
-      "original_quote": "",
+      "original_quote": "限遇陀羅事亦多，必然忍耐要謙和，若無吉曜同相會，須教一夢入南柯。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -12995,7 +11693,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第933行"
+        "line_ref": "第935行"
       },
       "standard_key": "命宮"
     },
@@ -13010,20 +11708,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第934行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00935",
-      "original_quote": "限遇陀羅事亦多，必然忍耐要謙和，若無吉曜同相會，須教一夢入南柯。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第935行"
       },
       "standard_key": "命宮"
     },
@@ -13043,7 +11727,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L330",
-      "original_quote": "",
+      "original_quote": "限遇陀羅事亦多，必然忍耐要謙和，若無吉曜同相會，須教一夢入南柯。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13051,7 +11735,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第937行"
+        "line_ref": "第935行"
       },
       "standard_key": "命宮"
     },
@@ -13126,20 +11810,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00943",
-      "original_quote": "火星得地限宮逢，喜氣盈門百事通，仕宦逢之皆發福，常人得此財豐隆。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第943行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L334",
       "original_quote": "      火星一宿最乖張，無事官災鬧一場，剋害六親應不免，破財艱苦免恓惶。",
       "tag": [],
@@ -13155,7 +11825,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L335",
-      "original_quote": "",
+      "original_quote": "火星得地限宮逢，喜氣盈門百事通，仕宦逢之皆發福，常人得此財豐隆。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13163,7 +11833,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第945行"
+        "line_ref": "第943行"
       },
       "standard_key": "命宮"
     },
@@ -13210,20 +11880,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00949",
-      "original_quote": "限至鈴星事若何，貪狼相遇福還多，更加入廟逢諸吉，富貴聲揚處處歌。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第949行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L338",
       "original_quote": "      鈴星一宿不可當，守臨二限必癲狂，若無吉曜來相照，未免招災惹禍殃。",
       "tag": [],
@@ -13239,7 +11895,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L339",
-      "original_quote": "",
+      "original_quote": "火鈴二曜居廟地，貪狼紫府宜相會，為人性急有威權，鎮壓鄉邦終有貴。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13247,7 +11903,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第951行"
+        "line_ref": "第953行"
       },
       "standard_key": "命宮"
     },
@@ -13262,20 +11918,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第952行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00953",
-      "original_quote": "火鈴二曜居廟地，貪狼紫府宜相會，為人性急有威權，鎮壓鄉邦終有貴。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第953行"
       },
       "standard_key": "命宮"
     },
@@ -13295,7 +11937,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L342",
-      "original_quote": "",
+      "original_quote": "火鈴之星入命來，貪狼相會得和諧，三方無殺諸般美，坐守香閨得遂懷。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13303,7 +11945,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第955行"
+        "line_ref": "第957行"
       },
       "standard_key": "命宮"
     },
@@ -13318,20 +11960,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第956行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00957",
-      "original_quote": "火鈴之星入命來，貪狼相會得和諧，三方無殺諸般美，坐守香閨得遂懷。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第957行"
       },
       "standard_key": "命宮"
     },
@@ -13351,7 +11979,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L345",
-      "original_quote": "",
+      "original_quote": "火鈴二星事若何，貪狼相會福還多，更加吉曜多權柄，富貴聲揚處處歌。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13359,7 +11987,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第959行"
+        "line_ref": "第961行"
       },
       "standard_key": "命宮"
     },
@@ -13374,20 +12002,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第960行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00961",
-      "original_quote": "火鈴二星事若何，貪狼相會福還多，更加吉曜多權柄，富貴聲揚處處歌。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第961行"
       },
       "standard_key": "命宮"
     },
@@ -13407,7 +12021,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L348",
-      "original_quote": "",
+      "original_quote": "女命只可為偏房妓婢而已。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13415,7 +12029,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第963行"
+        "line_ref": "第965行"
       },
       "standard_key": "命宮"
     },
@@ -13434,22 +12048,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00965",
-      "original_quote": "女命只可為偏房妓婢而已。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第965行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L350",
-      "original_quote": "",
+      "original_quote": "地劫從來生發疾，命中相遇多啾唧，若遇羊火在其中，辛苦持家防內室。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13457,7 +12057,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第966行"
+        "line_ref": "第968行"
       },
       "standard_key": "命宮"
     },
@@ -13476,22 +12076,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00968",
-      "original_quote": "地劫從來生發疾，命中相遇多啾唧，若遇羊火在其中，辛苦持家防內室。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第968行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L352",
-      "original_quote": "",
+      "original_quote": "劫星二限若相逢，未免當年有禍危，太歲殺臨多疾厄，官符星遇有官符。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13499,7 +12085,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第969行"
+        "line_ref": "第971行"
       },
       "standard_key": "命宮"
     },
@@ -13518,22 +12104,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00971",
-      "original_quote": "劫星二限若相逢，未免當年有禍危，太歲殺臨多疾厄，官符星遇有官符。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第971行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L354",
-      "original_quote": "",
+      "original_quote": "女命單守只可為偏房妓婢。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13541,7 +12113,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第972行"
+        "line_ref": "第974行"
       },
       "standard_key": "命宮"
     },
@@ -13560,22 +12132,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00974",
-      "original_quote": "女命單守只可為偏房妓婢。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第974行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L356",
-      "original_quote": "",
+      "original_quote": "命坐天空定出家，文昌天相實堪誇，若逢四殺同身命，受蔭承恩福可佳。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13583,7 +12141,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第975行"
+        "line_ref": "第977行"
       },
       "standard_key": "命宮"
     },
@@ -13602,22 +12160,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00977",
-      "original_quote": "命坐天空定出家，文昌天相實堪誇，若逢四殺同身命，受蔭承恩福可佳。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第977行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L358",
-      "original_quote": "",
+      "original_quote": "天空入限破田莊，妻子須防有損傷，財帛不惟多敗失，更憂壽命入泉鄉。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13625,7 +12169,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第978行"
+        "line_ref": "第980行"
       },
       "standard_key": "命宮"
     },
@@ -13644,22 +12188,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00980",
-      "original_quote": "天空入限破田莊，妻子須防有損傷，財帛不惟多敗失，更憂壽命入泉鄉。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第980行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L360",
-      "original_quote": "",
+      "original_quote": "極居卯酉劫空臨，為僧為道福興隆，樂享山林有師號，福壽雙全到古齡。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13667,7 +12197,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第981行"
+        "line_ref": "第983行"
       },
       "standard_key": "命宮"
     },
@@ -13682,20 +12212,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第982行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00983",
-      "original_quote": "極居卯酉劫空臨，為僧為道福興隆，樂享山林有師號，福壽雙全到古齡。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第983行"
       },
       "standard_key": "命宮"
     },
@@ -13715,7 +12231,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L363",
-      "original_quote": "",
+      "original_quote": "極居卯酉劫空臨，為僧為道福興隆，樂享山林有師號，福壽雙全到古齡。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13723,7 +12239,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第985行"
+        "line_ref": "第983行"
       },
       "standard_key": "命宮"
     },
@@ -13798,7 +12314,7 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00991",
+      "line_id": "ZWQS_Juan2_LunMingGong_L367",
       "original_quote": "天耗守限號天傷，夫子在陳也絕糧，天使限臨人共忌，石崇豪富破家亡。",
       "tag": [],
       "tag_reason": "",
@@ -13808,20 +12324,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第991行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_LunMingGong_L367",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第992行"
       },
       "standard_key": "命宮"
     },
@@ -13868,20 +12370,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L00996",
-      "original_quote": "天馬臨限最為良，紫府祿存遇非常，官宦逢之應顯達，士人遇此赴科場。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第996行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L370",
       "original_quote": "      天馬守限不得住，又怕劫空來相遇，更兼太歲坐宮中，限到其人尋死路。",
       "tag": [],
@@ -13897,7 +12385,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L371",
-      "original_quote": "",
+      "original_quote": "天馬臨限最為良，紫府祿存遇非常，官宦逢之應顯達，士人遇此赴科場。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13905,7 +12393,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第998行"
+        "line_ref": "第996行"
       },
       "standard_key": "命宮"
     },
@@ -13952,20 +12440,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01002",
-      "original_quote": "十干化祿最為榮，男命逢之福自申，武職題名邊塞上，文人名譽滿朝廷。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1002行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L374",
       "original_quote": "      祿主天同遇太陽，常人大富足田庄，資財六畜皆生旺，凡有施為盡吉祥。",
       "tag": [],
@@ -13981,7 +12455,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L375",
-      "original_quote": "",
+      "original_quote": "限中若遇祿來臨，爵位高遷佐聖明，常庶相逢當大貴，自然蓄積廣金銀。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -13989,7 +12463,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1004行"
+        "line_ref": "第1006行"
       },
       "standard_key": "命宮"
     },
@@ -14008,7 +12482,7 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01006",
+      "line_id": "ZWQS_Juan2_LunMingGong_L377",
       "original_quote": "限中若遇祿來臨，爵位高遷佐聖明，常庶相逢當大貴，自然蓄積廣金銀。",
       "tag": [],
       "tag_reason": "",
@@ -14018,20 +12492,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第1006行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_LunMingGong_L377",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1007行"
       },
       "standard_key": "命宮"
     },
@@ -14078,22 +12538,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01011",
-      "original_quote": "權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曜，三邊鎮守掌兵符。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1011行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L380",
-      "original_quote": "",
+      "original_quote": "化權吉曜喜相逢，更吉加臨衣祿豐，富貴雙全人性硬，奪夫權柄福興隆。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14101,7 +12547,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1012行"
+        "line_ref": "第1014行"
       },
       "standard_key": "命宮"
     },
@@ -14120,22 +12566,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01014",
-      "original_quote": "化權吉曜喜相逢，更吉加臨衣祿豐，富貴雙全人性硬，奪夫權柄福興隆。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1014行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L382",
-      "original_quote": "",
+      "original_quote": "此星主限喜非常，官祿高陞佐帝王，財帛豐添宜創業，從今家道保安康。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14143,7 +12575,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1015行"
+        "line_ref": "第1017行"
       },
       "standard_key": "命宮"
     },
@@ -14158,20 +12590,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第1016行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01017",
-      "original_quote": "此星主限喜非常，官祿高陞佐帝王，財帛豐添宜創業，從今家道保安康。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1017行"
       },
       "standard_key": "命宮"
     },
@@ -14191,7 +12609,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L385",
-      "original_quote": "",
+      "original_quote": "女命科星拱守，作公卿婦，雖四殺沖破也主富貴。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14199,7 +12617,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1019行"
+        "line_ref": "第1021行"
       },
       "standard_key": "命宮"
     },
@@ -14218,22 +12636,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01021",
-      "original_quote": "女命科星拱守，作公卿婦，雖四殺沖破也主富貴。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1021行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L387",
-      "original_quote": "",
+      "original_quote": "科星文宿最為奇，包藏錦繡美文章，一躍禹門龍變化，管教聲達譽朝堂。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14241,7 +12645,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1022行"
+        "line_ref": "第1024行"
       },
       "standard_key": "命宮"
     },
@@ -14256,20 +12660,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第1023行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01024",
-      "original_quote": "科星文宿最為奇，包藏錦繡美文章，一躍禹門龍變化，管教聲達譽朝堂。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1024行"
       },
       "standard_key": "命宮"
     },
@@ -14289,7 +12679,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L390",
-      "original_quote": "",
+      "original_quote": "化科女命是良星，四德兼全性格清，更遇吉星權祿湊，夫榮子貴作夫人。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14297,7 +12687,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1026行"
+        "line_ref": "第1028行"
       },
       "standard_key": "命宮"
     },
@@ -14316,22 +12706,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01028",
-      "original_quote": "化科女命是良星，四德兼全性格清，更遇吉星權祿湊，夫榮子貴作夫人。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1028行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L392",
-      "original_quote": "",
+      "original_quote": "科星二限遇文昌，士子逢之姓名香，僧道庶人多富貴，百謀百遂事英揚。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14339,7 +12715,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1029行"
+        "line_ref": "第1031行"
       },
       "standard_key": "命宮"
     },
@@ -14358,7 +12734,7 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01031",
+      "line_id": "ZWQS_Juan2_LunMingGong_L394",
       "original_quote": "科星二限遇文昌，士子逢之姓名香，僧道庶人多富貴，百謀百遂事英揚。",
       "tag": [],
       "tag_reason": "",
@@ -14368,20 +12744,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第1031行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_LunMingGong_L394",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1032行"
       },
       "standard_key": "命宮"
     },
@@ -14428,20 +12790,6 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01036",
-      "original_quote": "諸星化忌不宜逢，更會凶星愈肆凶，若得吉星來助救，縱然富貴不豐隆。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1036行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L397",
       "original_quote": "      貪狼破軍居陷地，遇吉化忌終不利，男為奸盜女淫娼，加殺照命無眠睡。",
       "tag": [],
@@ -14457,7 +12805,7 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L398",
-      "original_quote": "",
+      "original_quote": "女命化忌本非奇，更遇凶星是禍基，衣食艱辛貧賤甚，吉星湊合減災危。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14465,7 +12813,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1038行"
+        "line_ref": "第1040行"
       },
       "standard_key": "命宮"
     },
@@ -14484,22 +12832,8 @@
       "standard_key": "命宮"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01040",
-      "original_quote": "女命化忌本非奇，更遇凶星是禍基，衣食艱辛貧賤甚，吉星湊合減災危。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1040行"
-      },
-      "standard_key": "命宮"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunMingGong_L400",
-      "original_quote": "",
+      "original_quote": "忌星入廟反為佳，縱有官災亦不傷，一進一退名不遂，更兼遇吉保安康。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -14507,7 +12841,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論命宮",
-        "line_ref": "第1041行"
+        "line_ref": "第1043行"
       },
       "standard_key": "命宮"
     },
@@ -14522,20 +12856,6 @@
         "juan": "卷二",
         "section": "論命宮",
         "line_ref": "第1042行"
-      },
-      "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01043",
-      "original_quote": "忌星入廟反為佳，縱有官災亦不傷，一進一退名不遂，更兼遇吉保安康。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1043行"
       },
       "standard_key": "命宮"
     },
@@ -14695,15 +13015,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunMingGong_L409",
-      "original_quote": "",
+      "original_quote": "二 兄弟",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論命宮",
-        "line_ref": "第1055行"
+        "section": "論兄弟",
+        "line_ref": "第1057行"
       },
       "standard_key": "命宮"
     },
@@ -14720,20 +13040,6 @@
         "line_ref": "第1056行"
       },
       "standard_key": "命宮"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01057",
-      "original_quote": "二 兄弟",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論兄弟",
-        "line_ref": "第1057行"
-      },
-      "standard_key": "兄弟"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01058",
@@ -15367,15 +13673,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunXiongDi_L022",
-      "original_quote": "",
+      "original_quote": "三 妻妾",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論兄弟",
-        "line_ref": "第1103行"
+        "section": "論妻妾",
+        "line_ref": "第1105行"
       },
       "standard_key": "兄弟"
     },
@@ -15392,20 +13698,6 @@
         "line_ref": "第1104行"
       },
       "standard_key": "兄弟"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01105",
-      "original_quote": "三 妻妾",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論妻妾",
-        "line_ref": "第1105行"
-      },
-      "standard_key": "夫妻"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01106",
@@ -16039,15 +14331,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunQiQie_L022",
-      "original_quote": "",
+      "original_quote": "四 子女",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論妻妾",
-        "line_ref": "第1151行"
+        "section": "論子女",
+        "line_ref": "第1153行"
       },
       "standard_key": "夫妻"
     },
@@ -16064,20 +14356,6 @@
         "line_ref": "第1152行"
       },
       "standard_key": "夫妻"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01153",
-      "original_quote": "四 子女",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論子女",
-        "line_ref": "第1153行"
-      },
-      "standard_key": "子女"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01154",
@@ -16795,15 +15073,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunZiNv_L025",
-      "original_quote": "",
+      "original_quote": "五 財帛",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論子女",
-        "line_ref": "第1205行"
+        "section": "論財帛",
+        "line_ref": "第1207行"
       },
       "standard_key": "子女"
     },
@@ -16820,20 +15098,6 @@
         "line_ref": "第1206行"
       },
       "standard_key": "子女"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01207",
-      "original_quote": "五 財帛",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論財帛",
-        "line_ref": "第1207行"
-      },
-      "standard_key": "財帛"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01208",
@@ -17495,15 +15759,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunCaiBo_L023",
-      "original_quote": "",
+      "original_quote": "六 疾厄",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論財帛",
-        "line_ref": "第1255行"
+        "section": "論疾厄",
+        "line_ref": "第1257行"
       },
       "standard_key": "財帛"
     },
@@ -17520,20 +15784,6 @@
         "line_ref": "第1256行"
       },
       "standard_key": "財帛"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01257",
-      "original_quote": "六 疾厄",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論疾厄",
-        "line_ref": "第1257行"
-      },
-      "standard_key": "疾厄"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01258",
@@ -18167,15 +16417,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunJiE_L022",
-      "original_quote": "",
+      "original_quote": "七 遷移",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論疾厄",
-        "line_ref": "第1303行"
+        "section": "論遷移",
+        "line_ref": "第1305行"
       },
       "standard_key": "疾厄"
     },
@@ -18192,20 +16442,6 @@
         "line_ref": "第1304行"
       },
       "standard_key": "疾厄"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01305",
-      "original_quote": "七 遷移",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論遷移",
-        "line_ref": "第1305行"
-      },
-      "standard_key": "遷移"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01306",
@@ -18895,15 +17131,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunQianYi_L024",
-      "original_quote": "",
+      "original_quote": "八 奴僕",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論遷移",
-        "line_ref": "第1355行"
+        "section": "論奴僕",
+        "line_ref": "第1357行"
       },
       "standard_key": "遷移"
     },
@@ -18920,20 +17156,6 @@
         "line_ref": "第1356行"
       },
       "standard_key": "遷移"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01357",
-      "original_quote": "八 奴僕",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論奴僕",
-        "line_ref": "第1357行"
-      },
-      "standard_key": "交友"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01358",
@@ -19623,15 +17845,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunNuPu_L024",
-      "original_quote": "",
+      "original_quote": "九 官祿",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論奴僕",
-        "line_ref": "第1407行"
+        "section": "論官祿",
+        "line_ref": "第1409行"
       },
       "standard_key": "交友"
     },
@@ -19648,20 +17870,6 @@
         "line_ref": "第1408行"
       },
       "standard_key": "交友"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01409",
-      "original_quote": "九 官祿",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1409行"
-      },
-      "standard_key": "官祿"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01410",
@@ -20364,22 +18572,8 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01460",
-      "original_quote": "輔弼星纏帝座中，高官三品入朝中，空亡惡曜三方見，指是虛名受蔭封。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1460行"
-      },
-      "standard_key": "官祿"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunGuanLu_L025",
-      "original_quote": "",
+      "original_quote": "昌曲二曜最難逢，建節封侯笑語中，若然凶殺來臨破，須然好處也成凶。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -20387,7 +18581,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論官祿",
-        "line_ref": "第1461行"
+        "line_ref": "第1463行"
       },
       "standard_key": "官祿"
     },
@@ -20406,22 +18600,8 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01463",
-      "original_quote": "昌曲二曜最難逢，建節封侯笑語中，若然凶殺來臨破，須然好處也成凶。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1463行"
-      },
-      "standard_key": "官祿"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunGuanLu_L027",
-      "original_quote": "",
+      "original_quote": "文官昌曲掛朝衣，官祿之中喜有之，紫相更兼權祿至，定居風憲肅朝儀。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -20429,7 +18609,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論官祿",
-        "line_ref": "第1464行"
+        "line_ref": "第1466行"
       },
       "standard_key": "官祿"
     },
@@ -20448,22 +18628,8 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01466",
-      "original_quote": "文官昌曲掛朝衣，官祿之中喜有之，紫相更兼權祿至，定居風憲肅朝儀。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1466行"
-      },
-      "standard_key": "官祿"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunGuanLu_L029",
-      "original_quote": "",
+      "original_quote": "將軍武曜最為良，帝座權衡在祿鄉，輔弼二星兼拱照，金章玉帶佐皇王。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -20471,7 +18637,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論官祿",
-        "line_ref": "第1467行"
+        "line_ref": "第1469行"
       },
       "standard_key": "官祿"
     },
@@ -20490,22 +18656,8 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01469",
-      "original_quote": "將軍武曜最為良，帝座權衡在祿鄉，輔弼二星兼拱照，金章玉帶佐皇王。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1469行"
-      },
-      "standard_key": "官祿"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunGuanLu_L031",
-      "original_quote": "",
+      "original_quote": "太陽化官在陽宮，更有光輝使不凶，若逢紫府兼左右，一生曹吏逞英雄。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
@@ -20513,7 +18665,7 @@
         "text": "紫微斗數全書",
         "juan": "卷二",
         "section": "論官祿",
-        "line_ref": "第1470行"
+        "line_ref": "第1472行"
       },
       "standard_key": "官祿"
     },
@@ -20532,7 +18684,7 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01472",
+      "line_id": "ZWQS_Juan2_LunGuanLu_L033",
       "original_quote": "太陽化官在陽宮，更有光輝使不凶，若逢紫府兼左右，一生曹吏逞英雄。",
       "tag": [],
       "tag_reason": "",
@@ -20546,30 +18698,16 @@
       "standard_key": "官祿"
     },
     {
-      "line_id": "ZWQS_Juan2_LunGuanLu_L033",
-      "original_quote": "",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1473行"
-      },
-      "standard_key": "官祿"
-    },
-    {
       "line_id": "ZWQS_Juan2_LunGuanLu_L034",
-      "original_quote": "",
+      "original_quote": "十 田宅",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論官祿",
-        "line_ref": "第1474行"
+        "section": "論田宅",
+        "line_ref": "第1476行"
       },
       "standard_key": "官祿"
     },
@@ -20586,20 +18724,6 @@
         "line_ref": "第1475行"
       },
       "standard_key": "官祿"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01476",
-      "original_quote": "十 田宅",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論田宅",
-        "line_ref": "第1476行"
-      },
-      "standard_key": "田宅"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01477",
@@ -21233,15 +19357,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunTianZhai_L022",
-      "original_quote": "",
+      "original_quote": "十一 福德",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論田宅",
-        "line_ref": "第1522行"
+        "section": "論福德",
+        "line_ref": "第1524行"
       },
       "standard_key": "田宅"
     },
@@ -21258,20 +19382,6 @@
         "line_ref": "第1523行"
       },
       "standard_key": "田宅"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01524",
-      "original_quote": "十一 福德",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論福德",
-        "line_ref": "第1524行"
-      },
-      "standard_key": "福德"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01525",
@@ -21961,15 +20071,15 @@
     },
     {
       "line_id": "ZWQS_Juan2_LunFuDe_L024",
-      "original_quote": "",
+      "original_quote": "十二 父母",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷二",
-        "section": "論福德",
-        "line_ref": "第1574行"
+        "section": "論父母",
+        "line_ref": "第1576行"
       },
       "standard_key": "福德"
     },
@@ -21986,20 +20096,6 @@
         "line_ref": "第1575行"
       },
       "standard_key": "福德"
-    },
-    {
-      "line_id": "ZWQS_Juan2_AutoBackfill_L01576",
-      "original_quote": "十二 父母",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷二",
-        "section": "論父母",
-        "line_ref": "第1576行"
-      },
-      "standard_key": "父母"
     },
     {
       "line_id": "ZWQS_Juan2_AutoBackfill_L01577",
