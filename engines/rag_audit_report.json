@@ -1,16 +1,244 @@
 {
   "meta": {
-    "last_audited": "2026-08-08",
-    "audit_note": "本報告為 2026-08-08 全局逐字掃描之更新版本，取代舊版（total_checked=486，已與 rag_index_v1.json 實際條目數脫節）。舊版遺留的 2 筆假來源（ZWQS_Juan1_Pattern_L005、ZWQS_Juan2_AnDouJun_L001）已於本次稽核修正為真實 line_id（ZWQS_Juan2_LunMingGong_L019、ZWQS_Juan2_AnLiuKuiyue_001）。"
+    "last_audited": "2026-08-08T19:54:00+08:00",
+    "audit_note": "2026-08-08 mapping-layer repair: reclassified the ten fabricated 十干四化 sources as design rules; repaired unique direct quote-to-line mappings; corrected specified engine path migrations; synchronized 13 Ledger-only citations into Tier 3; retained untraceable quotations as explicit HALT records rather than guessing source lines."
   },
   "summary": {
-    "total_checked": 787,
-    "full_text_match": 484,
+    "total_checked": 860,
+    "verified": 532,
+    "unverified": 328,
+    "full_text_match": 532,
     "truncation_found": 0,
     "dirty_normalization_found": 0,
-    "source_missing": 0
+    "source_missing": 0,
+    "citation_mismatch": 0,
+    "engine_path_invalid_non_halt": 0,
+    "explicit_halt_records": 29,
+    "ledger_total": 861,
+    "ledger_verified": 531,
+    "ledger_unverified": 330,
+    "ledger_full_text_match": 531
   },
   "mismatches": [],
   "dirty_entries": [],
-  "missing_sources": []
+  "missing_sources": [],
+  "halt_items": [
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[71] :: engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[125] :: engine_truth_registry_v1.name_registries.star_name_registry[14].display_name",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].display_name"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[128] :: engine_truth_registry_v1.name_registries.star_name_registry[15].display_name",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].display_name"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[443] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[444] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[445] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[446] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[449] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[453] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[470] :: engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[669] :: engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
+      "kind": "engine_path_invalid_halt",
+      "detail": "missing field solar_time_correction",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[669] :: engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
+      "kind": "record_halt",
+      "detail": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[736] :: engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[747] :: engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars"
+    },
+    {
+      "scope": "rag",
+      "location": "tier_3_principle_index[748] :: engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[38] :: engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[49] :: engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[50] :: engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[99] :: engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].legacy_aliases[2]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[175] :: engine_truth_registry_v1.name_registries.star_name_registry[14].display_name",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].display_name"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[179] :: engine_truth_registry_v1.name_registries.star_name_registry[15].display_name",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].display_name"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[636] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[637] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[638] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[639] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[642] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[646] :: engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[674] :: engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
+      "kind": "engine_path_invalid_halt",
+      "detail": "missing field solar_time_correction",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[674] :: engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction",
+      "kind": "record_halt",
+      "detail": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。",
+      "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.solar_time_correction"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[721] :: engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules"
+    },
+    {
+      "scope": "ledger",
+      "location": "citation_ledger[759] :: engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.kun_2_redirect_rule",
+      "kind": "record_halt",
+      "detail": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。",
+      "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.kun_2_redirect_rule"
+    }
+  ]
 }

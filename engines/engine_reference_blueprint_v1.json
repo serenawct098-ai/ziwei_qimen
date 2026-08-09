@@ -3,7 +3,8 @@
     "version": "1.2",
     "role": "L0_Constitution",
     "status": "LOCKED (v2.0: Full Sanhe + Qimen Structures Integrated; Qimen Panlayer Locked to Zhuanpan)",
-    "last_updated": "2026-08-07"
+    "last_updated": "2026-08-08",
+    "mapping_layer_last_repaired": "2026-08-08T19:54:00+08:00"
   },
   "five_layer_mapping": {
     "L1_Data": "data/*.json",
@@ -43,7 +44,7 @@
   "qimen_full_chart_structure_mapping": {
     "qimen_full_structure": "engine_truth_registry_v1.static_truth_tables (zhifu_zhishi_table, xunkong_table, qimen_yima_table, neiwaipan_table) + name_registries (qimen_tianpan_star_registry, qimen_renpan_men_registry, qimen_shenpan_shen_registry)",
     "pattern_layer": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.qimen_pattern_library",
-    "diagnosis_layer": "diagnosis_router_module_v1.diagnosis_intents (qimen_*)"
+    "diagnosis_layer": "diagnosis_router_module_v1.intent_to_tier_map (qimen_*)"
   },
   "engine_to_text_source": {
     "ZWQS_Juan1_Consolidated.json": {
@@ -80,13 +81,6 @@
         "engine_interpretation_fusion_v1",
         "engine_overlay_governance_v1"
       ]
-    },
-    "SHZH_TenStemSihua_Source.json": {
-      "role": "十干四化（飛星四化）原文實體來源，物理獨立於三合派主文本",
-      "used_by": [
-        "engine_truth_registry_v1"
-      ],
-      "notes": "庚干、壬干鎖定為唯一版本（陽武同相／梁紫左武），其餘八干為通行版本原樣收錄，不與《紫微斗數全書》三合派正文混淆。"
     }
   },
   "citation_ledger": [
@@ -100,7 +94,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.stems[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L004",
+      "line_id": "ZWQS_Juan2_LunMingGong_L002",
       "value_summary": "對齊原文: 卯酉宮貪狼同度，乙辛甲庚生人貴不耐久",
       "status": "verified"
     },
@@ -128,7 +122,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.stems[5]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L002",
+      "line_id": "ZWQS_Juan2_LunMingGong_L001",
       "value_summary": "對齊原文: 子宮喜丁己庚生人貴格，壬癸生人不耐久",
       "status": "verified"
     },
@@ -163,7 +157,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.branches[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -198,7 +192,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.branches[5]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -247,7 +241,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L020",
+      "line_id": "ZWQS_Juan2_LunMingGong_L019",
       "value_summary": "對齊原文: 天機屬木，南斗化善星，為兄弟主。入廟身長肥胖，性急心慈，機謀",
       "status": "verified"
     },
@@ -261,21 +255,21 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[2]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L001",
+      "line_id": "ZWQS_Juan2_LunMingGong_L000",
       "value_summary": "對齊原文: 紫微土，南北斗化帝座，為官祿主。紫微面紫色或白青，腰背肥滿",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[3]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.five_elements[4]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L071",
+      "line_id": "ZWQS_Juan2_LunMingGong_L070",
       "value_summary": "對齊原文: 天同水，南斗化福，為福德主。天同入廟肥滿清明，仁慈耿直。與天",
       "status": "verified"
     },
@@ -366,7 +360,12 @@
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
       "line_id": "QMDJ_Preface_L004",
       "value_summary": "對齊原文: 坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.xunkong_table.data.甲子",
@@ -443,14 +442,24 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
-      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.anfa",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L002",
       "value_summary": "對齊原文: 要知不論男女命，尋祿存星起，陽男陰女順行，陰男陽女逆行。",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.qimen_panlayer_lock",
@@ -471,7 +480,7 @@
     {
       "engine_path": "engine_truth_registry_v1.global_coordinate_system.directions[7]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L054",
+      "line_id": "ZWQS_Juan2_LunMingGong_L053",
       "value_summary": "對齊原文: 武曲金，北斗化財，為財帛主。武曲性剛果決，心直無毒，形小聲高",
       "status": "verified"
     },
@@ -513,14 +522,14 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[1].display_name",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunXiongDi_L022",
+      "line_id": "ZWQS_Juan2_LunXiongDi_L021",
       "value_summary": "對齊原文: 斗君逢在兄弟宮過度，逢吉星兄弟一年和睦，逢凶殺有刑者不見刑主",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[1].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunXiongDi_L022",
+      "line_id": "ZWQS_Juan2_LunXiongDi_L021",
       "value_summary": "對齊原文: 斗君逢在兄弟宮過度，逢吉星兄弟一年和睦，逢凶殺有刑者不見刑主",
       "status": "verified"
     },
@@ -586,28 +595,28 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunZiNv_L000",
+      "line_id": "ZWQS_Juan2_An12GongLi_L001",
       "value_summary": "對齊原文: 四子女",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].display_name",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunZiNv_L001",
+      "line_id": "ZWQS_Juan2_LunZiNv_L000",
       "value_summary": "對齊原文: 凡看子女先看本宮星宿主有幾子。若加羊陀火玲空劫殺忌主生子女有",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunZiNv_L001",
+      "line_id": "ZWQS_Juan2_LunZiNv_L000",
       "value_summary": "對齊原文: 凡看子女先看本宮星宿主有幾子。若加羊陀火玲空劫殺忌主生子女有",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[3].engine_binding",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunZiNv_L000",
+      "line_id": "ZWQS_Juan2_An12GongLi_L001",
       "value_summary": "對齊原文: 四子女",
       "status": "verified"
     },
@@ -728,7 +737,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[7].legacy_aliases[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnShangshi_L002",
+      "line_id": "ZWQS_Juan2_AnShangshi_L000",
       "value_summary": "對齊原文: 順數命前六位是天傷，命後六位是天使，天傷安在奴僕宮，天使安在",
       "status": "verified"
     },
@@ -804,7 +813,12 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_LunMingGong_L381",
       "value_summary": "對齊原文: 權星最喜吉星扶，事業軒昂膽氣粗，更值巨門兼武曜，三邊鎮守掌兵",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[8].engine_binding",
@@ -816,7 +830,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L122",
+      "line_id": "ZWQS_Juan2_LunMingGong_L121",
       "value_summary": "對齊原文: 太陰水，南北斗化富，為母宿，又為妻星，為田宅主。太陰居命面方",
       "status": "verified"
     },
@@ -839,7 +853,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[9].engine_binding",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L122",
+      "line_id": "ZWQS_Juan2_LunMingGong_L121",
       "value_summary": "對齊原文: 太陰水，南北斗化富，為母宿，又為妻星，為田宅主。太陰居命面方",
       "status": "verified"
     },
@@ -874,7 +888,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunFuMu_L000",
+      "line_id": "ZWQS_Juan2_An12GongLi_L001",
       "value_summary": "對齊原文: 十二父母",
       "status": "verified"
     },
@@ -904,7 +918,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.palace_name_registry[11].engine_binding",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunFuMu_L000",
+      "line_id": "ZWQS_Juan2_An12GongLi_L001",
       "value_summary": "對齊原文: 十二父母",
       "status": "verified"
     },
@@ -947,7 +961,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[1].display_name",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L032",
+      "line_id": "ZWQS_Juan2_LunMingGong_L030",
       "value_summary": "對齊原文: 天機星與太陰同，女命逢之淫巧容，衣祿豐饒終不美，為娼為妾主淫",
       "status": "verified"
     },
@@ -1151,7 +1165,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[8].display_name",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnMingzhu_L002",
+      "line_id": "ZWQS_Juan2_AnMingzhu_L000",
       "value_summary": "對齊原文: 假如午宮安命尋破軍星在何宮即命主也，子宮安命尋貪狼星在何宮即",
       "status": "verified"
     },
@@ -1173,7 +1187,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L001",
       "value_summary": "對齊原文: 天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰",
       "status": "verified"
     },
@@ -1188,7 +1202,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[9].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L001",
       "value_summary": "對齊原文: 天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰",
       "status": "verified"
     },
@@ -1297,7 +1311,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[12].legacy_aliases[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L066",
+      "line_id": "ZWQS_Juan2_LunMingGong_L064",
       "value_summary": "對齊原文: 將星一宿最剛強，女命逢之性異常，衣祿滔滔終有破，不然壽夭或凶",
       "status": "verified"
     },
@@ -1349,7 +1363,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
       "value_summary": "對齊原文: 文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒",
       "status": "verified"
     },
@@ -1358,12 +1372,17 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnShenzhu_L001",
       "value_summary": "對齊原文: 子午人火玲星，丑未人天相星，寅申人天梁星，卯酉人天同星，辰戌",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[14].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
       "value_summary": "對齊原文: 文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒",
       "status": "verified"
     },
@@ -1378,7 +1397,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L015",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
       "value_summary": "對齊原文: 文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成",
       "status": "verified"
     },
@@ -1387,12 +1406,17 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_LunMingGong_L274",
       "value_summary": "對齊原文: 二限相逢文曲星，士庶斯年須發福，更添左右會天同，財祿滔滔為上",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[15].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L015",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
       "value_summary": "對齊原文: 文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成",
       "status": "verified"
     },
@@ -1583,7 +1607,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L018",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L017",
       "value_summary": "對齊原文: 擎羊辰戌丑未宮鬧中生財，陷地破祖不聚終不能發達，只魚鹽污垢中",
       "status": "verified"
     },
@@ -1598,7 +1622,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[22].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L018",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L017",
       "value_summary": "對齊原文: 擎羊辰戌丑未宮鬧中生財，陷地破祖不聚終不能發達，只魚鹽污垢中",
       "status": "verified"
     },
@@ -1755,7 +1779,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L369",
+      "line_id": "ZWQS_Juan2_LunMingGong_L368",
       "value_summary": "對齊原文: 天馬火，最喜會祿存，極忌截路空亡。如命在辰戌丑未，遇寅申巳亥",
       "status": "verified"
     },
@@ -1769,7 +1793,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[27].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L369",
+      "line_id": "ZWQS_Juan2_LunMingGong_L368",
       "value_summary": "對齊原文: 天馬火，最喜會祿存，極忌截路空亡。如命在辰戌丑未，遇寅申巳亥",
       "status": "verified"
     },
@@ -1784,7 +1808,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLongfeng_L000",
+      "line_id": "ZWQS_Juan2_AnKuxu_L001",
       "value_summary": "對齊原文: 安龍池鳳閣訣論本生年支",
       "status": "verified"
     },
@@ -1799,7 +1823,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[28].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLongfeng_L000",
+      "line_id": "ZWQS_Juan2_AnKuxu_L001",
       "value_summary": "對齊原文: 安龍池鳳閣訣論本生年支",
       "status": "verified"
     },
@@ -1814,7 +1838,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLongfeng_L000",
+      "line_id": "ZWQS_Juan2_AnKuxu_L001",
       "value_summary": "對齊原文: 安龍池鳳閣訣論本生年支",
       "status": "verified"
     },
@@ -1829,7 +1853,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[29].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLongfeng_L000",
+      "line_id": "ZWQS_Juan2_AnKuxu_L001",
       "value_summary": "對齊原文: 安龍池鳳閣訣論本生年支",
       "status": "verified"
     },
@@ -2024,7 +2048,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].standard_key",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLiuLuanxi_000",
+      "line_id": "ZWQS_Juan2_AnLiuChangqu_000",
       "value_summary": "對齊原文: 安天德月德解神訣",
       "status": "verified"
     },
@@ -2039,7 +2063,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[36].legacy_aliases[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLiuLuanxi_000",
+      "line_id": "ZWQS_Juan2_AnLiuChangqu_000",
       "value_summary": "對齊原文: 安天德月德解神訣",
       "status": "verified"
     },
@@ -2123,7 +2147,7 @@
     {
       "engine_path": "engine_truth_registry_v1.name_registries.star_name_registry[39].display_name",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnKuxu_L000",
+      "line_id": "ZWQS_Juan2_AnSantaiBazuo_L001",
       "value_summary": "對齊原文: 安天哭天虛星訣論本生年支",
       "status": "verified"
     },
@@ -2215,7 +2239,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丙.化科",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
       "value_summary": "對齊原文: 文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒",
       "status": "verified"
     },
@@ -2250,7 +2274,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丁.化忌",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L001",
       "value_summary": "對齊原文: 天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰",
       "status": "verified"
     },
@@ -2306,7 +2330,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己.化忌",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L015",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
       "value_summary": "對齊原文: 文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成",
       "status": "verified"
     },
@@ -2341,7 +2365,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛.化祿",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L001",
       "value_summary": "對齊原文: 天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰",
       "status": "verified"
     },
@@ -2355,14 +2379,14 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛.化科",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L015",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
       "value_summary": "對齊原文: 文曲入廟富足，加吉星得貴人財，加羊陀火鈴空劫家忌，東來西去成",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛.化忌",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L014",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
       "value_summary": "對齊原文: 文昌富足倉箱，加吉星財氣旺，巨門同富，陷地將同陀火鈴空敗寒儒",
       "status": "verified"
     },
@@ -2404,7 +2428,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸.化權",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L002",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L001",
       "value_summary": "對齊原文: 天機勞心費力生財，巨門同鬧中求取，天梁同機關巧計生外財，太陰",
       "status": "verified"
     },
@@ -2467,7 +2491,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.乙.kui",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2481,7 +2505,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.己.kui",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2544,7 +2568,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.壬.yue",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2558,7 +2582,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tiankui_tianyue_table.standard.癸.yue",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2579,7 +2603,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.丙",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2593,7 +2617,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.戊",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2628,7 +2652,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.luzun_qingyang_tuoluo_table.癸",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -2698,21 +2722,21 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.亥",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.卯",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.tianma_table.未",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunCaiBo_L013",
+      "line_id": "ZWQS_Juan2_LunCaiBo_L012",
       "value_summary": "對齊原文: 破軍在子午宮，多有金銀寶貝蓄積，辰戌旺宮亦財盛，陷宮破不祖聚",
       "status": "verified"
     },
@@ -4728,28 +4752,48 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[4]",
@@ -4770,7 +4814,12 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[7]",
@@ -4789,7 +4838,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[9]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunTianZhai_L004",
+      "line_id": "ZWQS_Juan2_LunTianZhai_L003",
       "value_summary": "對齊原文: 武曲單居旺地，得祖父大業，陷地退後方成，破軍大耗同破蕩家產",
       "status": "verified"
     },
@@ -4798,7 +4847,12 @@
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[11]",
@@ -4810,21 +4864,21 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnChangsheng_L000",
+      "line_id": "ZWQS_Juan2_AnFenggao_L001",
       "value_summary": "對齊原文: 安長生、沐浴、冠帶、臨官、帝旺、衰、病、死、墓、絕、胎、養男",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnChangsheng_L000",
+      "line_id": "ZWQS_Juan2_AnFenggao_L001",
       "value_summary": "對齊原文: 安長生、沐浴、冠帶、臨官、帝旺、衰、病、死、墓、絕、胎、養男",
       "status": "verified"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[2]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnChangsheng_L000",
+      "line_id": "ZWQS_Juan2_AnFenggao_L001",
       "value_summary": "對齊原文: 安長生、沐浴、冠帶、臨官、帝旺、衰、病、死、墓、絕、胎、養男",
       "status": "verified"
     },
@@ -4880,7 +4934,7 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars[10]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunJiE_L002",
+      "line_id": "ZWQS_Juan2_LunJiE_L001",
       "value_summary": "對齊原文: 紫微災少，天府同亦少，天相同皮胎勞，如加破軍血氣不和，同羊鈴",
       "status": "verified"
     },
@@ -5008,7 +5062,9 @@
       "status": "unverified",
       "verification_status": "unverified",
       "source_type": "design_rule",
-      "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
+      "design_origin_note": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：solar_time_correction 功能未實作，此為真正缺口非路徑錯誤，需人工決定是否移除該引用或補建此功能。"
     },
     {
       "engine_path": "engine_compute_protocol_v1.calendar_ephemeris_protocol.jieqi_precision",
@@ -5317,8 +5373,9 @@
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.ming_shen_palace",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnMingShenLi_L001",
-      "value_summary": "安命身宮公式：寅起正月順數月，逆數時安命，順數時安身",
-      "status": "verified"
+      "value_summary": "對齊原文: 大抵人命俱從寅上起正月，順數至本生月止，又自人生月起子時逆至本生時安命，順至本生時安身。",
+      "status": "verified",
+      "interpretive_note": "安命身宮公式：寅起正月順數月，逆數時安命，順數時安身"
     },
     {
       "engine_path": "engine_compute_protocol_v1.natal_chart_compute.wuxing_ju",
@@ -5377,11 +5434,16 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.liuyue_doujun",
+      "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
       "value_summary": "對齊原文: 於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daily_hourly_rules.liuri",
@@ -5487,7 +5549,7 @@
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.major_patterns[3]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L019",
+      "line_id": "ZWQS_Juan2_LunMingGong_L017",
       "value_summary": "對齊原文: 紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚",
       "status": "verified"
     },
@@ -5679,7 +5741,12 @@
       "data_file": "QMDJ_XiaJuan_Consolidated.json",
       "line_id": "QMDJ_Juan30_L006",
       "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "text_pending_review",
+      "design_origin_note": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。",
+      "halt_status": "HALT",
+      "halt_reason": "HALT：原文查無「天禽寄於坤二宮」此完整段落；現有 line_id 僅載「天禽星寄於」，需人工確認原始文本、意譯或規則來源，不以相似內容補行。"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.fusion_block.bridge_mapping_layer.five_element_relation",
@@ -5864,7 +5931,7 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_overlay_governance_v1.annual_time_sensitive_tables.2026_sha_qi",
+      "engine_path": "time_sensitive_overlays_v1.annual_sha_qi_resolution_table.2026_bing_wu",
       "value_summary": "此規則為系統設計決策或硬性設定值: 2026 年度化煞方位與對策",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5872,7 +5939,7 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_overlay_governance_v1.annual_time_sensitive_tables.annual_flying_stars",
+      "engine_path": "time_sensitive_overlays_v1.annual_flying_stars.2026",
       "value_summary": "此規則為系統設計決策或硬性設定值: 流年九宮飛星圖",
       "status": "unverified",
       "verification_status": "unverified",
@@ -5998,11 +6065,12 @@
       "design_origin_note": "System design rule or structural logic; physical ancient text trace not applicable."
     },
     {
-      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.sha_po_lang",
+      "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_main_star_patterns.殺破狼",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_LunMingGong_L019",
-      "value_summary": "對齊原文: 紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷（三方殺破狼＝七殺、破軍、貪狼分居三方四正）",
-      "status": "verified"
+      "line_id": "ZWQS_Juan2_LunMingGong_L017",
+      "value_summary": "對齊原文:       紫微入限本為祥，只恐三方殺破狼，常庶逢之多不利，官員降謫有驚傷。",
+      "status": "verified",
+      "interpretive_note": "三方殺破狼＝七殺、破軍、貪狼分居三方四正"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.ziwei_ancient_patterns.財蔭夾印",
@@ -6356,73 +6424,83 @@
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.甲",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L001",
       "value_summary": "對齊原文: 甲廉破武陽（甲干：化祿廉貞、化權破軍、化科武曲、化忌太陽）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.乙",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L002",
       "value_summary": "對齊原文: 乙機梁紫陰（乙干：化祿天機、化權天梁、化科紫微、化忌太陰）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丙",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L003",
       "value_summary": "對齊原文: 丙同機昌廉（丙干：化祿天同、化權天機、化科文昌、化忌廉貞）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.丁",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L004",
       "value_summary": "對齊原文: 丁陰同機巨（丁干：化祿太陰、化權天同、化科天機、化忌巨門）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.戊",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L005",
       "value_summary": "對齊原文: 戊貪陰右機（戊干：化祿貪狼、化權太陰、化科右弼、化忌天機）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.己",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L006",
       "value_summary": "對齊原文: 己武貪梁曲（己干：化祿武曲、化權貪狼、化科天梁、化忌文曲）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.庚",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L007",
       "value_summary": "對齊原文: 庚：陽武同相（庚干：化祿太陽、化權武曲、化科天同、化忌天相）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.辛",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L008",
       "value_summary": "對齊原文: 辛巨陽曲昌（辛干：化祿巨門、化權太陽、化科文曲、化忌文昌）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.壬",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L009",
       "value_summary": "對齊原文: 壬：梁紫左武（壬干：化祿天梁、化權紫微、化科左輔、化忌武曲）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard.癸",
-      "data_file": "SHZH_TenStemSihua_Source.json",
-      "line_id": "SHZH_TenStemSihua_L010",
       "value_summary": "對齊原文: 癸破巨陰貪（癸干：化祿破軍、化權巨門、化科太陰、化忌貪狼）",
-      "status": "verified"
+      "status": "unverified",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
     }
   ]
 }

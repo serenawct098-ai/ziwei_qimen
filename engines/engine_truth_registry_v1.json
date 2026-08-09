@@ -1013,80 +1013,90 @@
           "化權": "破軍",
           "化科": "武曲",
           "化忌": "太陽",
-          "line_id": "SHZH_TenStemSihua_L001",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "乙": {
           "化祿": "天機",
           "化權": "天梁",
           "化科": "紫微",
           "化忌": "太陰",
-          "line_id": "SHZH_TenStemSihua_L002",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "丙": {
           "化祿": "天同",
           "化權": "天機",
           "化科": "文昌",
           "化忌": "廉貞",
-          "line_id": "SHZH_TenStemSihua_L003",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "丁": {
           "化祿": "太陰",
           "化權": "天同",
           "化科": "天機",
           "化忌": "巨門",
-          "line_id": "SHZH_TenStemSihua_L004",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "戊": {
           "化祿": "貪狼",
           "化權": "太陰",
           "化科": "右弼",
           "化忌": "天機",
-          "line_id": "SHZH_TenStemSihua_L005",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "己": {
           "化祿": "武曲",
           "化權": "貪狼",
           "化科": "天梁",
           "化忌": "文曲",
-          "line_id": "SHZH_TenStemSihua_L006",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "庚": {
           "化祿": "太陽",
           "化權": "武曲",
           "化科": "天同",
           "化忌": "天相",
-          "line_id": "SHZH_TenStemSihua_L007",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "辛": {
           "化祿": "巨門",
           "化權": "太陽",
           "化科": "文曲",
           "化忌": "文昌",
-          "line_id": "SHZH_TenStemSihua_L008",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "壬": {
           "化祿": "天梁",
           "化權": "紫微",
           "化科": "左輔",
           "化忌": "武曲",
-          "line_id": "SHZH_TenStemSihua_L009",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         },
         "癸": {
           "化祿": "破軍",
           "化權": "巨門",
           "化科": "太陰",
           "化忌": "貪狼",
-          "line_id": "SHZH_TenStemSihua_L010",
-          "data_file": "SHZH_TenStemSihua_Source.json"
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
         }
       }
     },

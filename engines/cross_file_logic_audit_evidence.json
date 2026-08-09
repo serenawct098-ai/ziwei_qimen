@@ -21,7 +21,8 @@
       "case": "Physical_Isolation",
       "expected": "Time-sensitive data moved to /overlays/",
       "result": "PASS",
-      "path": "/home/ubuntu/ziwei_qimen/overlays/time_sensitive_overlays_v1.json"
+      "path": "overlays/time_sensitive_overlays_v1.json",
+      "path_status": "updated_repository_relative_historical_evidence"
     },
     {
       "task_id": "Task 1",
