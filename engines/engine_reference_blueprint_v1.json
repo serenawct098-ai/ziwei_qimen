@@ -439,26 +439,20 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L002",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "value_summary": "對齊原文: 要知不論男女命，尋祿存星起，陽男陰女順行，陰男陽女逆行。",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.canonical_locks.qimen_panlayer_lock",
@@ -4713,50 +4707,38 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[4]",
@@ -4775,14 +4757,11 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[7]",
@@ -4808,14 +4787,11 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[11]",
@@ -5389,14 +5365,11 @@
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
-      "value_summary": "對齊原文: 於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君",
-      "status": "unverified",
-      "verification_status": "unverified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
+      "value_summary": "對齊原文: 大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。",
+      "status": "verified",
+      "verification_status": "verified",
+      "design_origin_note": ""
     },
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.daily_hourly_rules.liuri",

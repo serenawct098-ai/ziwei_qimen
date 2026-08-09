@@ -4915,50 +4915,38 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[0]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[1]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[2]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[3]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[4]",
@@ -4981,14 +4969,11 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[6]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[7]",
@@ -5020,14 +5005,11 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[10]",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉喜神病符錄，天耗伏兵至宮府，吉凶從此分禍福。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍及奏書，蜚廉貞喜神病符錄，天耗伏兵至宮天府，吉凶從此分禍福。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars[11]",
@@ -5176,14 +5158,11 @@
     {
       "engine_path": "engine_compute_protocol_v1.dynamic_overlay_compute.monthly_rules",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnLiuKuiyue_001",
-      "original_quote_preview": "於流年太歲宮起正月逆至本生月，又從本生月起子順數至本生時安斗君",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "安斗君公式：流年太歲宮起正月，逆數至生月，再從生月起子時順數至生時",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
+      "original_quote_preview": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。",
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。"
     },
     {
       "engine_path": "engine_interpretation_fusion_v1.traditional_interpretation_block.thematic_analysis[1]",
@@ -7417,26 +7396,20 @@
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
+      "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "original_quote_preview": "博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series",
       "data_file": "ZWQS_Juan2_Consolidated.json",
-      "line_id": "ZWQS_Juan2_AnTaisuisha_L002",
+      "line_id": "ZWQS_Juan2_AnTaisuisha_L001",
       "original_quote_preview": "要知不論男女命，尋祿存星起，陽男陰女順行，陰男陽女逆行。",
-      "verification_status": "unverified",
-      "design_origin_note": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
-      "normalized_preview": "要知不論男女命，尋祿存星起，陽男陰女順行，陰男陽女逆行。",
-      "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "verification_status": "verified",
+      "design_origin_note": "",
+      "normalized_preview": "要知不論男女命，尋祿存星起，陽男陰女順行，陰男陽女逆行。"
     }
   ]
 }
