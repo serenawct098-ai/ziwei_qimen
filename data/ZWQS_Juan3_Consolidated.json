@@ -2,251 +2,1380 @@
   "category": "紫微專題判斷原文",
   "entries": [
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L000",
-      "original_quote": "申年太歲併小限到申宮入廟化吉",
+      "line_id": "ZWQS_Auto_00001",
+      "original_quote": "紫微斗數全書卷三",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第196行"
+        "section": "未分類",
+        "line_ref": "第1行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Auto_00002",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "未分類",
+        "line_ref": "第2行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Auto_00003",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "未分類",
+        "line_ref": "第3行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L000",
+      "original_quote": "談星要論 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第4行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L001",
-      "original_quote": "廉偵破軍紫微甲庚癸生人發福，巨門甲庚癸生人發福，天機丁甲癸生人發福，庚生人亦發財發福。",
+      "line_id": "ZWQS_Auto_00005",
+      "original_quote": "",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第197行"
+        "section": "未分類",
+        "line_ref": "第5行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L001",
+      "original_quote": "看身安命祿馬不落空亡天空截空最緊，旬空次之。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第6行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L002",
-      "original_quote": "申年太歲併小限到申宮不入廟化凶",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L002",
+      "original_quote": "第一看命宮吉凶廟旺化吉化忌生剋。次看身主吉凶生剋。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第199行"
+        "section": "談星要論",
+        "line_ref": "第7行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L003",
-      "original_quote": "天機乙戊生人災晦，巨門丁生人不宜，廉貞丙壬生人有災，天同甲庚生人災禍，貪狼癸丙生人有災禍。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L003",
+      "original_quote": "三看遷移財帛宮祿三方星辰刑沖剋破。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第200行"
+        "section": "談星要論",
+        "line_ref": "第8行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L004",
-      "original_quote": "申年太歲所值吉凶星",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L004",
+      "original_quote": "四看幅德宮權祿劫空廟陷，以福德宮對財帛宮也。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第202行"
+        "section": "談星要論",
+        "line_ref": "第9行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L005",
-      "original_quote": "紫微太陽廉貞天府巨門七殺文昌武曲祿存，便斷其年人財利益，喜事重重。若遇天機天同天梁天相太陰破軍忌星，便斷其年人財散失，官非孝服，本身災病。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L005",
+      "original_quote": "身命遷移財官福德六宮名曰八座，俱在成照聚吉化吉，富貴高壽。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "定小兒生時",
-        "line_ref": "第203行"
+        "section": "談星要論",
+        "line_ref": "第10行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L000",
-      "original_quote": "酉年太歲併小限到酉宮入廟化吉",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L006",
+      "original_quote": "六宮俱陷，聚凶化忌，孤寡天壽。若卯酉時生人尤外，有田宅疾厄已錄於後。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第205行"
+        "section": "談星要論",
+        "line_ref": "第11行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L001",
-      "original_quote": "紫微天機太陰酉宮守命丙戊乙辛生人進財吉利。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L007",
+      "original_quote": "又看父母妻子三宮，俱有劫空殺忌，僧道之命，否則孤獨貧窮。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第206行"
+        "section": "談星要論",
+        "line_ref": "第12行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L002",
-      "original_quote": "酉年太歲併小限到酉宮不入廟化凶",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L008",
+      "original_quote": "若命宮無正曜者，財宮二宮有吉星拱照，富貴全美，或偏房庶母所生。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第208行"
+        "section": "談星要論",
+        "line_ref": "第13行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L003",
-      "original_quote": "太陽天同甲乙生人不宜，武曲庚壬生人不宜，天相甲庚生人不宜，廉貞甲庚丙辛生人不宜，天府甲庚壬生人不宜。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L009",
+      "original_quote": "三方有惡星沖照，或二姓可延生，離祖可保成家。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第209行"
+        "section": "談星要論",
+        "line_ref": "第14行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L004",
-      "original_quote": "酉年太歲所值吉凶星",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L010",
+      "original_quote": "如命宮有正曜吉星，廟旺化吉，三方又有吉星會合，上上之命。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第211行"
+        "section": "談星要論",
+        "line_ref": "第15行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L005",
-      "original_quote": "祿存太陰紫微天府昌曲左右，便斷其年人財興旺，作事遂心。若值天機巨門武曲廉貞擎羊陀忌，便斷其年人離財散，口舌官非。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L011",
+      "original_quote": "如無正曜吉星，三方有吉，上次之命。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第212行"
+        "section": "談星要論",
+        "line_ref": "第16行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L006",
-      "original_quote": "戌年太歲併小限到戌宮入廟化吉",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L012",
+      "original_quote": "命宮星辰無言無凶，或吉凶相伴者，如三方亦有中等星辰，為中格。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大限十年",
-        "line_ref": "第214行"
+        "section": "談星要論",
+        "line_ref": "第17行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L000",
-      "original_quote": "亥年太歲併小限到亥宮入廟化吉",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L013",
+      "original_quote": "及命宮星辰廟旺，三方有惡星守照破格。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第223行"
+        "section": "談星要論",
+        "line_ref": "第18行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L001",
-      "original_quote": "紫微天同巨門天梁壬癸戊生人吉慶，天機壬生人吉美，天相丁己生人及丙戊生人發福，太陰戊己生人財官雙美。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L014",
+      "original_quote": "及命星陷背，加羊陀化忌，卻得十干祿元來相守化吉，亦為中等之命。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第224行"
+        "section": "談星要論",
+        "line_ref": "第19行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L002",
-      "original_quote": "亥年太歲併小限到亥宮不入廟化凶",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L015",
+      "original_quote": "若命無吉星，反有凶殺化忌無祿落陷，為下格之命。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第226行"
+        "section": "談星要論",
+        "line_ref": "第20行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L003",
-      "original_quote": "廉貞丙壬癸生人不宜，武曲壬丙生人不宜，太陽甲生人不宜。",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L016",
+      "original_quote": "三方有吉星，亦可為中等，先小後大，不能久遠，終為成敗夭折論。",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第227行"
+        "section": "談星要論",
+        "line_ref": "第21行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L004",
-      "original_quote": "亥年太歲所值吉凶星",
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L017",
+      "original_quote": "若安命星纏陷地，又加凶殺化忌，三方又會羊陀火鈴空劫，為下格貧賤，二姓延生，奴僕之命，否則夭折六畜之命。 ",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第229行"
+        "section": "談星要論",
+        "line_ref": "第22行"
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L005",
-      "original_quote": "天同太陰天梁紫微天府昌曲祿存，便斷其年人財進益，喜氣重重，謀事俱稱心懷。若遇廉貞破軍七殺，便斷其年人財耗散，小口死亡，本身災晦。",
+      "line_id": "ZWQS_Auto_00023",
+      "original_quote": "",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論大小限急訣",
-        "line_ref": "第230行"
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第23行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L018",
+      "original_quote": "論人命入格",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第24行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00025",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第25行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L019",
+      "original_quote": "如命入格，廟旺聚吉科權祿守，上上之命。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第26行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L020",
+      "original_quote": "不入廟加吉化科權祿，上次之命。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第27行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L021",
+      "original_quote": "不入廟不加吉，為平常命。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第28行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L022",
+      "original_quote": "入廟不加吉，平等。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第29行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L023",
+      "original_quote": "若居陷地又加殺化忌，為下格之命，不以入格而論也。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第30行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L024",
+      "original_quote": "又入格不化吉而化凶，只以本命吉凶多寡而斷之。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第31行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00032",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第32行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L025",
+      "original_quote": "論格星數高下 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第33行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00034",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第34行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L026",
+      "original_quote": "紫府與數相合何如，紫微南北斗中天帝主，天府乃南斗主。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第35行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L027",
+      "original_quote": "又看陰陽相半者，看陰陽不相半，又數不相生，為下格。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第36行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L028",
+      "original_quote": "陰陽純駁為中格。又三方四正皆吉星為上格。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第37行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L029",
+      "original_quote": "吉凶相半守照為中格。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第38行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L030",
+      "original_quote": "凶星惡殺為下格凶徒論。 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第39行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L031",
+      "original_quote": "凡星得上格而數得上格為第一，位至極品之貴。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第40行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L032",
+      "original_quote": "凡星得上格而數得中格為第二，位至三公。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第41行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L033",
+      "original_quote": "星得上格而數得下格為第三，位至六卿。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第42行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L034",
+      "original_quote": "皆為上格上壽之人。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第43行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L035",
+      "original_quote": "星得中格而數得上格為第四，位至監司。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第44行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L036",
+      "original_quote": "星中數中為第五，位至縣令。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第45行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L037",
+      "original_quote": "星中敷下為第六，異路前程貴顯。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第46行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L038",
+      "original_quote": "皆得中等享福主人也。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第47行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L039",
+      "original_quote": "又星得下格而數得上格為第七，衣祿豐足，富比陶朱，子孫蕃盛，壽享遐齡，以星雖凶而命入格合局故也，再否虛名虛利。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第48行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L040",
+      "original_quote": "星下數中為第八，衣食無虧。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第49行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L041",
+      "original_quote": "星下數下為第九，辛苦奔波，貧窮夭折。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第50行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L042",
+      "original_quote": "上中下三等，依理而斷，則上可以知祖宗之源，而下可以知子孫之盛衰也。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第51行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00052",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第52行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L043",
+      "original_quote": "論男女命同異",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第53行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L044",
+      "original_quote": "男女命不同，星辰各別。男命先看身命，次看財帛宮祿遷移，俱要廟旺為吉，落陷聚凶為凶。三看福德，權祿劫空廟陷吉忌。又看田宅奴僕疾厄宮吉凶，吉凶已算於後。又看父母妻子三宮，俱有劫空殺忌則僧道之命，否則貧窮孤獨。須要仔細參詳，方可斷人禍福榮辱。 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第54行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L045",
+      "original_quote": "女命先看身命吉凶，如貪狼七殺擎羊則不美。次看福德宮吉凶，若七殺單居福德必為娼婢。三看夫君，四看子媳財帛田宅。若桃花刑殺要敗絕空亡為凶，若諸吉廟旺則佳，雖是艱辛貧困亦不為下濺夭折論。女因夫貴，女命貴格反為無用，以子媳夫君福德為正強。田宅財帛為次強。宮祿遷移七殺為陷。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第55行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00056",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第56行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L046",
+      "original_quote": "論小兒命",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第57行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L047",
+      "original_quote": "小兒博士力士上短下長，青龍將軍腮小頭圓。大耗鼻仰唇縮，死符病符聲高性雄。官府奏書逢惡曜落地無聲，白虎太歲遇七殺幼弱遭傷。須分生剋制化之垣，更看時祿衰敗之地，後觀關殺方知壽夭窮通。 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第58行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00059",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第59行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L048",
+      "original_quote": "小兒初生，命中星辰廟旺，大小二限未行，斷其災少，易養，父母無剋。若命坐惡",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第60行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L049",
+      "original_quote": "殺及纏陷弱之地，大小二限未行，斷其災多，難養，刑剋父母。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第61行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00062",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第62行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L050",
+      "original_quote": "定小兒生時訣",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第63行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L051",
+      "original_quote": "子午卯酉單頂門，或偏左邊二三分，寅申巳亥亦單頂，偏居右去始為真，辰戌丑未是雙頂，胞胎受定正時辰。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第64行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053a",
+      "original_quote": "又",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第65行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053b",
+      "original_quote": "子午卯酉面向天，寅申巳亥側身眠，辰戌丑未臉伏地，臨盆當試用心堅。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第66行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00067",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第67行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L054",
+      "original_quote": "論人生時安命吉凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第68行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L055",
+      "original_quote": "凡男女生在寅午戌申子辰六陽時，安命在此六宮者吉。生在巳酉丑亥卯未六陰時，安命在此六宮者吉。反此則少遂。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第69行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00070",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第70行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L056",
+      "original_quote": "論人生時要審的確",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第71行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L057",
+      "original_quote": "如人生子亥二時最難定，準要仔細推祥，如子時有十刻，上午刻屬昨夜亥時，下午刻屬今日子時，如天氣陰雨之際，必須羅經以定真確時候，若差訛則命不準矣。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第72行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00073",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第73行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L058",
+      "original_quote": "論小兒剋親",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第74行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L059",
+      "original_quote": "如寅午巳酉生人，見辰戍丑未時最毒，子申亥卯生人次之。若寅亥巳生人，見午申酉亥時，主先剋父，出十六歲則不妨。若辰巳丑未生人，見子午卯巳亥申酉時生者，主先剋母。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第75行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00076",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第76行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L060",
+      "original_quote": "論命先貧後富",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第77行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L061",
+      "original_quote": "人生於富貴之家，一生快樂享福，財官顯達，妻榮子貴，奴僕成行，聲名昭著。其間有半途遭傷，人離財散，官非火盜，身喪家亡，此等之命非命也。是限步逢大小二限及太歲相沖照，又加凶殺守臨，故此破敗，不貧即損壽也。所謂先成後敗，先大後小也。 ",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第78行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L062",
+      "original_quote": "又有人命出身微賤，營活生計，百工巧藝，九流醫術，又為農圃等輩，初歷艱辛度日。卻仍中末平地升騰，發財驚駭鄉邦，因生在中庸之局，後因限步相扶，星辰逢吉曜兼廟旺，以此突然發達進祿。所謂先貧後富，先小後大是也。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第79行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00080",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第80行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L063",
+      "original_quote": "論大限十年禍福何如",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第81行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L064",
+      "original_quote": "如宮分星纏全吉廟旺得地，無擎羊陀羅火鈴空劫者，主十年安靜，人財全美。若限內有擎羊陀羅火鈴空劫忌星為伴，成敗不一。如宮分星纏陷地，值擎羊陀羅火鈴空劫忌，又加流年惡殺湊合，及小限巡逢凶殺，則官災死亡立見。大限將出，有吉眾者無災悔，少者災多，損人破財不利。凡行至寅申巳亥子午宮，遇紫微天府天同太陽太陰昌曲祿存祿主吉星，主人財興旺，添丁進口之慶。行至辰戍丑未卯酉，遇惡殺廉貞天使羊陀火鈴空劫忌星，主人酒色荒迷，貧乏死生。遇左右昌曲，仕宦遷官加職，士民生子發財，婦人喜事，僧道亦利，商賈得益。凡大小二限及太歲，怕行天傷天使夾地，怕行天空地劫之地，怕行擎羊陀羅之地，及羊陀沖照，怕脫凶限，怕逢凶限，又怕傷使劫空羊陀併夾歲限。如天傷在子，天使在寅，歲限在丑宮，乃併夾也。羊陀守命尚且無用，況夾限乎，若逃得過須看壽星，紫微天同天梁貪狼坐命可解。更須看月值惡殺，日值惡殺，加湊大小歲月日時五者參詳吉凶推斷。太歲行至奏書將軍直符天使天傷羊陀火鈴空劫忌星，逢一二位，主人離財散，疾病哭泣之兆。若歲限犯重月日一二位，又逢忌星合者，官吏遭謫，常人遭橫事，婦人損胎，病者死亡。若惡殺在不得地，如風雨暴過。若歲限臨無吉星，命中無救，其年難過必死。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第82行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00083",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第83行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L065",
+      "original_quote": "論二限太歲吉凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第84行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L066",
+      "original_quote": "須詳大限獨守吉凶何如，小限獨守吉凶何如，太歲獨守吉凶何如。如歲限俱凶則凶。又看大限與小限相逢吉凶何如，大限逢太歲吉凶何如，小限逢太歲吉凶何如，禍福所定。又看太歲沖大限小限，太歲沖羊陀七殺，然後可斷吉凶。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第85行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00086",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第86行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L067",
+      "original_quote": "論行限分南北斗",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第87行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L068",
+      "original_quote": "陽男陰女南斗為福。陰男陽女北斗為福。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第88行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L069",
+      "original_quote": "北斗諸星吉凶，大限斷上五年應•小限斷上半年應。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第89行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L070",
+      "original_quote": "南斗諸星吉凶，大限斷下五年應，小限斷下半年應。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第90行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00091",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第91行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L071",
+      "original_quote": "論流年太歲吉凶星殺",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第92行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L072",
+      "original_quote": "凡太歲看三方對照星辰吉凶何如以定禍福，太歲在命宮行者禍福尤緊。如命在子宮太歲到子，又癸生人逢吉則吉逢凶則凶。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第93行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00094",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第94行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L073",
+      "original_quote": "論陰騭延壽",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第95行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L074",
+      "original_quote": "陰騰延壽生百福，雖然倒限不遭傷。假如有人大小二限及太歲到凶陷地，有延過壽去不死者，乃是其人曾行陰騰，平日利物濟人，反身修德，以作善降福，雖凶不害。如宋郊編荻橋渡蟻是也。又如諸葛亮火燒藤甲軍，傷人太毒減壽一紀。當以此參詳。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第96行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00097",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第97行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L075",
+      "original_quote": "論羊陀迭併",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第98行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L076",
+      "original_quote": "如庚年生人，命在卯宮，遷移在酉宮。如遇羊陀，流年亦庚祿居申，流羊在酉，流陀在未，是命在卯宮原有酉宮擎羊沖合，流年又遇流羊流陀，謂之羊陀迭併。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第99行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00100",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第100行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L077",
+      "original_quote": "論七殺重逢",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第101行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L078",
+      "original_quote": "如命中三合原有七殺守照，而流年又遇流羊流陀沖照凶，七殺重逢二者為禍最毒，入廟災晦減輕，如陷地逢忌及卯酉遇擎羊為閑宮，午生人不利也。然七殺逢吉曜眾亦轉凶化吉，不可一概論凶。擎羊陀羅七殺逢紫微天相祿存三合拱照可解。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第102行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_TanXingYaoLun_L079",
+      "original_quote": "詩曰 羊陀迭併命難逃，七殺重逢禍必遭，太歲二限臨此地，十生九死不堅牢。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "談星要論",
+        "line_ref": "第103行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00104",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第104行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L000",
@@ -366,6 +1495,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00114",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第114行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L009",
       "original_quote": "豬犬生人莫遇蛇，辰戍切忌到網羅，預先整頓衣冠木，未免生人唱挽歌。",
       "tag": [],
@@ -377,6 +1520,20 @@
         "section": "論人命入格",
         "line_ref": "第115行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00116",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第116行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L010",
@@ -418,6 +1575,34 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00120",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第120行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Auto_00121",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第121行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L013",
       "original_quote": "論太歲小限星辰廟陷遇十二宮中吉凶 依此判斷人行年災患應如神",
       "tag": [],
@@ -429,6 +1614,20 @@
         "section": "論人命入格",
         "line_ref": "第122行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00123",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第123行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L014",
@@ -457,6 +1656,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00126",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第126行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L016",
       "original_quote": "子年太歲併小限到子宮不入廟化凶",
       "tag": [],
@@ -481,6 +1694,20 @@
         "section": "論人命入格",
         "line_ref": "第128行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00129",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第129行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L018",
@@ -509,6 +1736,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00132",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第132行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L020",
       "original_quote": "丑年太歲併小限到丑宮入廟化吉",
       "tag": [],
@@ -533,6 +1774,20 @@
         "section": "論人命入格",
         "line_ref": "第134行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00135",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第135行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L022",
@@ -561,6 +1816,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00138",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第138行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L024",
       "original_quote": "丑年太歲所值吉凶星",
       "tag": [],
@@ -585,6 +1854,20 @@
         "section": "論人命入格",
         "line_ref": "第140行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00141",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第141行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L026",
@@ -613,6 +1896,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00144",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第144行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L028",
       "original_quote": "寅年太歲併小限到寅宮不入廟化凶",
       "tag": [],
@@ -637,6 +1934,20 @@
         "section": "論人命入格",
         "line_ref": "第146行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00147",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第147行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenMingRuGe_L030",
@@ -665,6 +1976,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00150",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第150行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenShengShiAnMing_L000",
       "original_quote": "卯年太歲併小限到卯宮入廟化吉",
       "tag": [],
@@ -689,6 +2014,20 @@
         "section": "論人生時安命吉凶",
         "line_ref": "第152行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00153",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第153行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiAnMing_L002",
@@ -717,6 +2056,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00156",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第156行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenShengShiAnMing_L004",
       "original_quote": "卯年太歲所值吉凶星",
       "tag": [],
@@ -741,6 +2094,20 @@
         "section": "論人生時安命吉凶",
         "line_ref": "第158行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00159",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第159行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiAnMing_L006",
@@ -769,6 +2136,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00162",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第162行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenShengShiAnMing_L008",
       "original_quote": "辰年太歲併小限到辰宮不入廟化凶",
       "tag": [],
@@ -793,6 +2174,20 @@
         "section": "論人生時身宮吉凶",
         "line_ref": "第164行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00165",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第165行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L001",
@@ -821,6 +2216,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00168",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第168行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L003",
       "original_quote": "巳年太歲併小限到巳宮入廟化吉",
       "tag": [],
@@ -845,6 +2254,20 @@
         "section": "論人生時身宮吉凶",
         "line_ref": "第170行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00171",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第171行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L005",
@@ -873,6 +2296,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00174",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第174行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunRenShengShiShen_L007",
       "original_quote": "巳年太歲所值吉凶星",
       "tag": [],
@@ -899,147 +2336,18 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L000",
-      "original_quote": "紫微壬甲丁己生人進財，太陰丁己生人吉慶，武曲丁己甲庚生人吉慶，天機甲乙丁己生人發福，巨門己辛癸生人發福，天同廉貞破軍七殺丁己甲生人發財。",
+      "line_id": "ZWQS_Auto_00177",
+      "original_quote": "",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "論太歲小限",
-        "line_ref": "第215行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L001",
-      "original_quote": "戌年太歲併小限到戌宮不入廟化凶",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論太歲小限",
-        "line_ref": "第217行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L002",
-      "original_quote": "貪狼癸生人不宜，天同庚生人不宜，天機戊生人不宜，巨門丁生人不宜，太陽甲生人不宜，廉貞丙生人不宜，武曲壬生人不宜。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論太歲小限",
-        "line_ref": "第218行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L003",
-      "original_quote": "戌年太歲所值吉凶星",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論太歲小限",
-        "line_ref": "第220行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L004",
-      "original_quote": "天機太陰天梁天府武曲七殺貪狼左右天同，便斷其年人財利益，作事遂心，家道興隆。如遇巨門太陽破軍紫微天相忌宿，便斷其年人財退失，孝服官災，本身見病，減半論之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論太歲小限",
-        "line_ref": "第221行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L000",
-      "original_quote": "未年太歲併小限到未宮入廟化吉",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第187行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L001",
-      "original_quote": "紫微天機天府天相天梁壬乙生人發福，太陰庚壬生人發福生財。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第188行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L002",
-      "original_quote": "未年太歲併小限到未宮不入廟化凶",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第190行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L003",
-      "original_quote": "太陽甲乙生人多災晦，天同丁庚生人多災，武曲壬癸生人生災招官非橫禍。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第191行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L004",
-      "original_quote": "未年太歲所值吉凶星",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第193行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L005",
-      "original_quote": "紫微天府廉貞天機破軍天相，便斷其年人財增益，作事如意，婚姻產育之喜。若遇太陰太陽武曲天同貪狼巨門羊陀忌宿，便斷其年人財耗散，孝服官災，陰人小口不寧，本人災厄難免。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "論小兒剋親",
-        "line_ref": "第194行"
-      }
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第177行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L000",
@@ -1068,6 +2376,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00180",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第180行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L002",
       "original_quote": "午年太歲併小限到午宮不入廟化凶",
       "tag": [],
@@ -1092,6 +2414,20 @@
         "section": "論小兒命",
         "line_ref": "第182行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00183",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第183行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunXiaoErMing_L004",
@@ -1120,6 +2456,634 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00186",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第186行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L000",
+      "original_quote": "未年太歲併小限到未宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第187行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L001",
+      "original_quote": "紫微天機天府天相天梁壬乙生人發福，太陰庚壬生人發福生財。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第188行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00189",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第189行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L002",
+      "original_quote": "未年太歲併小限到未宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第190行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L003",
+      "original_quote": "太陽甲乙生人多災晦，天同丁庚生人多災，武曲壬癸生人生災招官非橫禍。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第191行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00192",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第192行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L004",
+      "original_quote": "未年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第193行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunXiaoErKeQin_L005",
+      "original_quote": "紫微天府廉貞天機破軍天相，便斷其年人財增益，作事如意，婚姻產育之喜。若遇太陰太陽武曲天同貪狼巨門羊陀忌宿，便斷其年人財耗散，孝服官災，陰人小口不寧，本人災厄難免。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論小兒剋親",
+        "line_ref": "第194行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00195",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第195行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L000",
+      "original_quote": "申年太歲併小限到申宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第196行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L001",
+      "original_quote": "廉偵破軍紫微甲庚癸生人發福，巨門甲庚癸生人發福，天機丁甲癸生人發福，庚生人亦發財發福。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第197行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00198",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第198行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L002",
+      "original_quote": "申年太歲併小限到申宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第199行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L003",
+      "original_quote": "天機乙戊生人災晦，巨門丁生人不宜，廉貞丙壬生人有災，天同甲庚生人災禍，貪狼癸丙生人有災禍。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第200行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00201",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第201行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L004",
+      "original_quote": "申年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第202行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_DingXiaoErShengShi_L005",
+      "original_quote": "紫微太陽廉貞天府巨門七殺文昌武曲祿存，便斷其年人財利益，喜事重重。若遇天機天同天梁天相太陰破軍忌星，便斷其年人財散失，官非孝服，本身災病。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "定小兒生時",
+        "line_ref": "第203行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00204",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第204行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L000",
+      "original_quote": "酉年太歲併小限到酉宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第205行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L001",
+      "original_quote": "紫微天機太陰酉宮守命丙戊乙辛生人進財吉利。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第206行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00207",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第207行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L002",
+      "original_quote": "酉年太歲併小限到酉宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第208行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L003",
+      "original_quote": "太陽天同甲乙生人不宜，武曲庚壬生人不宜，天相甲庚生人不宜，廉貞甲庚丙辛生人不宜，天府甲庚壬生人不宜。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第209行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00210",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第210行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L004",
+      "original_quote": "酉年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第211行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L005",
+      "original_quote": "祿存太陰紫微天府昌曲左右，便斷其年人財興旺，作事遂心。若值天機巨門武曲廉貞擎羊陀忌，便斷其年人離財散，口舌官非。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第212行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00213",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第213行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXianShiNian_L006",
+      "original_quote": "戌年太歲併小限到戌宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大限十年",
+        "line_ref": "第214行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L000",
+      "original_quote": "紫微壬甲丁己生人進財，太陰丁己生人吉慶，武曲丁己甲庚生人吉慶，天機甲乙丁己生人發福，巨門己辛癸生人發福，天同廉貞破軍七殺丁己甲生人發財。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論太歲小限",
+        "line_ref": "第215行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00216",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第216行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L001",
+      "original_quote": "戌年太歲併小限到戌宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論太歲小限",
+        "line_ref": "第217行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L002",
+      "original_quote": "貪狼癸生人不宜，天同庚生人不宜，天機戊生人不宜，巨門丁生人不宜，太陽甲生人不宜，廉貞丙生人不宜，武曲壬生人不宜。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論太歲小限",
+        "line_ref": "第218行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00219",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第219行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L003",
+      "original_quote": "戌年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論太歲小限",
+        "line_ref": "第220行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunTaiSuiXiaoXian_L004",
+      "original_quote": "天機太陰天梁天府武曲七殺貪狼左右天同，便斷其年人財利益，作事遂心，家道興隆。如遇巨門太陽破軍紫微天相忌宿，便斷其年人財退失，孝服官災，本身見病，減半論之。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論太歲小限",
+        "line_ref": "第221行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00222",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第222行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L000",
+      "original_quote": "亥年太歲併小限到亥宮入廟化吉",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第223行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L001",
+      "original_quote": "紫微天同巨門天梁壬癸戊生人吉慶，天機壬生人吉美，天相丁己生人及丙戊生人發福，太陰戊己生人財官雙美。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第224行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00225",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第225行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L002",
+      "original_quote": "亥年太歲併小限到亥宮不入廟化凶",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第226行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L003",
+      "original_quote": "廉貞丙壬癸生人不宜，武曲壬丙生人不宜，太陽甲生人不宜。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第227行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00228",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第228行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L004",
+      "original_quote": "亥年太歲所值吉凶星",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第229行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Juan3_LunDaXiaoXianJiJue_L005",
+      "original_quote": "天同太陰天梁紫微天府昌曲祿存，便斷其年人財進益，喜氣重重，謀事俱稱心懷。若遇廉貞破軍七殺，便斷其年人財耗散，小口死亡，本身災晦。",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "論大小限急訣",
+        "line_ref": "第230行"
+      }
+    },
+    {
+      "line_id": "ZWQS_Auto_00231",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第231行"
+      },
+      "standard_key": "未知"
+    },
+    {
+      "line_id": "ZWQS_Auto_00232",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第232行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L000",
       "original_quote": "論諸星同垣各司所宜分別富貴貧賤夭壽",
       "tag": [],
@@ -1133,6 +3097,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00234",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第234行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L001",
       "original_quote": "紫微 廟丑未午 旺寅申卯酉巳亥 平子 無陷",
       "tag": [],
@@ -1144,6 +3122,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第235行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00236",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第236行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L002",
@@ -1458,6 +3450,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00261",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第261行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L026",
       "original_quote": "天府 廟子丑未寅辰戌 旺午酉 地卯巳申亥 無陷",
       "tag": [],
@@ -1469,6 +3475,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第262行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00263",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第263行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L027",
@@ -1562,6 +3582,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00271",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第271行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L034",
       "original_quote": "天相 廟子午丑寅申 地辰戌巳亥未 陷卯酉",
       "tag": [],
@@ -1573,6 +3607,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第272行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00273",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第273行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L035",
@@ -1614,6 +3662,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00277",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第277行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L038",
       "original_quote": "天梁 廟子午寅卯辰戌 旺丑未 地酉 陷申巳亥",
       "tag": [],
@@ -1625,6 +3687,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第278行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00279",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第279行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L039",
@@ -1770,6 +3846,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00291",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第291行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L050",
       "original_quote": "天同 廟巳亥 旺子申 陷午",
       "tag": [],
@@ -1781,6 +3871,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第292行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00293",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第293行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L051",
@@ -1848,6 +3952,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00299",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第299行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L056",
       "original_quote": "天機 廟子午 旺辰酉 陷丑未",
       "tag": [],
@@ -1859,6 +3977,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第300行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00301",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第301行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L057",
@@ -1978,6 +4110,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00311",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第311行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L066",
       "original_quote": "太陽 廟卯 旺寅辰巳午 陷子",
       "tag": [],
@@ -1989,6 +4135,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第312行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00313",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第313行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L067",
@@ -2069,6 +4229,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00320",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第320行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L073",
       "original_quote": "太陰 廟亥子丑 旺寅酉戌 陷卯辰巳",
       "tag": [],
@@ -2080,6 +4254,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第321行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00322",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第322行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L074",
@@ -2160,6 +4348,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00329",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第329行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L080",
       "original_quote": "太陽太陰拱照",
       "tag": [],
@@ -2171,6 +4373,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第330行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00331",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第331行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L081",
@@ -2342,6 +4558,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00345",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第345行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L094",
       "original_quote": "文昌 廟巳酉丑 地申子辰 陷寅午戌",
       "tag": [],
@@ -2353,6 +4583,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第346行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00347",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第347行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L095",
@@ -2407,6 +4651,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00352",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第352行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L099",
       "original_quote": "文曲 廟巳酉丑 地申子辰 陷寅午戌",
       "tag": [],
@@ -2418,6 +4676,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第353行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00354",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "三看遷移財帛宮祿三方星辰刑沖剋破。",
+        "line_ref": "第354行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L100",
@@ -2459,6 +4731,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00358",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第358行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L103",
       "original_quote": "文昌文曲",
       "tag": [],
@@ -2470,6 +4756,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第359行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00360",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第360行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L104",
@@ -2628,6 +4928,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00373",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第373行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L116",
       "original_quote": "武曲 廟辰戌丑未 旺子午 平巳亥 無失陷",
       "tag": [],
@@ -2639,6 +4953,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第374行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00375",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第375行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L117",
@@ -2810,6 +5138,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00389",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第389行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L130",
       "original_quote": "貪狠 廟辰戌丑未 旺子午 陷巳亥",
       "tag": [],
@@ -2821,6 +5163,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第390行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00391",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第391行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L131",
@@ -3057,6 +5413,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00410",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第410行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L149",
       "original_quote": "廉貞 廟寅申 利辰戌丑未 陷巳亥",
       "tag": [],
@@ -3068,6 +5438,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第411行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00412",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第412行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L150",
@@ -3239,6 +5623,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00426",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第426行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L163",
       "original_quote": "巨門 廟寅申卯酉 旺子午巳亥 陷辰戌",
       "tag": [],
@@ -3250,6 +5648,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第427行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00428",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第428行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L164",
@@ -3486,6 +5898,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00447",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第447行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L182",
       "original_quote": "七殺 廟辰戌丑未寅申 旺子午卯酉 平巳亥 無陷",
       "tag": [],
@@ -3497,6 +5923,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第448行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00449",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "二曲貪狼午丑限防溺水之憂",
+        "line_ref": "第449行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L183",
@@ -3681,6 +6121,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00464",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第464行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L197",
       "original_quote": "破軍 廟子午 旺辰戌丑未 陷卯酉",
       "tag": [],
@@ -3692,6 +6146,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第465行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00466",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第466行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L198",
@@ -3772,6 +6240,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00473",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第473行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L204",
       "original_quote": "擎羊 廟辰戌丑未 陷子午卯酉",
       "tag": [],
@@ -3783,6 +6265,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第474行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00475",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第475行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L205",
@@ -3943,6 +6439,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00488",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第488行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L217",
       "original_quote": "陀羅 廟辰戌丑未 陷寅申巳亥",
       "tag": [],
@@ -3954,6 +6464,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第489行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00490",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第490行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L218",
@@ -3969,6 +6493,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00492",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第492行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L219",
       "original_quote": "火星 廟寅午戌 地巳酉丑 陷申子辰",
       "tag": [],
@@ -3980,6 +6518,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第493行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00494",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第494行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L220",
@@ -4008,6 +6560,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00497",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第497行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L222",
       "original_quote": "鈴星 廟寅午戌 地巳酉丑 陷申子辰",
       "tag": [],
@@ -4019,6 +6585,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第498行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00499",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第499行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L223",
@@ -4047,6 +6627,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00502",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第502行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L225",
       "original_quote": "魁鉞",
       "tag": [],
@@ -4058,6 +6652,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第503行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00504",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第504行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L226",
@@ -4125,6 +6733,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00510",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第510行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L231",
       "original_quote": "左輔右弼",
       "tag": [],
@@ -4136,6 +6758,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第511行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00512",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第512行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L232",
@@ -4255,6 +6891,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00522",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第522行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L241",
       "original_quote": "祿存 十二宮中皆入廟",
       "tag": [],
@@ -4266,6 +6916,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第523行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00524",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第524行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L242",
@@ -4359,6 +7023,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00532",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第532行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L249",
       "original_quote": "天馬",
       "tag": [],
@@ -4370,6 +7048,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第533行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00534",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第534行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L250",
@@ -4411,6 +7103,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00538",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第538行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L253",
       "original_quote": "科權祿",
       "tag": [],
@@ -4422,6 +7128,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第539行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00540",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第540行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L254",
@@ -4554,6 +7274,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00551",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第551行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L264",
       "original_quote": "劫空",
       "tag": [],
@@ -4565,6 +7299,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第552行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00553",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第553行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L265",
@@ -4619,6 +7367,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00558",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第558行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L269",
       "original_quote": "傷使",
       "tag": [],
@@ -4630,6 +7392,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第559行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00560",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第560行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L270",
@@ -4645,6 +7421,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00562",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第562行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L271",
       "original_quote": "命宮",
       "tag": [],
@@ -4656,6 +7446,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第563行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00564",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第564行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L272",
@@ -4749,6 +7553,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00572",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第572行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L279",
       "original_quote": "身宮",
       "tag": [],
@@ -4760,6 +7578,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第573行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00574",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第574行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L280",
@@ -4814,6 +7646,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00579",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第579行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L284",
       "original_quote": "納音",
       "tag": [],
@@ -4825,6 +7671,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第580行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00581",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第581行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L285",
@@ -4866,6 +7726,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00585",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第585行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L288",
       "original_quote": "財帛",
       "tag": [],
@@ -4877,6 +7751,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第586行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00587",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第587行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L289",
@@ -4905,6 +7793,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00590",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第590行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L291",
       "original_quote": "財宅",
       "tag": [],
@@ -4916,6 +7818,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第591行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00592",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第592行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L292",
@@ -4983,6 +7899,20 @@
       }
     },
     {
+      "line_id": "ZWQS_Auto_00598",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第598行"
+      },
+      "standard_key": "未知"
+    },
+    {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L297",
       "original_quote": "財福",
       "tag": [],
@@ -4994,6 +7924,20 @@
         "section": "論諸星同垣各司所宜分別富貴貧賤夭壽",
         "line_ref": "第599行"
       }
+    },
+    {
+      "line_id": "ZWQS_Auto_00600",
+      "original_quote": "",
+      "tag": [],
+      "tag_reason": "",
+      "paragraph_index": 0,
+      "_source": {
+        "text": "紫微斗數全書",
+        "juan": "卷三",
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第600行"
+      },
+      "standard_key": "未知"
     },
     {
       "line_id": "ZWQS_Juan3_LunZhuXingTongYuan_L298",
@@ -5022,1044 +7966,18 @@
       }
     },
     {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L000",
-      "original_quote": "談星要論 ",
+      "line_id": "ZWQS_Auto_00603",
+      "original_quote": "",
       "tag": [],
       "tag_reason": "",
       "paragraph_index": 0,
       "_source": {
         "text": "紫微斗數全書",
         "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第4行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L001",
-      "original_quote": "看身安命祿馬不落空亡天空截空最緊，旬空次之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第6行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L002",
-      "original_quote": "第一看命宮吉凶廟旺化吉化忌生剋。次看身主吉凶生剋。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第7行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L003",
-      "original_quote": "三看遷移財帛宮祿三方星辰刑沖剋破。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第8行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L004",
-      "original_quote": "四看幅德宮權祿劫空廟陷，以福德宮對財帛宮也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第9行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L005",
-      "original_quote": "身命遷移財官福德六宮名曰八座，俱在成照聚吉化吉，富貴高壽。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第10行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L006",
-      "original_quote": "六宮俱陷，聚凶化忌，孤寡天壽。若卯酉時生人尤外，有田宅疾厄已錄於後。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第11行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L007",
-      "original_quote": "又看父母妻子三宮，俱有劫空殺忌，僧道之命，否則孤獨貧窮。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第12行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L008",
-      "original_quote": "若命宮無正曜者，財宮二宮有吉星拱照，富貴全美，或偏房庶母所生。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第13行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L009",
-      "original_quote": "三方有惡星沖照，或二姓可延生，離祖可保成家。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第14行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L010",
-      "original_quote": "如命宮有正曜吉星，廟旺化吉，三方又有吉星會合，上上之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第15行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L011",
-      "original_quote": "如無正曜吉星，三方有吉，上次之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第16行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L012",
-      "original_quote": "命宮星辰無言無凶，或吉凶相伴者，如三方亦有中等星辰，為中格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第17行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L013",
-      "original_quote": "及命宮星辰廟旺，三方有惡星守照破格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第18行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L014",
-      "original_quote": "及命星陷背，加羊陀化忌，卻得十干祿元來相守化吉，亦為中等之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第19行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L015",
-      "original_quote": "若命無吉星，反有凶殺化忌無祿落陷，為下格之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第20行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L016",
-      "original_quote": "三方有吉星，亦可為中等，先小後大，不能久遠，終為成敗夭折論。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第21行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L017",
-      "original_quote": "若安命星纏陷地，又加凶殺化忌，三方又會羊陀火鈴空劫，為下格貧賤，二姓延生，奴僕之命，否則夭折六畜之命。 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第22行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L018",
-      "original_quote": "論人命入格",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第24行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L019",
-      "original_quote": "如命入格，廟旺聚吉科權祿守，上上之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第26行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L020",
-      "original_quote": "不入廟加吉化科權祿，上次之命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第27行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L021",
-      "original_quote": "不入廟不加吉，為平常命。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第28行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L022",
-      "original_quote": "入廟不加吉，平等。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第29行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L023",
-      "original_quote": "若居陷地又加殺化忌，為下格之命，不以入格而論也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第30行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L024",
-      "original_quote": "又入格不化吉而化凶，只以本命吉凶多寡而斷之。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第31行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L025",
-      "original_quote": "論格星數高下 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第33行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L026",
-      "original_quote": "紫府與數相合何如，紫微南北斗中天帝主，天府乃南斗主。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第35行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L027",
-      "original_quote": "又看陰陽相半者，看陰陽不相半，又數不相生，為下格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第36行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L028",
-      "original_quote": "陰陽純駁為中格。又三方四正皆吉星為上格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第37行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L029",
-      "original_quote": "吉凶相半守照為中格。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第38行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L030",
-      "original_quote": "凶星惡殺為下格凶徒論。 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第39行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L031",
-      "original_quote": "凡星得上格而數得上格為第一，位至極品之貴。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第40行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L032",
-      "original_quote": "凡星得上格而數得中格為第二，位至三公。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第41行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L033",
-      "original_quote": "星得上格而數得下格為第三，位至六卿。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第42行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L034",
-      "original_quote": "皆為上格上壽之人。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第43行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L035",
-      "original_quote": "星得中格而數得上格為第四，位至監司。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第44行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L036",
-      "original_quote": "星中數中為第五，位至縣令。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第45行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L037",
-      "original_quote": "星中敷下為第六，異路前程貴顯。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第46行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L038",
-      "original_quote": "皆得中等享福主人也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第47行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L039",
-      "original_quote": "又星得下格而數得上格為第七，衣祿豐足，富比陶朱，子孫蕃盛，壽享遐齡，以星雖凶而命入格合局故也，再否虛名虛利。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第48行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L040",
-      "original_quote": "星下數中為第八，衣食無虧。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第49行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L041",
-      "original_quote": "星下數下為第九，辛苦奔波，貧窮夭折。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第50行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L042",
-      "original_quote": "上中下三等，依理而斷，則上可以知祖宗之源，而下可以知子孫之盛衰也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第51行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L043",
-      "original_quote": "論男女命同異",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第53行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L044",
-      "original_quote": "男女命不同，星辰各別。男命先看身命，次看財帛宮祿遷移，俱要廟旺為吉，落陷聚凶為凶。三看福德，權祿劫空廟陷吉忌。又看田宅奴僕疾厄宮吉凶，吉凶已算於後。又看父母妻子三宮，俱有劫空殺忌則僧道之命，否則貧窮孤獨。須要仔細參詳，方可斷人禍福榮辱。 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第54行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L045",
-      "original_quote": "女命先看身命吉凶，如貪狼七殺擎羊則不美。次看福德宮吉凶，若七殺單居福德必為娼婢。三看夫君，四看子媳財帛田宅。若桃花刑殺要敗絕空亡為凶，若諸吉廟旺則佳，雖是艱辛貧困亦不為下濺夭折論。女因夫貴，女命貴格反為無用，以子媳夫君福德為正強。田宅財帛為次強。宮祿遷移七殺為陷。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第55行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L046",
-      "original_quote": "論小兒命",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第57行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L047",
-      "original_quote": "小兒博士力士上短下長，青龍將軍腮小頭圓。大耗鼻仰唇縮，死符病符聲高性雄。官府奏書逢惡曜落地無聲，白虎太歲遇七殺幼弱遭傷。須分生剋制化之垣，更看時祿衰敗之地，後觀關殺方知壽夭窮通。 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第58行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L048",
-      "original_quote": "小兒初生，命中星辰廟旺，大小二限未行，斷其災少，易養，父母無剋。若命坐惡",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第60行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L049",
-      "original_quote": "殺及纏陷弱之地，大小二限未行，斷其災多，難養，刑剋父母。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第61行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L050",
-      "original_quote": "定小兒生時訣",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第63行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L051",
-      "original_quote": "子午卯酉單頂門，或偏左邊二三分，寅申巳亥亦單頂，偏居右去始為真，辰戌丑未是雙頂，胞胎受定正時辰。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第64行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053a",
-      "original_quote": "又",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第65行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L053b",
-      "original_quote": "子午卯酉面向天，寅申巳亥側身眠，辰戌丑未臉伏地，臨盆當試用心堅。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第66行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L054",
-      "original_quote": "論人生時安命吉凶",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第68行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L055",
-      "original_quote": "凡男女生在寅午戌申子辰六陽時，安命在此六宮者吉。生在巳酉丑亥卯未六陰時，安命在此六宮者吉。反此則少遂。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第69行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L056",
-      "original_quote": "論人生時要審的確",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第71行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L057",
-      "original_quote": "如人生子亥二時最難定，準要仔細推祥，如子時有十刻，上午刻屬昨夜亥時，下午刻屬今日子時，如天氣陰雨之際，必須羅經以定真確時候，若差訛則命不準矣。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第72行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L058",
-      "original_quote": "論小兒剋親",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第74行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L059",
-      "original_quote": "如寅午巳酉生人，見辰戍丑未時最毒，子申亥卯生人次之。若寅亥巳生人，見午申酉亥時，主先剋父，出十六歲則不妨。若辰巳丑未生人，見子午卯巳亥申酉時生者，主先剋母。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第75行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L060",
-      "original_quote": "論命先貧後富",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第77行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L061",
-      "original_quote": "人生於富貴之家，一生快樂享福，財官顯達，妻榮子貴，奴僕成行，聲名昭著。其間有半途遭傷，人離財散，官非火盜，身喪家亡，此等之命非命也。是限步逢大小二限及太歲相沖照，又加凶殺守臨，故此破敗，不貧即損壽也。所謂先成後敗，先大後小也。 ",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第78行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L062",
-      "original_quote": "又有人命出身微賤，營活生計，百工巧藝，九流醫術，又為農圃等輩，初歷艱辛度日。卻仍中末平地升騰，發財驚駭鄉邦，因生在中庸之局，後因限步相扶，星辰逢吉曜兼廟旺，以此突然發達進祿。所謂先貧後富，先小後大是也。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第79行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L063",
-      "original_quote": "論大限十年禍福何如",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第81行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L064",
-      "original_quote": "如宮分星纏全吉廟旺得地，無擎羊陀羅火鈴空劫者，主十年安靜，人財全美。若限內有擎羊陀羅火鈴空劫忌星為伴，成敗不一。如宮分星纏陷地，值擎羊陀羅火鈴空劫忌，又加流年惡殺湊合，及小限巡逢凶殺，則官災死亡立見。大限將出，有吉眾者無災悔，少者災多，損人破財不利。凡行至寅申巳亥子午宮，遇紫微天府天同太陽太陰昌曲祿存祿主吉星，主人財興旺，添丁進口之慶。行至辰戍丑未卯酉，遇惡殺廉貞天使羊陀火鈴空劫忌星，主人酒色荒迷，貧乏死生。遇左右昌曲，仕宦遷官加職，士民生子發財，婦人喜事，僧道亦利，商賈得益。凡大小二限及太歲，怕行天傷天使夾地，怕行天空地劫之地，怕行擎羊陀羅之地，及羊陀沖照，怕脫凶限，怕逢凶限，又怕傷使劫空羊陀併夾歲限。如天傷在子，天使在寅，歲限在丑宮，乃併夾也。羊陀守命尚且無用，況夾限乎，若逃得過須看壽星，紫微天同天梁貪狼坐命可解。更須看月值惡殺，日值惡殺，加湊大小歲月日時五者參詳吉凶推斷。太歲行至奏書將軍直符天使天傷羊陀火鈴空劫忌星，逢一二位，主人離財散，疾病哭泣之兆。若歲限犯重月日一二位，又逢忌星合者，官吏遭謫，常人遭橫事，婦人損胎，病者死亡。若惡殺在不得地，如風雨暴過。若歲限臨無吉星，命中無救，其年難過必死。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第82行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L065",
-      "original_quote": "論二限太歲吉凶",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第84行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L066",
-      "original_quote": "須詳大限獨守吉凶何如，小限獨守吉凶何如，太歲獨守吉凶何如。如歲限俱凶則凶。又看大限與小限相逢吉凶何如，大限逢太歲吉凶何如，小限逢太歲吉凶何如，禍福所定。又看太歲沖大限小限，太歲沖羊陀七殺，然後可斷吉凶。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第85行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L067",
-      "original_quote": "論行限分南北斗",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第87行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L068",
-      "original_quote": "陽男陰女南斗為福。陰男陽女北斗為福。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第88行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L069",
-      "original_quote": "北斗諸星吉凶，大限斷上五年應•小限斷上半年應。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第89行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L070",
-      "original_quote": "南斗諸星吉凶，大限斷下五年應，小限斷下半年應。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第90行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L071",
-      "original_quote": "論流年太歲吉凶星殺",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第92行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L072",
-      "original_quote": "凡太歲看三方對照星辰吉凶何如以定禍福，太歲在命宮行者禍福尤緊。如命在子宮太歲到子，又癸生人逢吉則吉逢凶則凶。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第93行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L073",
-      "original_quote": "論陰騭延壽",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第95行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L074",
-      "original_quote": "陰騰延壽生百福，雖然倒限不遭傷。假如有人大小二限及太歲到凶陷地，有延過壽去不死者，乃是其人曾行陰騰，平日利物濟人，反身修德，以作善降福，雖凶不害。如宋郊編荻橋渡蟻是也。又如諸葛亮火燒藤甲軍，傷人太毒減壽一紀。當以此參詳。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第96行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L075",
-      "original_quote": "論羊陀迭併",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第98行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L076",
-      "original_quote": "如庚年生人，命在卯宮，遷移在酉宮。如遇羊陀，流年亦庚祿居申，流羊在酉，流陀在未，是命在卯宮原有酉宮擎羊沖合，流年又遇流羊流陀，謂之羊陀迭併。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第99行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L077",
-      "original_quote": "論七殺重逢",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第101行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L078",
-      "original_quote": "如命中三合原有七殺守照，而流年又遇流羊流陀沖照凶，七殺重逢二者為禍最毒，入廟災晦減輕，如陷地逢忌及卯酉遇擎羊為閑宮，午生人不利也。然七殺逢吉曜眾亦轉凶化吉，不可一概論凶。擎羊陀羅七殺逢紫微天相祿存三合拱照可解。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第102行"
-      }
-    },
-    {
-      "line_id": "ZWQS_Juan3_TanXingYaoLun_L079",
-      "original_quote": "詩曰 羊陀迭併命難逃，七殺重逢禍必遭，太歲二限臨此地，十生九死不堅牢。",
-      "tag": [],
-      "tag_reason": "",
-      "paragraph_index": 0,
-      "_source": {
-        "text": "紫微斗數全書",
-        "juan": "卷三",
-        "section": "談星要論",
-        "line_ref": "第103行"
-      }
+        "section": "七殺單居幅德女人切忌賤無疑",
+        "line_ref": "第603行"
+      },
+      "standard_key": "未知"
     }
   ]
 }
