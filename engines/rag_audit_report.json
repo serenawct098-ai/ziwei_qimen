@@ -2206,7 +2206,7 @@
       "line_id": "N/A"
     },
     {
-      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars",
       "verification_status": "unverified",
       "reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。",
       "data_file": "ZWQS_Juan2_Consolidated.json",

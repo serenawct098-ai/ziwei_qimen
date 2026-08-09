@@ -24,11 +24,9 @@
     "jieqi_precision": "必須使用天文交節精確時刻，精確至秒（僅用於定奇門三元局數之節氣判定，不涉及現代均時差推算）",
     "late_zi_rollover": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'",
     "late_zi_dual_chart": {
-      "name": "晚子時雙盤對照建議",
-      "trigger": "23:00-23:30出生者",
-      "effect": "同時產出當日與次日兩張命盤進行定盤",
-      "status": "active",
-      "design_origin_note": "此為系統實務建議（design_rule），古籍未明確規定雙盤對照法，僅取晚子時換日規則本身為古籍共識。"
+      "status": "disabled",
+      "reason": "本系統唯一正式排盤規則為 late_zi_rollover（23:00-23:59 一律視為次日子時），不得輸出雙盤供選擇。原「雙盤對照建議」屬現代實務便利設計，非古籍規則，且與唯一排盤鎖定矛盾，故停用，不進入正式輸出。",
+      "design_origin_note": "REMOVED_MODERN_CONVENIENCE_LOGIC per 全局邏輯審查指令：嚴禁現代推演公式與古籍鎖定並存造成輸出歧義。"
     },
     "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy.",
     "liuyue_doujun": {
@@ -87,7 +85,8 @@
   "validation_gate": {
     "check_longitude_range": "abs(birth_longitude - 120) < 15",
     "check_datetime_validity": "ISO-8601 format check",
-    "check_gender_required": "gender must be male or female"
+    "check_gender_required": "gender must be male or female",
+    "check_longitude_range_note": "此為輸入資料合理性檢查（防止使用者誤填非東八區經度），非命理演算公式，不參與任何排盤/四化/奇門起局運算，不得誤認為真太陽時或現代經度校正公式。120為東八區標準經線，15為時區寬度粗略值，純輸入驗證用途。"
   },
   "halt_assertions": {
     "missing_dependency": "HALT if core_truth_registry is unavailable or qimen_panlayer_lock is missing",
@@ -102,7 +101,8 @@
     "dual_chart_consistency_checks": [
       "verify_past_events_against_dual_charts",
       "confirm_personality_traits"
-    ]
+    ],
+    "validation_rules_note": "halt_assertions.validation_rules 中的 abs(birth_longitude - 120) < 15 屬輸入驗證，非命理演算公式，說明同上。"
   },
   "output_contract": {
     "raw_natal_matrix": {
@@ -119,7 +119,16 @@
       "flow_stars": "object"
     },
     "raw_qimen_state": {
-      "nine_palaces": "object",
+      "nine_palaces": {
+        "type": "object",
+        "說明": "九宮（含中五宮寄坤二）各宮之天盤星/人盤門/神盤神/宮位狀態，依 Step 13-14（佈地盤奇儀、佈天盤星人盤門神盤神）產生，欄位命名與 field_alias_map 對應。",
+        "per_palace_fields": {
+          "star": "天盤九星（依 engine_truth_registry_v1 九星 registry 起例）",
+          "door": "人盤八門（依 engine_truth_registry_v1 八門 registry 起例）",
+          "shen": "神盤八神（依 engine_truth_registry_v1.name_registries.qimen_shenpan_shen_registry 起例）",
+          "status": "本宮吉凶狀態（依 pattern_library.qimen_pattern_library 對照星門神組合判定）"
+        }
+      },
       "ju_number": "number",
       "dun_type": "string",
       "zhifu": "string",
@@ -145,6 +154,24 @@
           "癸": "string"
         }
       }
+    },
+    "field_alias_map": {
+      "說明": "本表僅為 diagnosis_router_module_v1.required_engine_fields 與本檔案 output_contract 既有欄位之對應關係聲明，不新增任何演算邏輯，不引入現代推演公式。",
+      "palace_key": "raw_natal_matrix.palaces[N].standard_key（依 engine_truth_registry_v1.name_registries.palace_name_registry 正規化後的十二宮標準鍵名）",
+      "pattern_id": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library 內任一子表（如 ziwei_main_star_patterns、major_patterns）之鍵名，於命盤三方四正/會照比對命中後填入該鍵名，非另立新格局。",
+      "time_layer": "本次診斷所屬時間層級標籤，取值限定為古籍/系統既有時間框架之一：'natal'（生年本命）｜'decade'（大限）｜'annual'（流年）｜'monthly'（流月），對應 raw_dynamic_layers 各層。",
+      "qimen_day_stem": "raw_qimen_state.day_stem",
+      "qimen_other_stems": "raw_qimen_state.qimen_stems（除日干外之乙丙丁戊己庚辛壬癸各干落宮）",
+      "qimen_use_god": "依 engine_truth_registry_v1 用神判定規則（日干對用神）自 raw_qimen_state 衍生之標記，非新演算法，僅為既有日干/宮位資料的查表結果標籤。",
+      "qimen_palace_status": "raw_qimen_state.nine_palaces[N] 之吉凶狀態標記（依該宮星門神組合對照 engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library.qimen_pattern_library 判定）",
+      "shenpan_deity_allocation": "raw_qimen_state.nine_palaces[N].shen（八神落宮，依 engine_truth_registry_v1.name_registries.qimen_shenpan_shen_registry 起例）",
+      "nine_palace_layout": "raw_qimen_state.nine_palaces",
+      "tianpan_star_allocation": "raw_qimen_state.nine_palaces[N].star（天盤九星落宮）",
+      "renpan_door_allocation": "raw_qimen_state.nine_palaces[N].door（人盤八門落宮）",
+      "target_direction": "raw_qimen_state.target_direction",
+      "yuan": "raw_qimen_state 三元判定（上/中/下元），依節氣與符頭定局時同步產生，屬 Step 12 定三元局數之既有輸出，非另立欄位。",
+      "ju_number": "raw_qimen_state.ju_number",
+      "current_jieqi_exact_timestamp": "raw_qimen_state.current_jieqi_exact_timestamp"
     }
   },
   "natal_chart_compute": {

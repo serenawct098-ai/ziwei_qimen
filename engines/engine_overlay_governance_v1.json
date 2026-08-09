@@ -50,7 +50,7 @@
   },
   "physical_overlay_isolation": {
     "description": "時效性數據已物理隔離至獨立目錄",
-    "overlay_path": "ziwei_qimen/overlays/time_sensitive_overlays_v1.json",
+    "overlay_path": "overlays/time_sensitive_overlays_v1.json",
     "active_overlays": [
       "annual_sha_qi_resolution_table",
       "annual_flying_stars"

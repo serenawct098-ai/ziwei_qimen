@@ -7,11 +7,12 @@
     "mapping_layer_last_repaired": "2026-08-08T19:54:00+08:00"
   },
   "five_layer_mapping": {
-    "L1_Data": "data/*.json",
-    "L2_Mapping": "engine_truth_registry_v1.name_registries + mapping keys",
-    "L3_Compute": "engine_compute_protocol_v1.*",
-    "L4_Fusion": "engine_interpretation_fusion_v1.*",
-    "L5_Overlay": "engine_overlay_governance_v1.*"
+    "L0_Constitution": "engine_reference_blueprint_v1.json（含 citation_ledger；本檔案）",
+    "L1_Truth": "engine_truth_registry_v1.json",
+    "L2_Compute": "engine_compute_protocol_v1.json",
+    "L3_Interpretation": "engine_interpretation_fusion_v1.json",
+    "L4_Overlay": "engine_overlay_governance_v1.json",
+    "note": "Data SSOT（古籍原文 data/*.json）為 L(-1) 文本層，位階獨立於本 L0-L4 引擎五層之外，見 engine_to_text_source。"
   },
   "ziwei_full_chart_structure_mapping": {
     "palaces": [
@@ -29,14 +30,14 @@
       "父母"
     ],
     "sanhe_full_structure": {
-      "palace_skeleton": "engine_truth_registry_v1.global_coordinate_system.palaces_axis",
+      "palace_skeleton": "engine_compute_protocol_v1.natal_chart_compute.palace_axis（十二宮逆時針順序）+ engine_truth_registry_v1.global_coordinate_system.palace_opposition_map（宮位對衝表）",
       "main_stars": "engine_truth_registry_v1.name_registries.star_name_registry (14 stars)",
       "lucky_unlucky_stars": "engine_truth_registry_v1.name_registries.star_name_registry (6 lucky, 6 unlucky)",
       "sihua_system": "engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets",
       "secondary_stars": "engine_truth_registry_v1.static_truth_tables.shensha_table (boshi_12_series, jiangqian_12_series, suiqian_12_series)",
       "overlay_logic": "engine_compute_protocol_v1.dynamic_overlay_compute.overlay_judgment_steps"
     },
-    "structure_layer": "engine_truth_registry_v1.global_coordinate_system.palaces_axis + star_strength_table",
+    "structure_layer": "engine_compute_protocol_v1.natal_chart_compute.palace_axis（十二宮逆時針順序）+ engine_truth_registry_v1.global_coordinate_system.palace_opposition_map（宮位對衝表） + star_strength_table",
     "pattern_layer": "engine_interpretation_fusion_v1.traditional_interpretation_block.pattern_library",
     "time_layer": "engine_compute_protocol_v1.dynamic_overlay_compute",
     "event_layer": "engine_interpretation_fusion_v1.modern_resonance_block"
@@ -437,7 +438,7 @@
       "status": "verified"
     },
     {
-      "engine_path": "engine_truth_registry_v1.static_truth_tables.shensha_table.boshi_12_series.stars",
+      "engine_path": "engine_truth_registry_v1.static_truth_tables.boshi_12_stars",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnShierGongTaisuiShalu_L000",
       "value_summary": "對齊原文: 博士力士青龍續，小耗將軍奏書隨，飛廉喜神病符後，大耗伏兵官府追。",

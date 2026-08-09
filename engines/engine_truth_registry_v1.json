@@ -110,7 +110,7 @@
         "legacy_aliases": [
           "命宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.命宮"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.命宮"
       },
       {
         "standard_key": "兄弟",
@@ -118,7 +118,7 @@
         "legacy_aliases": [
           "兄弟宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.兄弟"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.兄弟"
       },
       {
         "standard_key": "夫妻",
@@ -131,7 +131,7 @@
         "section_aliases": [
           "論妻妾"
         ],
-        "engine_binding": "core_engine.palaces_axis.夫妻"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.夫妻"
       },
       {
         "standard_key": "子女",
@@ -139,7 +139,7 @@
         "legacy_aliases": [
           "子女宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.子女"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.子女"
       },
       {
         "standard_key": "財帛",
@@ -147,7 +147,7 @@
         "legacy_aliases": [
           "財帛宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.財帛"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.財帛"
       },
       {
         "standard_key": "疾厄",
@@ -155,7 +155,7 @@
         "legacy_aliases": [
           "疾厄宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.疾厄"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.疾厄"
       },
       {
         "standard_key": "遷移",
@@ -164,7 +164,7 @@
           "遷移宮",
           "出外"
         ],
-        "engine_binding": "core_engine.palaces_axis.遷移"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.遷移"
       },
       {
         "standard_key": "交友",
@@ -179,7 +179,7 @@
         "section_aliases": [
           "論奴僕"
         ],
-        "engine_binding": "core_engine.palaces_axis.交友"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.交友"
       },
       {
         "standard_key": "官祿",
@@ -189,7 +189,7 @@
           "事業宮",
           "事業"
         ],
-        "engine_binding": "core_engine.palaces_axis.官祿"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.官祿"
       },
       {
         "standard_key": "田宅",
@@ -197,7 +197,7 @@
         "legacy_aliases": [
           "田宅宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.田宅"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.田宅"
       },
       {
         "standard_key": "福德",
@@ -205,7 +205,7 @@
         "legacy_aliases": [
           "福德宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.福德"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.福德"
       },
       {
         "standard_key": "父母",
@@ -214,7 +214,7 @@
           "父母宮",
           "相貌宮"
         ],
-        "engine_binding": "core_engine.palaces_axis.父母"
+        "engine_binding": "engine_compute_protocol_v1.natal_chart_compute.palace_axis.父母"
       }
     ],
     "star_name_registry": [
@@ -761,7 +761,7 @@
           "常"
         ],
         "engine_binding": "qimen_engine.shenpan.太常",
-        "note": "飛盤專用"
+        "note": "轉盤系統標準八神之一（依值符起例順排/逆排，非飛盤獨立起例）"
       }
     ],
     "qimen_yongshen_registry": {

@@ -638,7 +638,10 @@
         "monthly": 0.1
       },
       "conflict_policy": "parallel_annotation"
-    }
+    },
+    "verification_status": "unverified",
+    "source_type": "design_rule",
+    "design_origin_note": "本區塊（能量密度、壓測、決策帶、四化權重數值）為系統設計之現代場景化量化輔助指標，非古籍逐字公式，不參與命盤本體排盤/四化/奇門起局之核心演算，僅用於§5輸出格式中「能量密度共振」與「決策帶」段落之敘事轉譯層級。核心命理判斷仍完全依據古籍原文與已鎖定之三合/飛星/奇門規則，本區塊數值不得回寫或覆蓋任何 L1 真值表或 L2 運算結果。"
   },
   "fusion_block": {
     "bridge_mapping_layer": {
