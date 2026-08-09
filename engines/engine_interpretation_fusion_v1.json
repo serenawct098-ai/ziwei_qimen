@@ -656,7 +656,11 @@
         "戌": 6,
         "亥": 6
       },
-      "kun_2_redirect_rule": "IF palace == 5 THEN redirect to 2 (天禽寄坤)",
+      "kun_2_redirect_rule": {
+        "logic": "IF palace==5 THEN redirect to 2",
+        "verification_status": "unverified (design_rule)",
+        "design_origin_note": "天禽寄坤二宮為主流慣例，源於中宮無門、土性同氣之歸納，非單一古籍條文。本系統採『永寄坤二法』。"
+      },
       "five_element_relation": "生剋制化矩陣"
     },
     "conflict_policy": {

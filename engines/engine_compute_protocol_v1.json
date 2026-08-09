@@ -30,7 +30,11 @@
       "status": "active",
       "design_origin_note": "此為系統實務建議（design_rule），古籍未明確規定雙盤對照法，僅取晚子時換日規則本身為古籍共識。"
     },
-    "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy."
+    "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy.",
+    "liuyue_doujun": {
+      "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
+      "original_quote": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。"
+    }
   },
   "calculation_pipeline": {
     "natal_chart_compute": [

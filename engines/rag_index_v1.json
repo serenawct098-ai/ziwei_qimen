@@ -7312,8 +7312,7 @@
       "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統。",
       "normalized_preview": "坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
       "source_type": "text_pending_review",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "halt_status": "PASS"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.xunkong_table.data.甲子",

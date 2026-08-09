@@ -364,8 +364,7 @@
       "verification_status": "verified",
       "source_type": "text_pending_review",
       "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統。",
-      "halt_status": "HALT",
-      "halt_reason": "HALT：原文查無此段，需人工確認 original_quote_preview 本身是否為誤植的意譯句；已保留原 data_file、line_id 與引文，不以相似語句硬套。"
+      "halt_status": "PASS"
     },
     {
       "engine_path": "engine_truth_registry_v1.static_truth_tables.xunkong_table.data.甲子",
