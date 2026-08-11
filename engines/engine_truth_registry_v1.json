@@ -2179,6 +2179,796 @@
         "ZWQS_Juan2_LiushiJiaziNayinGe_L005"
       ],
       "design_origin_note": "《紫微斗數全書》卷二「六十花甲子納音歌」逐字建表，補足 wuxing_ju_rules 引用「命宮干支納音」但先前缺少實際60甲子對照表之缺口。原文「甲戊乙亥山頭火」經核對應為「甲戌乙亥」（版本印刷通假字，甲子六十循環中戌位對應山頭火，戊字為戌之訛），「戊戌已亥平地木」之「已亥」為「己亥」之通假異體字，已於table中同時保留兩種寫法作為別名以防查表失敗。"
+    },
+    "zhuxing_offset_table": {
+      "ziwei_series_offset": {
+        "紫微": 0,
+        "天機": -1,
+        "太陽": -3,
+        "武曲": -4,
+        "天同": -5,
+        "廉貞": -8
+      },
+      "tianfu_series_offset": {
+        "天府": 0,
+        "太陰": 1,
+        "貪狼": 2,
+        "巨門": 3,
+        "天相": 4,
+        "天梁": 5,
+        "七殺": 6,
+        "破軍": 10
+      },
+      "verification_status": "verified",
+      "source_type": "design_rule_verified_against_real_charts",
+      "design_origin_note": "十四主星兩條星系的固定宮位偏移，以紫微、天府為各自錨點；宮支採子=0、丑=1……亥=11 的循環索引，負值為逆數。此為排盤設計規則，已由五張使用者提供的文墨天機真實命盤逐星反向核對。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "birth": "1993-10-02 01:42",
+          "screenshot_path": "/home/user/workspace/uploaded_attachments/0dfa4a1e5c7e498487973e5d2d7e3a8f/IMG_2527.jpeg",
+          "purple_anchor_read_from_screenshot": {
+            "紫微": "午",
+            "天府": "戌"
+          },
+          "verification_points": [
+            {
+              "series": "ziwei_series_offset",
+              "star": "紫微",
+              "offset": 0,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "午",
+              "actual_palace_read_from_screenshot": "午",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天機",
+              "offset": -1,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "太陽",
+              "offset": -3,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "武曲",
+              "offset": -4,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天同",
+              "offset": -5,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "廉貞",
+              "offset": -8,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天府",
+              "offset": 0,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "太陰",
+              "offset": 1,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "亥",
+              "actual_palace_read_from_screenshot": "亥",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "貪狼",
+              "offset": 2,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "巨門",
+              "offset": 3,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天相",
+              "offset": 4,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天梁",
+              "offset": 5,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "七殺",
+              "offset": 6,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "破軍",
+              "offset": 10,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            }
+          ],
+          "matched_points": 14,
+          "total_points": 14,
+          "all_match": true
+        },
+        "chart2": {
+          "birth": "2000-06-06 09:37",
+          "screenshot_path": "/home/user/workspace/uploaded_attachments/0dfa4a1e5c7e498487973e5d2d7e3a8f/IMG_2528.jpeg",
+          "purple_anchor_read_from_screenshot": {
+            "紫微": "丑",
+            "天府": "卯"
+          },
+          "verification_points": [
+            {
+              "series": "ziwei_series_offset",
+              "star": "紫微",
+              "offset": 0,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天機",
+              "offset": -1,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "太陽",
+              "offset": -3,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "武曲",
+              "offset": -4,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "酉",
+              "actual_palace_read_from_screenshot": "酉",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天同",
+              "offset": -5,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "廉貞",
+              "offset": -8,
+              "anchor_star": "紫微",
+              "anchor_palace": "丑",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天府",
+              "offset": 0,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "太陰",
+              "offset": 1,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "貪狼",
+              "offset": 2,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "巨門",
+              "offset": 3,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "午",
+              "actual_palace_read_from_screenshot": "午",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天相",
+              "offset": 4,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "未",
+              "actual_palace_read_from_screenshot": "未",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天梁",
+              "offset": 5,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "七殺",
+              "offset": 6,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "酉",
+              "actual_palace_read_from_screenshot": "酉",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "破軍",
+              "offset": 10,
+              "anchor_star": "天府",
+              "anchor_palace": "卯",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            }
+          ],
+          "matched_points": 14,
+          "total_points": 14,
+          "all_match": true
+        },
+        "chart3": {
+          "birth": "2002-12-14 10:01",
+          "screenshot_path": "/home/user/workspace/uploaded_attachments/0dfa4a1e5c7e498487973e5d2d7e3a8f/IMG_2529.jpeg",
+          "purple_anchor_read_from_screenshot": {
+            "紫微": "午",
+            "天府": "戌"
+          },
+          "verification_points": [
+            {
+              "series": "ziwei_series_offset",
+              "star": "紫微",
+              "offset": 0,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "午",
+              "actual_palace_read_from_screenshot": "午",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天機",
+              "offset": -1,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "太陽",
+              "offset": -3,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "武曲",
+              "offset": -4,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天同",
+              "offset": -5,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "廉貞",
+              "offset": -8,
+              "anchor_star": "紫微",
+              "anchor_palace": "午",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天府",
+              "offset": 0,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "太陰",
+              "offset": 1,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "亥",
+              "actual_palace_read_from_screenshot": "亥",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "貪狼",
+              "offset": 2,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "巨門",
+              "offset": 3,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天相",
+              "offset": 4,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天梁",
+              "offset": 5,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "七殺",
+              "offset": 6,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "破軍",
+              "offset": 10,
+              "anchor_star": "天府",
+              "anchor_palace": "戌",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            }
+          ],
+          "matched_points": 14,
+          "total_points": 14,
+          "all_match": true
+        },
+        "chart4": {
+          "birth": "1981-12-31 23:56 (late-zi rollover shown as 1982-01-01 00:00)",
+          "screenshot_path": "/home/user/workspace/uploaded_attachments/0dfa4a1e5c7e498487973e5d2d7e3a8f/IMG_2530.jpeg",
+          "purple_anchor_read_from_screenshot": {
+            "紫微": "子",
+            "天府": "辰"
+          },
+          "verification_points": [
+            {
+              "series": "ziwei_series_offset",
+              "star": "紫微",
+              "offset": 0,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天機",
+              "offset": -1,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "亥",
+              "actual_palace_read_from_screenshot": "亥",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "太陽",
+              "offset": -3,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "酉",
+              "actual_palace_read_from_screenshot": "酉",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "武曲",
+              "offset": -4,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天同",
+              "offset": -5,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "未",
+              "actual_palace_read_from_screenshot": "未",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "廉貞",
+              "offset": -8,
+              "anchor_star": "紫微",
+              "anchor_palace": "子",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天府",
+              "offset": 0,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "太陰",
+              "offset": 1,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "貪狼",
+              "offset": 2,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "午",
+              "actual_palace_read_from_screenshot": "午",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "巨門",
+              "offset": 3,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "未",
+              "actual_palace_read_from_screenshot": "未",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天相",
+              "offset": 4,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天梁",
+              "offset": 5,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "酉",
+              "actual_palace_read_from_screenshot": "酉",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "七殺",
+              "offset": 6,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "破軍",
+              "offset": 10,
+              "anchor_star": "天府",
+              "anchor_palace": "辰",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            }
+          ],
+          "matched_points": 14,
+          "total_points": 14,
+          "all_match": true
+        },
+        "chart5": {
+          "birth": "1996-02-29 08:17",
+          "screenshot_path": "/home/user/workspace/uploaded_attachments/0dfa4a1e5c7e498487973e5d2d7e3a8f/IMG_2531.jpeg",
+          "purple_anchor_read_from_screenshot": {
+            "紫微": "辰",
+            "天府": "子"
+          },
+          "verification_points": [
+            {
+              "series": "ziwei_series_offset",
+              "star": "紫微",
+              "offset": 0,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天機",
+              "offset": -1,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "太陽",
+              "offset": -3,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "武曲",
+              "offset": -4,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "天同",
+              "offset": -5,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "亥",
+              "actual_palace_read_from_screenshot": "亥",
+              "match": true
+            },
+            {
+              "series": "ziwei_series_offset",
+              "star": "廉貞",
+              "offset": -8,
+              "anchor_star": "紫微",
+              "anchor_palace": "辰",
+              "predicted_palace": "申",
+              "actual_palace_read_from_screenshot": "申",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天府",
+              "offset": 0,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "子",
+              "actual_palace_read_from_screenshot": "子",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "太陰",
+              "offset": 1,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "丑",
+              "actual_palace_read_from_screenshot": "丑",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "貪狼",
+              "offset": 2,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "寅",
+              "actual_palace_read_from_screenshot": "寅",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "巨門",
+              "offset": 3,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "卯",
+              "actual_palace_read_from_screenshot": "卯",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天相",
+              "offset": 4,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "辰",
+              "actual_palace_read_from_screenshot": "辰",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "天梁",
+              "offset": 5,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "巳",
+              "actual_palace_read_from_screenshot": "巳",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "七殺",
+              "offset": 6,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "午",
+              "actual_palace_read_from_screenshot": "午",
+              "match": true
+            },
+            {
+              "series": "tianfu_series_offset",
+              "star": "破軍",
+              "offset": 10,
+              "anchor_star": "天府",
+              "anchor_palace": "子",
+              "predicted_palace": "戌",
+              "actual_palace_read_from_screenshot": "戌",
+              "match": true
+            }
+          ],
+          "matched_points": 14,
+          "total_points": 14,
+          "all_match": true
+        }
+      }
     }
   },
   "canonical_locks": {
