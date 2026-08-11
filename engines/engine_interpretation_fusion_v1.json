@@ -117,6 +117,72 @@
             "verification_status": "verified",
             "design_origin_note": "內容逐字對應QMDJ_Preface_L012原文，已核實。原缺verification_status欄位，現補上。"
           }
+        },
+        "nine_escape_patterns": {
+          "天遁": {
+            "formula": "丙奇+生門+丁奇(地盤)",
+            "best_use": "開張、求官、上書、遠行、公開活動"
+          },
+          "地遁": {
+            "formula": "乙奇+開門+己土(地盤)",
+            "best_use": "埋伏、建築、修造、隱匿、私下謀劃"
+          },
+          "人遁": {
+            "formula": "丁奇+休門+太陰",
+            "best_use": "談判、宴樂、婚姻、招賢納士、得人相助"
+          },
+          "神遁": {
+            "formula": "丙奇+生門+九天",
+            "best_use": "祭祀、祈福、伐惡、增強氣勢"
+          },
+          "鬼遁": {
+            "formula": "丁奇+杜門+九地",
+            "best_use": "探密、智謀、超度、破除邪祟、暗中行事"
+          },
+          "風遁": {
+            "formula": "乙奇+開門+巽宮(或臨風星)",
+            "best_use": "順風揚帆、行兵、利於傳播、廣而告之"
+          },
+          "雲遁": {
+            "formula": "乙奇+開門+坤宮(或臨雲星)",
+            "best_use": "祈雨、利於高空作業、隱蔽行蹤"
+          },
+          "龍遁": {
+            "formula": "乙奇+休門+坎宮(或臨青龍)",
+            "best_use": "水路出行、捕魚、求財、利於水利建設"
+          },
+          "虎遁": {
+            "formula": "丙奇+驚門+艮宮(或臨白虎)",
+            "best_use": "威懾對手、捕捉盜賊、立威、修築防禦"
+          },
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "使用者提供文件《奇門遁甲的完整詳細格局.md》所列九遁格。此文件為使用者提供之補充參考資料，非三份原始權威文件之一，亦非古籍逐字（QMDJ_ShangJuan/XiaJuan_Consolidated.json全文搜尋未見「九遁格」逐字條文），內容屬奇門遁甲命理界通行公開格局知識，文件本身格式含明顯AI生成重複行瑕疵（已於轉錄時清理），特此如實標示來源性質，避免與已核實之古籍格局（見stem_combinations）混淆。"
+        },
+        "expanded_evil_patterns": {
+          "太白入熒": {
+            "trigger": "天盤庚，地盤丙",
+            "effect": "金入火地，主賊來、客兵大勝、主人破財、提防盜賊"
+          },
+          "熒惑入太白": {
+            "trigger": "天盤丙，地盤庚",
+            "effect": "火入金鄉，主賊去、利主不利客、謀事多阻、防火災"
+          },
+          "戰格": {
+            "trigger": "天地盤皆為庚",
+            "effect": "主同輩爭鬥、官司爭訟、兄弟不和、行兵必大戰"
+          },
+          "大格": {
+            "trigger": "天盤庚，地盤癸",
+            "effect": "主車禍、遠行迷路、求謀寸步難行"
+          },
+          "刑格": {
+            "trigger": "天盤庚，地盤己",
+            "effect": "主官司受刑、受人拖累、訴訟必敗"
+          },
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "使用者提供文件《奇門遁甲的完整詳細格局.md》所列庚金大凶格細項。既有六儀擊刑（punishments_and_tombs）已涵蓋六儀落宮相刑，此處補充天地盤庚干組合之衍生凶格，屬同一「庚金大凶」主題之細分，非三份原始權威文件之一，亦非古籍逐字，已誠實標示。"
         }
       },
       "heavy_taboo_logic": {

@@ -160,7 +160,12 @@
           "壬": "string",
           "癸": "string"
         }
-      }
+      },
+      "hour_branch": "string",
+      "hour_branch_trine": "string",
+      "month_stem": "string",
+      "year_stem": "string",
+      "_new_fields_note": "補齊四柱全量輸出（原僅有day_stem/hour_stem/day_branch/day_branch_trine，缺month_stem/year_stem/hour_branch/hour_branch_trine）。依《奇門遁甲命盤完整架構圖譜》原文：「日、時、月、年干的命主/事/同儕/長輩角色定位」需要四柱全量方可支援qimen_yongshen_registry.stems_mapping全部角色映射；「譯馬（馬星）：依時支推算」需要hour_branch_trine供travel_risk用神binding查表。verification_status: unverified/design_rule（欄位本身為輸出結構擴充，非古籍公式，但填值邏輯須依既有四柱起法）。"
     },
     "field_alias_map": {
       "說明": "本表僅為 diagnosis_router_module_v1.required_engine_fields 與本檔案 output_contract 既有欄位之對應關係聲明，不新增任何演算邏輯，不引入現代推演公式。",
@@ -439,6 +444,165 @@
       "direction": "順行",
       "verification_status": "unverified",
       "table_ref": "static_truth_tables.shensha_table.jiangqian_12_series"
+    },
+    "palace_stem_wuhudun": {
+      "purpose": "以生年天干「五虎遁」起寅宮天干，順布十二宮天干，為飛星四化提供本命宮干依據",
+      "formula": "取生年干對應的甲己/乙庚/丙辛/丁壬/戊癸配對，查五虎遁起始天干（甲己→丙、乙庚→戊、丙辛→庚、丁壬→壬、戊癸→甲），該天干起於寅宮，順十天干、十二地支循環布列十二宮（寅卯辰巳午未申酉戌亥子丑）",
+      "verified_starting_palace_stems": {
+        "甲己年": "丙寅起",
+        "乙庚年": "戊寅起",
+        "丙辛年": "庚寅起",
+        "丁壬年": "壬寅起",
+        "戊癸年": "甲寅起"
+      },
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "San-He-Pai-Zi-Wei-Dou-Shu-Ming-Pan-Wan-Zheng-Jia-Gou.txt",
+      "authority_line_ref": "第26行",
+      "design_origin_note": "《三合派紫微斗數命盤完整架構》第26行原文：「宮干安法：以生年天干『五虎遁』起寅宮天干（甲己之年丙作首，乙庚之歲戊為頭，丙辛之歲從庚起，丁壬壬位順行流，若逢戊癸何方發，甲寅之上好追求），順布十二宮天干」。此為本命十二宮宮干起法，與engine既有之monthly_stem_wuhudun（流月宮干，起點為流年干而非生年干）為同一歌訣、不同應用層級，兩者不可混用。已用5組真實命盤（chart1癸年命宮申→庚申、chart2庚年命宮丑→己丑、chart3壬年命宮未→丁未、chart4辛年命宮丑→辛丑、chart5丙年命宮戌→戊戌）逐一驗證通過，補齊flying_sihua_compute步驟1原本假設已存在但實際缺失之宮干依據，解決結構性斷鏈（原飛星四化演算法依賴宮干，但系統無任何規則產生宮干）。"
+    },
+    "zuofu_youbi_pos": {
+      "formula": "左輔：辰宮起正月，順數至生月安之（即辰+(月-1)）。右弼：戌宮起正月，逆數至生月安之（即戌-(月-1)）",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「安左輔右弼星訣 論本生月」原文：「左輔正月起於辰，順逢生月是貴方，右弼正月宮尋戌，逆至正月便調停。左輔從辰上起正月順行，如正月生者就辰宮安之。二月在巳宮，右弼從戌宮逆轉如正月便成戌宮安之，二月在酉宮餘倣此。」《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（八月生：左輔亥、右弼卯）、chart2（五月生：左輔申、右弼午）兩組真實命盤交叉驗證通過。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "month": 8,
+          "predicted": {
+            "左輔": "亥",
+            "右弼": "卯"
+          },
+          "actual": {
+            "左輔": "亥",
+            "右弼": "卯"
+          },
+          "match": true
+        },
+        "chart2": {
+          "month": 5,
+          "predicted": {
+            "左輔": "申",
+            "右弼": "午"
+          },
+          "actual": {
+            "左輔": "申",
+            "右弼": "午"
+          },
+          "match": true
+        }
+      }
+    },
+    "wenchang_wenqu_pos": {
+      "formula": "文昌：戌宮起子時，逆數至生時安之（即戌-時支序）。文曲：辰宮起子時，順數至生時安之（即辰+時支序）",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「安文昌文曲星訣 論本生時」原文：「子時戌上起文昌，逆到生時是貴鄉，文曲數從辰上起，順到生時是本鄉。文昌星從戌上起子時，就在戌宮安，若丑時逆至酉宮安之。文曲星從辰上起子時，如人生子時就在辰宮安，若丑時順去巳宮安之，餘宮倣此。」《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（丑時生：文昌酉、文曲巳）驗證通過。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "hour": "丑",
+          "predicted": {
+            "文昌": "酉",
+            "文曲": "巳"
+          },
+          "actual": {
+            "文昌": "酉",
+            "文曲": "巳"
+          },
+          "match": true
+        }
+      }
+    },
+    "huoxing_lingxing_pos": {
+      "formula": "按生年支三合局定子時起點：寅午戌人火星起丑、鈴星起卯；申子辰人火星起寅、鈴星起戌；巳酉丑人火星起卯、鈴星起戌；亥卯未人火星起酉、鈴星起戌。子時起點後，兩星同步順數至生時安之。",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「安火鈴二星訣」原文：「寅午戌人丑卯方，申子辰人寅戌揚，巳酉丑人卯戌位，亥卯未人酉戌房。」此訣僅載子時起點，本系統依安星慣例（同文昌文曲、地空地劫之時支順逆推算模式）將兩星依生時順數推算。《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（酉年丑時：火星辰、鈴星亥）、chart2（辰年巳時：火星未、鈴星卯）兩組真實命盤交叉驗證通過。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "year_branch": "酉",
+          "hour": "丑",
+          "predicted": {
+            "火星": "辰",
+            "鈴星": "亥"
+          },
+          "actual": {
+            "火星": "辰",
+            "鈴星": "亥"
+          },
+          "match": true
+        },
+        "chart2": {
+          "year_branch": "辰",
+          "hour": "巳",
+          "predicted": {
+            "火星": "未",
+            "鈴星": "卯"
+          },
+          "actual": {
+            "火星": "未",
+            "鈴星": "卯"
+          },
+          "match": true
+        }
+      }
+    },
+    "dikong_dijie_pos": {
+      "formula": "亥宮起子時：地劫順數至生時安之（亥+時支序），地空逆數至生時安之（亥-時支序）",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「天空地劫訣 論本生時」原文：「亥上起子順安劫，逆向便是天空鄉。如子時生者劫空俱在亥宮。若丑時生者劫順在子宮，空逆在戌宮。若午時生者，劫空俱在巳上安之。餘宮倣此。」《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（丑時生：地劫子、地空戌）驗證通過。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "hour": "丑",
+          "predicted": {
+            "地劫": "子",
+            "地空": "戌"
+          },
+          "actual": {
+            "地劫": "子",
+            "地空": "戌"
+          },
+          "match": true
+        }
+      }
+    },
+    "qingyang_tuoluo_pos": {
+      "formula": "取生年干對應祿存宮位，擎羊 = 祿存順一位，陀羅 = 祿存逆一位",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「安擎羊陀羅二星訣」原文：「祿前擎羊後陀羅，夾限逢凶禍患多，歲限逢之俱不利，人生遇此莫蹉跎。此二星隨祿存安之，前安擎羊祿後安陀羅。假如癸祿在子，丑宮安擎羊，亥宮安陀羅，餘倣此。」《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（癸年：擎羊丑、陀羅亥）、chart2（庚年：擎羊酉、陀羅未）兩組真實命盤交叉驗證通過。",
+      "cross_validation_evidence": {
+        "chart1": {
+          "year_stem": "癸",
+          "predicted": {
+            "擎羊": "丑",
+            "陀羅": "亥"
+          },
+          "actual": {
+            "擎羊": "丑",
+            "陀羅": "亥"
+          },
+          "match": true
+        },
+        "chart2": {
+          "year_stem": "庚",
+          "predicted": {
+            "擎羊": "酉",
+            "陀羅": "未"
+          },
+          "actual": {
+            "擎羊": "酉",
+            "陀羅": "未"
+          },
+          "match": true
+        }
+      }
     }
   },
   "dynamic_overlay_compute": {
@@ -629,6 +793,20 @@
         "QMDJ_Juan1_L143"
       ],
       "design_origin_note": "先前依《三合派紫微斗數命盤完整架構》第110行僅得片段「甲己還加甲，乙庚丙作初……」而HALT；經使用者提供之《奇門遁甲秘笈大全》上卷卷一第161-162行（時例章）核實完整口訣為「甲己還加甲，乙庚丙作初，丙辛生戊子，丁壬庚子居，戊癸推壬子，時元定不虛」，與《三合派紫微斗數命盤完整架構》片段一致但更完整，屬同一古籍系統之五鼠遁口訣，故此處HALT已解除。"
+    },
+    "xiaoxian_rules": {
+      "purpose": "流年小限：每年一宮，用於配合流年、太歲、大限交叉判斷吉凶",
+      "starting_palace_by_year_branch_group": {
+        "寅午戌人": "辰宮起（1歲）",
+        "申子辰人": "戌宮起（1歲）",
+        "巳酉丑人": "未宮起（1歲）",
+        "亥卯未人": "丑宮起（1歲）"
+      },
+      "direction_rule": "不論陰陽，男命俱順數，女命俱逆數（與大限「陽男陰女順、陰男陽女逆」規則不同，屬獨立規則，不可混用）",
+      "verification_status": "verified",
+      "source_type": "text",
+      "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
+      "design_origin_note": "《紫微斗數全書》卷二「安小限訣 不論陰陽男俱順數不論陰陽女俱逆數」原文：「寅午戌人起辰宮，申子辰人自戌宮，巳酉丑人起未宮，亥卯未人起丑宮。」古籍原文逐字對應，direction_rule亦逐字轉錄。未能用5組真實命盤交叉驗證，因文墨天機App命盤圖僅顯示流年（依十二宮固定年份序列標示）與大限，未單獨標示小限宮位，故本規則暫列verified/text（內容確為古籍逐字），但缺乏真實命盤之獨立交叉驗證證據，特此如實說明限制。"
     }
   },
   "documentation_layer": [
@@ -979,6 +1157,62 @@
     },
     "verification_status": "verified",
     "source_type": "text_summary_from_user_provided_document",
-    "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第7、23-25、30-31行。"
+    "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第7、23-25、30-31行。",
+    "four_plate_layout_procedure": {
+      "purpose": "由局數、旬首、值符值使實際排出九宮地/天/人/神四盤（原缺此逐宮分配程序，僅有旋轉方向規則）",
+      "step1_dipan": {
+        "description": "地盤（靜態基底）：依陰遁/陽遁局數，將三奇六儀（戊己庚辛壬癸丁丙乙）依局數順序飛布九宮，起點為值符所在宮位",
+        "note": "三奇六儀之洛書九宮原始配置與飛布順序見engine_truth_registry_v1.static_truth_tables.luoshu_9_palace/qimen_yiqi_registry"
+      },
+      "step2_tianpan": {
+        "description": "天盤（九星）：九星原始本宮（天蓬坎一、天芮坤二、天衝震三、天輔巽四、天禽中五寄坤二、天心乾六、天柱兌七、天任艮八、天英離九），隨值符星旋轉帶動九星轉入九宮",
+        "origin_palace_map": {
+          "天蓬": "坎一(1)",
+          "天芮": "坤二(2)",
+          "天衝": "震三(3)",
+          "天輔": "巽四(4)",
+          "天禽": "中五(5，寄坤二)",
+          "天心": "乾六(6)",
+          "天柱": "兌七(7)",
+          "天任": "艮八(8)",
+          "天英": "離九(9)"
+        }
+      },
+      "step3_renpan": {
+        "description": "人盤（八門）：八門原始本宮（休門坎一、生門艮八、傷門震三、杜門巽四、景門離九、死門坤二、驚門兌七、開門乾六），隨值使門依時支步伐順飛或逆飛入九宮",
+        "origin_palace_map": {
+          "休門": "坎一(1)",
+          "生門": "艮八(8)",
+          "傷門": "震三(3)",
+          "杜門": "巽四(4)",
+          "景門": "離九(9)",
+          "死門": "坤二(2)",
+          "驚門": "兌七(7)",
+          "開門": "乾六(6)"
+        }
+      },
+      "step4_shenpan": {
+        "description": "神盤（八神）：永遠跟隨天盤值符星運轉，陽遁順時針排列、陰遁逆時針排列",
+        "note": "與既有shenpan_note一致，此處補充明確運轉方向規則"
+      },
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "使用者提供文件《九宮四盤.md》（內部格式含明顯AI生成重複行瑕疵，內容經核對屬奇門遁甲命理界通行公開知識，非古籍逐字，亦非三份原始權威文件之一）。九星八門之原始本宮配置為命理界公認標準對應（可交叉核對洛書九宮方位），但飛布逐宮之完整計算程序仍需搭配旬首查表（zhifu_zhishi_lookup_procedure）與陰陽遁局數方可執行，本entry僅補齊「原始本宮」與「運轉規則」框架，不構成獨立可運算的完整排盤演算法，須與既有值符值使查表程序共同使用。"
+    },
+    "final_verdict_aggregation": {
+      "purpose": "以用神宮為核心，綜合神星門儀五行、旺衰、擊刑空亡及與日干宮生剋作終極吉凶判斷（原缺此聚合演算法，僅有零散判斷入口）",
+      "five_dimensions": {
+        "1_gejugan": "天地盤天干組合（格局，如戊加丙、庚加己）：代表事情表面現象、起因與基本質地",
+        "2_men": "八門（人盤）：吉凶佔比最重，若遇門迫、宮迫，即使格局吉亦削弱",
+        "3_xing": "九星（天盤）：代表天時大趨勢，星與門相剋則大環境不支持",
+        "4_shen": "八神（神盤）：代表無形力量與心態傾向",
+        "5_gongwangshuai": "宮位旺衰（地盤）：用神落宮處於空亡/墓絕/受制則再好的格局門星亦難施展；反之落宮旺相則凶格影響亦減"
+      },
+      "priority_note": "文件明列「門（人盤）：吉凶佔70%的核心」，但此比例為單一來源提供之經驗法則，非古籍原文，本系統不將其設為固定計算權重，僅作為判斷優先序參考",
+      "aggregation_procedure": "1. 定位用神所在宮位（依qimen_yongshen_registry.theme_bindings查得）。2. 讀取該宮之天盤星、人盤門、神盤神、地盤宮位旺衰狀態。3. 檢查該宮是否落入六儀擊刑、三奇入墓、旬空、伏吟反吟等特殊格局（見pattern_library）。4. 依上列五維度逐一比對：格局定性質、門定行動難易、星定環境支持度、神定心態傾向、宮位旺衰定格局門星能否真正發力。5. 若各維度結論衝突（如格吉門凶），需並列標示體用矛盾，不強行調和為單一結論。",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "使用者提供文件《奇門遁甲的完整詳細格局.md》（內部格式含明顯AI生成重複行瑕疵，內容經核對屬命理界通行公開判斷框架，非三份原始權威文件之一，亦非古籍逐字）。文件所列「終局吉凶五大決定維度」與「門（人盤）佔70%」等量化比例純屬單一來源之經驗法則，本系統採納五維度判斷框架但拒絕採納未經證實之固定百分比權重，避免引入偽精確度。此聚合演算法仍需搭配four_plate_layout_procedure產生的實際排盤結果方可執行，且判斷仍以L3 pattern_library之具體格局定義為準，本entry僅提供缺失的整合流程框架。"
+    }
   }
 }

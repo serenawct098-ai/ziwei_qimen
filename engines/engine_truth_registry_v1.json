@@ -859,16 +859,14 @@
             },
             {
               "type": "registry_key",
-              "path": "qimen_tianpan_star_registry",
-              "key": "天心"
-            },
-            {
-              "type": "registry_key",
               "path": "qimen_renpan_men_registry",
               "key": "傷門"
             }
           ],
-          "description": "天芮主病灶、乙丙丁主醫藥、天心/傷門主醫療手段"
+          "description": "天芮主病灶、乙丙丁主醫藥、傷門主醫療手段",
+          "verification_status": "unverified",
+          "source_type": "design_rule_partial",
+          "design_origin_note": "《奇門遁甲命盤完整架構圖譜》原文（健康/疾病項）：「天芮星（病灶）、乙/丙/丁（醫藥）、心門/傷門（醫療手段）」。原文「心門」非九星八門任一正式名稱（八門為休生傷杜景死驚開，九星含天心），engine先前將其替換為「天心」星缺乏來源鏈支持，屬未經證實之術語正規化，現已移除該猜測性替換，僅保留可驗證之「天芮」「乙丙丁」「傷門」三項，「心門」原文含義暫列為待查（可能為文件筆誤或另有出處），不強行對應任何現有名錄項目。"
         },
         "relational_strategy": {
           "selectors": [
@@ -970,10 +968,13 @@
             {
               "type": "truth_table",
               "path": "static_truth_tables.qimen_yima_table",
-              "lookup_key": "raw_qimen_state.day_branch_trine"
+              "lookup_key": "raw_qimen_state.hour_branch_trine"
             }
           ],
-          "description": "出行避險、路途安全與方向選擇"
+          "description": "出行避險、路途安全與方向選擇",
+          "verification_status": "verified",
+          "source_type": "text_summary_from_user_provided_document",
+          "design_origin_note": "《奇門遁甲命盤完整架構圖譜》原文：「譯馬（馬星）：依時支推算，代表動態、變動、奔波或加速」。lookup_key原設為day_branch_trine（日支三合局），同文件明定之「依時支推算」不符，現已修正為hour_branch_trine（時支三合局），消除文件對齊落差。"
         },
         "search_location": {
           "selectors": [
@@ -1861,7 +1862,7 @@
     },
     "star_brightness_matrix": {
       "name": "星曜亮度全量矩陣",
-      "description": "涵蓋14主星及六吉六煞亮度標註",
+      "description": "十四主星亮度矩陣（不含六吉六煞，如需六吉六煞亮度資料需另行擴充）",
       "data": {
         "紫微": {
           "子": "平",
@@ -2060,7 +2061,8 @@
           "亥": "廟"
         }
       },
-      "status": "active"
+      "status": "active",
+      "coverage_note": "data僅涵蓋14主星（紫微天機太陽武曲天同廉貞天府太陰貪狼巨門天相天梁七殺破軍），不含六吉六煞。原description聲稱涵蓋六吉六煞屬敘述與實際資料不符，現已修正描述避免誤導。"
     },
     "boshi_12_stars_note": "蜚廉為飛廉之古字通假，版本異文可接受。",
     "mingzhu_shenzhu_table": {
