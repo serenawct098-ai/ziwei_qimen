@@ -175,7 +175,31 @@
     }
   },
   "natal_chart_compute": {
-    "ming_shen_palace": "寅起正月，順數生月，逆數生時安命；順數生時安身",
+    "ming_shen_palace": {
+      "description": "寅起正月，順數生月，逆數生時安命；順數生時安身",
+      "body_palace_lock": {
+        "mapping_by_hour_zhi": {
+          "子": "命宮",
+          "午": "命宮",
+          "丑": "福德宮",
+          "未": "福德宮",
+          "寅": "官祿宮",
+          "申": "官祿宮",
+          "卯": "遷移宮",
+          "酉": "遷移宮",
+          "辰": "財帛宮",
+          "戌": "財帛宮",
+          "巳": "夫妻宮",
+          "亥": "夫妻宮"
+        },
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第11行：「身宮則『順數生時』定，只會落於命、夫妻、財帛、遷移、官祿、福德六宮之一（子午時→命宮，丑未時→福德宮，寅申時→官祿宮，卯酉時→遷移宮，辰戌時→財帛宮，巳亥時→夫妻宮）」。"
+      },
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第11行。"
+    },
     "wuxing_ju": "依命宮干支納音定 (水二、木三、金四、土五、火六)",
     "ziwei_star_pos": "依五行局與生日查表定位",
     "tianfu_star_pos": "與紫微星在寅申軸對稱定位",
@@ -282,6 +306,85 @@
       "boshi_12": "博士十二神依生年干/支及起點順逆安布",
       "jiangqian_12": "將前十二神依生年支三合局安布",
       "suiqian_12": "歲前十二神依流年支安布"
+    },
+    "flying_sihua_compute": {
+      "description": "以任一宮位之宮干，依十干四化表另飛出祿權科忌至其他宮位",
+      "steps": [
+        "取得該宮位之宮干（依五虎遁已排定）",
+        "以該宮干查 engine_truth_registry_v1.static_truth_tables.sihua_matrix_presets.wenmo_tianji_standard 取得對應化祿/化權/化科/化忌四星",
+        "在命盤中找出該四星實際所在宮位",
+        "標記「該宮干飛入之宮位」與四化類型"
+      ],
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第91行：以任一宮位之宮干，依十干四化表另飛出祿權科忌至其他宮位，稱「飛星四化」，用以觀察宮位之間的能量流動與因果連結。"
+    },
+    "zihua_compute": {
+      "basic_zihua": {
+        "name": "自化",
+        "trigger": "某宮位天干飛出的祿、權、科、忌又落回本宮",
+        "effect": "宮位內部的能量自我循環，未必外飛他宮",
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第93-95行：某宮位天干飛出的祿、權、科、忌又落回本宮，稱自化祿、自化權、自化科、自化忌，代表宮位內部的能量自我循環，未必外飛他宮。"
+      },
+      "centripetal": {
+        "name": "向心自化",
+        "trigger": "對宮天干四化飛入本宮",
+        "effect": "能量往內收，代表被動、承受、依賴",
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第97行：向心自化：對宮天干四化飛入本宮，能量往內收，代表被動、承受、依賴。"
+      },
+      "centrifugal": {
+        "name": "離心自化",
+        "trigger": "本宮天干四化飛出至對宮",
+        "effect": "能量往外散，代表主動、付出、耗散",
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第98行：離心自化：本宮天干四化飛出至對宮，能量往外散，代表主動、付出、耗散。"
+      },
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第93-100行。"
+    },
+    "douyun_compute": {
+      "name": "斗君定法",
+      "steps": [
+        "以流年太歲所在宮起正月",
+        "逆數至本命生月宮",
+        "再從該宮起子時順數至本命生時宮",
+        "落點即斗君（正月流月命宮）",
+        "其後各月順時針每月一宮"
+      ],
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第109行：「先定『斗君』：以流年太歲所在宮起正月，逆數至本命生月宮，再從該宮起子時順數至本命生時宮，落點即斗君（正月流月命宮）；其後各月順時針每月一宮」。"
+    },
+    "monthly_stem_wuhudun": {
+      "purpose": "以五虎遁月法，依流年干定各月干，飛出流月四化",
+      "complete_verse": "甲己之年丙作首，乙庚之歲戊為頭，丙辛之歲從庚起，丁壬壬位順行流，若逢戊癸何方發，甲寅之上好追求",
+      "verified_starting_month_stems": {
+        "甲己": "丙",
+        "乙庚": "戊",
+        "丙辛": "庚",
+        "丁壬": "壬",
+        "戊癸": "甲"
+      },
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第109行明示「以五虎遁月法，依流年干定各月干（甲己之年丙作首……），飛出流月四化」；完整口訣見使用者提供之權威文件《三合派紫微斗數命盤完整架構》第26行。"
+    },
+    "daily_stem_wushudun": {
+      "purpose": "以五鼠遁日法定日干，飛出流日四化；流時依日干五鼠遁定各時干四化",
+      "verified_excerpt": "甲己還加甲，乙庚丙作初……",
+      "execution_status": "HALT",
+      "halt_reason": "文件1第110行只提供「甲己還加甲，乙庚丙作初……」；三份文件均未完整提供五鼠遁日干口訣或可執行的全表，需人工確認完整口訣後才能定日干及下游時干四化。",
+      "known_flow_day_positioning": "以流月命宮起初一，順行十二宮，一日一宮，數至月底",
+      "known_flow_hour_positioning": "以流日所在宮起子時，順布十二宮，一時辰一宮",
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第110-111行。"
     }
   },
   "documentation_layer": [
@@ -352,6 +455,94 @@
       "verification_status": "unverified",
       "source_type": "design_rule",
       "design_origin_note": "來源：全局邏輯審查指令"
+    },
+    "monthly_alert": {
+      "name": "流年流月忌疊警戒",
+      "description": "流年化忌與流月化忌落於同一宮位，構成當年最需警惕的月份",
+      "trigger_conditions": {
+        "required_layers": [
+          "raw_dynamic_layers.annual_sihua",
+          "raw_dynamic_layers.monthly_sihua"
+        ],
+        "same_palace": true,
+        "required_transform": "化忌"
+      },
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第126行：流年化忌與流月化忌若落於同一宮位，構成當年最需警惕的月份，用以精準定位事件發生的時間窗。"
     }
+  },
+  "faction_dual_track_principle": {
+    "description": "本系統為三合派+四化飛星兩派兼採者：核心格局判斷（三方四正、主星組合、生年四化定基本格局層次）以三合派為體；飛星四化、自化、重忌邏輯用於動態時間層（大限/流年/流月）疊加分析，補充三合派對宮位間能量流動、心理層次及凶險時點的解釋力，屬「用」。兩者不互斥，須並列輸出，禁止用其中一派邏輯覆蓋或取代另一派的判斷結果。",
+    "verification_status": "verified",
+    "source_type": "text_summary_from_user_provided_document",
+    "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第85、136-138行。"
+  },
+  "zhifu_zhishi_lookup_procedure": {
+    "liu_yi_xunshou": {
+      "甲子": "戊",
+      "甲戌": "己",
+      "甲申": "庚",
+      "甲午": "辛",
+      "甲辰": "壬",
+      "甲寅": "癸"
+    },
+    "procedure": [
+      "取得時柱干支",
+      "判定該時柱所屬六甲旬（甲子/甲戌/甲申/甲午/甲辰/甲寅其中之一）",
+      "查表得旬首對應之儀（戊己庚辛壬癸其中之一）",
+      "以「旬名＋儀」鍵值查 engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table.data（例如甲子＋戊→甲子戊），取得該旬首對應的值符地盤九星與值使地盤八門",
+      "該儀所在地盤宮位即為值符所在宮（值符本身為該儀對應之地盤九星）",
+      "同一宮位對應之地盤八門即為值使"
+    ],
+    "verification_status": "verified",
+    "source_type": "text_summary_from_user_provided_document",
+    "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第9-12行：時柱旬首判定六儀旬首；值符為旬首對應的地盤九星；值使為旬首對應的地盤八門。既有查表路徑為 engine_truth_registry_v1.static_truth_tables.zhifu_zhishi_table.data。"
+  },
+  "qimen_panju_compute": {
+    "tianpan_rotation": {
+      "rule": "隨值符順/逆旋轉轉入九宮",
+      "direction_determination": "HALT：文件3第7行只明示「冬至後用陽遁一至九局，夏至後用陰遁九至一局」；文件1-3未明示陽遁或陰遁各自對應順轉或逆轉，禁止自行假設。",
+      "execution_status": "HALT",
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第7、23行。"
+    },
+    "renpan_rotation": {
+      "rule": "八門環排旋轉",
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第24行。"
+    },
+    "shenpan_note": {
+      "rule": "八神依值符起例，隨值符同步旋轉入宮",
+      "registry_ref": "engine_truth_registry_v1.name_registries.qimen_shenpan_shen_registry",
+      "registry_lock_note": "已鎖定8神版本，不含太常",
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第25行：轉盤（八神）為值符、騰蛇、太陰、六合、白虎（勾陳）、玄武（朱雀）、九地、九天；本系統 L1 名錄鎖定8神版本，不含太常。"
+    },
+    "energy_state_assessment": {
+      "wang_xiang_xiu_qiu_fei": {
+        "concept": "九星與八門在當前季節（月令）及落宮五行下的生克能量強弱",
+        "execution_status": "HALT",
+        "halt_reason": "文件3第30行及文件1-3均未給出月令、五行、九星、八門的具體旺相休囚廢對照或判定表；不可自行編造。",
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第30行。"
+      },
+      "ten_stem_changsheng": {
+        "concept": "天干在九宮地支所處的十二長生狀態（如帝旺、臨官、墓、絕等）",
+        "existing_registry_check": "engine_truth_registry_v1.static_truth_tables.changsheng_12_stars 僅為十二狀態名稱序列，未含十干對九宮地支的起始位或映射。",
+        "execution_status": "HALT",
+        "halt_reason": "文件3第31行只給概念；現有 changsheng_12_stars 未證明為奇門十干十二長生規則。紫微系統十二長生與奇門十干生旺死絕能否共用，三份文件未明示，禁止套用。",
+        "verification_status": "verified",
+        "source_type": "text_summary_from_user_provided_document",
+        "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第31行；現有 L1 欄位實際內容檢查結果。"
+      }
+    },
+    "verification_status": "verified",
+    "source_type": "text_summary_from_user_provided_document",
+    "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第7、23-25、30-31行。"
   }
 }

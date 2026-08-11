@@ -753,15 +753,6 @@
           "天"
         ],
         "engine_binding": "qimen_engine.shenpan.九天"
-      },
-      {
-        "standard_key": "太常",
-        "display_name": "太常",
-        "legacy_aliases": [
-          "常"
-        ],
-        "engine_binding": "qimen_engine.shenpan.太常",
-        "note": "轉盤系統標準八神之一（依值符起例順排/逆排，非飛盤獨立起例）"
       }
     ],
     "qimen_yongshen_registry": {
@@ -1003,7 +994,8 @@
           "description": "失物尋人、物品方位與環境特徵"
         }
       }
-    }
+    },
+    "qimen_shenpan_shen_registry_note": "轉盤系統標準八神（依《奇門遁甲命盤完整架構圖譜》第25行：轉盤=值符、螣蛇、太陰、六合、白虎（勾陳）、玄武（朱雀）、九地、九天，共8神）。太常為飛盤系統獨有第9神，本系統鎖定轉盤（canonical_locks.qimen_panlayer_lock），故不收錄太常，已於2026-08-11移除。"
   },
   "static_truth_tables": {
     "sihua_matrix_presets": {
@@ -1015,7 +1007,7 @@
           "化忌": "太陽",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "乙": {
           "化祿": "天機",
@@ -1024,7 +1016,7 @@
           "化忌": "太陰",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "丙": {
           "化祿": "天同",
@@ -1033,7 +1025,7 @@
           "化忌": "廉貞",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "丁": {
           "化祿": "太陰",
@@ -1042,7 +1034,7 @@
           "化忌": "巨門",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "戊": {
           "化祿": "貪狼",
@@ -1051,7 +1043,7 @@
           "化忌": "天機",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "己": {
           "化祿": "武曲",
@@ -1060,7 +1052,7 @@
           "化忌": "文曲",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "庚": {
           "化祿": "太陽",
@@ -1069,7 +1061,7 @@
           "化忌": "天相",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "辛": {
           "化祿": "巨門",
@@ -1078,7 +1070,7 @@
           "化忌": "文昌",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "壬": {
           "化祿": "天梁",
@@ -1087,7 +1079,7 @@
           "化忌": "武曲",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         },
         "癸": {
           "化祿": "破軍",
@@ -1096,7 +1088,7 @@
           "化忌": "貪狼",
           "verification_status": "unverified",
           "source_type": "design_rule",
-          "design_origin_note": "文墨天機標準十干四化表，屬命理界通行歸納規則，非古籍逐字原文，數值鎖定依據見專案系統指令 wenmo_tianji_standard；因此不設虛構 data_file／line_id。"
+          "design_origin_note": "使用者提供之權威文件《安祿權科忌四星變化訣》逐干原文對齊（含七言訣與現代語境轉譯），同時符合《三合派紫微斗數命盤完整架構》第四節生年四化表，兩份權威文件與命理界通行文墨天機標準完全一致；非古籍《紫微斗數全書》逐字原文（十干四化為後世歸納規則），數值鎖定另見專案系統指令 wenmo_tianji_standard。"
         }
       }
     },
@@ -1496,35 +1488,40 @@
       "data": {
         "yang_dun": {
           "nei": [
-            "坎",
-            "艮",
-            "震",
-            "巽"
+            "坎一",
+            "艮八",
+            "震三",
+            "巽四"
           ],
+          "nei_meaning": "主近/快/內",
           "wai": [
-            "離",
-            "坤",
-            "兌",
-            "乾"
-          ]
+            "離九",
+            "坤二",
+            "兌七",
+            "乾六"
+          ],
+          "wai_meaning": "主遠/慢/外"
         },
         "yin_dun": {
           "nei": [
-            "離",
-            "坤",
-            "兌",
-            "乾"
+            "離九",
+            "坤二",
+            "兌七",
+            "乾六"
           ],
+          "nei_meaning": "主近/快/內",
           "wai": [
-            "坎",
-            "艮",
-            "震",
-            "巽"
-          ]
+            "坎一",
+            "艮八",
+            "震三",
+            "巽四"
+          ],
+          "wai_meaning": "主遠/慢/外"
         }
       },
-      "verification_status": "unverified",
-      "design_origin_note": "根據【奇門遁甲命盤完整架構圖譜】定義，待古籍進一步細化對齊"
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《奇門遁甲命盤完整架構圖譜》第17-18行：「陽遁：坎一、艮八、震三、巽四為內盤（主近/快/內）；離九、坤二、兌七、乾六為外盤（主遠/慢/外）。陰遁：離九、坤二、兌七、乾六為內盤（主近/快/內）；坎一、艮八、震三、巽四為外盤（主遠/慢/外）。」"
     },
     "star_strength_table": {
       "紫微": {
@@ -2065,7 +2062,41 @@
       },
       "status": "active"
     },
-    "boshi_12_stars_note": "蜚廉為飛廉之古字通假，版本異文可接受。"
+    "boshi_12_stars_note": "蜚廉為飛廉之古字通假，版本異文可接受。",
+    "mingzhu_shenzhu_table": {
+      "mingzhu_by_palace_zhi": {
+        "子": "貪狼",
+        "丑": "巨門",
+        "寅": "祿存",
+        "卯": "文曲",
+        "辰": "廉貞",
+        "巳": "武曲",
+        "午": "破軍",
+        "未": "武曲",
+        "申": "廉貞",
+        "酉": "文曲",
+        "戌": "祿存",
+        "亥": "巨門"
+      },
+      "說明": "依文件1第12行「子宮起貪狼，順逆各七位安貪巨祿文廉武破」：順數支為子貪狼、丑巨門、寅祿存、卯文曲、辰廉貞、巳武曲、午破軍；逆數支為子貪狼、亥巨門、戌祿存、酉文曲、申廉貞、未武曲、午破軍。兩支僅於午宮匯合，且均為破軍，無衝突。",
+      "shenzhu_by_nianzhi": {
+        "子": "鈴星",
+        "午": "鈴星",
+        "丑": "天相",
+        "未": "天相",
+        "寅": "天梁",
+        "申": "天梁",
+        "卯": "天同",
+        "酉": "天同",
+        "辰": "文昌",
+        "戌": "文昌",
+        "巳": "天機",
+        "亥": "天機"
+      },
+      "verification_status": "verified",
+      "source_type": "text_summary_from_user_provided_document",
+      "design_origin_note": "使用者提供之權威文件《三合派紫微斗數命盤完整架構》第12行：「命主星：用命宮地支查北斗七星（子宮起貪狼，順逆各七位安貪巨祿文廉武破）。」；第13行：「身主星：用生年支（生肖）查南斗系，子午鈴星、丑未天相、寅申天梁、卯酉天同、辰戌文昌、巳亥天機。」"
+    }
   },
   "canonical_locks": {
     "sihua_lock": "wenmo_tianji_standard",
