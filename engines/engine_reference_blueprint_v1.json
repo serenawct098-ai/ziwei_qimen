@@ -361,10 +361,10 @@
       "data_file": "QMDJ_ShangJuan_Consolidated.json",
       "line_id": "QMDJ_Preface_L004",
       "value_summary": "對齊原文: 坎宮認天蓬為符，坤宮天芮，震宮天沖，巽宮天輔，中五天禽，乾宮天心，兌宮天柱，艮宮天任，離宮天英。凡甲子在戊，即以天蓬為值符，休門為值使；甲戌在己，即以天芮為值符，死門為值使；甲申在庚，即以天沖為值符，傷門為值使；甲午在辛，即以天輔為值符，杜門為值使；甲辰在壬，即以天禽為值符，死門為值使；甲寅在癸，即以天心為值符，開門為值使。",
-      "status": "unverified",
+      "status": "verified",
       "verification_status": "verified",
       "source_type": "text_pending_review",
-      "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統。",
+      "design_origin_note": "已核實 QMDJ_Preface_L004 完整覆蓋九星八門起排系統，逐字對應《奇門遁甲秘笈大全》原文（坎宮認天蓬為符...甲寅在癸，即以天心為值符，開門為值使）。status欄位原與verification_status矛盾（status=unverified vs verification_status=verified），現統一為verified，消除內部標籤矛盾。",
       "halt_status": "PASS"
     },
     {
@@ -5669,9 +5669,9 @@
       "line_id": "QMDJ_Juan30_L006",
       "value_summary": "天禽星寄宮規則 (天禽寄於坤二宮)",
       "status": "unverified",
-      "verification_status": "verified",
-      "source_type": "text_pending_review",
-      "design_origin_note": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之『永寄坤二法』。",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "天禽寄坤二宮為三合／奇門通行操作慣例，源於中宮無門、土性同氣之歸納原理，非古籍單一逐字條文；本系統採最主流之「永寄坤二法」。經核對三份權威文件與QMDJ SSOT全文，均無「永寄坤二」逐字條文，此為命理界通行設計慣例，已誠實標示為design_rule，避免與古籍原文混淆。",
       "halt_status": "PASS"
     },
     {

@@ -2199,9 +2199,9 @@
         "七殺": 6,
         "破軍": 10
       },
-      "verification_status": "verified",
-      "source_type": "design_rule_verified_against_real_charts",
-      "design_origin_note": "十四主星兩條星系的固定宮位偏移，以紫微、天府為各自錨點；宮支採子=0、丑=1……亥=11 的循環索引，負值為逆數。此為排盤設計規則，已由五張使用者提供的文墨天機真實命盤逐星反向核對。",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "十四主星兩條星系的固定宮位偏移，以紫微、天府為各自錨點；宮支採子=0、丑=1……亥=11 的循環索引，負值為逆數。《三合派紫微斗數命盤完整架構》第33-35行原文僅載：「先依五行局及生日查紫微落宮，再依固定順逆序推天府及其餘十二正曜落宮」，即固定順逆布星之定性描述，未列出具體數字偏移編碼。此數字化偏移表為系統將古籍定性排列規則實作為可計算形式之設計規則，非古籍逐字表格。已由五張使用者提供的文墨天機真實命盤逐星反向核對，共70個核對點（5圖×14星）全數命中，證明其實作正確，但驗證結果不能使其升格為古籍原文引用。",
       "cross_validation_evidence": {
         "chart1": {
           "birth": "1993-10-02 01:42",
@@ -2975,7 +2975,12 @@
     "sihua_lock": "wenmo_tianji_standard",
     "tiankui_tianyue_lock": "六辛逢虎馬(魁寅鉞午)",
     "late_zi_hour_rule": "23:00-23:59 換日，時支恆為子",
-    "leap_month_rule_mode": "sanhe_star_school_middle_split",
+    "leap_month_rule_mode": {
+      "value": "sanhe_star_school_middle_split",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "三合派閏月處理採「月中分界」（上半月算本月、下半月算次月）。經核對三份權威文件（三合派紫微斗數命盤完整架構、安祿權科忌四星變化訣、奇門遁甲命盤完整架構圖譜）全文，均無「閏月」或「月中分界」條款。此為系統採用命理界通行三合派設計選擇，非古籍或權威文件逐字依據，特此如實標示，避免誤認為已核實規則。"
+    },
     "qimen_panlayer_lock": "轉盤（值符隨順/逆旋轉入九宮，九星八門依轉盤方式佈局，非飛盤）",
     "expansion_forbidden": true
   },

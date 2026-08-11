@@ -21,14 +21,24 @@
     ]
   },
   "calendar_ephemeris_protocol": {
-    "jieqi_precision": "必須使用天文交節精確時刻，精確至秒（僅用於定奇門三元局數之節氣判定，不涉及現代均時差推算）",
-    "late_zi_rollover": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'",
+    "jieqi_precision": {
+      "rule": "以節氣與日干共同決定局數與元數（如「陽遁八局，上元」），節氣判定依通行農民曆/萬年曆節氣日期，不要求天文交節精確至秒之現代星曆規格",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "《奇門遁甲命盤完整架構圖譜》原文僅載：「局數與元數：如『陽遁八局，上元』，由節氣與日幹共同決定」，未要求天文交節精確至秒之現代星曆規格。原「精確至秒」表述屬現代天文曆法依賴，已依governance directive移除，改為依通行節氣日期表判定，避免使用禁止之現代天文演算。"
+    },
+    "late_zi_rollover": {
+      "rule": "IF hour >= 23:00 THEN lunar_day += 1; hour_zhi = '子'",
+      "verification_status": "unverified",
+      "source_type": "design_rule_deviation_from_authority_doc",
+      "design_origin_note": "《三合派紫微斗數命盤完整架構》第18行原文：「紫微斗數以『過時初則入宮』為原則，即以真太陽時23時為換日分界」——權威文件明定以真太陽時23時為分界，本系統採用民用鐘點23:00直接換日，未做真太陽時（依出生地經度校正）之時差修正。此為已知、刻意之對齊落差，非隱瞞：採用鐘點時間是為避免引入現代天文均時差演算（違反唯用古籍公式之治理原則），但亦導致與權威文件之真太陽時分界要求不完全一致，屬未解決之方法論取捨，特此如實標示。"
+    },
     "late_zi_dual_chart": {
       "status": "disabled",
       "reason": "本系統唯一正式排盤規則為 late_zi_rollover（23:00-23:59 一律視為次日子時），不得輸出雙盤供選擇。原「雙盤對照建議」屬現代實務便利設計，非古籍規則，且與唯一排盤鎖定矛盾，故停用，不進入正式輸出。",
       "design_origin_note": "REMOVED_MODERN_CONVENIENCE_LOGIC per 全局邏輯審查指令：嚴禁現代推演公式與古籍鎖定並存造成輸出歧義。"
     },
-    "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy.",
+    "solar_time_correction": "REMOVED: System does not perform true solar time correction per SSOT purity policy (avoiding modern astronomical calculation), though authority document San-He-Pai line 18 specifies true solar time 23:00 as the boundary.",
     "liuyue_doujun": {
       "line_id": "ZWQS_Juan2_AnLiuKuiyue_000",
       "original_quote": "大歲宮中便起正，逆尋生月即留停，又從生月宮輪子，順至生時鎮斗星。"
@@ -98,11 +108,8 @@
       "gender in ['male', 'female']",
       "late_zi_rollover_23:00"
     ],
-    "dual_chart_consistency_checks": [
-      "verify_past_events_against_dual_charts",
-      "confirm_personality_traits"
-    ],
-    "validation_rules_note": "halt_assertions.validation_rules 中的 abs(birth_longitude - 120) < 15 屬輸入驗證，非命理演算公式，說明同上。"
+    "validation_rules_note": "halt_assertions.validation_rules 中的 abs(birth_longitude - 120) < 15 屬輸入驗證，非命理演算公式，說明同上。",
+    "dual_chart_consistency_checks_removed_note": "原dual_chart_consistency_checks（雙盤對照檢查：verify_past_events_against_dual_charts, confirm_personality_traits）已移除。晚子時雙盤對照功能已於calendar_ephemeris_protocol.late_zi_dual_chart停用（唯一正式盤採次日子時），此halt_assertions殘留規則與已停用功能矛盾，構成治理殘留問題，現已清除。"
   },
   "output_contract": {
     "raw_natal_matrix": {
@@ -370,8 +377,8 @@
         "取得農曆出生日（初一至三十）",
         "以五行局為欄、出生日為列，查表得紫微星所在宮支"
       ],
-      "verification_status": "verified",
-      "source_type": "design_rule_verified_against_real_charts",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
       "design_origin_note": "使用者提供之「五行局與農曆生日查紫微星定位表」。原倉庫古籍SSOT內對應之ASCII圖表因PDF轉純文字OCR造成欄位對齊損壞（已證實：木三局單幅內即有3組日期衝突同3個日期完全缺失），無法直接採用；使用者先前提供的另一版本網上表格經5組真實命盤（文墨天機App實際輸出）逆向驗證，5組中僅1組吻合，判定不可信、未採用。本表格經同一套5組真實命盤（chart1:木三局日17→午；chart2:火六局日5→丑；chart3:水二局日11→午；chart4:土五局日7→子；chart5:木三局日11→辰）全數驗證通過，另有內部數學一致性檢查（每組局數對應的+N天應恰好移動1個宮位）5個局全部通過，故採用為 design_rule，明確標註非本倉庫古籍SSOT逐字原文。",
       "cross_validation_evidence": {
         "chart1_1993_10_02": {
@@ -414,11 +421,11 @@
     "tianfu_star_pos": {
       "description": "與紫微星在寅申軸對稱定位（天府惟寅申二宮紫府同宮，餘者逆布）",
       "formula": "以子=0、丑=1……亥=11 編號十二支，天府宮支編號 = (4 - 紫微宮支編號) mod 12",
-      "verification_status": "verified",
-      "source_type": "text",
+      "verification_status": "unverified",
+      "source_type": "design_rule",
       "data_file": "ZWQS_Juan2_Consolidated.json",
       "line_id": "ZWQS_Juan2_AnTianfuTu_L000",
-      "design_origin_note": "《紫微斗數全書》卷二「安天府圖」原文：「天府惟寅申二宮紫府同宮，餘...」，寅申二宮為軸心對稱點；經公式化後用chart1（紫微午→天府戌）、chart3（紫微午→天府戌）兩組真實命盤交叉驗證通過。"
+      "design_origin_note": "《紫微斗數全書》卷二「安天府圖」原文僅載：「天府惟寅申二宮紫府同宮，餘...」，即寅申二宮紫府同宮、其餘宮位逆向對稱布列之定性關係，古籍原文並無「子=0…亥=11」數字編碼或「(4-紫微宮支編號) mod 12」之數學公式表述。此 mod 公式為系統將古籍定性關係「經公式化」之現代數學簡化表達，屬設計規則，非古籍逐字。已用chart1（紫微午→天府戌）、chart3（紫微午→天府戌）兩組真實命盤交叉驗證通過，證明其計算結果正確，但驗證結果不能使其升格為古籍原文引用。"
     },
     "palace_axis": "命、兄、夫、子、財、疾、遷、友、官、田、福、父 (逆時針)",
     "boshi_12_compute": {

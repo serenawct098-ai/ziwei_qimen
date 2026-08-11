@@ -113,7 +113,9 @@
             "trigger": "杜死驚傷景合九地、太陰、六合，乙丙丁己癸",
             "effect": "各有吉凶",
             "line_id": "QMDJ_Preface_L012",
-            "source_type": "text_summary"
+            "source_type": "text_summary",
+            "verification_status": "verified",
+            "design_origin_note": "內容逐字對應QMDJ_Preface_L012原文，已核實。原缺verification_status欄位，現補上。"
           }
         }
       },
