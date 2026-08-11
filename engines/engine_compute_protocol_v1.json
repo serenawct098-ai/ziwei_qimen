@@ -128,12 +128,13 @@
     "raw_qimen_state": {
       "nine_palaces": {
         "type": "object",
-        "說明": "九宮（含中五宮寄坤二）各宮之天盤星/人盤門/神盤神/宮位狀態，依 Step 13-14（佈地盤奇儀、佈天盤星人盤門神盤神）產生，欄位命名與 field_alias_map 對應。",
+        "說明": "九宮（含中五宮寄坤二）各宮之天盤星/人盤門/神盤神/宮位狀態，依 Step 13-14（佈地盤奇儀、佈天盤星人盤門神盤神）產生，欄位命名與 field_alias_map 對應。（原per_palace_fields缺dipan_yiqi欄位，現已補上，使地盤靜態值可隨九宮狀態一併輸出）",
         "per_palace_fields": {
           "star": "天盤九星（依 engine_truth_registry_v1 九星 registry 起例）",
           "door": "人盤八門（依 engine_truth_registry_v1 八門 registry 起例）",
           "shen": "神盤八神（依 engine_truth_registry_v1.name_registries.qimen_shenpan_shen_registry 起例）",
-          "status": "本宮吉凶狀態（依 pattern_library.qimen_pattern_library 對照星門神組合判定）"
+          "status": "本宮吉凶狀態（依 pattern_library.qimen_pattern_library 對照星門神組合判定）",
+          "dipan_yiqi": "地盤三奇六儀（依dipan_base_plate_formula算出，起局後固定不動，供天盤/人盤旋轉之參照基準）"
         }
       },
       "ju_number": "number",
@@ -517,10 +518,10 @@
     },
     "huoxing_lingxing_pos": {
       "formula": "按生年支三合局定子時起點：寅午戌人火星起丑、鈴星起卯；申子辰人火星起寅、鈴星起戌；巳酉丑人火星起卯、鈴星起戌；亥卯未人火星起酉、鈴星起戌。子時起點後，兩星同步順數至生時安之。",
-      "verification_status": "verified",
-      "source_type": "text",
+      "verification_status": "partially_verified",
+      "source_type": "mixed_text_and_design_rule",
       "data_file": "Zi-Wei-Dou-Shu-Quan-Shu-Juan-Er.txt",
-      "design_origin_note": "《紫微斗數全書》卷二「安火鈴二星訣」原文：「寅午戌人丑卯方，申子辰人寅戌揚，巳酉丑人卯戌位，亥卯未人酉戌房。」此訣僅載子時起點，本系統依安星慣例（同文昌文曲、地空地劫之時支順逆推算模式）將兩星依生時順數推算。《紫微斗數全書》卷二安星訣原文，已用真實命盤逐一驗證通過（見cross_validation_evidence）。已用chart1（酉年丑時：火星辰、鈴星亥）、chart2（辰年巳時：火星未、鈴星卯）兩組真實命盤交叉驗證通過。",
+      "design_origin_note": "本規則由兩部分組成：子時起點（verified/text，見formula_breakdown.zi_hour_starting_point）+ 時支順數推算延伸（unverified/design_rule，見formula_breakdown.hour_offset_extension）。整體標為partially_verified/mixed，避免將設計延伸部分冒充古籍逐字。已用chart1（酉年丑時：火星辰、鈴星亥）、chart2（辰年巳時：火星未、鈴星卯）兩組真實命盤交叉驗證通過（驗證的是最終計算結果，非古籍溯源本身）。",
       "cross_validation_evidence": {
         "chart1": {
           "year_branch": "酉",
@@ -547,6 +548,20 @@
             "鈴星": "卯"
           },
           "match": true
+        }
+      },
+      "formula_breakdown": {
+        "zi_hour_starting_point": {
+          "formula": "按生年支三合局定子時起點：寅午戌人火星起丑、鈴星起卯；申子辰人火星起寅、鈴星起戌；巳酉丑人火星起卯、鈴星起戌；亥卯未人火星起酉、鈴星起戌",
+          "verification_status": "verified",
+          "source_type": "text",
+          "design_origin_note": "《紫微斗數全書》卷二「安火鈴二星訣」原文逐字：「寅午戌人丑卯方，申子辰人寅戌揚，巳酉丑人卯戌位，亥卯未人酉戌房」。此為子時起點，古籍逐字對應。"
+        },
+        "hour_offset_extension": {
+          "formula": "子時起點後，兩星同步順數至生時安之（即起點+時支序）",
+          "verification_status": "unverified",
+          "source_type": "design_rule",
+          "design_origin_note": "古籍「安火鈴二星訣」原文僅載子時起點，未明載其餘時支之推算方式。本系統依安星慣例（比照同卷文昌文曲、地空地劫均為「子時起點+時支順逆推算」之通用模式）將火星鈴星依生時順數推算，此為系統依安星慣例之設計延伸，非古籍逐字記載，故此部分獨立標為unverified/design_rule，不與zi_hour_starting_point之verified/text標籤混淆。"
         }
       }
     },
@@ -1161,8 +1176,8 @@
     "four_plate_layout_procedure": {
       "purpose": "由局數、旬首、值符值使實際排出九宮地/天/人/神四盤（原缺此逐宮分配程序，僅有旋轉方向規則）",
       "step1_dipan": {
-        "description": "地盤（靜態基底）：依陰遁/陽遁局數，將三奇六儀（戊己庚辛壬癸丁丙乙）依局數順序飛布九宮，起點為值符所在宮位",
-        "note": "三奇六儀之洛書九宮原始配置與飛布順序見engine_truth_registry_v1.static_truth_tables.luoshu_9_palace/qimen_yiqi_registry"
+        "description": "地盤（靜態基底）：依陰遁/陽遁局數，用dipan_base_plate_formula將三奇六儀飛布九宮，此盤起局後固定不動（地主靜），不隨值符移動",
+        "note": "三奇六儀之洛書九宮原始配置見engine_truth_registry_v1.static_truth_tables.luoshu_9palace（原引用luoshu_9_palace／qimen_yiqi_registry為錯字/不存在之L1路徑，現已修正為實際存在之luoshu_9palace；三奇六儀飛布順序見本檔案qimen_panju_compute.dipan_base_plate_formula，非獨立L1 registry）"
       },
       "step2_tianpan": {
         "description": "天盤（九星）：九星原始本宮（天蓬坎一、天芮坤二、天衝震三、天輔巽四、天禽中五寄坤二、天心乾六、天柱兌七、天任艮八、天英離九），隨值符星旋轉帶動九星轉入九宮",
@@ -1213,6 +1228,61 @@
       "verification_status": "unverified",
       "source_type": "design_rule",
       "design_origin_note": "使用者提供文件《奇門遁甲的完整詳細格局.md》（內部格式含明顯AI生成重複行瑕疵，內容經核對屬命理界通行公開判斷框架，非三份原始權威文件之一，亦非古籍逐字）。文件所列「終局吉凶五大決定維度」與「門（人盤）佔70%」等量化比例純屬單一來源之經驗法則，本系統採納五維度判斷框架但拒絕採納未經證實之固定百分比權重，避免引入偽精確度。此聚合演算法仍需搭配four_plate_layout_procedure產生的實際排盤結果方可執行，且判斷仍以L3 pattern_library之具體格局定義為準，本entry僅提供缺失的整合流程框架。"
+    },
+    "dipan_base_plate_formula": {
+      "purpose": "由陰陽遁與局數(1-9)推算地盤三奇六儀完整逐宮配置，補齊four_plate_layout_procedure原缺之核心排布公式",
+      "palace_order_natural": [
+        "坎一",
+        "坤二",
+        "震三",
+        "巽四",
+        "中五",
+        "乾六",
+        "兌七",
+        "艮八",
+        "離九"
+      ],
+      "liuyi_order": [
+        "甲子戊",
+        "甲戌己",
+        "甲申庚",
+        "甲午辛",
+        "甲辰壬",
+        "甲寅癸"
+      ],
+      "sanqi_natural_order": [
+        "乙",
+        "丙",
+        "丁"
+      ],
+      "yangdun_formula": {
+        "rule": "六儀順布：甲子戊起於palace_order[局數-1]（即局N起於第N宮，依坎一坤二震三巽四中五乾六兌七艮八離九順序），六儀依序順填6個連續宮位。三奇逆布：緊接六儀最後一宮後，繼續順填3個連續宮位，但標籤依丁丙乙（逆序）填入。",
+        "verification_status": "verified",
+        "source_type": "text",
+        "data_file": "Qi-Men-Dun-Jia-Mi-Ji-Da-Quan-Xia-Juan-Er-Shi-Yi-Zhi-San-Shi.txt",
+        "design_origin_note": "《奇門遁甲秘笈大全》下卷《卷三十》原文：「此陽遁一局，先以左邊掌訣，甲子戊起一坎，順飛六儀，逆布三奇...甲寅癸 丁 丙 乙／乾六 兌七 艮八 離九／天心開 天柱驚 天任生 天英景／天禽星寄於坤宮甲辰壬／甲午辛 甲申庚 甲戌己 甲子戊／巽四 震三 坤二 坎一／天輔杜 天衝傷 天芮死 天蓬休」（局1地盤圖）及「假如陽遁二局，就在...坤二上起」「如陽遁二局甲子日乙丑時，休門飛到坤二宮即住」（局2起點驗證）。已用局1、局2兩個古籍明載的獨立worked example逐格核對通過（局1：9宮全對；局2：甲子戊落坤二核對通過）。"
+      },
+      "yindun_formula": {
+        "rule": "六儀逆布：甲子戊起於palace_order[局數-1]，六儀依序逆填6個連續宮位（往回數）。三奇順布：緊接六儀最後一宮後，繼續逆填3個連續宮位，但標籤依乙丙丁（順序）填入。",
+        "verification_status": "unverified",
+        "source_type": "design_rule",
+        "design_origin_note": "《奇門遁甲秘笈大全》下卷原文：「陰遁逆布六儀順布三奇也」（僅一句定性描述方向與陽遁相反，未見陰遁局1或局N之完整地盤圖worked example）。此公式依陽遁已驗證公式之方向對稱推導（六儀方向反轉、三奇標籤順序反轉），邏輯上與「陰遁逆布六儀順布三奇」之定性描述一致，但缺乏古籍逐字worked example交叉核對，故標為unverified/design_rule，如日後取得陰遁地盤圖古籍原文佐證，應重新核對並升級標籤。"
+      }
+    },
+    "full_rotation_algorithm": {
+      "purpose": "整合dipan_base_plate_formula、zhifu_zhishi_lookup_procedure、tianpan_rotation/renpan_rotation，形成完整之地天人神四盤逐宮排布程序",
+      "procedure": [
+        "步驟1：依局數與陰陽遁，用dipan_base_plate_formula算出地盤三奇六儀完整9宮配置（此為固定不動之基準盤，含九星原始本宮）。地盤起局後全程靜止不動（地主靜），為天盤/人盤旋轉之參照基準，不參與後續任何旋轉步驟",
+        "步驟2：依zhifu_zhishi_lookup_procedure，取當前甲旬符頭（六甲旬首）在地盤上之原始宮位，取得該宮原始星（值符星）與原始門（值使門）",
+        "步驟3：找出該旬首「時遁五子元」實際飄泊落宮（依日時干支計算現在旬首所在宮位）",
+        "步驟4：天盤旋轉：以值符星為錨點，將九星整組依「值符原始本宮→值符現在飄泊宮」之位移量，同步整組移動（隨值符順飛或逆飛，見tianpan_rotation方向規則）。地盤三奇六儀本身不參與此移動，僅作為星/門的原始參照座標",
+        "步驟5：人盤旋轉：以值使門為錨點，將八門整組依「值使原始本宮→值使現在飄泊宮」之位移量，依時支步伐同步整組移動（見renpan_rotation）",
+        "步驟6：神盤旋轉：八神永遠跟隨值符星，隨天盤同步移動，陽遁順時針、陰遁逆時針排列（見shenpan_note）",
+        "步驟7：整合輸出九宮最終狀態（每宮：地盤奇儀原始值[靜態]、天盤星[已旋轉]、人盤門[已旋轉]、神盤神[已旋轉]），供output_contract.raw_qimen_state.nine_palaces填值"
+      ],
+      "verification_status": "unverified",
+      "source_type": "design_rule",
+      "design_origin_note": "本procedure為整合既有已核實片段（dipan_base_plate_formula、zhifu_zhishi_table、tianpan_rotation、renpan_rotation、shenpan_note）而成之完整執行流程框架，非古籍逐字連續段落（古籍原文係分散於總序、卷三十等不同段落敘述各片段規則，本system將其串接為可執行之步驟序列）。各步驟所引用之片段本身已個別標示verification_status，此procedure層級標為unverified/design_rule，如實反映「整合邏輯屬系統設計、底層規則片段各自有古籍依據」之混合性質，避免將整合行為本身冒充古籍原文。 [修正記錄] 原步驟7誤將地盤三奇六儀列為「隨值符同步移動」，與文件3「地盤代表靜態基底」及本procedure自身步驟1「固定不動之基準盤」定義矛盾，且與《奇門遁甲秘笈大全》原文「此地盤一定不易者也。所謂地主靜也...天盤則時時不同，所謂天主動也」直接衝突。現已修正：地盤全程靜止，僅天盤（隨值符星）、人盤（隨值使門）、神盤（隨值符星）三者旋轉移動。"
     }
   }
 }
