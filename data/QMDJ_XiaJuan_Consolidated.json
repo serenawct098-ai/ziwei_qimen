@@ -14838,6 +14838,450 @@
         "section": "卷23",
         "line_ref": "段落51"
       }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L001",
+      "original_quote": "## 一、時家轉盤定局總則",
+      "tag": [],
+      "paragraph_index": 1,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 一、時家轉盤定局總則",
+        "line_ref": "第1行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L003",
+      "original_quote": "《奇門遁甲統宗》卷之二定三元法：「三元者，上中下三局也。一元五日，以甲己二干為一元之首，謂之符頭。符頭所臨之支值子午卯酉則為上元；值寅申巳亥則為中元；值辰戌丑未則為下元。蓋甲子日起上元，越五日己巳起中元，又起五日甲戌起下元。三局已遊，又起五日，己卯復起上元，則又是一氣矣。」",
+      "tag": [],
+      "paragraph_index": 3,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 一、時家轉盤定局總則",
+        "line_ref": "第3行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L005",
+      "original_quote": "拆補法以此三元符頭為定局依據：凡甲己符頭地支為子、午、卯、酉者，一律視作本節氣上元；凡符頭地支為寅、申、巳、亥者，一律視作本節氣中元；凡符頭地支為辰、戌、丑、未者，一律視作本節氣下元；每逢節氣交接，不置閏，一律拆補於本節氣之三元起局，不跨節混用他節之局。",
+      "tag": [],
+      "paragraph_index": 5,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 一、時家轉盤定局總則",
+        "line_ref": "第5行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L007",
+      "original_quote": "## 二、地盤：九宮八卦本位",
+      "tag": [],
+      "paragraph_index": 7,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第7行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L009",
+      "original_quote": "《奇門遁甲統宗》卷之一序：「遁甲為兵而設，為陰象，為詭道，故取諸遁，謂其遁於六儀之下而不見其形也。甲為至尊之神，宜藏而不宜露。惟其喜土也，故奇門始起之宮例，以六戊隨之，甲逆而戊亦逆，甲順而戊亦順，如形之與影，兩相時隨不相離。」",
+      "tag": [],
+      "paragraph_index": 9,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第9行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L011",
+      "original_quote": "轉盤排局，永遠順時針布列九宮，不論陰遁陽遁，九宮方位與五行本位固定不變：",
+      "tag": [],
+      "paragraph_index": 11,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第11行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L013",
+      "original_quote": "| 宮位 | 卦象 | 方位 | 五行 |",
+      "tag": [],
+      "paragraph_index": 13,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第13行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L015",
+      "original_quote": "| 一宮 | 坎 | 正北 | 水 |",
+      "tag": [],
+      "paragraph_index": 15,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第15行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L016",
+      "original_quote": "| 二宮 | 坤 | 西南 | 土 |",
+      "tag": [],
+      "paragraph_index": 16,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第16行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L017",
+      "original_quote": "| 三宮 | 震 | 正東 | 木 |",
+      "tag": [],
+      "paragraph_index": 17,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第17行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L018",
+      "original_quote": "| 四宮 | 巽 | 東南 | 木 |",
+      "tag": [],
+      "paragraph_index": 18,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第18行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L019",
+      "original_quote": "| 五宮 | 中 | 中央 | 土 |",
+      "tag": [],
+      "paragraph_index": 19,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第19行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L020",
+      "original_quote": "| 六宮 | 乾 | 西北 | 金 |",
+      "tag": [],
+      "paragraph_index": 20,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第20行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L021",
+      "original_quote": "| 七宮 | 兌 | 正西 | 金 |",
+      "tag": [],
+      "paragraph_index": 21,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第21行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L022",
+      "original_quote": "| 八宮 | 艮 | 東北 | 土 |",
+      "tag": [],
+      "paragraph_index": 22,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第22行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L023",
+      "original_quote": "| 九宮 | 離 | 正南 | 火 |",
+      "tag": [],
+      "paragraph_index": 23,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第23行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L025",
+      "original_quote": "地盤先依當值局數，將戊儀排入對應局數之宮位（幾局即戊落幾宮），其餘己庚辛壬癸五儀依陽遁順布、陰遁逆布之定例接續排入，三奇乙丙丁隨後依陽遁逆布、陰遁順布之定例排定，地盤既定，五日一元之內恆定不移，為天盤、人盤、神盤飄佈之根基。",
+      "tag": [],
+      "paragraph_index": 25,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 二、地盤：九宮八卦本位",
+        "line_ref": "第25行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L027",
+      "original_quote": "## 三、天盤：九星飄佈與值符定位",
+      "tag": [],
+      "paragraph_index": 27,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 三、天盤：九星飄佈與值符定位",
+        "line_ref": "第27行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L029",
+      "original_quote": "《煙波釣叟賦》：「認取九宮分九星，八門又逐九宮行。九宮逢甲為值符，八門值使自分明。符上之門為值使，十時一易堪憑據。值符常遣加時干，值使順逆遁宮去。」",
+      "tag": [],
+      "paragraph_index": 29,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 三、天盤：九星飄佈與值符定位",
+        "line_ref": "第29行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L031",
+      "original_quote": "天盤九星本位：天蓬（坎一）、天芮（坤二）、天沖（震三）、天輔（巽四）、天禽（中五，寄坤二）、天心（乾六）、天柱（兌七）、天任（艮八）、天英（離九）。",
+      "tag": [],
+      "paragraph_index": 31,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 三、天盤：九星飄佈與值符定位",
+        "line_ref": "第31行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L033",
+      "original_quote": "值符定位法：先以占時之干支查其所屬旬首（六旬首為甲子、甲戌、甲申、甲午、甲辰、甲寅），該旬首所配六儀（甲子戊、甲戌己、甲申庚、甲午辛、甲辰壬、甲寅癸）落於地盤何宮，該宮本位所值之天盤星即為值符；値符須隨時干飄轉，即「值符常遣加時干」——將值符星移動至地盤時干所在之宮位，天盤其餘八星依旬首所在之原始順序，隨值符同步平移飄佈於其餘八宮。",
+      "tag": [],
+      "paragraph_index": 33,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 三、天盤：九星飄佈與值符定位",
+        "line_ref": "第33行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L035",
+      "original_quote": "## 四、人盤：八門巡行與值使定位",
+      "tag": [],
+      "paragraph_index": 35,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 四、人盤：八門巡行與值使定位",
+        "line_ref": "第35行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L037",
+      "original_quote": "《煙波釣叟賦》：「符上之門為值使，十時一易堪憑據。」",
+      "tag": [],
+      "paragraph_index": 37,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 四、人盤：八門巡行與值使定位",
+        "line_ref": "第37行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L039",
+      "original_quote": "人盤八門本位：休門（坎一）、死門（坤二）、傷門（震三）、杜門（巽四）、無門（中五，寄坤二死門統之）、開門（乾六）、驚門（兌七）、生門（艮八）、景門（離九）。",
+      "tag": [],
+      "paragraph_index": 39,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 四、人盤：八門巡行與值使定位",
+        "line_ref": "第39行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L041",
+      "original_quote": "值使定位法：值符所在本位之宮所臨之門，即為值使；值使須隨時支飄轉，即「值使順逆遁宮去」——自旬首所在之宮起旬首干支，依陽遁順行、陰遁逆行之序，逐宮數至占時地支所在之宮，值使門即移動至此宮，人盤其餘七門依原始八門固定順序，隨值使同步飄佈於其餘七宮。",
+      "tag": [],
+      "paragraph_index": 41,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 四、人盤：八門巡行與值使定位",
+        "line_ref": "第41行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L043",
+      "original_quote": "十時一易：每一旬首統十個時辰，此十時之內值符、值使所在之地盤本宮不變，僅隨各時辰之時干時支分別加臨飄轉至不同宮位，滿十時交接下一旬首，值符值使方重新起於新旬首之本宮。",
+      "tag": [],
+      "paragraph_index": 43,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 四、人盤：八門巡行與值使定位",
+        "line_ref": "第43行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L045",
+      "original_quote": "## 五、神盤：八神排列與值符隨轉",
+      "tag": [],
+      "paragraph_index": 45,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 五、神盤：八神排列與值符隨轉",
+        "line_ref": "第45行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L047",
+      "original_quote": "《煙波釣叟賦》：「六甲元號六儀名，六儀之下始藏形。太公秘授三奇法，乙丙丁奇即是名。」",
+      "tag": [],
+      "paragraph_index": 47,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 五、神盤：八神排列與值符隨轉",
+        "line_ref": "第47行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L049",
+      "original_quote": "八神排列次序：值符、螣蛇、太陰、六合、白虎（一作勾陳）、玄武（一作朱雀）、九地、九天，此八神本身無固定宮位，僅隨值符所在之宮起始排列。",
+      "tag": [],
+      "paragraph_index": 49,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 五、神盤：八神排列與值符隨轉",
+        "line_ref": "第49行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L051",
+      "original_quote": "神盤飄佈定位：以值符移動後所在之宮為八神之首宮，其餘七神依固定次序，陽遁順時針、陰遁逆時針，同步排佈於其餘八宮；神盤運轉之快慢，隨天盤值符所在之宮同步變化，每逢時辰交替，神盤即隨值符一併飄轉一次。",
+      "tag": [],
+      "paragraph_index": 51,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 五、神盤：八神排列與值符隨轉",
+        "line_ref": "第51行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L053",
+      "original_quote": "## 六、四盤合參總覽",
+      "tag": [],
+      "paragraph_index": 53,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第53行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L055",
+      "original_quote": "| 盤別 | 象徵 | 構成要素 | 定位依據 | 飄轉規律 |",
+      "tag": [],
+      "paragraph_index": 55,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第55行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L057",
+      "original_quote": "| 地盤 | 地利 | 三奇六儀（乙丙丁戊己庚辛壬癸） | 依局數定入九宮，永定不移 | 五日一元之內恆定 |",
+      "tag": [],
+      "paragraph_index": 57,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第57行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L058",
+      "original_quote": "| 天盤 | 天時 | 九星（蓬芮沖輔禽心柱任英） | 值符隨旬首六儀所在之宮起始 | 值符隨時干加臨飄轉 |",
+      "tag": [],
+      "paragraph_index": 58,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第58行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L059",
+      "original_quote": "| 人盤 | 人和 | 八門（休死傷杜景死驚開） | 值使隨值符本位所臨之門起始 | 值使隨時支順逆遁宮 |",
+      "tag": [],
+      "paragraph_index": 59,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第59行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L060",
+      "original_quote": "| 神盤 | 神助 | 八神（值符螣蛇太陰六合白虎玄武九地九天） | 隨值符所在之宮起始排列 | 陽順陰逆隨值符同轉 |",
+      "tag": [],
+      "paragraph_index": 60,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第60行"
+      }
+    },
+    {
+      "line_id": "QMDJ_JiuGongSiPan_L062",
+      "original_quote": "《奇門遁甲統宗》卷之一：「甲為至尊之神，宜藏而不宜露，宜和而不宜乖，宜生扶而不宜克制。所喜者惟土，所憎者惟金也。」四盤合參斷局，須以此為總綱：地盤為體恆定不移，天盤、人盤、神盤三者皆隨值符、值使之飄轉而變化位置，然三者變化之根源皆繫於值符一星之所在，值符所加臨之宮，即當時當令天時、人事、神助三者交會之樞紐，論斷吉凶須以此宮為核心，參合該宮地盤本位五行、天盤星五行、人盤門五行、神盤所值之神性，四者生剋比和悉數釐清，方能定奪全局。",
+      "tag": [],
+      "paragraph_index": 62,
+      "_source": {
+        "text": "《九宮四盤對應表》(5).md",
+        "juan": "《九宮四盤對應表》(5)",
+        "section": "## 六、四盤合參總覽",
+        "line_ref": "第62行"
+      }
     }
   ]
 }
