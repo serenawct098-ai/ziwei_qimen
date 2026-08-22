@@ -54,14 +54,14 @@
       "Step 06: 安六吉六煞 (year_gan, hour_zhi, birth_month)",
       "Step 07: 安雜曜十二神 (luzun_idx, year_zhi)",
       "  - Step 07a: 安博士十二神 (trigger: luzun_pos, movement: gender_yin_yang_順逆, status: verified)",
-      "  - Step 07b: 安將前十二神 (trigger: year_zhi_trine_將星位, status: unverified, source: design_rule)",
+      "  - Step 07b: 安將前十二神 (trigger: year_zhi_trine_將星位, status: active, verification_status: verified, source_type: text)",
       "Step 08: 定命主身主 (minggong_zhi_idx, year_zhi)"
     ],
     "dynamic_overlay_compute": [
       "Step 09: 起大限 (wuxing_ju, gender, year_gan_yin_yang)",
       "Step 10: 起小限 (year_zhi, age, gender)",
       "Step 11: 疊加流年/流月/流日四化 (sihua_matrix_presets)",
-      "Step 11a: 安歲前十二神 (trigger: flow_year_zhi_歲建位, status: unverified, source: design_rule)"
+      "Step 11a: 安歲前十二神 (trigger: flow_year_zhi_歲建位, status: active, verification_status: verified, source_type: text)"
     ],
     "qimen_compute": [
       "Step 12: 定三元局數 (jieqi, day_ganzhi_符頭)",
@@ -1283,6 +1283,127 @@
       "verification_status": "unverified",
       "source_type": "design_rule",
       "design_origin_note": "本procedure為整合既有已核實片段（dipan_base_plate_formula、zhifu_zhishi_table、tianpan_rotation、renpan_rotation、shenpan_note）而成之完整執行流程框架，非古籍逐字連續段落（古籍原文係分散於總序、卷三十等不同段落敘述各片段規則，本system將其串接為可執行之步驟序列）。各步驟所引用之片段本身已個別標示verification_status，此procedure層級標為unverified/design_rule，如實反映「整合邏輯屬系統設計、底層規則片段各自有古籍依據」之混合性質，避免將整合行為本身冒充古籍原文。 [修正記錄] 原步驟7誤將地盤三奇六儀列為「隨值符同步移動」，與文件3「地盤代表靜態基底」及本procedure自身步驟1「固定不動之基準盤」定義矛盾，且與《奇門遁甲秘笈大全》原文「此地盤一定不易者也。所謂地主靜也...天盤則時時不同，所謂天主動也」直接衝突。現已修正：地盤全程靜止，僅天盤（隨值符星）、人盤（隨值使門）、神盤（隨值符星）三者旋轉移動。"
+    }
+  },
+  "calculation_step_verification": {
+    "Step 07b": {
+      "status": "active",
+      "verification_status": "verified",
+      "source_type": "text",
+      "verification_breakdown": [
+        {
+          "rule_unit": "將前十二神歌訣次序與順行",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              195,
+              196
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 98
+          },
+          "original_quote": "將星三合起旺地，攀鞍歲驛息神方，華蓋劫煞災煞續，天煞指背咸池藏，月煞亡神居尾位，順行十二不相妨。"
+        },
+        {
+          "rule_unit": "將前十二神完整名稱次序與順行安置",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              197,
+              197
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 98
+          },
+          "original_quote": "將星、攀鞍、歲驛、息神、華蓋、劫煞、災煞、天煞、指背、咸池、月煞、亡神，凡十二支，順行安之。"
+        },
+        {
+          "rule_unit": "四組三合局的將星起點",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              198,
+              198
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 98
+          },
+          "original_quote": "寅午戌年將星起午，申子辰年將星起子，巳酉丑年將星起酉，亥卯未年將星起卯。"
+        }
+      ]
+    },
+    "Step 11a": {
+      "status": "active",
+      "verification_status": "verified",
+      "source_type": "text",
+      "verification_breakdown": [
+        {
+          "rule_unit": "歲前十二神歌訣次序",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              189,
+              190
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 97
+          },
+          "original_quote": "太歲一年一替換，歲前首先是晦氣，喪門貫索及官符，小耗大耗龍德繼，白虎天德連弔客，病符居後須當記。"
+        },
+        {
+          "rule_unit": "歲前十二神完整次序與順行安置",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              191,
+              191
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 97
+          },
+          "original_quote": "歲建、晦氣、喪門、貫索、官符、小耗、大耗、龍德、白虎、天德、弔客、病符，凡十二支，順行安之，不分陰陽男女。"
+        },
+        {
+          "rule_unit": "喪門白虎吊客官府四飛星",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              204,
+              204
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": 100
+          },
+          "original_quote": "流年太歲前二位是喪門，後二位是吊客，喪門對照安白虎，吊客對照安官府。"
+        },
+        {
+          "rule_unit": "天德月德解神起法",
+          "verification_status": "verified",
+          "source_type": "text",
+          "data_file": "《紫微斗數全書》卷二 (9).md",
+          "source_locator": {
+            "markdown_physical_line_range": [
+              220,
+              222
+            ],
+            "embedded_original_text_file": "《紫微斗數全書》卷二(2).txt",
+            "embedded_original_text_line": "108-109"
+          },
+          "original_quote": "天德星從酉上起子，順數至流年太歲上是也。月德星從子上起子，順數至流年太歲上是也。解神從戌上起子，逆數至當生年太歲上是也。"
+        }
+      ]
     }
   }
 }
